@@ -1,0 +1,35 @@
+﻿{
+  "deceive": 1513251151,
+  "weapon_compose_event": [
+    {
+      "event_id": 13,
+      "start": 1512021600,
+      "end": 1512716400,
+      "event_type": 16,
+      "text": "【魔神襲來】活動鍊金",
+      "collabo": {
+        "border_quest_check": false,
+        "img_name": "",
+        "first_message": "",
+        "hit_message": "",
+        "hit_voice": ""
+      },
+      "recipe": [
+        {
+          "target_id": 0,
+          "data": {
+            "weapon_id": 85488,
+            "material": [
+              26203,
+              26203,
+              26203,
+              26203,
+              26203
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "res": 0
+}

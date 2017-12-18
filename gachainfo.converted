@@ -1,0 +1,95 @@
+{
+  "deceive": 1513251172,
+  "gacha_info": {
+    "fes": {
+      "ticket": [
+        {
+          "gacha_id": 1,
+          "start": 1507305600,
+          "end": 1512316800
+        }
+      ],
+      "ring": [
+        {
+          "gacha_id": 1,
+          "start": 1477926000,
+          "end": 1483196399
+        },
+        {
+          "gacha_id": 2,
+          "start": 1506528000,
+          "end": 1530374400
+        },
+        {
+          "gacha_id": 3,
+          "start": 1469977200,
+          "end": 1475247599
+        }
+      ],
+      "legend_fes": [
+        {
+          "gacha_id": 1,
+          "start": 1507305600,
+          "end": 1512316800,
+          "icon": "161208_AddStoryFesBtn",
+          "priority": 1
+        }
+      ],
+      "story_fes": [
+        {
+          "gacha_id": 1,
+          "start": 1506578400,
+          "end": 1513231200,
+          "icon": "1207_FesBtn",
+          "priority": 3
+        }
+      ],
+      "event_fes": [
+        {
+          "gacha_id": 1,
+          "start": 1506924000,
+          "end": 1514440800,
+          "icon": "171212_FesBtn",
+          "priority": 1
+        },
+        {
+          "gacha_id": 3,
+          "start": 1495864800,
+          "end": 1495864800,
+          "icon": "161208_AddStoryFesBtn",
+          "priority": 5
+        },
+        {
+          "gacha_id": 2,
+          "start": 1506924000,
+          "end": 1506924000,
+          "icon": "161208_AddStoryFesBtn",
+          "priority": 2
+        }
+      ]
+    },
+    "v3_rare_gacha": [
+      {
+        "gacha_id": 31,
+        "quest_id": 210101
+      },
+      {
+        "gacha_id": 32,
+        "quest_id": 332044
+      },
+      {
+        "gacha_id": 33,
+        "quest_id": 333033
+      },
+      {
+        "gacha_id": 34,
+        "quest_id": 334024
+      },
+      {
+        "gacha_id": 35,
+        "quest_id": 335043
+      }
+    ]
+  },
+  "res": 0
+}

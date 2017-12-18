@@ -1,0 +1,79 @@
+﻿{
+  "deceive": 1513250481,
+  "sp_drama_list": [
+    {
+      "drama_id": 3,
+      "end": 1475161200,
+      "start": 1472655600,
+      "title": "登入劇情",
+      "trigger": 3
+    },
+    {
+      "drama_id": 2,
+      "end": 1475161200,
+      "start": 1472655600,
+      "title": "一切的開端",
+      "trigger": 2
+    },
+    {
+      "drama_id": 4,
+      "end": 1475161200,
+      "start": 1472655600,
+      "title": "活動劇情",
+      "trigger": 4
+    },
+    {
+      "drama_id": 1,
+      "end": 1893423600,
+      "start": 1472655600,
+      "title": "一切的開端",
+      "trigger": 1
+    },
+    {
+      "drama_id": 6,
+      "end": 1489503599,
+      "start": 1488553200,
+      "title": "魔神總力戰",
+      "trigger": 4
+    },
+    {
+      "drama_id": 8,
+      "end": 1496469599,
+      "hero": 0,
+      "start": 1495519200,
+      "title": "1000萬下載達成紀念活動開催！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 9,
+      "end": 1498543199,
+      "hero": 0,
+      "start": 1497938400,
+      "title": "動畫Blu-ray發售紀念任務開催！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 5,
+      "end": 1485824399,
+      "start": 1483596000,
+      "title": "序章",
+      "trigger": 4
+    },
+    {
+      "drama_id": 7,
+      "end": 1512626400,
+      "start": 1510885263,
+      "title": "絕望的王子與被詛咒的血脈",
+      "trigger": 4
+    },
+    {
+      "drama_id": 10,
+      "end": 1510293600,
+      "hero": 2,
+      "start": 1510207200,
+      "title": "尾聲",
+      "trigger": 4
+    }
+  ],
+  "res": 0
+}

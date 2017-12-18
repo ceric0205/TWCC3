@@ -1,0 +1,7059 @@
+﻿{
+  "deceive": 1513251151,
+  "missionlist": [
+    {
+      "id": 1,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰鬥一次試看看吧",
+      "sub_id": "Basic 001",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "11",
+        "val": "2000"
+      },
+      "help": "不管如何、先來戰鬥吧！"
+    },
+    {
+      "id": 2,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "抽取十次普通轉蛋吧",
+      "sub_id": "Basic 002",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "20000"
+      },
+      "help": "挑戰轉蛋時不會計算次數 要特別小心喔"
+    },
+    {
+      "id": 3,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "使用五張卡片合成看看吧",
+      "sub_id": "Basic 003",
+      "max_num": 5,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96002",
+        "val": "1"
+      },
+      "help": "一次沒有5張也不要緊喔"
+    },
+    {
+      "id": 4,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進化看看斬擊類的武器吧",
+      "sub_id": "Basic 004",
+      "max_num": 1,
+      "reward": {
+        "type": "card",
+        "id": "40",
+        "val": "2"
+      },
+      "help": "請看看角色的武器類型喔！"
+    },
+    {
+      "id": 5,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "試試界限突破吧",
+      "sub_id": "Basic 005",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "使用相同的角色進行合成吧！"
+    },
+    {
+      "id": 6,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "使用看看攻擊類技能吧",
+      "sub_id": "Basic 006",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "使用能造成敵方傷害的技能吧！"
+    },
+    {
+      "id": 7,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "試試使用技能回復HP看看吧",
+      "sub_id": "Basic 007",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "使用可以恢復我方HP的技能吧！"
+    },
+    {
+      "id": 8,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "獲得戰鬥中的時間獎勵吧",
+      "sub_id": "Basic 008",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "10000"
+      },
+      "help": "不同的攻擊、儘快讓戰鬥結束吧！"
+    },
+    {
+      "id": 9,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "目標必殺技連鎖３次以上吧",
+      "sub_id": "Basic 009",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "連續使用不同夥伴的必殺技，就會產生必殺連鎖喔！"
+    },
+    {
+      "id": 10,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "目標一撃造成５００以上傷害吧",
+      "sub_id": "Basic 010",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "計算給予一個敵人一擊的傷害看看喔！"
+    },
+    {
+      "id": 11,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "使用技能強化隊伍吧",
+      "sub_id": "Basic 011",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "使用技能讓一定時間的威力提升！"
+    },
+    {
+      "id": 12,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "試試使用歌或舞蹈技能吧",
+      "sub_id": "Basic 012",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "～～♪"
+    },
+    {
+      "id": 13,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "試試佈下屏障看看吧",
+      "sub_id": "Basic 013",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "屏障可以抵禦的攻擊回數是有限制的喔！"
+    },
+    {
+      "id": 14,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "在沒有負傷的狀態下通過戰鬥吧",
+      "sub_id": "Basic 014",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "10000"
+      },
+      "help": "好好的進行恢復就不會有問題喔！"
+    },
+    {
+      "id": 15,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "使用必殺技結束戰鬥吧",
+      "sub_id": "Basic 015",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "10000"
+      },
+      "help": "注意敵人剩餘的HP、進行最後的衝刺吧！"
+    },
+    {
+      "id": 16,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "同時達到所有的戰鬥獎勵吧",
+      "sub_id": "Basic 016",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "這個能做到的話你就是一流的！工作也會增加喔！"
+    },
+    {
+      "id": 17,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "通過難易度６以上的戰鬥吧",
+      "sub_id": "Basic 017",
+      "max_num": 1,
+      "reward": {
+        "type": "card",
+        "id": "7013",
+        "val": "1"
+      },
+      "help": "難易度寫在任務的右上角喔！"
+    },
+    {
+      "id": 21,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻骷髏兵吧",
+      "sub_id": "Hunt 001",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "骨類的怪物可是很多的喔！"
+    },
+    {
+      "id": 22,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻哥布林吧",
+      "sub_id": "Hunt 002",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "擁有銳利牙齒的下級魔物喔！"
+    },
+    {
+      "id": 23,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻黑之士兵",
+      "sub_id": "Hunt 003",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "如同漆黑之闇的魔物喔！"
+    },
+    {
+      "id": 24,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退３０個作惡多端的人類吧",
+      "sub_id": "Hunt 004",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "懲罰壞人吧！"
+    },
+    {
+      "id": 25,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２隻巨人吧",
+      "sub_id": "Hunt 005",
+      "max_num": 2,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "用盡全力揮舞棍棒的巨大魔物！"
+    },
+    {
+      "id": 26,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５隻魔像吧",
+      "sub_id": "Hunt 006",
+      "max_num": 5,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "賢者之塔的知名産品！"
+    },
+    {
+      "id": 27,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻野獸吧",
+      "sub_id": "Hunt 007",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "那傢伙就像匹狼一樣！"
+    },
+    {
+      "id": 28,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻魔法生物吧",
+      "sub_id": "Hunt 008",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "迷宮山脈的附近常常出現、是謎一般的生物阿！"
+    },
+    {
+      "id": 29,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻幽靈吧",
+      "sub_id": "Hunt 009",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "遠距離攻撃無法命中要注意喔！"
+    },
+    {
+      "id": 30,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻骷髏兵吧",
+      "sub_id": "Hunt 010",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "很一般的骨系魔物喔！"
+    },
+    {
+      "id": 31,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻哥布林吧",
+      "sub_id": "Hunt 011",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "從以前就住在尤古度的下級魔物"
+    },
+    {
+      "id": 32,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻黑之士兵",
+      "sub_id": "Hunt 012",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "似乎很難造成狀態異常"
+    },
+    {
+      "id": 33,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退５０個作惡多端的人類吧",
+      "sub_id": "Hunt 013",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "懲戒壞人吧！"
+    },
+    {
+      "id": 34,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３隻巨人吧",
+      "sub_id": "Hunt 014",
+      "max_num": 3,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "使用力量大力揮舞棍棒的巨大魔物"
+    },
+    {
+      "id": 35,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１０隻魔像吧",
+      "sub_id": "Hunt 015",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "以魔法之力活動著"
+    },
+    {
+      "id": 36,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻野獸吧",
+      "sub_id": "Hunt 016",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "是毛茸茸的魔物喔"
+    },
+    {
+      "id": 37,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻魔法生物吧",
+      "sub_id": "Hunt 017",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "全身腫脹的魔物喔！"
+    },
+    {
+      "id": 38,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻幽靈吧",
+      "sub_id": "Hunt 018",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "集氣痛扁吧！"
+    },
+    {
+      "id": 39,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻蜥蜴人吧",
+      "sub_id": "Hunt 019",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "好像都在砂漠地帯喔！"
+    },
+    {
+      "id": 40,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻骷髏兵吧",
+      "sub_id": "Hunt 020",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "同樣也是骨系的魔物喔！"
+    },
+    {
+      "id": 41,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻哥布林吧",
+      "sub_id": "Hunt 021",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "從以前就住在尤古度的下級魔物"
+    },
+    {
+      "id": 42,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻黑之士兵",
+      "sub_id": "Hunt 022",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "穿著不祥盔甲的「魔將軍」 如同名稱一般非常強悍！"
+    },
+    {
+      "id": 43,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退７５個作惡多端的人類吧",
+      "sub_id": "Hunt 023",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "懲戒壞人吧！"
+    },
+    {
+      "id": 44,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐８隻巨人吧",
+      "sub_id": "Hunt 024",
+      "max_num": 8,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "好像存在著三眼的怪物"
+    },
+    {
+      "id": 45,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２０隻魔像吧",
+      "sub_id": "Hunt 025",
+      "max_num": 20,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "力之塔似乎正在研究警備用的魔像"
+    },
+    {
+      "id": 46,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻野獸吧",
+      "sub_id": "Hunt 026",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "毛皮僵硬的很！ 根本不鬆軟阿！"
+    },
+    {
+      "id": 47,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻魔法生物吧",
+      "sub_id": "Hunt 027",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "遠方會飛來許多可怕的東西 要小心阿！"
+    },
+    {
+      "id": 48,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻幽靈吧",
+      "sub_id": "Hunt 028",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "遠距離攻撃無法命中要注意喔！"
+    },
+    {
+      "id": 49,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻蜥蜴人吧",
+      "sub_id": "Hunt 029",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "是砂漠中常常出現的蜥蜴魔物喔！"
+    },
+    {
+      "id": 50,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻樹妖吧",
+      "sub_id": "Hunt 030",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "住在精靈島如同樹一般的魔物喔"
+    },
+    {
+      "id": 51,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻骷髏兵吧",
+      "sub_id": "Hunt 031",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "果然還是骨系的魔物阿！"
+    },
+    {
+      "id": 52,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻哥布林吧",
+      "sub_id": "Hunt 032",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "從以前就住在尤古度的下級魔物"
+    },
+    {
+      "id": 53,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻黑之士兵",
+      "sub_id": "Hunt 033",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "如同漆黒之闇一般的魔物阿"
+    },
+    {
+      "id": 54,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退１００個作惡多端的人類吧",
+      "sub_id": "Hunt 034",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "懲戒壞人吧！"
+    },
+    {
+      "id": 55,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１０隻巨人吧",
+      "sub_id": "Hunt 035",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "存在著牛頭巨人喔！"
+    },
+    {
+      "id": 56,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２５隻魔像吧",
+      "sub_id": "Hunt 036",
+      "max_num": 25,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "以魔法之力活動著"
+    },
+    {
+      "id": 57,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻野獸吧",
+      "sub_id": "Hunt 037",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "是毛茸茸的魔物喔"
+    },
+    {
+      "id": 58,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻魔法生物吧",
+      "sub_id": "Hunt 038",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "全身腫脹的魔物喔"
+    },
+    {
+      "id": 59,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻幽靈吧",
+      "sub_id": "Hunt 039",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "遠距離攻撃無法命中要注意喔！"
+    },
+    {
+      "id": 60,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７５隻蜥蜴人吧",
+      "sub_id": "Hunt 040",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "紅色「火蜥蜴」，擁有炎之力量！"
+    },
+    {
+      "id": 61,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻樹妖吧",
+      "sub_id": "Hunt 041",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "如同樹一般的魔物、害怕火炎！"
+    },
+    {
+      "id": 62,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退３０隻鬼吧",
+      "sub_id": "Hunt 042",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "住在炎之九領擁有角的魔物"
+    },
+    {
+      "id": 63,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻骷髏兵吧",
+      "sub_id": "Hunt 043",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "再來再來，骨系的魔物喔！"
+    },
+    {
+      "id": 64,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻哥布林吧",
+      "sub_id": "Hunt 044",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "從以前就住在尤古度的下級魔物"
+    },
+    {
+      "id": 65,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻黑之士兵",
+      "sub_id": "Hunt 045",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "如同漆黒之闇一般的魔物阿"
+    },
+    {
+      "id": 66,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退１５０個作惡多端的人類吧",
+      "sub_id": "Hunt 046",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "懲戒壞人吧！"
+    },
+    {
+      "id": 67,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１２隻巨人吧",
+      "sub_id": "Hunt 047",
+      "max_num": 12,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "大力揮舞著棍棒的巨大魔物"
+    },
+    {
+      "id": 68,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３０隻魔像吧",
+      "sub_id": "Hunt 048",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "以魔法之力活動著"
+    },
+    {
+      "id": 69,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻野獸吧",
+      "sub_id": "Hunt 049",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "是毛茸茸的魔物喔"
+    },
+    {
+      "id": 70,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻魔法生物吧",
+      "sub_id": "Hunt 050",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "全身腫脹的魔物喔"
+    },
+    {
+      "id": 71,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻幽靈吧",
+      "sub_id": "Hunt 051",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "遠距離攻撃無法命中要注意喔！"
+    },
+    {
+      "id": 72,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻蜥蜴人吧",
+      "sub_id": "Hunt 052",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "蜥蜴人也會脫皮的嗎…？"
+    },
+    {
+      "id": 73,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１００隻樹妖吧",
+      "sub_id": "Hunt 053",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "如同樹一般的魔物、害怕火炎！"
+    },
+    {
+      "id": 74,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退５０隻鬼吧",
+      "sub_id": "Hunt 054",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "住在炎之九領擁有角的魔物"
+    },
+    {
+      "id": 75,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５隻龍吧",
+      "sub_id": "Hunt 055",
+      "max_num": 5,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "龍是君臨在魔物頂点的存在喔"
+    },
+    {
+      "id": 76,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻骷髏兵吧",
+      "sub_id": "Hunt 056",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "又來了、骨系的魔物喔！"
+    },
+    {
+      "id": 77,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻哥布林吧",
+      "sub_id": "Hunt 057",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "從以前就住在尤古度的下級魔物"
+    },
+    {
+      "id": 78,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻黑之士兵",
+      "sub_id": "Hunt 058",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "如同漆黒之闇一般的魔物阿"
+    },
+    {
+      "id": 79,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退２００個作惡多端的人類吧",
+      "sub_id": "Hunt 059",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "雖然有時也會搞錯跟不是壞人的壞人戰鬥、但不常就是！"
+    },
+    {
+      "id": 80,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１４隻巨人吧",
+      "sub_id": "Hunt 060",
+      "max_num": 14,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "使用力量大力揮舞棍棒的巨大魔物"
+    },
+    {
+      "id": 81,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３５隻魔像吧",
+      "sub_id": "Hunt 061",
+      "max_num": 35,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "以魔法之力活動著"
+    },
+    {
+      "id": 82,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻野獸吧",
+      "sub_id": "Hunt 062",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "是毛茸茸的魔物喔"
+    },
+    {
+      "id": 83,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻魔法生物吧",
+      "sub_id": "Hunt 063",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "全身腫脹的魔物喔"
+    },
+    {
+      "id": 84,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻幽靈吧",
+      "sub_id": "Hunt 064",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "遠距離攻撃無法命中要注意喔！"
+    },
+    {
+      "id": 85,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２００隻蜥蜴人吧",
+      "sub_id": "Hunt 065",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "是砂漠中常常出現的蜥蜴魔物喔！"
+    },
+    {
+      "id": 86,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐１５０隻樹妖吧",
+      "sub_id": "Hunt 066",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "如同樹一般的魔物、害怕火炎！"
+    },
+    {
+      "id": 87,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退１００隻鬼吧",
+      "sub_id": "Hunt 067",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "住在炎之九領擁有角的魔物"
+    },
+    {
+      "id": 88,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐７隻龍吧",
+      "sub_id": "Hunt 068",
+      "max_num": 7,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "有許多不同顏色的龍喔"
+    },
+    {
+      "id": 89,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐５０隻魚人族吧",
+      "sub_id": "Hunt 069",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "在海中棲息擁有雙腳的步行魔物？"
+    },
+    {
+      "id": 90,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻螃蟹\r",
+      "sub_id": "Hunt 070",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "雖然甲殼相當堅固因此防禦力很高\\n不過好像對魔法很弱！"
+    },
+    {
+      "id": 91,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻克莉歐聶\r",
+      "sub_id": "Hunt 071",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "由於魔法對牠沒效\\n用弓箭和鎗迎戰吧！"
+    },
+    {
+      "id": 92,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻骷髏兵\r",
+      "sub_id": "Hunt 072",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "不用腦筋的骷髏魔物！"
+    },
+    {
+      "id": 93,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻哥布林\r",
+      "sub_id": "Hunt 073",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "從以前就棲息在尤古度的下級魔物"
+    },
+    {
+      "id": 94,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐２５０隻黑之士兵",
+      "sub_id": "Hunt 074",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "如同漆黑暗影般的魔物"
+    },
+    {
+      "id": 95,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退250名壞人\r",
+      "sub_id": "Hunt 075",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意海賊！"
+    },
+    {
+      "id": 96,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐17隻巨人\r",
+      "sub_id": "Hunt 076",
+      "max_num": 17,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用蠻力揮舞著棍棒的巨大魔物"
+    },
+    {
+      "id": 97,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐40隻魔像\r",
+      "sub_id": "Hunt 077",
+      "max_num": 40,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "靠魔法之力移動的石像"
+    },
+    {
+      "id": 98,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻野獸\r",
+      "sub_id": "Hunt 078",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "毛茸茸的魔物"
+    },
+    {
+      "id": 99,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻魔法生物\r",
+      "sub_id": "Hunt 079",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "全身有彈力・鬆軟的魔物！"
+    },
+    {
+      "id": 100,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻幽靈\r",
+      "sub_id": "Hunt 080",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意遠距離攻擊會打不中唷！"
+    },
+    {
+      "id": 101,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻蜥蝪人\r",
+      "sub_id": "Hunt 081",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "沙漠中常出現的蜥蝪魔物！"
+    },
+    {
+      "id": 102,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐200隻樹妖\r",
+      "sub_id": "Hunt 082",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "長得像樹的魔物，弱點好像是火唷！"
+    },
+    {
+      "id": 103,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退150隻鬼\r",
+      "sub_id": "Hunt 083",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "棲息在炎之九領長角的魔物"
+    },
+    {
+      "id": 104,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐10隻龍\r",
+      "sub_id": "Hunt 084",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "好像也有棲息在海中的龍！"
+    },
+    {
+      "id": 105,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐75隻魚人族\r",
+      "sub_id": "Hunt 085",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意手持貝殼斧頭的對手！\\n被打到可是相當痛的！！"
+    },
+    {
+      "id": 106,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻螃蟹\r",
+      "sub_id": "Hunt 086",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "有些會噴泡泡出來\\n要小心唷！"
+    },
+    {
+      "id": 107,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻克莉歐聶\r",
+      "sub_id": "Hunt 087",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "由於異常狀態相當麻煩，\\n用弓或鎗從遠處擊倒吧！"
+    },
+    {
+      "id": 108,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻骷髏兵\r",
+      "sub_id": "Hunt 088",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "不論再如何說明\\n它就是骷髏魔物啦！"
+    },
+    {
+      "id": 109,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻哥布林\r",
+      "sub_id": "Hunt 089",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "從以前就棲息在尤古度的下級魔物"
+    },
+    {
+      "id": 110,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐３００隻黑之士兵",
+      "sub_id": "Hunt 090",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "如同漆黑暗影般的魔物"
+    },
+    {
+      "id": 111,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退300名壞人\r",
+      "sub_id": "Hunt 091",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意海賊！"
+    },
+    {
+      "id": 112,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐20隻巨人\r",
+      "sub_id": "Hunt 092",
+      "max_num": 20,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用蠻力揮舞著棍棒的巨大魔物"
+    },
+    {
+      "id": 113,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻魔像\r",
+      "sub_id": "Hunt 093",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "靠魔法之力移動的石像"
+    },
+    {
+      "id": 114,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻野獸\r",
+      "sub_id": "Hunt 094",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "毛茸茸的魔物"
+    },
+    {
+      "id": 115,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻魔法生物\r",
+      "sub_id": "Hunt 095",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "是胖胖軟軟的魔物！"
+    },
+    {
+      "id": 116,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻幽靈\r",
+      "sub_id": "Hunt 096",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意遠距離攻擊會打不中唷！"
+    },
+    {
+      "id": 117,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻蜥蝪人\r",
+      "sub_id": "Hunt 097",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "沙漠中常出現的蜥蝪魔物！"
+    },
+    {
+      "id": 118,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250隻樹妖\r",
+      "sub_id": "Hunt 098",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "長得像樹的魔物，弱點好像是火唷！"
+    },
+    {
+      "id": 119,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退200隻鬼\r",
+      "sub_id": "Hunt 099",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "棲息在炎之九領長角的魔物"
+    },
+    {
+      "id": 120,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐15隻龍\r",
+      "sub_id": "Hunt 100",
+      "max_num": 15,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "龍有許多顏色唷"
+    },
+    {
+      "id": 121,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻魚人族\r",
+      "sub_id": "Hunt 101",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "也被稱為沙華魚人"
+    },
+    {
+      "id": 122,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐75隻螃蟹\r",
+      "sub_id": "Hunt 102",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用燙的很好吃唷！\\n…舔"
+    },
+    {
+      "id": 123,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐75隻克莉歐聶\r",
+      "sub_id": "Hunt 103",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "別名為「海天使」\\n是這樣子稱呼的嗎…"
+    },
+    {
+      "id": 124,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻骷髏兵吧\r",
+      "sub_id": "Hunt 104",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "一直都是骨系的魔物喔！"
+    },
+    {
+      "id": 125,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻哥布林吧\r",
+      "sub_id": "Hunt 105",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "從以前就居住在尤古度的下等魔物喔！"
+    },
+    {
+      "id": 126,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻黑之士兵",
+      "sub_id": "Hunt 106",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "如同漆黒之闇一般的魔物啊！"
+    },
+    {
+      "id": 127,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻壞人吧\r",
+      "sub_id": "Hunt 107",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意海賊！"
+    },
+    {
+      "id": 128,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐25隻巨人\r",
+      "sub_id": "Hunt 108",
+      "max_num": 25,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用蠻力揮舞著棍棒的巨大魔物！"
+    },
+    {
+      "id": 129,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐70隻魔像\r",
+      "sub_id": "Hunt 109",
+      "max_num": 70,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "靠魔法之力移動的石像！"
+    },
+    {
+      "id": 130,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻野獸\r",
+      "sub_id": "Hunt 110",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "毛茸茸的魔物！"
+    },
+    {
+      "id": 131,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻魔法生物\r",
+      "sub_id": "Hunt 111",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "全身軟ＱＱ、看起來很有彈性的魔物！"
+    },
+    {
+      "id": 132,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻幽靈\r",
+      "sub_id": "Hunt 112",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意遠距離攻擊會打不中唷！"
+    },
+    {
+      "id": 133,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐400隻蜥蝪人\r",
+      "sub_id": "Hunt 113",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "沙漠中常出現的蜥蝪魔物！"
+    },
+    {
+      "id": 134,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐300隻樹妖\r",
+      "sub_id": "Hunt 114",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "長得像樹的魔物，弱點好像是火唷！"
+    },
+    {
+      "id": 135,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退250隻鬼\r",
+      "sub_id": "Hunt 115",
+      "max_num": 250,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "棲息在炎之九領長角的魔物！"
+    },
+    {
+      "id": 136,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐20隻龍\r",
+      "sub_id": "Hunt 116",
+      "max_num": 20,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "有各種顏色的龍存在呢！"
+    },
+    {
+      "id": 137,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐150隻魚人族\r",
+      "sub_id": "Hunt 117",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "也被稱為沙華魚人！"
+    },
+    {
+      "id": 138,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻螃蟹\r",
+      "sub_id": "Hunt 118",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用烤的很好吃唷！"
+    },
+    {
+      "id": 139,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻克莉歐聶",
+      "sub_id": "Hunt 119",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "別名為「海天使」\\n是這樣子稱呼的嗎…"
+    },
+    {
+      "id": 140,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻山豬\r",
+      "sub_id": "Hunt 120",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "就算受到遠距離攻擊也會突進而來！"
+    },
+    {
+      "id": 141,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻巨大昆蟲吧\r",
+      "sub_id": "Hunt 121",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "是巨大的飛蛾或蜘蛛的魔物呢…\\n 要小心異常狀態唷！"
+    },
+    {
+      "id": 142,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻骷髏兵吧\r",
+      "sub_id": "Hunt 122",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "到處都是骨系的魔物喔！"
+    },
+    {
+      "id": 143,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻哥布林吧\r",
+      "sub_id": "Hunt 123",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "從以前就居住在尤古度的下等魔物喔！"
+    },
+    {
+      "id": 144,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻黑之士兵",
+      "sub_id": "Hunt 124",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "如同漆黒之闇一般的魔物啊！"
+    },
+    {
+      "id": 145,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻壞人吧\r",
+      "sub_id": "Hunt 125",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意海賊！"
+    },
+    {
+      "id": 146,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐40隻巨人\r",
+      "sub_id": "Hunt 126",
+      "max_num": 40,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用蠻力揮舞著棍棒的巨大魔物！"
+    },
+    {
+      "id": 147,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻魔像\r",
+      "sub_id": "Hunt 127",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "靠魔法之力移動的石像！"
+    },
+    {
+      "id": 148,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻野獸\r",
+      "sub_id": "Hunt 128",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "毛茸茸的魔物！"
+    },
+    {
+      "id": 149,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻魔法生物\r",
+      "sub_id": "Hunt 129",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "全身軟ＱＱ、看起來很有彈性的魔物！"
+    },
+    {
+      "id": 150,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻幽靈\r",
+      "sub_id": "Hunt 130",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "要注意遠距離攻擊會打不中唷！"
+    },
+    {
+      "id": 151,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻蜥蝪人\r",
+      "sub_id": "Hunt 131",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "沙漠中常出現的蜥蝪魔物！"
+    },
+    {
+      "id": 152,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐500隻樹妖\r",
+      "sub_id": "Hunt 132",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "長得像樹的魔物，弱點好像是火唷！"
+    },
+    {
+      "id": 153,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退300隻鬼\r",
+      "sub_id": "Hunt 133",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "棲息在炎之九領長角的魔物！"
+    },
+    {
+      "id": 154,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐25隻龍\r",
+      "sub_id": "Hunt 134",
+      "max_num": 25,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "有各種顏色的龍存在呢！"
+    },
+    {
+      "id": 155,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐200隻魚人族\r",
+      "sub_id": "Hunt 135",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "也被稱為沙華魚人！"
+    },
+    {
+      "id": 156,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐150隻螃蟹\r",
+      "sub_id": "Hunt 136",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "沾聖都風的美乃滋\\n也很好吃唷！"
+    },
+    {
+      "id": 157,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐150隻克莉歐聶吧",
+      "sub_id": "Hunt 137",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "別名為「海天使」\\n是這樣子稱呼的嗎…"
+    },
+    {
+      "id": 158,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐75隻山豬吧",
+      "sub_id": "Hunt 138",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "沒有特別的弱點\\n用正攻法打倒它們吧！"
+    },
+    {
+      "id": 159,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐75隻巨大昆蟲吧",
+      "sub_id": "Hunt 139",
+      "max_num": 75,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "是巨大的飛蛾或是蜘蛛的魔物呢…\\n真噁心呢"
+    },
+    {
+      "id": 160,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻地獄犬吧",
+      "sub_id": "Hunt 140",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "是巨大的四腳獸喔！"
+    },
+    {
+      "id": 161,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻骷髏兵",
+      "sub_id": "Hunt 141",
+      "max_num": 600,
+      "reward": {
+        "type": "item",
+        "id": "1001",
+        "val": "1"
+      },
+      "help": "這可是尤古度的名產，骸骨的魔物！"
+    },
+    {
+      "id": 162,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻哥布林",
+      "sub_id": "Hunt 142",
+      "max_num": 600,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "好像有哥布林的國王在…"
+    },
+    {
+      "id": 163,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻黑之士兵",
+      "sub_id": "Hunt 143",
+      "max_num": 600,
+      "reward": {
+        "type": "item",
+        "id": "1002",
+        "val": "1"
+      },
+      "help": "最近有人目擊到新種類的黑暗士兵與\\n魔將軍喔"
+    },
+    {
+      "id": 164,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退600名壞人",
+      "sub_id": "Hunt 144",
+      "max_num": 600,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "土妖精跟森林妖精不算在內哦"
+    },
+    {
+      "id": 165,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50名巨人",
+      "sub_id": "Hunt 145",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "其中好像也有心地善良的巨人在喔"
+    },
+    {
+      "id": 166,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐150隻魔像",
+      "sub_id": "Hunt 146",
+      "max_num": 150,
+      "reward": {
+        "type": "item",
+        "id": "1003",
+        "val": "1"
+      },
+      "help": "以容易發出暴擊\\n 的戰士來一次擊退吧！"
+    },
+    {
+      "id": 167,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻野獸",
+      "sub_id": "Hunt 147",
+      "max_num": 600,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "跟地獄魔犬還是暗黑魔犬\\n都扯不上關係的樣子。"
+    },
+    {
+      "id": 168,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻魔法生物",
+      "sub_id": "Hunt 148",
+      "max_num": 600,
+      "reward": {
+        "type": "item",
+        "id": "1004",
+        "val": "1"
+      },
+      "help": "這到底是什麼人、為了什麼目的而創造的呢…"
+    },
+    {
+      "id": 169,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻幽靈",
+      "sub_id": "Hunt 149",
+      "max_num": 600,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "請注意遠距離攻撃打不中！"
+    },
+    {
+      "id": 170,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻蜥蜴人",
+      "sub_id": "Hunt 150",
+      "max_num": 600,
+      "reward": {
+        "type": "item",
+        "id": "1005",
+        "val": "1"
+      },
+      "help": "棲息於薄命之大陸的「甲殼蜥蜴」似乎\\n也是這些傢伙的同伴！"
+    },
+    {
+      "id": 171,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐600隻樹妖",
+      "sub_id": "Hunt 151",
+      "max_num": 600,
+      "reward": {
+        "type": "item",
+        "id": "1006",
+        "val": "1"
+      },
+      "help": "對付長得像樹的魔物，用火攻會很奏效喲！"
+    },
+    {
+      "id": 172,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "擊退400隻鬼",
+      "sub_id": "Hunt 152",
+      "max_num": 400,
+      "reward": {
+        "type": "item",
+        "id": "1007",
+        "val": "1"
+      },
+      "help": "這是棲息於炎之九領中長著角的魔物喔"
+    },
+    {
+      "id": 173,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐30條龍",
+      "sub_id": "Hunt 153",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "有各式各樣的龍喔"
+    },
+    {
+      "id": 174,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐250名魚人族",
+      "sub_id": "Hunt 154",
+      "max_num": 250,
+      "reward": {
+        "type": "item",
+        "id": "1008",
+        "val": "1"
+      },
+      "help": "也可以稱做是沙華魚人喔"
+    },
+    {
+      "id": 175,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐200隻螃蟹",
+      "sub_id": "Hunt 155",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "在黎明大海「碧雲之島」上\\n 有一大群登陸的樣子！"
+    },
+    {
+      "id": 176,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐200隻克莉歐聶",
+      "sub_id": "Hunt 156",
+      "max_num": 200,
+      "reward": {
+        "type": "item",
+        "id": "1009",
+        "val": "1"
+      },
+      "help": "仔細研究衰弱對策，前往黎明大海的\\n 「黎明之島」吧！"
+    },
+    {
+      "id": 177,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻山豬",
+      "sub_id": "Hunt 157",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "1011",
+        "val": "1"
+      },
+      "help": "獸人大陸的「神之洞窟」周圍\\n似乎聚集著一大群！"
+    },
+    {
+      "id": 178,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻巨大昆蟲",
+      "sub_id": "Hunt 158",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "罪惡大陸的「愚痴監獄」中\\n 似乎出現了大量的蜘蛛！"
+    },
+    {
+      "id": 179,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐100隻地獄魔犬",
+      "sub_id": "Hunt 159",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "1012",
+        "val": "1"
+      },
+      "help": "敏捷的小型暗黑魔犬也\\n 會計算喔！"
+    },
+    {
+      "id": 180,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻吸血蝙蝠",
+      "sub_id": "Hunt 160",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "罪惡大陸的「貪欲監獄」裡\\n充斥著許多蝙蝠！"
+    },
+    {
+      "id": 181,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻刀頭鳥",
+      "sub_id": "Hunt 161",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "1013",
+        "val": "1"
+      },
+      "help": "從刀頭鳥的襲擊下保護薄命之大陸的\\n「長老集落」吧！"
+    },
+    {
+      "id": 182,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "討伐50隻魔性蛙",
+      "sub_id": "Hunt 162",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "驅趕不斷在薄命之大陸的「聖母誕生樹」\\n 作亂的魔性蛙吧 ！！"
+    },
+    {
+      "id": 201,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成MAX Chain！",
+      "sub_id": "Chain 001",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "依序使用５人的必殺技的話\\n 就可以達成ＭＡＸ Ｃｈａｉｎ喔！"
+    },
+    {
+      "id": 202,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成5次MAX Chain！",
+      "sub_id": "Chain 002",
+      "max_num": 5,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "依序使用５人的必殺技的話\\n 就可以達成ＭＡＸ Ｃｈａｉｎ喔！"
+    },
+    {
+      "id": 203,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成10次MAX Chain！",
+      "sub_id": "Chain 003",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": ""
+    },
+    {
+      "id": 204,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成20次MAX Chain！",
+      "sub_id": "Chain 004",
+      "max_num": 20,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": ""
+    },
+    {
+      "id": 205,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成50次MAX Chain！",
+      "sub_id": "Chain 005",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 206,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成100次MAX Chain！\r",
+      "sub_id": "Chain 006",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 207,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成150次MAX Chain！\r",
+      "sub_id": "Chain 007",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 208,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成200次MAX Chain！\r",
+      "sub_id": "Chain 008",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 209,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成300次MAX Chain！\r",
+      "sub_id": "Chain 009",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 210,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成400次MAX Chain！\r",
+      "sub_id": "Chain 010",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 211,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成500次MAX Chain！\r",
+      "sub_id": "Chain 011",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "7"
+      },
+      "help": ""
+    },
+    {
+      "id": 212,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成750次MAX Chain！\r",
+      "sub_id": "Chain 012",
+      "max_num": 750,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "7"
+      },
+      "help": ""
+    },
+    {
+      "id": 213,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成1000次MAX Chain！\r",
+      "sub_id": "Chain 013",
+      "max_num": 1000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "10"
+      },
+      "help": ""
+    },
+    {
+      "id": 301,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過１０００吧！",
+      "sub_id": "Assault 001",
+      "max_num": 1000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "尋找擁有一撃必殺技的同伴吧！"
+    },
+    {
+      "id": 302,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過１５００吧！",
+      "sub_id": "Assault 002",
+      "max_num": 1500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "必殺技需求法珠越多、能力就越強喔！"
+    },
+    {
+      "id": 303,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過２５００吧！",
+      "sub_id": "Assault 003",
+      "max_num": 2500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "連續使用不同夥伴的必殺技，就會產生必殺連鎖喔！"
+    },
+    {
+      "id": 304,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過３５００吧！",
+      "sub_id": "Assault 004",
+      "max_num": 3500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "更加熟悉必殺技連鎖讓傷害值提升吧！"
+    },
+    {
+      "id": 305,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過５０００吧！",
+      "sub_id": "Assault 005",
+      "max_num": 5000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "如果能達到連鎖ＭＡＸ、 就會出現不得了的傷害值喔！"
+    },
+    {
+      "id": 306,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過７５００吧！",
+      "sub_id": "Assault 006",
+      "max_num": 7500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "讓最強的夥伴使用連鎖ＭＡＸ吧！"
+    },
+    {
+      "id": 307,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過１００００吧！",
+      "sub_id": "Assault 007",
+      "max_num": 10000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "組合可讓攻撃力上升的必殺技 說不定傷害會更驚人喔！"
+    },
+    {
+      "id": 308,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過１２０００吧！",
+      "sub_id": "Assault 008",
+      "max_num": 12000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "活用歌與舞蹈的必殺技吧！"
+    },
+    {
+      "id": 309,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過１５０００吧！",
+      "sub_id": "Assault 009",
+      "max_num": 15000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "多想想各種必殺技的組合唷！"
+    },
+    {
+      "id": 310,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過２００００吧！",
+      "sub_id": "Assault 010",
+      "max_num": 20000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "組合各種的Ability，說不定會出現更驚人的傷害值喔！？"
+    },
+    {
+      "id": 311,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過２５０００吧！",
+      "sub_id": "Assault 011",
+      "max_num": 25000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "攻擊敵人的弱點，會出現不得了的傷害喔！"
+    },
+    {
+      "id": 312,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過３００００吧！",
+      "sub_id": "Assault 012",
+      "max_num": 30000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "恩..我好像已經沒法給建議了……加油！"
+    },
+    {
+      "id": 313,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過５００００吧！",
+      "sub_id": "Assault 013",
+      "max_num": 50000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "打起精神來！義勇軍的各，我相信你們一定能做到！"
+    },
+    {
+      "id": 314,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過７５０００吧！",
+      "sub_id": "Assault 014",
+      "max_num": 75000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "恩...總之就是加油啦！ 奮鬥吧！"
+    },
+    {
+      "id": 315,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "最大傷害超過１０００００吧！",
+      "sub_id": "Assault 015",
+      "max_num": 100000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "拿出所有的一切朝突破１０萬努力吧！"
+    },
+    {
+      "id": 316,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "超越最多傷害150000！\r",
+      "sub_id": "Assault 016",
+      "max_num": 150000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "7"
+      },
+      "help": "不只是隊伍的構成，\\n選擇敵人也很重要"
+    },
+    {
+      "id": 317,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "超越最多傷害200000！\r",
+      "sub_id": "Assault 017",
+      "max_num": 200000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "7"
+      },
+      "help": "我的精靈之踢\\n傷害只有2左右吧…"
+    },
+    {
+      "id": 318,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "超越最多傷害300000！\r",
+      "sub_id": "Assault 018",
+      "max_num": 300000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "10"
+      },
+      "help": "…真的辦得到嗎？"
+    },
+    {
+      "id": 401,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度１０以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 001",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": ""
+    },
+    {
+      "id": 402,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度２０以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 002",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": ""
+    },
+    {
+      "id": 403,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度２５以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 003",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": ""
+    },
+    {
+      "id": 404,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度３０以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 004",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": ""
+    },
+    {
+      "id": 405,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度３５以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 005",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": ""
+    },
+    {
+      "id": 406,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度４０以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 006",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": ""
+    },
+    {
+      "id": 407,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "難易度５０以上的戰鬥勝利１０回吧！",
+      "sub_id": "Difficulty 007",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": ""
+    },
+    {
+      "id": 501,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "在合成功能達成一次大成功吧",
+      "sub_id": "Great 001",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "1"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 502,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功３回吧",
+      "sub_id": "Great 002",
+      "max_num": 3,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "1"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 503,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功５回吧",
+      "sub_id": "Great 003",
+      "max_num": 5,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "2"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 504,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功１０回吧",
+      "sub_id": "Great 004",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "3"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 505,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功１５回吧",
+      "sub_id": "Great 005",
+      "max_num": 15,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "4"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 506,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功２０回吧",
+      "sub_id": "Great 006",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "5"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 507,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功２５回吧",
+      "sub_id": "Great 007",
+      "max_num": 25,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "5"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 508,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功３０回吧",
+      "sub_id": "Great 008",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "7"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 509,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功４０回吧",
+      "sub_id": "Great 009",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "10"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 510,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "合成大成功５０回吧",
+      "sub_id": "Great 010",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "20"
+      },
+      "help": "生命之塔來的請求！據說是希望研究人類的潛在力量！"
+    },
+    {
+      "id": 511,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生100次Great成就",
+      "sub_id": "Great 011",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "30"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 512,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生150次Great成就",
+      "sub_id": "Great 012",
+      "max_num": 150,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "40"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 513,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生200次Great成就",
+      "sub_id": "Great 013",
+      "max_num": 200,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "50"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 514,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生250次Great成就",
+      "sub_id": "Great 014",
+      "max_num": 250,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "60"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 515,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生300次Great成就",
+      "sub_id": "Great 015",
+      "max_num": 300,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "70"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 516,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生400次Great成就",
+      "sub_id": "Great 016",
+      "max_num": 400,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "80"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 517,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "發生500次Great成就",
+      "sub_id": "Great 017",
+      "max_num": 500,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "90"
+      },
+      "help": "是生命之塔來的委託喔！據說是關於人的\\n潛在能力的研究呢！"
+    },
+    {
+      "id": 601,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收５個寶箱吧",
+      "sub_id": "Treasure 001",
+      "max_num": 5,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "1"
+      },
+      "help": "商人公會來的請求！想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 602,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "收集３個法珠SLOT吧",
+      "sub_id": "Mana 001",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "1"
+      },
+      "help": "命運之塔來的請求！戰鬥中收集三顆法珠的研究的樣子喔"
+    },
+    {
+      "id": 603,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收１０個寶箱吧",
+      "sub_id": "Treasure 002",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "1"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 604,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收２０個寶箱吧",
+      "sub_id": "Treasure 003",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "2"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 605,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "收集３個法珠SLOT10次吧",
+      "sub_id": "Mana 002",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "2"
+      },
+      "help": "命運之塔來的請求！戰鬥中收集三顆法珠的研究的樣子喔"
+    },
+    {
+      "id": 606,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收３０個寶箱吧",
+      "sub_id": "Treasure 004",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "2"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 607,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收５０個寶箱吧",
+      "sub_id": "Treasure 005",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "3"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 608,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收１００個寶箱吧",
+      "sub_id": "Treasure 006",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "3"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 609,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收１５０個寶箱吧",
+      "sub_id": "Treasure 007",
+      "max_num": 150,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "4"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 610,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收２００個寶箱吧",
+      "sub_id": "Treasure 008",
+      "max_num": 200,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "4"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 611,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收２５０個寶箱吧",
+      "sub_id": "Treasure 009",
+      "max_num": 250,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "5"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 612,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "收集３個法珠SLOT50次吧",
+      "sub_id": "Mana 003",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "5"
+      },
+      "help": "命運之塔來的請求！戰鬥中收集三顆法珠的研究的樣子喔！"
+    },
+    {
+      "id": 613,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收３００個寶箱吧",
+      "sub_id": "Treasure 010",
+      "max_num": 300,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "5"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 614,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收３５０個寶箱吧",
+      "sub_id": "Treasure 011",
+      "max_num": 350,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "7"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 615,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收４００個寶箱吧",
+      "sub_id": "Treasure 012",
+      "max_num": 400,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "7"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 616,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收４５０個寶箱吧",
+      "sub_id": "Treasure 013",
+      "max_num": 450,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "10"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 617,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "收集３個法珠SLOT100次吧",
+      "sub_id": "Mana 004",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "10"
+      },
+      "help": "命運之塔來的請求！戰鬥中收集三顆法珠的研究的樣子喔"
+    },
+    {
+      "id": 618,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收５００個寶箱吧",
+      "sub_id": "Treasure 014",
+      "max_num": 500,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "10"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 619,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "回收７７７個寶箱吧",
+      "sub_id": "Treasure 015",
+      "max_num": 777,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "20"
+      },
+      "help": "商人公會來的請求！ 想要計算擊敗魔物可回收的獎勵"
+    },
+    {
+      "id": 620,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "收集３個法珠SLOT777次吧",
+      "sub_id": "Mana 005",
+      "max_num": 777,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "20"
+      },
+      "help": "命運之塔來的請求！戰鬥中收集三顆法珠的研究的樣子喔"
+    },
+    {
+      "id": 701,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練1",
+      "sub_id": "Training 001",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "讓持有「斬」武器的同伴編入隊伍中一起戰鬥吧！"
+    },
+    {
+      "id": 702,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練1",
+      "sub_id": "Training 002",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "讓持有「聖」武器的同伴編入隊伍中一起戰鬥吧！"
+    },
+    {
+      "id": 703,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練1",
+      "sub_id": "Training 003",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "讓持有「弓」武器的同伴編入隊伍中一起戰鬥吧！"
+    },
+    {
+      "id": 704,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練1",
+      "sub_id": "Training 004",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "讓持有「魔」武器的同伴編入隊伍中一起戰鬥吧！"
+    },
+    {
+      "id": 705,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練1",
+      "sub_id": "Training 005",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "讓持有「突」武器的同伴編入隊伍中一起戰鬥吧！"
+    },
+    {
+      "id": 706,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練1",
+      "sub_id": "Training 006",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "讓持有「打」武器的同伴編入隊伍中一起戰鬥吧！"
+    },
+    {
+      "id": 707,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練2",
+      "sub_id": "Training 007",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96014",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 708,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練2",
+      "sub_id": "Training 008",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 709,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練2",
+      "sub_id": "Training 009",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 710,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練2",
+      "sub_id": "Training 010",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 711,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練2",
+      "sub_id": "Training 011",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 712,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練2",
+      "sub_id": "Training 012",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 713,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練3",
+      "sub_id": "Training 013",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 714,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練3",
+      "sub_id": "Training 014",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96180",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 715,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練3",
+      "sub_id": "Training 015",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 716,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練3",
+      "sub_id": "Training 016",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 717,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練3",
+      "sub_id": "Training 017",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 718,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練3",
+      "sub_id": "Training 018",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 719,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練4",
+      "sub_id": "Training 019",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 720,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練4",
+      "sub_id": "Training 020",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 721,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練4",
+      "sub_id": "Training 021",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96181",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 722,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練4",
+      "sub_id": "Training 022",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 723,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練4",
+      "sub_id": "Training 023",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 724,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練4",
+      "sub_id": "Training 024",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 725,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練1",
+      "sub_id": "Training 025",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "雖然戰鬥中兩隻手都用上了、 戰鬥獎勵也只有一次喔"
+    },
+    {
+      "id": 726,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練5",
+      "sub_id": "Training 026",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 727,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練5",
+      "sub_id": "Training 027",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 728,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練5",
+      "sub_id": "Training 028",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 729,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練5",
+      "sub_id": "Training 029",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96050",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 730,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練5",
+      "sub_id": "Training 030",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 731,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練5",
+      "sub_id": "Training 031",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 732,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練2",
+      "sub_id": "Training 032",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 733,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練6",
+      "sub_id": "Training 033",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 734,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練6",
+      "sub_id": "Training 034",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 735,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練6",
+      "sub_id": "Training 035",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 736,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練6",
+      "sub_id": "Training 036",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 737,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練6",
+      "sub_id": "Training 037",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96006",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 738,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練6",
+      "sub_id": "Training 038",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 739,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練3",
+      "sub_id": "Training 039",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 740,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練7",
+      "sub_id": "Training 040",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 741,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練7",
+      "sub_id": "Training 041",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 742,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練7",
+      "sub_id": "Training 042",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 743,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練7",
+      "sub_id": "Training 043",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 744,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練7",
+      "sub_id": "Training 044",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 745,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練7",
+      "sub_id": "Training 045",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96032",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 746,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練4",
+      "sub_id": "Training 046",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 747,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練8\r",
+      "sub_id": "Training 047",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 748,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練8\r",
+      "sub_id": "Training 048",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 749,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練8\r",
+      "sub_id": "Training 049",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 750,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練8\r",
+      "sub_id": "Training 050",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 751,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練8\r",
+      "sub_id": "Training 051",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 752,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練8\r",
+      "sub_id": "Training 052",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 753,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練5\r",
+      "sub_id": "Training 053",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 754,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練9\r",
+      "sub_id": "Training 054",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93000",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 755,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練9\r",
+      "sub_id": "Training 055",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93005",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 756,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練9\r",
+      "sub_id": "Training 056",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93003",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 757,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練9\r",
+      "sub_id": "Training 057",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93004",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 758,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練9\r",
+      "sub_id": "Training 058",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93002",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 759,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練9\r",
+      "sub_id": "Training 059",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93001",
+        "val": "3"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 760,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練6\r",
+      "sub_id": "Training 060",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96312",
+        "val": "1"
+      },
+      "help": "協助者與預備角色\\n也納入計算唷"
+    },
+    {
+      "id": 761,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練10",
+      "sub_id": "Training 061",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93006",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 762,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練10",
+      "sub_id": "Training 062",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93011",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 763,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練10",
+      "sub_id": "Training 063",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93009",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 764,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練10",
+      "sub_id": "Training 064",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93010",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 765,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練10",
+      "sub_id": "Training 065",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93008",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 766,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練10",
+      "sub_id": "Training 066",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93007",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 767,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練7",
+      "sub_id": "Training 067",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 768,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「槍」武器訓練10",
+      "sub_id": "Training 068",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93019",
+        "val": "3"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 769,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練11",
+      "sub_id": "Training 069",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93006",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 770,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練11",
+      "sub_id": "Training 070",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93011",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 771,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練11",
+      "sub_id": "Training 071",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93009",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 772,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練11",
+      "sub_id": "Training 072",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93010",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 773,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練11",
+      "sub_id": "Training 073",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93008",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 774,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練11",
+      "sub_id": "Training 074",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93007",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 775,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練8",
+      "sub_id": "Training 075",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 776,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「槍」武器訓練2",
+      "sub_id": "Training 076",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93019",
+        "val": "3"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 777,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「斬」武器訓練12",
+      "sub_id": "Training 077",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93006",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 778,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「聖」武器訓練12",
+      "sub_id": "Training 078",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93011",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 779,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「弓」武器訓練12",
+      "sub_id": "Training 079",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93009",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 780,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「魔」武器訓練12",
+      "sub_id": "Training 080",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93010",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 781,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「突」武器訓練12",
+      "sub_id": "Training 081",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93008",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 782,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「打」武器訓練12",
+      "sub_id": "Training 082",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93007",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 783,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「拳」武器訓練9",
+      "sub_id": "Training 083",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93018",
+        "val": "3"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 784,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「槍」武器訓練3",
+      "sub_id": "Training 084",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96404",
+        "val": "1"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 785,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "「狙」武器訓練10",
+      "sub_id": "Training 085",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93020",
+        "val": "3"
+      },
+      "help": "協助者和副陣容也\\n可以挖角喔"
+    },
+    {
+      "id": 801,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰士公會學徒",
+      "sub_id": "Warrior 001",
+      "max_num": 20,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90005",
+        "val": "1"
+      },
+      "help": "將戰士加入隊伍中進行20次戰鬥吧"
+    },
+    {
+      "id": 802,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰士公會新人",
+      "sub_id": "Warrior 002",
+      "max_num": 100,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90010",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 803,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰士公會希望",
+      "sub_id": "Warrior 003",
+      "max_num": 500,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90015",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 804,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰士公會中堅",
+      "sub_id": "Warrior 004",
+      "max_num": 1000,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90020",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 805,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰士公會老將",
+      "sub_id": "Warrior 005",
+      "max_num": 2000,
+      "reward": {
+        "type": "card",
+        "id": "4",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 806,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "戰士公會王牌",
+      "sub_id": "Warrior 006",
+      "max_num": 10000,
+      "reward": {
+        "type": "card",
+        "id": "23",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 807,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "聖騎士團學徒",
+      "sub_id": "Knight 001",
+      "max_num": 20,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90009",
+        "val": "1"
+      },
+      "help": "將騎士加入隊伍中進行20次戰鬥吧"
+    },
+    {
+      "id": 808,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "聖騎士團新人",
+      "sub_id": "Knight 002",
+      "max_num": 100,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90014",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 809,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "聖騎士團希望",
+      "sub_id": "Knight 003",
+      "max_num": 500,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90019",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 810,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "聖騎士團中堅",
+      "sub_id": "Knight 004",
+      "max_num": 1000,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90024",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 811,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "聖騎士團老將",
+      "sub_id": "Knight 005",
+      "max_num": 2000,
+      "reward": {
+        "type": "card",
+        "id": "1005",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 812,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "聖騎士團王牌",
+      "sub_id": "Knight 006",
+      "max_num": 10000,
+      "reward": {
+        "type": "card",
+        "id": "1006",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 813,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "遊俠公會學徒",
+      "sub_id": "Archer 001",
+      "max_num": 20,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90006",
+        "val": "1"
+      },
+      "help": "將弓箭手加入隊伍中進行20次戰鬥吧"
+    },
+    {
+      "id": 814,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "遊俠公會新人",
+      "sub_id": "Archer 002",
+      "max_num": 100,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90011",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 815,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "遊俠公會希望",
+      "sub_id": "Archer 003",
+      "max_num": 500,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90016",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 816,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "遊俠公會中堅",
+      "sub_id": "Archer 004",
+      "max_num": 1000,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90021",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 817,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "遊俠公會老將",
+      "sub_id": "Archer 005",
+      "max_num": 2000,
+      "reward": {
+        "type": "card",
+        "id": "19",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 818,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "遊俠公會王牌",
+      "sub_id": "Archer 006",
+      "max_num": 10000,
+      "reward": {
+        "type": "card",
+        "id": "3022",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 819,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "魔法公會學徒",
+      "sub_id": "Wizard 001",
+      "max_num": 20,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90007",
+        "val": "1"
+      },
+      "help": "將魔法師加入隊伍中進行20次戰鬥吧"
+    },
+    {
+      "id": 820,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "魔法公會新人",
+      "sub_id": "Wizard 002",
+      "max_num": 100,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90012",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 821,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "魔法公會希望",
+      "sub_id": "Wizard 003",
+      "max_num": 500,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90017",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 822,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "魔法公會中堅",
+      "sub_id": "Wizard 004",
+      "max_num": 1000,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90022",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 823,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "魔法公會老將",
+      "sub_id": "Wizard 005",
+      "max_num": 2000,
+      "reward": {
+        "type": "card",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 824,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "魔法公會王牌",
+      "sub_id": "Wizard 006",
+      "max_num": 10000,
+      "reward": {
+        "type": "card",
+        "id": "2019",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 825,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "治癒師公會學徒",
+      "sub_id": "Healer 001",
+      "max_num": 5,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90008",
+        "val": "1"
+      },
+      "help": "將僧侶加入隊伍中進行5次戰鬥吧"
+    },
+    {
+      "id": 826,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "治癒師公會新人",
+      "sub_id": "Healer 002",
+      "max_num": 20,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90013",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 827,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "治癒師公會希望",
+      "sub_id": "Healer 003",
+      "max_num": 100,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90018",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 828,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "治癒師公會中堅",
+      "sub_id": "Healer 004",
+      "max_num": 500,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90023",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 829,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "治癒師公會老將",
+      "sub_id": "Healer 005",
+      "max_num": 1000,
+      "reward": {
+        "type": "card",
+        "id": "1021",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 830,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "治癒師公會王牌",
+      "sub_id": "Healer 006",
+      "max_num": 2000,
+      "reward": {
+        "type": "card",
+        "id": "1023",
+        "val": "1"
+      },
+      "help": "協助者與替補隊員也會被計算在內喔"
+    },
+    {
+      "id": 831,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "公會同盟的第一歩",
+      "sub_id": "Alliance 001",
+      "max_num": 10,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90902",
+        "val": "5"
+      },
+      "help": "將所有職業加入隊伍中獲得 １０次勝利吧！"
+    },
+    {
+      "id": 832,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "輕鬆公會同盟",
+      "sub_id": "Alliance 002",
+      "max_num": 50,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90903",
+        "val": "5"
+      },
+      "help": "將所有職業加入隊伍中獲得 ５０次勝利吧！"
+    },
+    {
+      "id": 833,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "普通的公會同盟",
+      "sub_id": "Alliance 003",
+      "max_num": 100,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90904",
+        "val": "5"
+      },
+      "help": "將所有職業加入隊伍中獲得 １００次勝利吧！"
+    },
+    {
+      "id": 834,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "強固公會同盟",
+      "sub_id": "Alliance 004",
+      "max_num": 300,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90905",
+        "val": "5"
+      },
+      "help": "將所有職業加入隊伍中獲得 ３００次勝利吧！"
+    },
+    {
+      "id": 835,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "不可撼動公會同盟",
+      "sub_id": "Alliance 005",
+      "max_num": 500,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "5"
+      },
+      "help": "將所有職業加入隊伍中獲得 ５００次勝利吧！"
+    },
+    {
+      "id": 836,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "義兄弟",
+      "sub_id": "Alliance 006",
+      "max_num": 1000,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "10"
+      },
+      "help": "將所有職業加入隊伍中獲得 １０００次勝利吧！"
+    },
+    {
+      "id": 901,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "武器職人的致歉",
+      "sub_id": "Sorry",
+      "max_num": 3,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "10000"
+      },
+      "help": "還是有失敗的時候呢…"
+    },
+    {
+      "id": 2001,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行5回華麗突刺！\r",
+      "sub_id": "Excellent 001",
+      "max_num": 5,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2002,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行10回華麗突刺！\r",
+      "sub_id": "Excellent 002",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2003,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行20回華麗突刺！\r",
+      "sub_id": "Excellent 003",
+      "max_num": 20,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2004,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行30回華麗突刺！\r",
+      "sub_id": "Excellent 004",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2005,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行50回華麗突刺！\r",
+      "sub_id": "Excellent 005",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2006,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行100回華麗突刺！\r",
+      "sub_id": "Excellent 006",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2007,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行150回華麗突刺！\r",
+      "sub_id": "Excellent 007",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2008,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行200回華麗突刺！\r",
+      "sub_id": "Excellent 008",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2009,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行300回華麗突刺！\r",
+      "sub_id": "Excellent 009",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2010,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行400回華麗突刺！\r",
+      "sub_id": "Excellent 010",
+      "max_num": 400,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2011,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行500回華麗突刺！\r",
+      "sub_id": "Excellent 011",
+      "max_num": 500,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2012,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行600回華麗突刺！\r",
+      "sub_id": "Excellent 012",
+      "max_num": 600,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2013,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行700回華麗突刺！\r",
+      "sub_id": "Excellent 013",
+      "max_num": 700,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2014,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行800回華麗突刺！\r",
+      "sub_id": "Excellent 014",
+      "max_num": 800,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2015,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行900回華麗突刺！\r",
+      "sub_id": "Excellent 015",
+      "max_num": 900,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2016,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行1000回華麗突刺！\r",
+      "sub_id": "Excellent 016",
+      "max_num": 1000,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "10"
+      },
+      "help": "同時達成\\n戰鬥的所有紅利吧！"
+    },
+    {
+      "id": 2101,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破4次！\r",
+      "sub_id": "Awakening 001",
+      "max_num": 4,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "5"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2102,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破8次！\r",
+      "sub_id": "Awakening 002",
+      "max_num": 8,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "10"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2103,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破12次！\r",
+      "sub_id": "Awakening 003",
+      "max_num": 12,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "15"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2104,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破16次！\r",
+      "sub_id": "Awakening 004",
+      "max_num": 16,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "20"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2105,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破20次！\r",
+      "sub_id": "Awakening 005",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "25"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2106,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破25次！\r",
+      "sub_id": "Awakening 006",
+      "max_num": 25,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "30"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2107,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破30次！\r",
+      "sub_id": "Awakening 007",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "35"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2108,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破40次！\r",
+      "sub_id": "Awakening 008",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "45"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2109,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破50次！\r",
+      "sub_id": "Awakening 009",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "60"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2110,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破60次！\r",
+      "sub_id": "Awakening 010",
+      "max_num": 60,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "70"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2111,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破70次！\r",
+      "sub_id": "Awakening 011",
+      "max_num": 70,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "80"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2112,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破80次！\r",
+      "sub_id": "Awakening 012",
+      "max_num": 80,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "90"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2113,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破90次！\r",
+      "sub_id": "Awakening 013",
+      "max_num": 90,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "100"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2114,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "限界突破100次！\r",
+      "sub_id": "Awakening 014",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "13",
+        "val": "120"
+      },
+      "help": "完全不管\\n聖靈的職業與稀有程度"
+    },
+    {
+      "id": 2201,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 001",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "對最後一個敵人用【自然發生的毒傷害】\\n給予最後一擊吧！ "
+    },
+    {
+      "id": 2202,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 002",
+      "max_num": 5,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊5次！"
+    },
+    {
+      "id": 2203,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 003",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊10次！"
+    },
+    {
+      "id": 2204,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 004",
+      "max_num": 20,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊20次！"
+    },
+    {
+      "id": 2205,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 005",
+      "max_num": 30,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊30次！"
+    },
+    {
+      "id": 2206,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 006",
+      "max_num": 50,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊50次！"
+    },
+    {
+      "id": 2207,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 007",
+      "max_num": 100,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊100次！"
+    },
+    {
+      "id": 2208,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 008",
+      "max_num": 150,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊150次！"
+    },
+    {
+      "id": 2209,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 009",
+      "max_num": 200,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "4"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊200次！"
+    },
+    {
+      "id": 2210,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用毒、衰弱傷害給予最後一擊！",
+      "sub_id": "Poison 010",
+      "max_num": 300,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "用毒或衰弱引起的自然發生傷害\\n給最後一個敵人最後一擊300次！"
+    },
+    {
+      "id": 3001,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行1次戰鬥吧",
+      "sub_id": "Start001",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "開始冒險吧！"
+    },
+    {
+      "id": 3002,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "進行1次合成吧",
+      "sub_id": "Start002",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "試試看聖靈強化、武器強化、限界突破、\\n 武器進化其中一個吧"
+    },
+    {
+      "id": 3003,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "不使用continue通關3次",
+      "sub_id": "Start003",
+      "max_num": 3,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "小心別被突破\\n 底線了！"
+    },
+    {
+      "id": 3004,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "用必殺技戰鬥吧",
+      "sub_id": "Start004",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "用必殺技打倒\\n 最後的敵人吧！"
+    },
+    {
+      "id": 3005,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "達成連鎖吧",
+      "sub_id": "Start005",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "依序使用夥伴的必殺技\\n 就可以達成連鎖喔！"
+    },
+    {
+      "id": 3006,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "試著使用10枚聖靈幣進行合成吧",
+      "sub_id": "Start006",
+      "max_num": 10,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "試試看聖靈強化、武器強化、限界突破、\\n 武器進化其中一個吧"
+    },
+    {
+      "id": 3007,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "帶著等級20以上的夥伴前往戰鬥吧",
+      "sub_id": "Start007",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "請注意\\n 協助者不算在內"
+    },
+    {
+      "id": 3008,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "同時達成戰鬥全部獎勵吧",
+      "sub_id": "Start008",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "沒有負傷者狀況下快速地\\n 用用必殺技擊殺吧！"
+    },
+    {
+      "id": 3009,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "將將赫利歐斯加進隊伍戰鬥吧",
+      "sub_id": "Start009",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "2"
+      },
+      "help": "玩過玩過第3部赫利歐斯篇第1話，\\n 就會成為夥伴喔！"
+    },
+    {
+      "id": 3010,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "將愛麗婕加進隊伍戰鬥吧",
+      "sub_id": "Start010",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "玩過第3部赫利歐斯篇第1話\\n 就會成為夥伴喔！"
+    },
+    {
+      "id": 3011,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "將天津加進隊伍戰鬥吧",
+      "sub_id": "Start011",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "玩過第3部愛麗婕篇第1話\\n 就會成為夥伴喔！"
+    },
+    {
+      "id": 3012,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "將艾夏露加進隊伍戰鬥吧",
+      "sub_id": "Start012",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "玩過第3部天津篇第1話\\n 就會成為夥伴喔！"
+    },
+    {
+      "id": 3013,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "將瑟蕾斯蒂加進隊伍戰鬥吧",
+      "sub_id": "Start013",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "玩過第3部艾夏露篇第1話\\n 就會成為夥伴喔！"
+    },
+    {
+      "id": 3014,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "試試探索1次吧",
+      "sub_id": "Start014",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "5"
+      },
+      "help": "試著派夥伴前往探索吧！\\n 或許可以找到寶物？"
+    },
+    {
+      "id": 3015,
+      "type": 0,
+      "start_time": 0,
+      "end_time": 0,
+      "quest_id": [],
+      "title": "帶著親愛度10以上的夥伴前往戰鬥吧",
+      "sub_id": "Start015",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "10"
+      },
+      "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
+    },
+    {
+      "id": 308811,
+      "type": 1,
+      "start_time": 1509310047,
+      "end_time": 1514527199,
+      "quest_id": [
+        247408,
+        247409,
+        247406,
+        247407
+      ],
+      "title": "盡情地參與活動吧！",
+      "sub_id": "Event 001",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96256",
+        "val": "1"
+      },
+      "help": "完成活動任務。即可獲得具有聖夜氣氛的武器喲！"
+    },
+    {
+      "id": 308812,
+      "type": 1,
+      "start_time": 1509310047,
+      "end_time": 1514527199,
+      "quest_id": [
+        247408,
+        247409,
+        247406,
+        247407
+      ],
+      "title": "與雅蓓妲一齊戰鬥！之一",
+      "sub_id": "Event 002",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85419",
+        "val": "1"
+      },
+      "help": "讓「雅蓓妲」加入隊伍，並完成10次任務。\\n協助者或自己的雅蓓妲都可以喲！"
+    },
+    {
+      "id": 308813,
+      "type": 1,
+      "start_time": 1509310047,
+      "end_time": 1514527199,
+      "quest_id": [
+        247408,
+        247409,
+        247406,
+        247407
+      ],
+      "title": "與雅蓓妲一齊戰鬥！之二",
+      "sub_id": "Event 003",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "讓「雅蓓妲」加入隊伍，並完成20次任務。\\n協助者或自己的雅蓓妲都可以喲！"
+    },
+    {
+      "id": 308814,
+      "type": 1,
+      "start_time": 1509303553,
+      "end_time": 1514527199,
+      "quest_id": [
+        247408,
+        247409
+      ],
+      "title": "聖夜的骷髏兵討伐。之一",
+      "sub_id": "Event 004",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96318",
+        "val": "1"
+      },
+      "help": "在指定關卡中擊倒100隻骷髏兵！\\n……戴著紅色的帽子看起來很不習慣呢。"
+    },
+    {
+      "id": 308815,
+      "type": 1,
+      "start_time": 1509303553,
+      "end_time": 1514527199,
+      "quest_id": [
+        247408,
+        247409
+      ],
+      "title": "聖夜的骷髏兵討伐。之二",
+      "sub_id": "Event 005",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96407",
+        "val": "1"
+      },
+      "help": "在指定關卡中擊倒200隻骷髏兵！\\n……戴著紅色的帽子看起來很不習慣呢。"
+    },
+    {
+      "id": 308816,
+      "type": 1,
+      "start_time": 1509303553,
+      "end_time": 1514527199,
+      "quest_id": [
+        247406,
+        247407
+      ],
+      "title": "聖夜的魔像討伐。之一",
+      "sub_id": "Event 006",
+      "max_num": 80,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85117",
+        "val": "1"
+      },
+      "help": "在指定關卡中擊倒80隻魔像！\\n……這個也戴著紅色的帽子呢。"
+    },
+    {
+      "id": 308817,
+      "type": 1,
+      "start_time": 1509303553,
+      "end_time": 1514527199,
+      "quest_id": [
+        247406,
+        247407
+      ],
+      "title": "聖夜的魔像討伐。之二",
+      "sub_id": "Event 007",
+      "max_num": 180,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85421",
+        "val": "1"
+      },
+      "help": "在指定關卡中擊倒180隻魔像！\\n……這個也戴著紅色的帽子呢。"
+    },
+    {
+      "id": 308818,
+      "type": 1,
+      "start_time": 1509303553,
+      "end_time": 1514527199,
+      "quest_id": [
+        247407
+      ],
+      "title": "以華麗的FINISH結束聖夜！",
+      "sub_id": "Event 008",
+      "max_num": 3,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85420",
+        "val": "1"
+      },
+      "help": "在關卡「聖夜的Rank Up訓練・上級」中，快速、無人死亡，並以必殺技給予最後一擊吧！！"
+    }
+  ],
+  "res": 0
+}

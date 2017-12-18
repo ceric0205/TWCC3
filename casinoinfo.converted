@@ -1,0 +1,56 @@
+{
+  "deceive": 1513250497,
+  "high_and_low": [],
+  "casino_race": [],
+  "casino_roulette": [
+    {
+      "type": "item",
+      "id": 7,
+      "val": 5,
+      "mass": 1
+    },
+    {
+      "type": "item",
+      "id": 10,
+      "val": 5000000,
+      "mass": 8
+    },
+    {
+      "type": "weapon_ev",
+      "id": 26000,
+      "val": 3,
+      "mass": 4
+    },
+    {
+      "type": "item",
+      "id": 10,
+      "val": 2500000,
+      "mass": 4
+    },
+    {
+      "type": "item",
+      "id": 7,
+      "val": 1,
+      "mass": 3
+    },
+    {
+      "type": "weapon_ev",
+      "id": 26000,
+      "val": 3,
+      "mass": 4
+    },
+    {
+      "type": "item",
+      "id": 10,
+      "val": 2500000,
+      "mass": 4
+    },
+    {
+      "type": "chara_rf",
+      "id": 90905,
+      "val": 3,
+      "mass": 4
+    }
+  ],
+  "res": 0
+}

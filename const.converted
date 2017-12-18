@@ -1,0 +1,155 @@
+{
+  "stamina_recover": 480,
+  "power_recover": 1800,
+  "exp_up": 604800,
+  "card_limit": 1500,
+  "present_recv": 10,
+  "sell_ring": {
+    "chara": [
+      0,
+      0,
+      0,
+      3,
+      20,
+      50,
+      30
+    ],
+    "chara_rf": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "chara_lb": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "weapon_rf": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    "weapon_ev": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  "resume_update": true,
+  "friend": false,
+  "friend_recycle": 1800,
+  "friend_last": 604800,
+  "friend_remove": false,
+  "helper_recycle": 7200,
+  "mission_grace_period": 86400,
+  "purchase_regulation": [
+    {
+      "age": 13,
+      "limit": 5000
+    },
+    {
+      "age": 20,
+      "limit": 20000
+    }
+  ],
+  "cut_stamina_recover": 10,
+  "raid_anger_rescue_max": 10,
+  "tutorial_name_skip": false,
+  "raid_relief_login_border": 259200,
+  "casino_coin_limit": 1000000,
+  "casino_coin_exchange_limit": 0,
+  "casino_coin_price": 50,
+  "casino_roulette_border": 1800000,
+  "sell_price": [
+    0,
+    300,
+    1000,
+    3000,
+    6000,
+    10000,
+    20000
+  ],
+  "res": 0,
+  "body": [
+    {
+      "type": 14,
+      "data": {
+        "global": {
+          "tmp_interval": 600,
+          "purchase": 1,
+          "raid_item": -1,
+          "review": 1
+        },
+        "cover": null,
+        "raid": null,
+        "totalwar": null,
+        "subjugation": [],
+        "expup": null,
+        "weaponcompose": {
+          "weapon_compose_disabled": false
+        },
+        "party_opt": {
+          "type": 1,
+          "cost_border1": 16,
+          "cost_border2": 12
+        }
+      },
+      "proc": 0
+    }
+  ],
+  "mVer": {
+    "charainfo": 1513249961,
+    "weaponlist": 1513246298,
+    "skilllist": 1513249255,
+    "worldinfo": 1505977521,
+    "episodeinfo": 1513043785,
+    "questdigest": 1513235399,
+    "itemlist": 1507284160,
+    "booklist": 1510192023,
+    "motionlist": 1497253157,
+    "missionlist": 1514764805,
+    "repeatmissionlist": 1505977487,
+    "bossinfo": 1513249486,
+    "battleinfo": 1505977486,
+    "homelist": 1469607167,
+    "supporterskill": 1513043780,
+    "subjugationexpeditioninfo": 1,
+    "explorerinfo": 1453707665,
+    "explorerlocation": 1490582346,
+    "weaponcompose": 1496891521,
+    "teacherdisciple": 1455807601,
+    "weaponcomposeevent": 1511993800,
+    "various": 1494830149,
+    "eventplace": 1,
+    "eventbadge": 1,
+    "denju": 1513043778,
+    "questroute": 1512098003,
+    "enemyinfo": 1505977486,
+    "casinoinfo": 1475140000,
+    "uzuinfo": 1509396461,
+    "vignette": 1513226712,
+    "spdrama": 1511423649,
+    "gachainfo": 1513223312,
+    "questtree": 1512524924,
+    "eventareainfo": 1512981027,
+    "coverinfo": 1505977486,
+    "reload": 1500271199,
+    "servertime": 1513580369
+  }
+}
