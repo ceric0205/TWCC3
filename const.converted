@@ -1,4 +1,4 @@
-{
+﻿{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -97,7 +97,45 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
+        "raid": {
+          "raid_id": 118,
+          "bg": 2000,
+          "event_start": 1492149600,
+          "event_end": 1514527200,
+          "close": 1514440800,
+          "name": "最後的凶獸、襲來",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "8906",
+              "skill_id": "30890009"
+            },
+            {
+              "cid": "8907",
+              "skill_id": "30890009"
+            },
+            {
+              "cid": "8897",
+              "skill_id": "30890009"
+            },
+            {
+              "cid": "8898",
+              "skill_id": "30890009"
+            },
+            {
+              "cid": "8899",
+              "skill_id": "30890009"
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 2,
+          "atk_up": 2,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30
+        },
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -114,27 +152,27 @@
     }
   ],
   "mVer": {
-    "charainfo": 1513249961,
+    "charainfo": 1513829650,
     "weaponlist": 1513246298,
-    "skilllist": 1513249255,
+    "skilllist": 1513827794,
     "worldinfo": 1505977521,
-    "episodeinfo": 1513043785,
-    "questdigest": 1513235399,
+    "episodeinfo": 1513681027,
+    "questdigest": 1513820865,
     "itemlist": 1507284160,
     "booklist": 1510192023,
     "motionlist": 1497253157,
     "missionlist": 1514764805,
     "repeatmissionlist": 1505977487,
-    "bossinfo": 1513249486,
+    "bossinfo": 1513591856,
     "battleinfo": 1505977486,
     "homelist": 1469607167,
-    "supporterskill": 1513043780,
+    "supporterskill": 1513591858,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1490582346,
     "weaponcompose": 1496891521,
     "teacherdisciple": 1455807601,
-    "weaponcomposeevent": 1511993800,
+    "weaponcomposeevent": 1,
     "various": 1494830149,
     "eventplace": 1,
     "eventbadge": 1,
@@ -143,13 +181,13 @@
     "enemyinfo": 1505977486,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1513226712,
+    "vignette": 1513723257,
     "spdrama": 1511423649,
-    "gachainfo": 1513223312,
+    "gachainfo": 1513758883,
     "questtree": 1512524924,
     "eventareainfo": 1512981027,
     "coverinfo": 1505977486,
     "reload": 1500271199,
-    "servertime": 1513580369
+    "servertime": 1513874279
   }
 }
