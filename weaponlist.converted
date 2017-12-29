@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1513251157,
+  "deceive": 1514453146,
   "weaponlist": [
     {
       "id": 1,
@@ -16308,7 +16308,7 @@
     },
     {
       "id": 85396,
-      "name": "軍號・召集",
+      "name": "號角響起",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -26762,7 +26762,7 @@
     {
       "evol_dst": 85396,
       "id": 85396,
-      "name": "軍號・召集",
+      "name": "號角響起",
       "profile": "お正月モニカモチーフ武器",
       "rank_limit": 2,
       "rarity": 5,
