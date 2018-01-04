@@ -1,6 +1,24 @@
 ﻿{
-  "deceive": 1514453133,
+  "deceive": 1515056381,
   "vignette": [
+    {
+      "cid": 258,
+      "v_motionid": 0,
+      "bg": 2,
+      "memo": "[FF0000]【大狩獵戰開催中】[-] 去狩獵吧！",
+      "start": 1497506400,
+      "end": 1515650400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1020,
+        "place_id": 0
+      },
+      "priority": 550,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "mopup",
+      "event_area_name": null
+    },
     {
       "cid": 280,
       "v_motionid": 0,
@@ -20,54 +38,40 @@
       "event_area_name": 2
     },
     {
+      "cid": 1241,
+      "v_motionid": 0,
+      "bg": 3,
+      "memo": "跟著旗幟前進！",
+      "start": 1497333600,
+      "end": 1515650400,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 500,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
       "cid": 2254,
       "v_motionid": 0,
       "bg": 2001,
-      "memo": "【序章】 該醒過來了喔！？",
+      "memo": "該醒過來了喔！？",
       "start": 1514736000,
       "end": 1515736800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
-        "place_id": 3
+        "place_id": 1
       },
       "priority": 500,
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_2",
-      "event_area_name": 2
-    },
-    {
-      "cid": 1,
-      "v_motionid": 0,
-      "bg": 0,
-      "memo": "",
-      "start": 1479394800,
-      "end": 1514732399,
-      "link": "event_web",
-      "param": {
-        "url": ""
-      },
-      "priority": 99,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "story"
-    },
-    {
-      "cid": 7015,
-      "v_motionid": 0,
-      "bg": 2002,
-      "memo": "",
-      "start": 1489021200,
-      "end": 1514732399,
-      "link": "event_web",
-      "param": {
-        "url": ""
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "favorite"
+      "event_area_name": 3
     },
     {
       "cid": 3,
@@ -86,24 +90,6 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 2
-    },
-    {
-      "cid": 211,
-      "v_motionid": 0,
-      "bg": 1,
-      "memo": "守護尤古度！！",
-      "start": 1507305600,
-      "end": 1515045600,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "legend",
-        "gacha_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": null
     }
   ],
   "vignette_motion": [

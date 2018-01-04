@@ -96,46 +96,48 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
-        "raid": {
-          "raid_id": 118,
-          "bg": 2000,
-          "event_start": 1492149600,
-          "event_end": 1514527200,
-          "close": 1514440800,
-          "name": "最後的凶獸、襲來",
-          "full_time": 130,
-          "part_time": 90,
-          "sp_cards": [
-            {
-              "cid": "8906",
-              "skill_id": "30890009"
+        "cover": {
+          "cover_id": 18,
+          "is_mop_up": true,
+          "name": "大狩獵戰「聖王國編」",
+          "area_id": 1020,
+          "dist_start": 1515045600,
+          "event_start": 1515045600,
+          "event_end": 1515650400,
+          "dist_end": 1515736800,
+          "bgm": "BGM_FIELD_MOPUP_01",
+          "point_list": {
+            "point1": {
+              "name": "彩虹骨頭",
+              "icon": "Item_MopUp_01_A",
+              "target_enemy_id": "335136",
+              "target_point_val": "10",
+              "rare_target_enemy_id": "335137",
+              "rare_target_point_val": "40"
             },
-            {
-              "cid": "8907",
-              "skill_id": "30890009"
-            },
-            {
-              "cid": "8897",
-              "skill_id": "30890009"
-            },
-            {
-              "cid": "8898",
-              "skill_id": "30890009"
-            },
-            {
-              "cid": "8899",
-              "skill_id": "30890009"
+            "point2": {
+              "name": "哥布林硬幣",
+              "icon": "Item_MopUp_01_B",
+              "target_enemy_id": "335134",
+              "target_point_val": "10",
+              "rare_target_enemy_id": "335135",
+              "rare_target_point_val": "40"
             }
+          },
+          "info_list": [
+            "Tutorial_MopUp_01_01",
+            "Tutorial_MopUp_01_02",
+            "Tutorial_MopUp_01_03",
+            "Tutorial_MopUp_01_04"
           ],
-          "full_pirica_time": 13,
-          "part_pirica_time": 22,
-          "hp_up": 2,
-          "atk_up": 2,
-          "anger_hp_up": 2,
-          "anger_atk_up": 2,
-          "anger_battle_time": 30
+          "rush": {
+            "rate": 0.05,
+            "validcnt": 1,
+            "text": "目標敵人大量出現！",
+            "bgm": 13
+          }
         },
+        "raid": null,
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -152,25 +154,25 @@
     }
   ],
   "mVer": {
-    "charainfo": 1514368429,
+    "charainfo": 1514446571,
     "weaponlist": 1513837172,
-    "skilllist": 1513837174,
-    "worldinfo": 1505977521,
+    "skilllist": 1514519114,
+    "worldinfo": 1514519145,
     "episodeinfo": 1513681027,
-    "questdigest": 1514354460,
+    "questdigest": 1515006931,
     "itemlist": 1507284160,
     "booklist": 1510192023,
     "motionlist": 1497253157,
-    "missionlist": 1514764805,
+    "missionlist": 1515035974,
     "repeatmissionlist": 1505977487,
-    "bossinfo": 1513837170,
+    "bossinfo": 1514446567,
     "battleinfo": 1505977486,
     "homelist": 1469607167,
     "supporterskill": 1513837172,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1490582346,
-    "weaponcompose": 1496891521,
+    "weaponcompose": 1514951266,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
     "various": 1494830149,
@@ -181,13 +183,13 @@
     "enemyinfo": 1505977486,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1514442400,
+    "vignette": 1515033189,
     "spdrama": 1511423649,
-    "gachainfo": 1514409806,
+    "gachainfo": 1515032253,
     "questtree": 1512524924,
     "eventareainfo": 1514410350,
-    "coverinfo": 1505977486,
+    "coverinfo": 1515031582,
     "reload": 1500271199,
-    "servertime": 1514518762
+    "servertime": 1515073442
   }
 }
