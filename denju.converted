@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1513250485,
+  "deceive": 1515661194,
   "denju": [
     {
       "denju_id": 2,
@@ -761,9 +761,9 @@
       "patternid5": 0,
       "patternid6": 0,
       "scost": 2,
-      "sname": "金幣・的・樂園",
-      "stext": "給予前方範圍內敵人全體中幅傷害，附加黑暗。",
-      "timestamp": "1505977485454",
+      "sname": "黃金伊甸",
+      "stext": "對前方範圍內的所有敵人造成中度傷害，並使其陷入黑暗狀態。",
+      "timestamp": "1515483981000",
       "weaponChange": 1
     },
     {
@@ -1391,9 +1391,9 @@
       "patternid5": 0,
       "patternid6": 0,
       "scost": 1,
-      "sname": "勇氣槍兵",
-      "stext": "【連撃】對衝刺範圍上的敵人全體造成小幅傷害，並彈飛。其後我方全體攻撃力在一定時間內增加。",
-      "timestamp": "1505977485454",
+      "sname": "勇氣突擊",
+      "stext": "【連擊】對衝刺範圍上的所有敵人造成輕度傷害，並擊退。其後，在一定時間內我方全體攻擊力上升。",
+      "timestamp": "1515481597000",
       "weaponChange": 1
     },
     {
@@ -3717,7 +3717,7 @@
       "patternid6": 0,
       "scost": 2,
       "sname": "仿效・狼嚎",
-      "stext": "【連撃】對直線範圍上的敵人全體造成中幅傷害。其後提升我方全體最多2次防禦力展開防止所有異常狀態的屏障。屏障也能防止炎、冰屬性傷害。",
+      "stext": "【連擊/地形變化】對直線範圍上的所有敵人造成中度傷害。其後將地形長時間變更為森林夜。同時替我方全體張設可以減輕2次受到的傷害並防止所有異常狀態的防護罩，防護罩也能抵擋炎、冰屬性的傷害。",
       "timestamp": "1505977485454",
       "weaponChange": 1
     },
@@ -4377,7 +4377,7 @@
       "patternid6": 0,
       "scost": 2,
       "sname": "圓月殺法・朧",
-      "stext": "對自身周遭範圍内的敵人造成全體中幅傷害，並彈飛，附加緩速。",
+      "stext": "對以自身為中心的範圍內的所有敵人造成中度傷害，並擊退使其陷入緩速狀態。",
       "timestamp": "1505977485454",
       "weaponChange": 1
     },
@@ -5012,21 +5012,6 @@
       "weaponChange": 1
     },
     {
-      "denju_id": 7202,
-      "patternid0": 0,
-      "patternid1": 0,
-      "patternid2": 0,
-      "patternid3": 0,
-      "patternid4": 0,
-      "patternid5": 0,
-      "patternid6": 0,
-      "scost": 1,
-      "sname": "戀愛TNT",
-      "stext": "對以自身為中心之範圍內的所有敵人和自己，皆造成自身MAXHP的60％的傷害。",
-      "timestamp": "1505977485454",
-      "weaponChange": 1
-    },
-    {
       "denju_id": 8249,
       "patternid0": 30824903,
       "patternid1": 0,
@@ -5038,6 +5023,21 @@
       "scost": 2,
       "sname": "泰蘭雷夫ver.β",
       "stext": "暫定",
+      "timestamp": "1505977485454",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 7202,
+      "patternid0": 0,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "戀愛TNT",
+      "stext": "對以自身為中心之範圍內的所有敵人和自己，皆造成自身MAXHP的60％的傷害。",
       "timestamp": "1505977485454",
       "weaponChange": 1
     },

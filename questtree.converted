@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1513251147,
+  "deceive": 1515661181,
   "quest_tree": [
     {
       "area_id": 0,
@@ -1334,14 +1334,91 @@
       "hero_id": 4,
       "icon": 3001,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        334121,
+        334122,
+        334123
+      ],
       "size": 0,
       "story": 3,
-      "summary": "瑟蕾斯蒂們擊退了前來襲擊的葛格拉寧加， 衝擊的是她們得知瑟蕾斯蒂陷入危機。 瑟蕾斯蒂們即便如此仍想要回到平凡的日常生活。 而她們也有了新的相遇。",
-      "timestamp": "1510613994000",
+      "summary": "瑟蕾斯蒂們擊退了前來襲擊的格格拉尼姆卡， 衝擊的是她們得知瑟蕾斯蒂陷入危機。 瑟蕾斯蒂們即便如此仍想要回到平凡的日常生活。 而她們也有了新的相遇。",
+      "timestamp": "1515482542000",
       "title": "敵意與寬容",
       "treasure": 0,
-      "update_time": 20171116,
+      "update_time": 20180111,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 14,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "hero_id": 4,
+      "icon": 31,
+      "pub": 0,
+      "quest_ary": [
+        334131,
+        334132,
+        334133
+      ],
+      "size": 0,
+      "story": 3,
+      "summary": "瑟蕾斯蒂一行人平日幫忙其他森林精靈。 前往大海的她們在海風集落中的海底裡看到了不可思議的東西。",
+      "timestamp": "1515482542000",
+      "title": "精靈島的謎團",
+      "treasure": 0,
+      "update_time": 20180111,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 15,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "hero_id": 4,
+      "icon": 3001,
+      "pub": 0,
+      "quest_ary": [
+        334141,
+        334142,
+        334143,
+        334144
+      ],
+      "size": 0,
+      "story": 3,
+      "summary": "瑟蕾斯蒂們為了追查精靈島發生的異常狀況真相，來到世界樹地下。 然後那裡卻出現了嶄新的謎團，誘導著瑟蕾斯蒂們踏上全新的旅行。",
+      "timestamp": "1515119529000",
+      "title": "前往聖王國！",
+      "treasure": 0,
+      "update_time": 20180111,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 18,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "hero_id": 4,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        334151,
+        334152,
+        334153
+      ],
+      "size": 0,
+      "story": 4,
+      "summary": "瑟蕾斯蒂們來到港町，為了獲取情報前往守護者公會。",
+      "timestamp": "1515482542000",
+      "title": "聖王國的傷痕",
+      "treasure": 0,
+      "update_time": 20180111,
       "x_hero_ary": 0
     },
     {
@@ -1408,6 +1485,26 @@
       "title": "追緝雙胞胎",
       "treasure": 0,
       "update_time": 20171109,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 19,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "hero_id": 4,
+      "icon": 2,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 4,
+      "summary": "抵達副都的瑟蕾斯蒂一行人突然被捲入戰鬥中，瑟蕾斯蒂行蹤不明。 究竟是否能夠平安無事找到瑟蕾斯蒂嗎。",
+      "timestamp": "1515119529000",
+      "title": "瑟蕾斯蒂誘拐事件",
+      "treasure": 0,
+      "update_time": 20180111,
       "x_hero_ary": 0
     }
   ],
