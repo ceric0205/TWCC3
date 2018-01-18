@@ -1,4 +1,4 @@
-﻿{
+{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -96,47 +96,7 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 18,
-          "is_mop_up": true,
-          "name": "大狩獵戰「聖王國編」",
-          "area_id": 1020,
-          "dist_start": 1515045600,
-          "event_start": 1515045600,
-          "event_end": 1515650400,
-          "dist_end": 1515736800,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "彩虹骨頭",
-              "icon": "Item_MopUp_01_A",
-              "target_enemy_id": "335136",
-              "target_point_val": "10",
-              "rare_target_enemy_id": "335137",
-              "rare_target_point_val": "40"
-            },
-            "point2": {
-              "name": "哥布林硬幣",
-              "icon": "Item_MopUp_01_B",
-              "target_enemy_id": "335134",
-              "target_point_val": "10",
-              "rare_target_enemy_id": "335135",
-              "rare_target_point_val": "40"
-            }
-          },
-          "info_list": [
-            "Tutorial_MopUp_01_01",
-            "Tutorial_MopUp_01_02",
-            "Tutorial_MopUp_01_03",
-            "Tutorial_MopUp_01_04"
-          ],
-          "rush": {
-            "rate": 0.05,
-            "validcnt": 1,
-            "text": "目標敵人大量出現！",
-            "bgm": 13
-          }
-        },
+        "cover": null,
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -154,21 +114,21 @@
     }
   ],
   "mVer": {
-    "charainfo": 1515483986,
-    "weaponlist": 1515652927,
-    "skilllist": 1515143963,
+    "charainfo": 1516175915,
+    "weaponlist": 1515987950,
+    "skilllist": 1515987952,
     "worldinfo": 1514519145,
     "episodeinfo": 1513681027,
-    "questdigest": 1515655988,
+    "questdigest": 1516242726,
     "itemlist": 1507284160,
-    "booklist": 1510192023,
+    "booklist": 1516162193,
     "motionlist": 1497253157,
     "missionlist": 1515035974,
     "repeatmissionlist": 1505977487,
     "bossinfo": 1515481598,
     "battleinfo": 1505977486,
     "homelist": 1469607167,
-    "supporterskill": 1515143961,
+    "supporterskill": 1515985931,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1490582346,
@@ -178,18 +138,18 @@
     "various": 1494830149,
     "eventplace": 1,
     "eventbadge": 1,
-    "denju": 1515483982,
+    "denju": 1515985929,
     "questroute": 1515119751,
     "enemyinfo": 1505977486,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1515638241,
+    "vignette": 1516241118,
     "spdrama": 1511423649,
-    "gachainfo": 1515637968,
+    "gachainfo": 1516177391,
     "questtree": 1515482543,
-    "eventareainfo": 1515405974,
+    "eventareainfo": 1515994892,
     "coverinfo": 1515031582,
     "reload": 1500271199,
-    "servertime": 1515663976
+    "servertime": 1516266604
   }
 }

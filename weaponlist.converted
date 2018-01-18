@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1515661199,
+  "deceive": 1516265965,
   "weaponlist": [
     {
       "id": 1,
@@ -15408,7 +15408,7 @@
     },
     {
       "id": 85319,
-      "name": "邪惡之銃",
+      "name": "罪惡之銃",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -15423,7 +15423,7 @@
     },
     {
       "id": 85320,
-      "name": "貝提托姆之銃",
+      "name": "貝蒂托姆之銃",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -15438,7 +15438,7 @@
     },
     {
       "id": 85321,
-      "name": "果實禍銃",
+      "name": "果實的禍銃",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -15453,7 +15453,7 @@
     },
     {
       "id": 85322,
-      "name": "卡・洛茲突刺",
+      "name": "卡・洛茲",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -26171,7 +26171,7 @@
     {
       "evol_dst": 85319,
       "id": 85319,
-      "name": "邪惡之銃",
+      "name": "罪惡之銃",
       "profile": "エイルニルス初期武器",
       "rank_limit": 2,
       "rarity": 4,
@@ -26184,7 +26184,7 @@
     {
       "evol_dst": 85320,
       "id": 85320,
-      "name": "貝提托姆之銃",
+      "name": "貝蒂托姆之銃",
       "profile": "エイルニルスアビ付武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -26197,7 +26197,7 @@
     {
       "evol_dst": 85321,
       "id": 85321,
-      "name": "果實禍銃",
+      "name": "果實的禍銃",
       "profile": "エイルニルス渦特効武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -26210,7 +26210,7 @@
     {
       "evol_dst": 85322,
       "id": 85322,
-      "name": "卡・洛茲突刺",
+      "name": "卡・洛茲",
       "profile": "サナオーリア初期武器",
       "rank_limit": 2,
       "rarity": 4,
