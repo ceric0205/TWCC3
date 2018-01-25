@@ -1,4 +1,4 @@
-{
+﻿{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -97,7 +97,45 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
+        "raid": {
+          "raid_id": 27,
+          "bg": 2000,
+          "event_start": 1492149600,
+          "event_end": 1517551200,
+          "close": 1517464800,
+          "name": "耶露妮魯斯襲來",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "5270",
+              "skill_id": "30054"
+            },
+            {
+              "cid": "5201",
+              "skill_id": "31009"
+            },
+            {
+              "cid": "5213",
+              "skill_id": "31009"
+            },
+            {
+              "cid": "5234",
+              "skill_id": "31009"
+            },
+            {
+              "cid": "5215",
+              "skill_id": "31009"
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 2,
+          "atk_up": 2,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30
+        },
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -114,42 +152,42 @@
     }
   ],
   "mVer": {
-    "charainfo": 1516175915,
+    "charainfo": 1516674725,
     "weaponlist": 1515987950,
-    "skilllist": 1515987952,
+    "skilllist": 1516594500,
     "worldinfo": 1514519145,
     "episodeinfo": 1513681027,
-    "questdigest": 1516242726,
+    "questdigest": 1516699292,
     "itemlist": 1507284160,
     "booklist": 1516162193,
     "motionlist": 1497253157,
     "missionlist": 1515035974,
     "repeatmissionlist": 1505977487,
-    "bossinfo": 1515481598,
+    "bossinfo": 1516594496,
     "battleinfo": 1505977486,
     "homelist": 1469607167,
-    "supporterskill": 1515985931,
+    "supporterskill": 1516594498,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1490582346,
     "weaponcompose": 1514951266,
     "teacherdisciple": 1455807601,
-    "weaponcomposeevent": 1,
+    "weaponcomposeevent": 1516847315,
     "various": 1494830149,
     "eventplace": 1,
     "eventbadge": 1,
-    "denju": 1515985929,
+    "denju": 1516594496,
     "questroute": 1515119751,
     "enemyinfo": 1505977486,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1516241118,
+    "vignette": 1516849678,
     "spdrama": 1511423649,
-    "gachainfo": 1516177391,
+    "gachainfo": 1516592224,
     "questtree": 1515482543,
-    "eventareainfo": 1515994892,
+    "eventareainfo": 1516700044,
     "coverinfo": 1515031582,
     "reload": 1500271199,
-    "servertime": 1516266604
+    "servertime": 1516880732
   }
 }

@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1516265958,
+  "deceive": 1516870802,
   "vignette": [
     {
       "cid": 7015,
@@ -33,6 +33,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_2",
+      "event_area_name": 1
+    },
+    {
+      "cid": 7571,
+      "v_motionid": 0,
+      "bg": 5100,
+      "memo": "[FF0000]【魔神來襲】[-] 這就是罪惡果實的滋～味～♪",
+      "start": 1506924000,
+      "end": 1517464800,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "raid",
       "event_area_name": 1
     },
     {
@@ -83,6 +101,24 @@
       "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": 1
+    },
+    {
+      "cid": 6280,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "頭抬～～太高了～！！",
+      "start": 1507305600,
+      "end": 1517464800,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "legend",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
     }
   ],
   "vignette_motion": [

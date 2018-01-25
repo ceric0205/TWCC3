@@ -1,5 +1,126 @@
-{
-  "deceive": 1513846810,
-  "weapon_compose_event": [],
+﻿{
+  "deceive": 1516870814,
+  "weapon_compose_event": [
+    {
+      "event_id": 14,
+      "start": 1516860000,
+      "end": 1517551200,
+      "event_type": 16,
+      "text": "【魔神襲來】期間鍊金",
+      "collabo": {
+        "border_quest_check": false,
+        "img_name": "",
+        "first_message": "",
+        "hit_message": "",
+        "hit_voice": ""
+      },
+      "recipe": [
+        {
+          "target_id": 0,
+          "data": {
+            "weapon_id": 85319,
+            "material": [
+              26204,
+              26204,
+              26204,
+              26204,
+              26204
+            ]
+          }
+        },
+        {
+          "target_id": 1,
+          "data": {
+            "weapon_id": 85322,
+            "material": [
+              26205,
+              26205,
+              26205,
+              26205,
+              26205
+            ]
+          }
+        },
+        {
+          "target_id": 2,
+          "data": {
+            "weapon_id": 85320,
+            "material": [
+              85319,
+              85319,
+              85319,
+              85319,
+              85319
+            ]
+          }
+        },
+        {
+          "target_id": 3,
+          "data": {
+            "weapon_id": 85320,
+            "material": [
+              85319,
+              85319,
+              85319,
+              85319,
+              85322
+            ]
+          }
+        },
+        {
+          "target_id": 4,
+          "data": {
+            "weapon_id": 85320,
+            "material": [
+              85319,
+              85319,
+              85319,
+              85322,
+              85322
+            ]
+          }
+        },
+        {
+          "target_id": 5,
+          "data": {
+            "weapon_id": 85320,
+            "material": [
+              85319,
+              85319,
+              85322,
+              85322,
+              85322
+            ]
+          }
+        },
+        {
+          "target_id": 6,
+          "data": {
+            "weapon_id": 85320,
+            "material": [
+              85319,
+              85322,
+              85322,
+              85322,
+              85322
+            ]
+          }
+        },
+        {
+          "target_id": 7,
+          "data": {
+            "weapon_id": 85320,
+            "material": [
+              85322,
+              85322,
+              85322,
+              85322,
+              85322
+            ]
+          }
+        }
+      ]
+    }
+  ],
   "res": 0
 }
