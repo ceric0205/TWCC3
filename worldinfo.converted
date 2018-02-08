@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1515056384,
+  "deceive": 1518084201,
   "area": [
     {
       "areaId": 1,
@@ -11,7 +11,7 @@
       "sx": 2400,
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 200,
       "ypos": -60
@@ -26,7 +26,7 @@
       "sx": 1700,
       "sy": 1385,
       "tex": "main_gui_AreaMap_02",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 330,
       "ypos": -135
@@ -41,7 +41,7 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_03",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 345,
       "ypos": 40
@@ -56,7 +56,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_04",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 150,
       "ypos": 120
@@ -71,7 +71,7 @@
       "sx": 2002,
       "sy": 1218,
       "tex": "main_gui_AreaMap_05",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 270,
       "ypos": 206
@@ -86,7 +86,7 @@
       "sx": 1916,
       "sy": 1136,
       "tex": "main_gui_AreaMap_06",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 49,
       "ypos": -65
@@ -101,7 +101,7 @@
       "sx": 2400,
       "sy": 1200,
       "tex": "main_gui_AreaMap_10",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 2,
       "xpos": 285,
       "ypos": -151
@@ -116,9 +116,9 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_11",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 2,
-      "xpos": 0,
+      "xpos": 30,
       "ypos": -99
     },
     {
@@ -131,7 +131,7 @@
       "sx": 2000,
       "sy": 2000,
       "tex": "main_gui_AreaMap_12",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 2,
       "xpos": 140,
       "ypos": 160
@@ -146,7 +146,7 @@
       "sx": 2000,
       "sy": 1000,
       "tex": "main_gui_AreaMap_13",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 2,
       "xpos": 330,
       "ypos": 100
@@ -161,7 +161,7 @@
       "sx": 1200,
       "sy": 2100,
       "tex": "main_gui_AreaMap_14",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 3,
       "xpos": 215,
       "ypos": -140
@@ -176,7 +176,7 @@
       "sx": 2300,
       "sy": 1380,
       "tex": "main_gui_AreaMap_15",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 3,
       "xpos": 47,
       "ypos": 52
@@ -191,7 +191,7 @@
       "sx": 1800,
       "sy": 1350,
       "tex": "main_gui_AreaMap_16",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 3,
       "xpos": 270,
       "ypos": 196
@@ -206,7 +206,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0001",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -221,7 +221,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0011",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -236,7 +236,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0021",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -251,7 +251,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0031",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -266,7 +266,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0041",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -281,7 +281,22 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
+      "worldId": 5,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 38,
+      "chara": 0,
+      "icon": "61",
+      "name": "外海",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1513670318070",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -296,7 +311,7 @@
       "sx": 2000,
       "sy": 1667,
       "tex": "main_gui_AreaMap_17",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 4,
       "xpos": 262,
       "ypos": -12
@@ -311,7 +326,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": 1,
       "xpos": 14,
       "ypos": 145
@@ -326,7 +341,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -341,7 +356,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -356,7 +371,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -371,7 +386,7 @@
       "sx": 1300,
       "sy": 900,
       "tex": "main_gui_AreaMap_1002",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -386,7 +401,7 @@
       "sx": 1723,
       "sy": 1001,
       "tex": "main_gui_AreaMap_1007",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -401,7 +416,7 @@
       "sx": 3200,
       "sy": 1100,
       "tex": "main_gui_AreaMap_1008",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -416,7 +431,7 @@
       "sx": 2880,
       "sy": 650,
       "tex": "main_gui_AreaMap_1009",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -431,7 +446,7 @@
       "sx": 1152,
       "sy": 2500,
       "tex": "main_gui_AreaMap_1010",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -446,7 +461,7 @@
       "sx": 1700,
       "sy": 1398,
       "tex": "main_gui_AreaMap_1011",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -461,7 +476,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_1012",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -476,7 +491,7 @@
       "sx": 1916,
       "sy": 1336,
       "tex": "main_gui_AreaMap_1013",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -491,7 +506,7 @@
       "sx": 1447,
       "sy": 1400,
       "tex": "main_gui_AreaMap_1014",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -506,7 +521,7 @@
       "sx": 1152,
       "sy": 3300,
       "tex": "main_gui_AreaMap_1015",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -521,7 +536,7 @@
       "sx": 1516,
       "sy": 2500,
       "tex": "main_gui_AreaMap_1016",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -536,7 +551,7 @@
       "sx": 2000,
       "sy": 2200,
       "tex": "main_gui_AreaMap_1017",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -551,7 +566,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_1018",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -566,7 +581,7 @@
       "sx": 2560,
       "sy": 2000,
       "tex": "main_gui_AreaMap_1019",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -581,7 +596,37 @@
       "sx": 2560,
       "sy": 2000,
       "tex": "main_gui_AreaMap_1020",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1021,
+      "chara": 2,
+      "icon": "-1",
+      "name": "泳裝踏破",
+      "open": 0,
+      "rank": 0,
+      "sx": 2500,
+      "sy": 1600,
+      "tex": "main_gui_AreaMap_1021",
+      "timestamp": "1513670318070",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1022,
+      "chara": 2,
+      "icon": "-1",
+      "name": "聖王國踏破",
+      "open": 0,
+      "rank": 0,
+      "sx": 1152,
+      "sy": 3300,
+      "tex": "main_gui_AreaMap_1022",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -596,7 +641,7 @@
       "sx": 2400,
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
-      "timestamp": "1505977485454",
+      "timestamp": "1513670318070",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -4653,7 +4698,7 @@
       "bg": 51,
       "gacha": 0,
       "icon": 3002,
-      "name": "骷髏居住的洞窟",
+      "name": "哥布林居住的洞窟",
       "placeId": 2,
       "ver3_flag": 1,
       "x": -450,
@@ -4730,6 +4775,234 @@
       "ver3_flag": 1,
       "x": 800,
       "y": 100
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 205,
+      "gacha": 0,
+      "icon": 19,
+      "name": "上陸地點",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": -950,
+      "y": 150
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 17,
+      "name": "茂密森林",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": -700,
+      "y": -80
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 205,
+      "gacha": 0,
+      "icon": 20,
+      "name": "休憩沙灘",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": -550,
+      "y": 180
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 19,
+      "name": "出航沙灘",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": -220,
+      "y": -150
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 205,
+      "gacha": 0,
+      "icon": 20,
+      "name": "第２之島",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": 100,
+      "y": 0
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 205,
+      "gacha": 0,
+      "icon": 20,
+      "name": "第３之島",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 500,
+      "y": 250
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 205,
+      "gacha": 0,
+      "icon": 19,
+      "name": "鬥士沙灘",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 800,
+      "y": 0
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 205,
+      "gacha": 0,
+      "icon": 24,
+      "name": "海賊沙灘",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 520,
+      "y": -200
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "bg": 200,
+      "gacha": 0,
+      "icon": 18,
+      "name": "封印魔方陣",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 350,
+      "y": -420
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 2,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 91,
+      "name": "18樓層",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 1230
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 413,
+      "bg": 264,
+      "gacha": 0,
+      "icon": 6,
+      "name": "中層-１",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 360,
+      "y": 890
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 413,
+      "bg": 264,
+      "gacha": 0,
+      "icon": 6,
+      "name": "中層-２",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": -360,
+      "y": 850
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 414,
+      "bg": 265,
+      "gacha": 0,
+      "icon": 13,
+      "name": "深層-１",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 240,
+      "y": 390
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 415,
+      "bg": 265,
+      "gacha": 0,
+      "icon": 13,
+      "name": "深層-２",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -380,
+      "y": 185
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 2,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 91,
+      "name": "50樓層",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": -100
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 416,
+      "bg": 266,
+      "gacha": 0,
+      "icon": 13,
+      "name": "龍之壺",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": -120,
+      "y": -660
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 109,
+      "bg": 62,
+      "gacha": 0,
+      "icon": 14,
+      "name": "58樓層",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 100,
+      "y": -1110
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 2,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 6,
+      "name": "59樓層",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 350,
+      "y": -1450
+    },
+    {
+      "areaId": 38,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "外海",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
     }
   ],
   "route": [
@@ -4737,1778 +5010,1890 @@
       "areaId": 1,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 1,
       "battleBg": 0,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 11
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 12
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 2,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 8,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 6,
       "battleBg": 8,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 12,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 11
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 11
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 9,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 11,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 12
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 11
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 101,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 101,
       "battleBg": 2,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 9,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 10
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1009,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1009,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1009,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1009,
       "battleBg": 13,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 8,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1011,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1011,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1011,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1011,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1011,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1011,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1015,
       "battleBg": 120,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 8
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 8,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 9
     },
     {
       "areaId": 1017,
       "battleBg": 107,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1017,
       "battleBg": 109,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1017,
       "battleBg": 108,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 1
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 2
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 3
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 4
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 5
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 6
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
       "to": 7
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1496223864572",
+      "timestamp": "1504848436675",
+      "to": 8
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1504848436675",
+      "to": 1
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1504848436675",
+      "to": 2
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1504848436675",
+      "to": 3
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 3,
+      "timestamp": "1504848436675",
+      "to": 4
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1504848436675",
+      "to": 5
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1504848436675",
+      "to": 6
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 6,
+      "timestamp": "1504848436675",
+      "to": 7
+    },
+    {
+      "areaId": 1021,
+      "battleBg": 1,
+      "from": 7,
+      "timestamp": "1504848436675",
+      "to": 8
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1504848436675",
+      "to": 1
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1504848436675",
+      "to": 2
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1504848436675",
+      "to": 3
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 3,
+      "timestamp": "1504848436675",
+      "to": 4
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1504848436675",
+      "to": 5
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1504848436675",
+      "to": 6
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 6,
+      "timestamp": "1504848436675",
+      "to": 7
+    },
+    {
+      "areaId": 1022,
+      "battleBg": 1,
+      "from": 7,
+      "timestamp": "1504848436675",
       "to": 8
     }
   ],
@@ -6517,7 +6902,7 @@
       "id": 0,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 0,
       "y": 0
     },
@@ -6525,7 +6910,7 @@
       "id": 1,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 0,
       "y": 0
     },
@@ -6533,7 +6918,7 @@
       "id": 2,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 0,
       "y": 0
     },
@@ -6541,7 +6926,7 @@
       "id": 3,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 0,
       "y": 0
     },
@@ -6549,7 +6934,7 @@
       "id": 42,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6557,7 +6942,7 @@
       "id": 43,
       "ofs_x": -100,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 440,
       "y": 640
     },
@@ -6565,7 +6950,7 @@
       "id": 44,
       "ofs_x": -110,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 405,
       "y": 640
     },
@@ -6573,7 +6958,7 @@
       "id": 45,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6581,7 +6966,7 @@
       "id": 46,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6589,7 +6974,7 @@
       "id": 47,
       "ofs_x": -120,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 330,
       "y": 640
     },
@@ -6597,7 +6982,7 @@
       "id": 48,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -6605,7 +6990,7 @@
       "id": 49,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6613,7 +6998,7 @@
       "id": 50,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6621,7 +7006,7 @@
       "id": 51,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6629,7 +7014,7 @@
       "id": 52,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6637,7 +7022,7 @@
       "id": 53,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6645,7 +7030,7 @@
       "id": 54,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6653,7 +7038,7 @@
       "id": 55,
       "ofs_x": -110,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 389,
       "y": 640
     },
@@ -6661,7 +7046,7 @@
       "id": 56,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 513
     },
@@ -6669,7 +7054,7 @@
       "id": 57,
       "ofs_x": -110,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 337,
       "y": 640
     },
@@ -6677,7 +7062,7 @@
       "id": 58,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6685,7 +7070,7 @@
       "id": 60,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 556
     },
@@ -6693,7 +7078,7 @@
       "id": 61,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6701,7 +7086,7 @@
       "id": 62,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6709,7 +7094,7 @@
       "id": 200,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6717,7 +7102,7 @@
       "id": 201,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6725,7 +7110,7 @@
       "id": 202,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6733,7 +7118,7 @@
       "id": 203,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6741,7 +7126,7 @@
       "id": 204,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6749,7 +7134,7 @@
       "id": 205,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6757,7 +7142,7 @@
       "id": 206,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6765,7 +7150,7 @@
       "id": 207,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6773,7 +7158,7 @@
       "id": 208,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6781,7 +7166,7 @@
       "id": 209,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6789,7 +7174,7 @@
       "id": 210,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6797,7 +7182,7 @@
       "id": 211,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6805,7 +7190,7 @@
       "id": 212,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6813,7 +7198,7 @@
       "id": 213,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6821,7 +7206,7 @@
       "id": 214,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6829,7 +7214,7 @@
       "id": 215,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6837,7 +7222,7 @@
       "id": 216,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6845,7 +7230,7 @@
       "id": 217,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6853,7 +7238,7 @@
       "id": 218,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6861,7 +7246,7 @@
       "id": 219,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6869,7 +7254,7 @@
       "id": 220,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6877,7 +7262,7 @@
       "id": 221,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6885,7 +7270,7 @@
       "id": 222,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6893,7 +7278,7 @@
       "id": 223,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6901,7 +7286,7 @@
       "id": 224,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6909,7 +7294,7 @@
       "id": 225,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6917,7 +7302,7 @@
       "id": 226,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6925,7 +7310,7 @@
       "id": 227,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6933,7 +7318,7 @@
       "id": 228,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6941,7 +7326,7 @@
       "id": 229,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6949,7 +7334,7 @@
       "id": 232,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6957,7 +7342,7 @@
       "id": 230,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6965,7 +7350,7 @@
       "id": 231,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6973,7 +7358,7 @@
       "id": 233,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6981,7 +7366,7 @@
       "id": 234,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6989,7 +7374,7 @@
       "id": 235,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -6997,7 +7382,7 @@
       "id": 236,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7005,7 +7390,7 @@
       "id": 237,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7013,7 +7398,7 @@
       "id": 238,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7021,7 +7406,7 @@
       "id": 239,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1136,
       "y": 413
     },
@@ -7029,7 +7414,7 @@
       "id": 240,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1136,
       "y": 413
     },
@@ -7037,7 +7422,7 @@
       "id": 241,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1136,
       "y": 413
     },
@@ -7045,7 +7430,7 @@
       "id": 242,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7053,7 +7438,7 @@
       "id": 243,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1151,
       "y": 384
     },
@@ -7061,7 +7446,7 @@
       "id": 244,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7069,7 +7454,7 @@
       "id": 245,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7077,7 +7462,7 @@
       "id": 246,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7085,7 +7470,7 @@
       "id": 247,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7093,7 +7478,7 @@
       "id": 248,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7101,7 +7486,7 @@
       "id": 249,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7109,7 +7494,23 @@
       "id": 251,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
+      "x": 1152,
+      "y": 488
+    },
+    {
+      "id": 252,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1507105138603",
+      "x": 1152,
+      "y": 488
+    },
+    {
+      "id": 254,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7117,7 +7518,7 @@
       "id": 1000,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7125,7 +7526,7 @@
       "id": 1001,
       "ofs_x": -100,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 427,
       "y": 640
     },
@@ -7133,7 +7534,7 @@
       "id": 1002,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1136,
       "y": 640
     },
@@ -7141,7 +7542,7 @@
       "id": 1003,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 488
     },
@@ -7149,7 +7550,7 @@
       "id": 1005,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7157,7 +7558,7 @@
       "id": 1006,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7165,7 +7566,7 @@
       "id": 1023,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7173,7 +7574,7 @@
       "id": 1024,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7181,7 +7582,7 @@
       "id": 1025,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7189,7 +7590,7 @@
       "id": 1026,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7197,7 +7598,7 @@
       "id": 1027,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7205,7 +7606,7 @@
       "id": 1028,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7213,7 +7614,7 @@
       "id": 2000,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 384
     },
@@ -7221,7 +7622,7 @@
       "id": 3000,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7229,7 +7630,7 @@
       "id": 3001,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7237,7 +7638,7 @@
       "id": 3002,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7245,7 +7646,7 @@
       "id": 4000,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1699,
       "y": 1260
     },
@@ -7253,7 +7654,7 @@
       "id": 4001,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7261,7 +7662,7 @@
       "id": 4002,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 2400,
       "y": 1200
     },
@@ -7269,7 +7670,7 @@
       "id": 4003,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7277,7 +7678,7 @@
       "id": 4004,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7285,7 +7686,7 @@
       "id": 4005,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7293,7 +7694,7 @@
       "id": 4006,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7301,7 +7702,7 @@
       "id": 4007,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7309,7 +7710,7 @@
       "id": 4008,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7317,7 +7718,7 @@
       "id": 4009,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7325,7 +7726,7 @@
       "id": 4010,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7333,7 +7734,7 @@
       "id": 4011,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
     },
@@ -7341,7 +7742,7 @@
       "id": 4012,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1402,
       "y": 902
     },
@@ -7349,9 +7750,41 @@
       "id": 5000,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1488270319566",
+      "timestamp": "1507105138603",
       "x": 1152,
       "y": 640
+    },
+    {
+      "id": 262,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1507105138603",
+      "x": 1152,
+      "y": 488
+    },
+    {
+      "id": 264,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1507105138603",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 265,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1507105138603",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 266,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1507105138603",
+      "x": 1152,
+      "y": 384
     }
   ],
   "world": [
@@ -7359,25 +7792,25 @@
       "id": "1",
       "name": "尤古度大陸",
       "text": "以人類為中心，森妖精、火妖精等各種族一起生活的大陸。被稱之為最邊緣的大陸，據說從來沒有來探訪或是旅行的人。",
-      "timestamp": "1456828650175"
+      "timestamp": "1513670318070"
     },
     {
       "id": "2",
       "name": "交鎖的海域",
       "text": "由各個小型島嶼以及三個大陸所組成的海域。各大陸也發展獨自的文化，據說裡面有不同於人類的種族存在。",
-      "timestamp": "1456828650175"
+      "timestamp": "1513670318070"
     },
     {
       "id": "3",
       "name": "起源的海域",
       "text": "經過漫長的航海而到達的海域。從煤煙所覆蓋的大陸開始 一切籠罩在謎團之中。",
-      "timestamp": "1456828650175"
+      "timestamp": "1513670318070"
     },
     {
       "id": "4",
       "name": "彼方的海域",
       "text": "被濃霧所封鎖的未知海域。目前還沒有進行調查，據說在濃霧的另外一頭有人類未曾踏上的大陸及島嶼。",
-      "timestamp": "1456828650175"
+      "timestamp": "1513670318070"
     }
   ],
   "chara_place": [

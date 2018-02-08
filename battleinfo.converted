@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1513251146,
+  "deceive": 1518084197,
   "battle_bg": [
     {
       "id": 1,
@@ -410,6 +410,30 @@
       "change_flag": 0
     },
     {
+      "id": 134,
+      "flag": 0,
+      "bg_name": "狹縫",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 138,
+      "flag": 262144,
+      "bg_name": "城中",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 139,
+      "flag": 33554432,
+      "bg_name": "火口",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
       "id": 400,
       "flag": 8192,
       "bg_name": "夜晚的祭典",
@@ -509,6 +533,54 @@
       "id": 412,
       "flag": 0,
       "bg_name": "？？？",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 413,
+      "flag": 4,
+      "bg_name": "森林",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 414,
+      "flag": 128,
+      "bg_name": "遺跡",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 415,
+      "flag": 64,
+      "bg_name": "洞窟",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 416,
+      "flag": 128,
+      "bg_name": "遺跡",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 417,
+      "flag": 4,
+      "bg_name": "森林",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 666,
+      "flag": 0,
+      "bg_name": "街中夜",
       "effect_s": "",
       "effect_l": "",
       "change_flag": 0

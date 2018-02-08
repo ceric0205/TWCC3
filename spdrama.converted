@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1513250481,
+  "deceive": 1518084197,
   "sp_drama_list": [
     {
       "drama_id": 3,
@@ -16,6 +16,22 @@
       "trigger": 2
     },
     {
+      "drama_id": 10,
+      "end": 1498283999,
+      "hero": -1,
+      "start": 1498111200,
+      "title": "亂入?索爾",
+      "trigger": 4
+    },
+    {
+      "drama_id": 11,
+      "end": 1498456799,
+      "hero": -1,
+      "start": 1498284000,
+      "title": "亂入?愛爾菲特",
+      "trigger": 4
+    },
+    {
       "drama_id": 4,
       "end": 1475161200,
       "start": 1472655600,
@@ -23,11 +39,11 @@
       "trigger": 4
     },
     {
-      "drama_id": 1,
-      "end": 1893423600,
-      "start": 1472655600,
-      "title": "一切的開端",
-      "trigger": 1
+      "drama_id": 5,
+      "end": 1485824399,
+      "start": 1483596000,
+      "title": "序章",
+      "trigger": 4
     },
     {
       "drama_id": 6,
@@ -53,26 +69,187 @@
       "trigger": 3
     },
     {
-      "drama_id": 5,
-      "end": 1485824399,
-      "start": 1483596000,
-      "title": "序章",
+      "drama_id": 12,
+      "end": 1498629599,
+      "hero": -1,
+      "start": 1498456800,
+      "title": "亂入?蒂姬",
       "trigger": 4
     },
     {
+      "drama_id": 13,
+      "end": 1498802399,
+      "hero": -1,
+      "start": 1498629600,
+      "title": "亂入?凱恩",
+      "trigger": 4
+    },
+    {
+      "drama_id": 14,
+      "end": 1500530399,
+      "hero": 0,
+      "start": 1498802400,
+      "title": "4週年紀念活動開催！",
+      "trigger": 3
+    },
+    {
       "drama_id": 7,
-      "end": 1512626400,
-      "start": 1510885263,
+      "end": 1490680799,
+      "start": 1489384800,
       "title": "絕望的王子與被詛咒的血脈",
       "trigger": 4
     },
     {
-      "drama_id": 10,
-      "end": 1510293600,
-      "hero": 2,
-      "start": 1510207200,
-      "title": "尾聲",
+      "drama_id": 15,
+      "end": 1500512399,
+      "hero": 1,
+      "start": 1499752800,
+      "title": "治癒教祖永不終結的惡夢",
       "trigger": 4
+    },
+    {
+      "drama_id": 16,
+      "end": 1546009199,
+      "hero": 0,
+      "start": 1500519600,
+      "title": "編年史之塔",
+      "trigger": 5
+    },
+    {
+      "drama_id": 17,
+      "end": 1502949599,
+      "hero": 4,
+      "start": 1501826400,
+      "title": "魔法少女奈葉 Reflection 聯動活動開催！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 18,
+      "end": 1503381599,
+      "hero": 2,
+      "start": 1503036000,
+      "title": "5章愛麗婕篇追加！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 19,
+      "end": 1505109599,
+      "hero": 4,
+      "start": 1504677600,
+      "title": "第5章瑟蕾斯蒂篇追加＆酒場SSR出現率提升活動開催！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 20,
+      "end": 1505782799,
+      "hero": 2,
+      "start": 1505196000,
+      "title": "膽小魔神與女神轉生",
+      "trigger": 4
+    },
+    {
+      "drama_id": 27,
+      "end": 1546009199,
+      "hero": 0,
+      "start": 1505800800,
+      "title": "絆之大出?",
+      "trigger": 6
+    },
+    {
+      "drama_id": 21,
+      "end": 1505887199,
+      "hero": 0,
+      "start": 1505800800,
+      "title": "【24小時限定】角色介紹?法帝瑪",
+      "trigger": 4
+    },
+    {
+      "drama_id": 22,
+      "end": 1505973599,
+      "hero": 0,
+      "start": 1505887200,
+      "title": "【24小時限定】角色介紹?貝爾菲德",
+      "trigger": 4
+    },
+    {
+      "drama_id": 23,
+      "end": 1506059999,
+      "hero": 0,
+      "start": 1505973600,
+      "title": "【２４小時限定】角色介紹?歐若蕾塔",
+      "trigger": 4
+    },
+    {
+      "drama_id": 24,
+      "end": 1506146399,
+      "hero": 0,
+      "start": 1506060000,
+      "title": "【２４小時限定】角色介紹?莫爾芭",
+      "trigger": 4
+    },
+    {
+      "drama_id": 25,
+      "end": 1506232799,
+      "hero": 0,
+      "start": 1506146400,
+      "title": "【２４小時限定】角色介紹?珈吉吉娜",
+      "trigger": 4
+    },
+    {
+      "drama_id": 26,
+      "end": 1506319199,
+      "hero": 0,
+      "start": 1506232800,
+      "title": "【２４小時限定】角色介紹?多莉休",
+      "trigger": 4
+    },
+    {
+      "drama_id": 29,
+      "end": 1506405599,
+      "hero": 0,
+      "start": 1506319200,
+      "title": "【２４小時限定】角色介紹?琪可露",
+      "trigger": 4
+    },
+    {
+      "drama_id": 28,
+      "end": 1507010399,
+      "hero": 3,
+      "start": 1506405600,
+      "title": "5章『艾夏露篇』追加 & 龍湖祭活動開催！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 30,
+      "end": 1507597199,
+      "hero": 0,
+      "start": 1507096800,
+      "title": "絆之軌跡公開",
+      "trigger": 3
+    },
+    {
+      "drama_id": 1,
+      "end": 1893423600,
+      "hero": -1,
+      "start": 1472655600,
+      "title": "一切的開端",
+      "trigger": 1
+    },
+    {
+      "drama_id": 31,
+      "end": 1508392799,
+      "hero": 1,
+      "start": 1507615200,
+      "title": "「異形與異形」",
+      "trigger": 4
+    },
+    {
+      "drama_id": 32,
+      "end": 1509343199,
+      "hero": 0,
+      "start": 1508824800,
+      "title": "絆之軌跡公開",
+      "trigger": 3
     }
   ],
   "res": 0

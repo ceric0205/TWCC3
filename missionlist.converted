@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1515056392,
+  "deceive": 1518084212,
   "missionlist": [
     {
       "id": 1,
@@ -6711,7 +6711,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "用必殺技戰鬥吧",
+      "title": "轉友情轉蛋吧",
       "sub_id": "Start004",
       "max_num": 1,
       "reward": {
@@ -6719,7 +6719,7 @@
         "id": null,
         "val": "2"
       },
-      "help": "用必殺技打倒\\n 最後的敵人吧！"
+      "help": "請注意挑戰轉蛋\\n 不會計數！"
     },
     {
       "id": 3005,
@@ -6727,7 +6727,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "達成連鎖吧",
+      "title": "讓任一每日任務的寶箱全開",
       "sub_id": "Start005",
       "max_num": 1,
       "reward": {
@@ -6735,7 +6735,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "依序使用夥伴的必殺技\\n 就可以達成連鎖喔！"
+      "help": "任務在任務區域！\\n任何難易度皆可以！"
     },
     {
       "id": 3006,
@@ -6759,7 +6759,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "帶著等級20以上的夥伴前往戰鬥吧",
+      "title": "完成限界突破吧",
       "sub_id": "Start007",
       "max_num": 1,
       "reward": {
@@ -6767,7 +6767,7 @@
         "id": null,
         "val": "2"
       },
-      "help": "請注意\\n 協助者不算在內"
+      "help": "任何職業或星等\\n 的角色都可以呦！"
     },
     {
       "id": 3008,
@@ -6775,7 +6775,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "同時達成戰鬥全部獎勵吧",
+      "title": "帶著等級20以上的夥伴去戰鬥吧",
       "sub_id": "Start008",
       "max_num": 1,
       "reward": {
@@ -6783,7 +6783,7 @@
         "id": null,
         "val": "2"
       },
-      "help": "沒有負傷者狀況下快速地\\n 用用必殺技擊殺吧！"
+      "help": "請注意\\n 協助者並不會計算喔！"
     },
     {
       "id": 3009,
@@ -6791,7 +6791,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "將將赫利歐斯加進隊伍戰鬥吧",
+      "title": "使用必殺技過關吧",
       "sub_id": "Start009",
       "max_num": 1,
       "reward": {
@@ -6799,7 +6799,7 @@
         "id": null,
         "val": "2"
       },
-      "help": "玩過玩過第3部赫利歐斯篇第1話，\\n 就會成為夥伴喔！"
+      "help": "使用必殺技\\n 打倒最後一位敵人！"
     },
     {
       "id": 3010,
@@ -6807,7 +6807,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "將愛麗婕加進隊伍戰鬥吧",
+      "title": "接CHAIN吧",
       "sub_id": "Start010",
       "max_num": 1,
       "reward": {
@@ -6815,7 +6815,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "玩過第3部赫利歐斯篇第1話\\n 就會成為夥伴喔！"
+      "help": "在夥伴發動必殺技一段時間內再發動\\n其他人的必殺技會接CAHIN！"
     },
     {
       "id": 3011,
@@ -6823,7 +6823,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "將天津加進隊伍戰鬥吧",
+      "title": "獲得無負傷者獎勵",
       "sub_id": "Start011",
       "max_num": 1,
       "reward": {
@@ -6831,7 +6831,7 @@
         "id": null,
         "val": "3"
       },
-      "help": "玩過第3部愛麗婕篇第1話\\n 就會成為夥伴喔！"
+      "help": "過關時沒有人死亡！"
     },
     {
       "id": 3012,
@@ -6839,7 +6839,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "將艾夏露加進隊伍戰鬥吧",
+      "title": "獲得時間獎勵",
       "sub_id": "Start012",
       "max_num": 1,
       "reward": {
@@ -6847,7 +6847,7 @@
         "id": null,
         "val": "3"
       },
-      "help": "玩過第3部天津篇第1話\\n 就會成為夥伴喔！"
+      "help": "速速進攻早點結束戰鬥！"
     },
     {
       "id": 3013,
@@ -6855,7 +6855,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "將瑟蕾斯蒂加進隊伍戰鬥吧",
+      "title": "獲得所有戰鬥獎勵",
       "sub_id": "Start013",
       "max_num": 1,
       "reward": {
@@ -6863,7 +6863,7 @@
         "id": null,
         "val": "3"
       },
-      "help": "玩過第3部艾夏露篇第1話\\n 就會成為夥伴喔！"
+      "help": "快速、無人死亡\\n 並且使用必殺技過關！"
     },
     {
       "id": 3014,
@@ -6898,112 +6898,238 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 308821,
+      "id": 308831,
       "type": 1,
-      "start_time": 1515081600,
-      "end_time": 1515823200,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
       "quest_id": [
-        247711
+        301601
       ],
-      "title": "大吉大利，今晚吃雞！之一",
+      "title": "參加踏破活動！",
       "sub_id": "Event 001",
-      "max_num": 20,
+      "max_num": 1,
       "reward": {
-        "type": "weapon_ev",
-        "id": "85436",
+        "type": "stone",
+        "id": null,
         "val": "1"
       },
-      "help": "在「酉翼天翔」任務中擊倒20隻公雞！"
+      "help": "通過關卡「前進精靈島！」。"
     },
     {
-      "id": 308822,
+      "id": 308832,
       "type": 1,
-      "start_time": 1515081600,
-      "end_time": 1515823200,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
       "quest_id": [
-        247711
+        301627
       ],
-      "title": "大吉大利，今晚吃雞！之二",
+      "title": "以必殺技給予最後一擊！",
       "sub_id": "Event 002",
-      "max_num": 18,
+      "max_num": 3,
+      "reward": {
+        "type": "item",
+        "id": 4,
+        "val": "1"
+      },
+      "help": "在關卡「著陸地點」以必殺技給予最後一擊3次！"
+    },
+    {
+      "id": 308833,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301628
+      ],
+      "title": "用<斬>類型武器給予最後一擊！",
+      "sub_id": "Event 003",
+      "max_num": 3,
       "reward": {
         "type": "weapon_rf",
         "id": "93902",
-        "val": "5"
-      },
-      "help": "在「酉翼天翔」任務中擊倒18隻公雞！"
-    },
-    {
-      "id": 308823,
-      "type": 1,
-      "start_time": 1515081600,
-      "end_time": 1515823200,
-      "quest_id": [
-        247711
-      ],
-      "title": "完成「酉翼天翔」吧！",
-      "sub_id": "Event 003",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90012",
-        "val": "12"
-      },
-      "help": "將「酉翼天翔」任務過關一次！"
-    },
-    {
-      "id": 308824,
-      "type": 1,
-      "start_time": 1515081600,
-      "end_time": 1515823200,
-      "quest_id": [
-        247711
-      ],
-      "title": "全員無事地完成「酉翼天翔」吧！",
-      "sub_id": "Event 004",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90017",
-        "val": "6"
-      },
-      "help": "將「酉翼天翔」任務，無人死亡地過關一次！"
-    },
-    {
-      "id": 308825,
-      "type": 1,
-      "start_time": 1515081600,
-      "end_time": 1515823200,
-      "quest_id": [
-        247711
-      ],
-      "title": "冷靜完美地完成「酉翼天翔」吧！",
-      "sub_id": "Event 005",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90022",
         "val": "3"
       },
-      "help": "將「酉翼天翔」任務，快速、無人死亡，並以必殺技給予最後一擊吧！"
+      "help": "在關卡「夜之森」用<斬>類型的武器給予最後一擊3次！"
     },
     {
-      "id": 308826,
+      "id": 308834,
       "type": 1,
-      "start_time": 1515081600,
-      "end_time": 1515823200,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
       "quest_id": [
-        247711
+        301629
       ],
-      "title": "用SR以下的角色完成「酉翼天翔」吧！",
+      "title": "討伐點心魔像！",
+      "sub_id": "Event 004",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96172",
+        "val": "1"
+      },
+      "help": "在關卡「部落防衛」中打倒60隻「點心魔像」！"
+    },
+    {
+      "id": 308835,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301630
+      ],
+      "title": "給予巨大傷害！",
+      "sub_id": "Event 005",
+      "max_num": 30000,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90904",
+        "val": "3"
+      },
+      "help": "在關卡「北之森」一擊造成30000以上的傷害！"
+    },
+    {
+      "id": 308836,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301630
+      ],
+      "title": "讓3名夥伴完成2nd CHAIN！！",
       "sub_id": "Event 006",
       "max_num": 1,
       "reward": {
-        "type": "item",
-        "id": "1032",
+        "type": "weapon_ev",
+        "id": "96267",
         "val": "1"
       },
-      "help": "只用SR以下的角色將「酉翼天翔」任務過關一次！\\n協助者是SSR也沒關係喲！"
+      "help": "在關卡「北之森」中，讓3位夥伴連續施放必殺技！"
+    },
+    {
+      "id": 308837,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301627
+      ],
+      "title": "用<打>類型武器給予最後一擊！",
+      "sub_id": "Event 007",
+      "max_num": 3,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96266",
+        "val": "1"
+      },
+      "help": "在關卡「賭上真愛之戰」用<打>類型的武器給予最後一擊3次！"
+    },
+    {
+      "id": 308838,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301633
+      ],
+      "title": "討伐點心魔像！2",
+      "sub_id": "Event 008",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85159",
+        "val": "1"
+      },
+      "help": "在關卡「入侵路線」中打倒100隻「點心魔像」！"
+    },
+    {
+      "id": 308839,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301635
+      ],
+      "title": "奮起吧、戰士！",
+      "sub_id": "Event 009",
+      "max_num": 5,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85161",
+        "val": "1"
+      },
+      "help": "在關卡「位在森林裡的點心看守員」中使用戰士夥伴5次。\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 308840,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301635
+      ],
+      "title": "安全地通過關卡！",
+      "sub_id": "Event 010",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96265",
+        "val": "1"
+      },
+      "help": "通過關卡「位在森林裡的點心看守員」時不曾接關。"
+    },
+    {
+      "id": 308841,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301636
+      ],
+      "title": "讓5名夥伴完成MAX CHAIN！！",
+      "sub_id": "Event 011",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85160",
+        "val": "1"
+      },
+      "help": "在關卡「擊破點心軍團吧！」中完成MAX CHAIN！\\n只要5位夥伴連續施放必殺技即可達成MAX CHAIN！"
+    },
+    {
+      "id": 308842,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301636
+      ],
+      "title": "達成全部的戰鬥獎勵！",
+      "sub_id": "Event 012",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "在關卡「擊破點心軍團吧！」中，快速、無人死亡，並以必殺技給予最後一擊吧！！"
+    },
+    {
+      "id": 308843,
+      "type": 1,
+      "start_time": 1518674400,
+      "end_time": 1519365600,
+      "quest_id": [
+        301636
+      ],
+      "title": "與親密度高的夥伴一同挑戰！",
+      "sub_id": "Event 013",
+      "max_num": 1,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "使用親密度在10以上的夥伴，通過關卡「擊破點心軍團吧！」。"
     }
   ],
   "res": 0

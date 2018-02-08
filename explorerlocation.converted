@@ -1,10 +1,10 @@
 ﻿{
-  "deceive": 1513250502,
+  "deceive": 1518084230,
   "explorer_location": [
     {
       "location": 0,
       "name": "城砦",
-      "timestamp": "1490582345643",
+      "timestamp": "1516608634000",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -78,18 +78,25 @@
           "val": 1,
           "category_id": 10,
           "priority": 10
+        },
+        {
+          "type": "card",
+          "id": 6248,
+          "val": 1,
+          "category_id": 11,
+          "priority": 9
         }
       ]
     },
     {
       "location": 1,
       "name": "迷宮山脈",
-      "timestamp": "1490582345653",
+      "timestamp": "1516608634000",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": 332014,
       "tab": 1,
-      "text": "達成下列條件其一即開放。\\n\\n・達成第3部主線故事\\n艾莉切篇:第1章第1話\\n\\n・達成第1部主線故事2章",
+      "text": "達成下列條件其一即開放。\\n\\n・達成第3部主線故事\\n愛麗婕篇:第1章第1話\\n\\n・達成第1部主線故事2章",
       "img_id": "search_area_icon_001",
       "gold": [
         {
@@ -158,18 +165,25 @@
           "val": 1,
           "category_id": 10,
           "priority": 10
+        },
+        {
+          "type": "card",
+          "id": 6248,
+          "val": 1,
+          "category_id": 11,
+          "priority": 9
         }
       ]
     },
     {
       "location": 2,
       "name": "古代遺跡",
-      "timestamp": "1490582345660",
+      "timestamp": "1516608634000",
       "quest_type": 2,
       "quest_id": 210310,
       "v3_quest_id": 333012,
       "tab": 1,
-      "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n艾榭兒篇:第1章第1話\\n\\n・達成第1部主線故事3章",
+      "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n艾夏露篇:第1章第1話\\n\\n・達成第1部主線故事3章",
       "img_id": "search_area_icon_002",
       "gold": [
         {
@@ -231,18 +245,25 @@
           "val": 1,
           "category_id": 10,
           "priority": 10
+        },
+        {
+          "type": "card",
+          "id": 6248,
+          "val": 1,
+          "category_id": 11,
+          "priority": 9
         }
       ]
     },
     {
       "location": 3,
       "name": "世界樹",
-      "timestamp": "1490582345667",
+      "timestamp": "1516608634000",
       "quest_type": 2,
       "quest_id": 210407,
       "v3_quest_id": 334014,
       "tab": 1,
-      "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n塞蓮篇:第1章第1話\\n\\n・達成第1部主線故事4章",
+      "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n瑟蕾斯蒂篇:第1章第1話\\n\\n・達成第1部主線故事4章",
       "img_id": "search_area_icon_003",
       "gold": [
         {
@@ -304,6 +325,13 @@
           "val": 1,
           "category_id": 10,
           "priority": 10
+        },
+        {
+          "type": "card",
+          "id": 6248,
+          "val": 1,
+          "category_id": 11,
+          "priority": 9
         }
       ]
     },
@@ -312,7 +340,7 @@
       "name": "湖都",
       "start": 1460440800,
       "end": 1461200399,
-      "timestamp": "1490582345677",
+      "timestamp": "1516608634000",
       "quest_type": 2,
       "quest_id": 210310,
       "v3_quest_id": null,
@@ -385,7 +413,7 @@
     {
       "location": 5,
       "name": "火山",
-      "timestamp": "1490582345685",
+      "timestamp": "1516608634000",
       "quest_type": 2,
       "quest_id": 210607,
       "v3_quest_id": 335013,
@@ -452,88 +480,13 @@
           "val": 1,
           "category_id": 10,
           "priority": 9
-        }
-      ]
-    },
-    {
-      "location": 100,
-      "name": "ケ者の大陸",
-      "start": 1473141600,
-      "end": 1473901199,
-      "timestamp": "1490582345699",
-      "quest_type": 2,
-      "quest_id": 210206,
-      "v3_quest_id": null,
-      "tab": 4,
-      "text": "１部２章クリアで\\n開放されます",
-      "img_id": "search_area_icon_e01",
-      "gold": [
-        {
-          "interval_id": 1,
-          "val": 1000
         },
         {
-          "interval_id": 2,
-          "val": 3000
-        }
-      ],
-      "event_bg": 27,
-      "get_item": [
-        {
-          "type": "chara_rf",
-          "id": 90020,
+          "type": "card",
+          "id": 6248,
           "val": 1,
-          "category_id": 2,
-          "priority": 7
-        },
-        {
-          "type": "weapon_rf",
-          "id": 93021,
-          "val": 1,
-          "category_id": 3,
+          "category_id": 11,
           "priority": 8
-        },
-        {
-          "type": "item",
-          "id": 1011,
-          "val": 1,
-          "category_id": 7,
-          "priority": 6
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85100,
-          "val": 1,
-          "category_id": 8,
-          "priority": 1
-        },
-        {
-          "type": "weapon_ev",
-          "id": 26008,
-          "val": 1,
-          "category_id": 8,
-          "priority": 2
-        },
-        {
-          "type": "weapon_ev",
-          "id": 96316,
-          "val": 1,
-          "category_id": 8,
-          "priority": 3
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85068,
-          "val": 1,
-          "category_id": 8,
-          "priority": 4
-        },
-        {
-          "type": "weapon_ev",
-          "id": 96306,
-          "val": 1,
-          "category_id": 8,
-          "priority": 5
         }
       ]
     },
@@ -542,7 +495,7 @@
       "name": "コラボ",
       "start": 1454392800,
       "end": 1455515999,
-      "timestamp": "1490582345708",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -685,7 +638,7 @@
       "name": "神殿",
       "start": 1489989600,
       "end": 1490075999,
-      "timestamp": "1490582345718",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -774,7 +727,7 @@
       "name": "ダンジョン",
       "start": 1466488800,
       "end": 1467698399,
-      "timestamp": "1490582345737",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -851,7 +804,7 @@
       "name": "銀座",
       "start": 1475215200,
       "end": 1475733599,
-      "timestamp": "1490582345753",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -933,7 +886,7 @@
       "name": "九領(祭り)",
       "start": 1475733600,
       "end": 1479016799,
-      "timestamp": "1490582345762",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1048,7 +1001,7 @@
       "name": "祠",
       "start": 1479103200,
       "end": 1479949199,
-      "timestamp": "1490582345773",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1146,7 +1099,7 @@
       "name": "メメントス",
       "start": 1484805600,
       "end": 1485824399,
-      "timestamp": "1490582345783",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1254,100 +1207,11 @@
       ]
     },
     {
-      "location": 109,
-      "name": "神殿",
-      "start": 1490680800,
-      "end": 1491458399,
-      "timestamp": "1490582345833",
-      "quest_type": 2,
-      "quest_id": 210206,
-      "v3_quest_id": null,
-      "tab": 4,
-      "text": "１部２章クリアで\\n開放されます",
-      "img_id": "search_area_icon_006",
-      "gold": [
-        {
-          "interval_id": 1,
-          "val": 1000
-        },
-        {
-          "interval_id": 2,
-          "val": 3000
-        }
-      ],
-      "event_bg": 30,
-      "get_item": [
-        {
-          "type": "card",
-          "id": 58011,
-          "val": 1,
-          "category_id": 103,
-          "priority": 1
-        },
-        {
-          "type": "card",
-          "id": 58012,
-          "val": 1,
-          "category_id": 104,
-          "priority": 2
-        },
-        {
-          "type": "card",
-          "id": 58008,
-          "val": 1,
-          "category_id": 105,
-          "priority": 3
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85247,
-          "val": 1,
-          "category_id": 106,
-          "priority": 4
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85248,
-          "val": 1,
-          "category_id": 106,
-          "priority": 5
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85244,
-          "val": 1,
-          "category_id": 106,
-          "priority": 6
-        },
-        {
-          "type": "item",
-          "id": 1001,
-          "val": 1,
-          "category_id": 7,
-          "priority": 8
-        },
-        {
-          "type": "item",
-          "id": 1002,
-          "val": 1,
-          "category_id": 7,
-          "priority": 9
-        },
-        {
-          "type": "item",
-          "id": 7,
-          "val": 1,
-          "category_id": 7,
-          "priority": 7
-        }
-      ]
-    },
-    {
       "location": 108,
       "name": "仄暗い坑道",
       "start": 1487224800,
       "end": 1488243599,
-      "timestamp": "1490582345823",
+      "timestamp": "1513670318070",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -1451,6 +1315,430 @@
           "category_id": 140,
           "priority": 2,
           "limit": 70
+        }
+      ]
+    },
+    {
+      "location": 109,
+      "name": "神殿",
+      "start": 1490680800,
+      "end": 1491458399,
+      "timestamp": "1513670318070",
+      "quest_type": 2,
+      "quest_id": 210206,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "１部２章クリアで\\n開放されます",
+      "img_id": "search_area_icon_006",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 30,
+      "get_item": [
+        {
+          "type": "card",
+          "id": 58011,
+          "val": 1,
+          "category_id": 103,
+          "priority": 1
+        },
+        {
+          "type": "card",
+          "id": 58012,
+          "val": 1,
+          "category_id": 104,
+          "priority": 2
+        },
+        {
+          "type": "card",
+          "id": 58008,
+          "val": 1,
+          "category_id": 105,
+          "priority": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85247,
+          "val": 1,
+          "category_id": 106,
+          "priority": 4
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85248,
+          "val": 1,
+          "category_id": 106,
+          "priority": 5
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85244,
+          "val": 1,
+          "category_id": 106,
+          "priority": 6
+        },
+        {
+          "type": "item",
+          "id": 1001,
+          "val": 1,
+          "category_id": 7,
+          "priority": 8
+        },
+        {
+          "type": "item",
+          "id": 1002,
+          "val": 1,
+          "category_id": 7,
+          "priority": 9
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 7,
+          "priority": 7
+        }
+      ]
+    },
+    {
+      "location": 110,
+      "name": "審判之門",
+      "start": 1498111200,
+      "end": 1498802399,
+      "timestamp": "1513670318070",
+      "quest_type": 2,
+      "quest_id": 210101,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "第1部第２章通關\\n解鎖",
+      "img_id": "search_area_icon_e06",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 30,
+      "get_item": [
+        {
+          "type": "weapon_ev",
+          "id": 26000,
+          "val": 1,
+          "category_id": 1,
+          "priority": 8
+        },
+        {
+          "type": "item",
+          "id": 1007,
+          "val": 1,
+          "category_id": 7,
+          "priority": 6
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 7,
+          "priority": 7
+        },
+        {
+          "type": "card",
+          "id": 8252,
+          "val": 1,
+          "category_id": 101,
+          "priority": 1,
+          "limit": 1
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85515,
+          "val": 1,
+          "category_id": 102,
+          "priority": 2,
+          "limit": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85521,
+          "val": 1,
+          "category_id": 103,
+          "priority": 3,
+          "limit": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85519,
+          "val": 1,
+          "category_id": 104,
+          "priority": 4,
+          "limit": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85520,
+          "val": 1,
+          "category_id": 105,
+          "priority": 4
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85518,
+          "val": 1,
+          "category_id": 106,
+          "priority": 5
+        }
+      ]
+    },
+    {
+      "location": 111,
+      "name": "裝置開發室",
+      "start": 1502172000,
+      "end": 1502949599,
+      "timestamp": "1513670318070",
+      "quest_type": 2,
+      "quest_id": 210101,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "第1部第２章通關\\n解鎖",
+      "img_id": "search_area_icon_e07",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 40,
+      "get_item": [
+        {
+          "type": "weapon_ev",
+          "id": 96078,
+          "val": 1,
+          "category_id": 1,
+          "priority": 15
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26004,
+          "val": 1,
+          "category_id": 1,
+          "priority": 13
+        },
+        {
+          "type": "weapon_ev",
+          "id": 96035,
+          "val": 1,
+          "category_id": 1,
+          "priority": 14
+        },
+        {
+          "type": "item",
+          "id": 1003,
+          "val": 1,
+          "category_id": 7,
+          "priority": 11
+        },
+        {
+          "type": "item",
+          "id": 20,
+          "val": 500,
+          "category_id": 7,
+          "priority": 12
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 101,
+          "priority": 1,
+          "limit": 1
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85550,
+          "val": 1,
+          "category_id": 102,
+          "priority": 2,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85551,
+          "val": 1,
+          "category_id": 103,
+          "priority": 3,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85552,
+          "val": 1,
+          "category_id": 104,
+          "priority": 4,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26222,
+          "val": 1,
+          "category_id": 105,
+          "priority": 7
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26223,
+          "val": 1,
+          "category_id": 105,
+          "priority": 8
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26221,
+          "val": 1,
+          "category_id": 106,
+          "priority": 6
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26224,
+          "val": 1,
+          "category_id": 106,
+          "priority": 9
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26226,
+          "val": 1,
+          "category_id": 106,
+          "priority": 10
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26225,
+          "val": 1,
+          "category_id": 107,
+          "priority": 5
+        }
+      ]
+    },
+    {
+      "location": 112,
+      "name": "迷宮",
+      "start": 1507615200,
+      "end": 1508392799,
+      "timestamp": "1513670318070",
+      "quest_type": 2,
+      "quest_id": 210101,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "第1部第２章通關\\n解鎖",
+      "img_id": "search_area_icon_000",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 31,
+      "get_item": [
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 7,
+          "priority": 1
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85605,
+          "val": 1,
+          "category_id": 101,
+          "priority": 8,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85607,
+          "val": 1,
+          "category_id": 102,
+          "priority": 9,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85608,
+          "val": 1,
+          "category_id": 103,
+          "priority": 10,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85609,
+          "val": 1,
+          "category_id": 104,
+          "priority": 11,
+          "limit": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26000,
+          "val": 1,
+          "category_id": 105,
+          "priority": 6
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26001,
+          "val": 1,
+          "category_id": 105,
+          "priority": 7
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85610,
+          "val": 1,
+          "category_id": 105,
+          "priority": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85611,
+          "val": 1,
+          "category_id": 105,
+          "priority": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85612,
+          "val": 1,
+          "category_id": 105,
+          "priority": 4
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26230,
+          "val": 1,
+          "category_id": 106,
+          "priority": 5
         }
       ]
     }
