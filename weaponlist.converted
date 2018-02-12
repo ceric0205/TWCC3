@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518084208,
+  "deceive": 1518426416,
   "weaponlist": [
     {
       "id": 1,
@@ -17845,7 +17845,7 @@
       "criticalMax": 10,
       "type_grd": 3,
       "guardMax": 10,
-      "model": "weapon85488_body",
+      "model": "weapon85487_body",
       "rank": 3,
       "skill": 36000021,
       "type": 0,
@@ -17913,7 +17913,7 @@
     },
     {
       "id": 85495,
-      "name": "損壞的歐爾摩之弓",
+      "name": "損壞的歐魯蒙之弓",
       "type_atk": 1,
       "attackMax": 2,
       "type_cri": 2,

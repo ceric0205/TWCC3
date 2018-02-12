@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518084197,
+  "deceive": 1518426393,
   "vignette": [
     {
       "cid": 7015,
@@ -18,6 +18,24 @@
       "v_category": "explorer"
     },
     {
+      "cid": 1240,
+      "v_motionid": 0,
+      "bg": 6003,
+      "memo": "[FF0000]【Fábula De Chocolate】[-] 愛很厲害的！！",
+      "start": 1519279200,
+      "end": 1519279200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1018,
+        "place_id": 0
+      },
+      "priority": 550,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "cover",
+      "event_area_name": null
+    },
+    {
       "cid": 1251,
       "v_motionid": 0,
       "bg": 6003,
@@ -33,7 +51,7 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_1",
-      "event_area_name": 3
+      "event_area_name": 1
     },
     {
       "cid": 2263,
@@ -51,7 +69,7 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_1",
-      "event_area_name": 3
+      "event_area_name": 1
     },
     {
       "cid": 7015,
@@ -88,12 +106,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 224,
+      "cid": 1213,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "把你切得碎碎的♪",
-      "start": 1507305600,
-      "end": 1518415200,
+      "bg": 3003,
+      "memo": "為你的意志獻上祝福",
+      "start": 1518674400,
+      "end": 1519279200,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",

@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518084212,
+  "deceive": 1518426402,
   "denju": [
     {
       "denju_id": 2,
@@ -10910,6 +10910,21 @@
       "sname": "秋詠歌「微笑之樹」",
       "stext": "＜歌＞（效果會持續一定時間，期間內自己無法行動）提升自己以外的隊員的移動速度，同時降低所受傷害，並附加解除中毒狀態的效果。",
       "timestamp": "1513670318070",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 11044,
+      "patternid0": 110442,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "毒殺贈禮",
+      "stext": "在一定時間內讓自己以外的我方提升攻擊力及移動速度，但會陷入中毒狀態。",
+      "timestamp": "1518161362000",
       "weaponChange": 1
     }
   ],
