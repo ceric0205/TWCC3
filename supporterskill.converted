@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518084220,
+  "deceive": 1519298874,
   "supporterskill": [
     {
       "ability_id": 0,
@@ -2757,7 +2757,7 @@
     },
     {
       "ability_id": 1254,
-      "name": "幸運歡呼",
+      "name": "幸運讚頌",
       "ability": 2,
       "param0": 0,
       "param1": 0,
@@ -2774,7 +2774,7 @@
     },
     {
       "ability_id": 1255,
-      "name": "歌姫的声援",
+      "name": "歌姬的聲援",
       "ability": 2,
       "param0": 0,
       "param1": 0,
@@ -2787,7 +2787,7 @@
       "abi1": 0,
       "abi2": 0,
       "abi3": 0,
-      "text": "法珠轉盤時較容易出現2顆以上的法珠。"
+      "text": "法珠轉盤比較容易出現2顆以上的法珠。"
     },
     {
       "ability_id": 1258,

@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518426393,
+  "deceive": 1519298852,
   "vignette": [
     {
       "cid": 7015,
@@ -18,30 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 1240,
-      "v_motionid": 0,
-      "bg": 6003,
-      "memo": "[FF0000]【Fábula De Chocolate】[-] 愛很厲害的！！",
-      "start": 1519279200,
-      "end": 1519279200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1018,
-        "place_id": 0
-      },
-      "priority": 550,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "cover",
-      "event_area_name": null
-    },
-    {
-      "cid": 1251,
-      "v_motionid": 0,
-      "bg": 6003,
-      "memo": "[FF0000]【踏破前置】[-] 不會再讓人打擾我做料理了！",
+      "cid": 1255,
+      "v_motionid": 2,
+      "bg": 31,
+      "memo": "來吧，熱鬧起來吧～！",
       "start": 1506924000,
-      "end": 1519279200,
+      "end": 1519884000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -51,25 +33,7 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_1",
-      "event_area_name": 1
-    },
-    {
-      "cid": 2263,
-      "v_motionid": 0,
-      "bg": 6003,
-      "memo": "[FF0000]【踏破前置】[-] 我才沒有要交給你",
-      "start": 1506924000,
-      "end": 1519279200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 300,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_1",
-      "event_area_name": 1
+      "event_area_name": 2
     },
     {
       "cid": 7015,
@@ -106,15 +70,15 @@
       "event_area_name": 2
     },
     {
-      "cid": 1213,
+      "cid": 1254,
       "v_motionid": 0,
-      "bg": 3003,
-      "memo": "為你的意志獻上祝福",
-      "start": 1518674400,
-      "end": 1519279200,
+      "bg": 41,
+      "memo": "[FF0000]《聖樂的指揮者》[-] 這首曲子適合提升士氣！",
+      "start": 1506572626,
+      "end": 1519884000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "story",
         "gacha_id": 1
       },
       "priority": 0,

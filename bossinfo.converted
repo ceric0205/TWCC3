@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518084202,
+  "deceive": 1519298855,
   "bossinfo": {
     "bossskill": [
       {
@@ -81524,10 +81524,10 @@
         "pose": 0,
         "posp": 0,
         "priority": 0,
-        "scost": 2,
+        "scost": 0,
         "sinfo": "",
         "skillid0": 30123900,
-        "skillid1": 0,
+        "skillid1": 30123901,
         "skillid2": 0,
         "skillid3": 0,
         "skillid4": 0,
