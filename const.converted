@@ -163,12 +163,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1519269619,
+    "charainfo": 1520488805,
     "weaponlist": 1518403417,
-    "skilllist": 1519184565,
+    "skilllist": 1519608623,
     "worldinfo": 1513670354,
-    "episodeinfo": 1518156994,
-    "questdigest": 1519278967,
+    "episodeinfo": 1519359370,
+    "questdigest": 1519877841,
     "itemlist": 1516698337,
     "booklist": 1519279857,
     "motionlist": 1508311659,
@@ -188,14 +188,14 @@
     "eventplace": 1,
     "eventbadge": 1,
     "denju": 1518161363,
-    "questroute": 1519196680,
+    "questroute": 1519369319,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1519205499,
+    "vignette": 1519872520,
     "spdrama": 1513670319,
-    "gachainfo": 1519207975,
-    "questtree": 1519278843,
+    "gachainfo": 1519871801,
+    "questtree": 1519871565,
     "eventareainfo": 1505977486,
     "coverinfo": 1516863234,
     "towerinfo": 1513670319,
@@ -203,6 +203,6 @@
     "sortieinfo": 1513670319,
     "openseainfo": 1518073410,
     "reload": 1500271199,
-    "servertime": 1519309219
+    "servertime": 1519907830
   }
 }

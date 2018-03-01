@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1519298852,
+  "deceive": 1519900259,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 1255,
+      "cid": 4218,
       "v_motionid": 2,
-      "bg": 31,
-      "memo": "來吧，熱鬧起來吧～！",
+      "bg": 5221,
+      "memo": "將星光編成曲調……！",
       "start": 1506924000,
-      "end": 1519884000,
+      "end": 1520488800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -70,12 +70,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 1254,
-      "v_motionid": 0,
-      "bg": 41,
-      "memo": "[FF0000]《聖樂的指揮者》[-] 這首曲子適合提升士氣！",
+      "cid": 4217,
+      "v_motionid": 2,
+      "bg": 21,
+      "memo": "[FF0000]《『雙星』的光與影》[-] 要成為照亮彼此的星星！",
       "start": 1506572626,
-      "end": 1519884000,
+      "end": 1520488800,
       "link": "unity:GoGacha",
       "param": {
         "type": "story",
