@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1519900259,
+  "deceive": 1520503817,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 4218,
+      "cid": 1063,
       "v_motionid": 2,
-      "bg": 5221,
-      "memo": "將星光編成曲調……！",
+      "bg": 5203,
+      "memo": "奮起吧，聖騎士們",
       "start": 1506924000,
-      "end": 1520488800,
+      "end": 1521093600,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -70,16 +70,16 @@
       "event_area_name": 2
     },
     {
-      "cid": 4217,
+      "cid": 8077,
       "v_motionid": 2,
-      "bg": 21,
-      "memo": "[FF0000]《『雙星』的光與影》[-] 要成為照亮彼此的星星！",
+      "bg": 3,
+      "memo": "[FF0000]《天魔支援Fes》[-] 我的獨門配方！",
       "start": 1506572626,
-      "end": 1520488800,
+      "end": 1521093600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
-        "gacha_id": 1
+        "type": "event",
+        "gacha_id": 2
       },
       "priority": 0,
       "min_rank": 1,

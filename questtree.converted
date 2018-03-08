@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1519900260,
+  "deceive": 1520503818,
   "quest_tree": [
     {
       "area_id": 0,
@@ -1163,14 +1163,19 @@
       "hero_id": 5,
       "icon": 41,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        335111,
+        335112,
+        335113,
+        335114
+      ],
       "size": 0,
       "story": 3,
-      "summary": "天津一行人再次返回九領的，然而九領在天津們不在的時候持續發生大火。 救在這個時間點，天津和名為垂木的火鬼相遇了。",
-      "timestamp": "1510613994000",
+      "summary": "天津一行人再次返回九領的，然而九領在天津們不在的時候持續發生大火。就在這個時間點，天津和名為垂木的火鬼相遇了。",
+      "timestamp": "1520398354000",
       "title": "流言",
       "treasure": 0,
-      "update_time": 20171116,
+      "update_time": 20180308,
       "x_hero_ary": 0
     },
     {
@@ -1806,6 +1811,100 @@
       "title": "艾夏露４－１",
       "treasure": 0,
       "update_time": 20180301,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 4,
+      "boss": 0,
+      "cell": 13,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "hero_id": 5,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        335121,
+        335122,
+        335123
+      ],
+      "size": 0,
+      "story": 3,
+      "summary": "天津一行人和縱火的真兇可羅米展開對峙。 可羅米是咕度在故鄉村子裡仰慕已久的火鬼。",
+      "timestamp": "1519961105000",
+      "title": "離別",
+      "treasure": 0,
+      "update_time": 20180308,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 4,
+      "boss": 0,
+      "cell": 14,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "hero_id": 5,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        335131,
+        335132,
+        335133,
+        335134
+      ],
+      "size": 0,
+      "story": 3,
+      "summary": "和垂木、冬馬一行人告別的天津們在第一領有了新的相遇和奇妙的再會。 這份因緣會將天津導向何處……",
+      "timestamp": "1519961105000",
+      "title": "奇緣",
+      "treasure": 0,
+      "update_time": 20180308,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 4,
+      "boss": 0,
+      "cell": 15,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "hero_id": 5,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        335141,
+        335142,
+        335143,
+        335144
+      ],
+      "size": 0,
+      "story": 3,
+      "summary": "在第一領和第四領之間的岩山上，天津等人終於追上了可羅米。但在那裡，宣言要斬下可羅米的垂木也出現了……",
+      "timestamp": "1520398354000",
+      "title": "炎獣",
+      "treasure": 0,
+      "update_time": 20180308,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 4,
+      "boss": 0,
+      "cell": 18,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "hero_id": 5,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 4,
+      "summary": "天津４－１的概要",
+      "timestamp": "1519961105000",
+      "title": "天津４－１",
+      "treasure": 0,
+      "update_time": 20180308,
       "x_hero_ary": 0
     },
     {
