@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1520503817,
+  "deceive": 1521105249,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 1063,
-      "v_motionid": 2,
-      "bg": 5203,
-      "memo": "奮起吧，聖騎士們",
+      "cid": 211,
+      "v_motionid": 0,
+      "bg": 2003,
+      "memo": "守護尤古度！！",
       "start": 1506924000,
-      "end": 1521093600,
+      "end": 1521698400,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -70,16 +70,16 @@
       "event_area_name": 2
     },
     {
-      "cid": 8077,
+      "cid": 6280,
       "v_motionid": 2,
-      "bg": 3,
-      "memo": "[FF0000]《天魔支援Fes》[-] 我的獨門配方！",
-      "start": 1506572626,
-      "end": 1521093600,
+      "bg": 41,
+      "memo": "頭抬～太高了～！",
+      "start": 1507305600,
+      "end": 1521698400,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 2
+        "type": "legend",
+        "gacha_id": 1
       },
       "priority": 0,
       "min_rank": 1,
