@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1521105249,
+  "deceive": 1521709224,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 211,
-      "v_motionid": 0,
-      "bg": 2003,
-      "memo": "守護尤古度！！",
+      "cid": 5244,
+      "v_motionid": 2,
+      "bg": 31,
+      "memo": "我要去睡覺了！",
       "start": 1506924000,
-      "end": 1521698400,
+      "end": 1522303200,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -70,15 +70,159 @@
       "event_area_name": 2
     },
     {
-      "cid": 6280,
+      "cid": 5244,
       "v_motionid": 2,
-      "bg": 41,
-      "memo": "頭抬～太高了～！",
-      "start": 1507305600,
-      "end": 1521698400,
+      "bg": 31,
+      "memo": "之後的事情我才不管！",
+      "start": 1506572626,
+      "end": 1522303200,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "story",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 9210,
+      "v_motionid": 2,
+      "bg": 2,
+      "memo": "加油，普亞亞！喵！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "story",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 2238,
+      "v_motionid": 2,
+      "bg": 11,
+      "memo": "爸爸，加油！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "story",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 226,
+      "v_motionid": 2,
+      "bg": 2,
+      "memo": "嗯，一起上吧！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "story",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 201,
+      "v_motionid": 0,
+      "bg": 1,
+      "memo": "未來就交給我吧！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 2201,
+      "v_motionid": 0,
+      "bg": 11,
+      "memo": "我僅有的都拿走吧ー！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 4201,
+      "v_motionid": 0,
+      "bg": 21,
+      "memo": "不是快樂的結局就不行！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 5201,
+      "v_motionid": 0,
+      "bg": 31,
+      "memo": "噴出！貫穿！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 6201,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "囉哩囉嗦，吵死了！！",
+      "start": 1506572626,
+      "end": 1522303200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 0,

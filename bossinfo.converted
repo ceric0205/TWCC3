@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1519298855,
+  "deceive": 1521709238,
   "bossinfo": {
     "bossskill": [
       {
@@ -41037,7 +41037,7 @@
         "skillparam1": 1,
         "skillparam2": 1.5,
         "skillparam3": 0,
-        "skillparam4": 0.1,
+        "skillparam4": 0.15,
         "skillparam5": 0,
         "skillparam6": 0,
         "skillparam7": 0,
@@ -83513,7 +83513,7 @@
         "posp": 0,
         "priority": 100,
         "scost": 2,
-        "sinfo": "我方全體每次受到傷害時，給予小幅回復效果。效果會持續到各自受到10次傷害為止。",
+        "sinfo": "給予我方全體受到傷害時小幅恢復的效果。效果持續到各自受到10次傷害為止。",
         "skillid0": 30524400,
         "skillid1": 0,
         "skillid2": 0,
@@ -83569,7 +83569,7 @@
         "posp": 0,
         "priority": 100,
         "scost": 0,
-        "sinfo": "對自身周遭範圍內敵人全體造成中幅傷害，並彈飛。",
+        "sinfo": "對以自身為中心的範圍内的所有敵人造成中度傷害，並擊退。",
         "skillid0": 30524500,
         "skillid1": 0,
         "skillid2": 0,
@@ -83577,7 +83577,7 @@
         "skillid4": 0,
         "skillid5": 0,
         "skillid6": 0,
-        "sname": "魔力爆發王",
+        "sname": "魔力超載",
         "stext": "",
         "tid": 0,
         "voice": 0
