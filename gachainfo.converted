@@ -1,12 +1,12 @@
 {
-  "deceive": 1521709249,
+  "deceive": 1522314023,
   "gacha_info": {
     "fes": {
       "ticket": [
         {
           "gacha_id": 1,
           "start": 1518674400,
-          "end": 1518674400
+          "end": 1522918800
         }
       ],
       "ring": [
@@ -30,7 +30,7 @@
         {
           "gacha_id": 1,
           "start": 1518674400,
-          "end": 1518674400,
+          "end": 1522918800,
           "icon": "161208_AddStoryFesBtn",
           "priority": 1
         }
@@ -39,7 +39,7 @@
         {
           "gacha_id": 1,
           "start": 1506578400,
-          "end": 1522303200,
+          "end": 1506578400,
           "icon": "180322_FesBtn",
           "priority": 3
         }
@@ -48,7 +48,7 @@
         {
           "gacha_id": 1,
           "start": 1506924000,
-          "end": 1522303200,
+          "end": 1506924000,
           "icon": "180322_FesBtn_2",
           "priority": 1
         },
