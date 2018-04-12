@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1521105257,
+  "deceive": 1523523629,
   "weaponlist": [
     {
       "id": 1,
@@ -18723,7 +18723,7 @@
     },
     {
       "id": 85558,
-      "name": "治癒封杖",
+      "name": "治療之封杖",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -30170,7 +30170,7 @@
     {
       "evol_dst": 85558,
       "id": 85558,
-      "name": "治癒封杖",
+      "name": "治療之封杖",
       "profile": "ザルブリス渦武器",
       "rank_limit": 2,
       "rarity": 5,
