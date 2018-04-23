@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1523523629,
+  "deceive": 1524128396,
   "weaponlist": [
     {
       "id": 1,
@@ -9228,7 +9228,7 @@
     },
     {
       "id": 26216,
-      "name": "忌神的劫火",
+      "name": "忌神之劫火",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -9258,7 +9258,7 @@
     },
     {
       "id": 26218,
-      "name": "忌神的火種",
+      "name": "忌神之火種",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -24815,7 +24815,7 @@
     {
       "evol_dst": 26216,
       "id": 26216,
-      "name": "忌神的劫火",
+      "name": "忌神之劫火",
       "profile": "忌神素材",
       "rank_limit": 1,
       "rarity": 5,
@@ -24847,7 +24847,7 @@
     {
       "evol_dst": 26218,
       "id": 26218,
-      "name": "忌神的火種",
+      "name": "忌神之火種",
       "profile": "忌神素材",
       "rank_limit": 1,
       "rarity": 3,

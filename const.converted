@@ -1,4 +1,4 @@
-{
+﻿{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -146,7 +146,66 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
+        "raid": {
+          "raid_id": 28,
+          "bg": 2000,
+          "event_start": 1499925600,
+          "event_end": 1524808800,
+          "close": 1524722400,
+          "name": "賽露布莉絲襲來",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "7578",
+              "skill_id": "30055"
+            },
+            {
+              "cid": "7579",
+              "skill_id": "30055"
+            },
+            {
+              "cid": "201",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "213",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "226",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "214",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "1254",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "9210",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "280",
+              "skill_id": "31011"
+            },
+            {
+              "cid": "1241",
+              "skill_id": "31011"
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false
+        },
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -163,9 +222,9 @@
     }
   ],
   "mVer": {
-    "charainfo": 1523418017,
-    "weaponlist": 1523331262,
-    "skilllist": 1523418017,
+    "charainfo": 1524048322,
+    "weaponlist": 1523515380,
+    "skilllist": 1524111729,
     "worldinfo": 1520501418,
     "episodeinfo": 1519359370,
     "questdigest": 1523497799,
@@ -174,35 +233,35 @@
     "motionlist": 1508311659,
     "missionlist": 1521049579,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1521451882,
+    "bossinfo": 1524048318,
     "battleinfo": 1516596545,
     "homelist": 1513670319,
-    "supporterskill": 1519184563,
+    "supporterskill": 1524111727,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1521702912,
-    "weaponcompose": 1522650343,
+    "weaponcompose": 1523851224,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
     "various": 1494830149,
     "eventplace": 1,
-    "eventbadge": 1,
-    "denju": 1523418013,
+    "eventbadge": 1523956987,
+    "denju": 1524048318,
     "questroute": 1522378667,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1523500243,
+    "vignette": 1524105509,
     "spdrama": 1523419008,
     "gachainfo": 1523499307,
     "questtree": 1522651728,
     "eventareainfo": 1523507572,
     "coverinfo": 1516863234,
-    "towerinfo": 1523267284,
+    "towerinfo": 1523528085,
     "chropowerinfo": 1516603650,
     "sortieinfo": 1513670319,
     "openseainfo": 1518073410,
     "reload": 1520499899,
-    "servertime": 1523534775
+    "servertime": 1524483016
   }
 }
