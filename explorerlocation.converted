@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1521709254,
+  "deceive": 1524733224,
   "explorer_location": [
     {
       "location": 100,
@@ -86,7 +86,7 @@
     {
       "location": 0,
       "name": "城砦",
-      "timestamp": "1516608634000",
+      "timestamp": "1524538763000",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -163,7 +163,7 @@
         },
         {
           "type": "card",
-          "id": 83,
+          "id": 6248,
           "val": 1,
           "category_id": 11,
           "priority": 9
@@ -173,7 +173,7 @@
     {
       "location": 1,
       "name": "迷宮山脈",
-      "timestamp": "1516608634000",
+      "timestamp": "1524538763000",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": 332014,
@@ -250,7 +250,7 @@
         },
         {
           "type": "card",
-          "id": 83,
+          "id": 6248,
           "val": 1,
           "category_id": 11,
           "priority": 9
@@ -260,7 +260,7 @@
     {
       "location": 2,
       "name": "古代遺跡",
-      "timestamp": "1516608634000",
+      "timestamp": "1524538763000",
       "quest_type": 2,
       "quest_id": 210310,
       "v3_quest_id": 333012,
@@ -330,7 +330,7 @@
         },
         {
           "type": "card",
-          "id": 83,
+          "id": 6248,
           "val": 1,
           "category_id": 11,
           "priority": 9
@@ -340,7 +340,7 @@
     {
       "location": 3,
       "name": "世界樹",
-      "timestamp": "1516608634000",
+      "timestamp": "1524538763000",
       "quest_type": 2,
       "quest_id": 210407,
       "v3_quest_id": 334014,
@@ -410,7 +410,7 @@
         },
         {
           "type": "card",
-          "id": 83,
+          "id": 6248,
           "val": 1,
           "category_id": 11,
           "priority": 9
@@ -422,7 +422,7 @@
       "name": "湖都",
       "start": 1460440800,
       "end": 1461200399,
-      "timestamp": "1516608634000",
+      "timestamp": "1524538763000",
       "quest_type": 2,
       "quest_id": 210310,
       "v3_quest_id": null,
@@ -495,7 +495,7 @@
     {
       "location": 5,
       "name": "火山",
-      "timestamp": "1516608634000",
+      "timestamp": "1524538763000",
       "quest_type": 2,
       "quest_id": 210607,
       "v3_quest_id": 335013,
@@ -565,7 +565,7 @@
         },
         {
           "type": "card",
-          "id": 83,
+          "id": 6248,
           "val": 1,
           "category_id": 11,
           "priority": 8

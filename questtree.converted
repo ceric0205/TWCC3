@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1522746073,
+  "deceive": 1524733190,
   "quest_tree": [
     {
       "area_id": 0,
@@ -1664,16 +1664,20 @@
       "develop_only": 0,
       "episode": 1,
       "hero_id": 1,
-      "icon": 2023,
+      "icon": 21,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        331151,
+        331152,
+        331153
+      ],
       "size": 0,
       "story": 4,
-      "summary": "赫利歐斯４－１的概要",
-      "timestamp": "1519196679000",
-      "title": "赫利歐斯４－１",
+      "summary": "為了前往精靈島，赫利歐斯一行人以沙漠另一端的港口為目標前進。 面對炎熱的沙漠依然不認輸的赫利歐斯邊激勵著大家邊邁開步伐。",
+      "timestamp": "1524637715000",
+      "title": "沙漠的旅人",
       "treasure": 0,
-      "update_time": 20180222,
+      "update_time": 20180426,
       "x_hero_ary": 0
     },
     {
@@ -2279,6 +2283,99 @@
       "title": "祭典開端",
       "treasure": 0,
       "update_time": 20180403,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 2,
+      "boss": 0,
+      "cell": 19,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "hero_id": 1,
+      "icon": 21,
+      "pub": 0,
+      "quest_ary": [
+        331161,
+        331162,
+        331163
+      ],
+      "size": 0,
+      "story": 4,
+      "summary": "一行人被夏克魯引領到遺跡裡。 在那裡等待著赫利歐斯們的事， 夏克魯的上級，褐色肌膚的黑髮女性。",
+      "timestamp": "1524637715000",
+      "title": "遺跡內部",
+      "treasure": 0,
+      "update_time": 20180426,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 2,
+      "boss": 0,
+      "cell": 20,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "hero_id": 1,
+      "icon": 21,
+      "pub": 0,
+      "quest_ary": [
+        331171,
+        331172,
+        331173
+      ],
+      "size": 0,
+      "story": 4,
+      "summary": "赫利歐斯被殭屍群給阻擋去路陷入苦戰。 一名少女在他們面前現身。 那是――赫利歐斯們在沙漠中曾幫助過的，如同死人般的少女・佐迪雅。",
+      "timestamp": "1524637715000",
+      "title": "遺跡的真相",
+      "treasure": 0,
+      "update_time": 20180426,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 2,
+      "boss": 0,
+      "cell": 22,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "hero_id": 1,
+      "icon": 2022,
+      "pub": 0,
+      "quest_ary": [
+        331181,
+        331182,
+        331183,
+        331184
+      ],
+      "size": 0,
+      "story": 4,
+      "summary": "佐迪雅失去理智，殭屍們再次騷動。 如同字面意義陷入絕境時，赫利歐斯所找到的活路竟是――",
+      "timestamp": "1524637715000",
+      "title": "使用力量的方法",
+      "treasure": 0,
+      "update_time": 20180426,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 24,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "hero_id": 1,
+      "icon": 31,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 5,
+      "summary": "赫利歐斯５－１的概要",
+      "timestamp": "1524127111000",
+      "title": "赫利歐斯５－１",
+      "treasure": 0,
+      "update_time": 20180426,
       "x_hero_ary": 0
     }
   ],
