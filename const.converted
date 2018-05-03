@@ -1,4 +1,4 @@
-﻿{
+{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -147,66 +147,7 @@
           "review": 1
         },
         "cover": null,
-        "raid": {
-          "raid_id": 28,
-          "bg": 2000,
-          "event_start": 1499925600,
-          "event_end": 1524808800,
-          "close": 1524722400,
-          "name": "賽露布莉絲襲來",
-          "full_time": 130,
-          "part_time": 90,
-          "sp_cards": [
-            {
-              "cid": "7578",
-              "skill_id": "30055"
-            },
-            {
-              "cid": "7579",
-              "skill_id": "30055"
-            },
-            {
-              "cid": "201",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "213",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "226",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "214",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "1254",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "9210",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "280",
-              "skill_id": "31011"
-            },
-            {
-              "cid": "1241",
-              "skill_id": "31011"
-            }
-          ],
-          "full_pirica_time": 13,
-          "part_pirica_time": 22,
-          "hp_up": 3,
-          "atk_up": 3,
-          "anger_hp_up": 2,
-          "anger_atk_up": 2,
-          "anger_battle_time": 30,
-          "invalid_chropower": false
-        },
+        "raid": null,
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -228,7 +169,7 @@
     "skilllist": 1524637565,
     "worldinfo": 1520501418,
     "episodeinfo": 1519359370,
-    "questdigest": 1524640699,
+    "questdigest": 1525330281,
     "itemlist": 1516698337,
     "booklist": 1524536939,
     "motionlist": 1508311659,
@@ -248,21 +189,21 @@
     "eventplace": 1,
     "eventbadge": 1,
     "denju": 1524637561,
-    "questroute": 1524127112,
+    "questroute": 1524731041,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1509396461,
-    "vignette": 1524709759,
+    "vignette": 1525316007,
     "spdrama": 1523419008,
-    "gachainfo": 1524712081,
-    "questtree": 1524637716,
-    "eventareainfo": 1524645201,
+    "gachainfo": 1525312963,
+    "questtree": 1525242852,
+    "eventareainfo": 1525074233,
     "coverinfo": 1516863234,
-    "towerinfo": 1524454756,
+    "towerinfo": 1525313258,
     "chropowerinfo": 1516603650,
     "sortieinfo": 1513670319,
     "openseainfo": 1518073410,
     "reload": 1520499899,
-    "servertime": 1524751023
+    "servertime": 1525345861
   }
 }

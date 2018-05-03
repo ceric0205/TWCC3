@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1524733189,
+  "deceive": 1525341606,
   "vignette": [
     {
       "cid": 7015,
@@ -16,6 +16,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "explorer"
+    },
+    {
+      "cid": 6277,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "被影所縛，消失至黑暗",
+      "start": 1522918800,
+      "end": 1525932000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_1",
+      "event_area_name": 1
     },
     {
       "cid": 7015,
@@ -52,15 +70,15 @@
       "event_area_name": 2
     },
     {
-      "cid": 5227,
-      "v_motionid": 2,
+      "cid": 6277,
+      "v_motionid": 0,
       "bg": 41,
-      "memo": "作戰．突擊",
+      "memo": "被影所縛，消失至黑暗",
       "start": 1507305600,
-      "end": 1525327200,
+      "end": 1525932000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "story",
         "gacha_id": 1
       },
       "priority": 0,
