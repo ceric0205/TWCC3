@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1525341606,
+  "deceive": 1525942815,
   "quest_tree": [
     {
       "area_id": 0,
@@ -2136,14 +2136,19 @@
       "hero_id": 2,
       "icon": 11,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        332191,
+        332192,
+        332193,
+        332194
+      ],
       "size": 0,
       "story": 5,
       "summary": "愛麗婕一回到魔法學園，就被梅魯提歐魯給帶走接受調查。愛麗婕的「有缺陷的刻印」真相揭曉，還有……",
       "timestamp": "1522125471000",
       "title": "刻印的真相",
       "treasure": 0,
-      "update_time": 20180329,
+      "update_time": 20180510,
       "x_hero_ary": 0
     },
     {
@@ -2478,6 +2483,102 @@
       "title": "錯綜（表）",
       "treasure": 0,
       "update_time": 20180503,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 1,
+      "boss": 0,
+      "cell": 27,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "hero_id": 2,
+      "icon": 2011,
+      "pub": 0,
+      "quest_ary": [
+        332201,
+        332202,
+        332203,
+        332204
+      ],
+      "size": 0,
+      "story": 5,
+      "summary": "「小時候受傷的人……是、誰？」 愛麗婕對蓓兒塔如此問道。對於頑固不肯回答的蓓兒塔， 愛麗婕想到了某個殘酷的事實……",
+      "timestamp": "1525332179000",
+      "title": "過去的邂逅",
+      "treasure": 0,
+      "update_time": 20180510,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 1,
+      "boss": 0,
+      "cell": 28,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "hero_id": 2,
+      "icon": 11,
+      "pub": 0,
+      "quest_ary": [
+        332211,
+        332212,
+        332213,
+        332214
+      ],
+      "size": 0,
+      "story": 5,
+      "summary": "卡琳和戴爾菲娜帶著沮喪的蓓兒塔出遊。 ３人在街上和某個老人相遇。對於白之異形遺留下來的紙片感到有興趣的老人，蓓兒塔感到驚愕。她小聲說出的那個名字是……",
+      "timestamp": "1525332179000",
+      "title": "教授",
+      "treasure": 0,
+      "update_time": 20180510,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 1,
+      "boss": 2,
+      "cell": 29,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "hero_id": 2,
+      "icon": 11,
+      "pub": 0,
+      "quest_ary": [
+        332221,
+        332222,
+        332223,
+        332224,
+        332225
+      ],
+      "size": 0,
+      "story": 5,
+      "summary": "「我一直！一直都以為是愛麗婕讓艾斯緹菈死掉的……！」 愛麗婕聽見了蓓兒塔的叫喊。 還目擊了艾斯緹菈襲擊蓓兒塔們的身影。 一片混亂中，為了保護蓓兒塔們，挺身而出面對艾斯緹菈……",
+      "timestamp": "1525332179000",
+      "title": "艾斯緹菈",
+      "treasure": 0,
+      "update_time": 20180510,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 1,
+      "boss": 0,
+      "cell": 31,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "hero_id": 2,
+      "icon": 11,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 6,
+      "summary": "愛麗婕６－１的概要",
+      "timestamp": "1525332179000",
+      "title": "愛麗婕６－１",
+      "treasure": 0,
+      "update_time": 20180510,
       "x_hero_ary": 0
     }
   ],

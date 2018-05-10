@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1524128396,
+  "deceive": 1525942815,
   "weaponlist": [
     {
       "id": 1,
@@ -19263,7 +19263,7 @@
     },
     {
       "id": 85601,
-      "name": "除魔封槍",
+      "name": "除魔之封槍",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -30508,7 +30508,7 @@
     {
       "evol_dst": 85601,
       "id": 85601,
-      "name": "除魔封槍",
+      "name": "除魔之封槍",
       "profile": "ミズクン襲来",
       "rank_limit": 2,
       "rarity": 5,
