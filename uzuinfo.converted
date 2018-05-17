@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1525942803,
+  "deceive": 1526547735,
   "uzu": [
     {
       "uzu_id": 1,
@@ -587,6 +587,31 @@
                 "area": 2,
                 "posx": 310,
                 "posy": 20
+              }
+            ]
+          }
+        },
+        {
+          "start": 1527757200,
+          "end": 1528966800,
+          "schedule_id": 23,
+          "data": {
+            "uzu_id": 1,
+            "stage_id": 3,
+            "home": 9,
+            "web_text": "有限定角色「千河的司令官 琵恩塔」的話，可以強化＜精靈島＞所屬的隊友喔！ 將『海風之港』酒場登場的＜精靈島＞所屬角色編入隊伍吧！",
+            "web_banner": "sakaba06.jpg?v=2",
+            "debuff": {
+              "atk": 0.2,
+              "def": 1.8,
+              "speed": 0.7,
+              "hp": 1
+            },
+            "pos": [
+              {
+                "area": 4,
+                "posx": 20,
+                "posy": 350
               }
             ]
           }
@@ -1182,6 +1207,31 @@
               }
             ]
           }
+        },
+        {
+          "start": 1527757200,
+          "end": 1528966800,
+          "schedule_id": 23,
+          "data": {
+            "uzu_id": 2,
+            "stage_id": 4,
+            "home": 18,
+            "web_text": "＜年代記大陸＞所屬角色將於『年代記』、『書架』酒場登場喔！ 獲得限定角色「年代記的劍士 莉貝菈」讓你所向無敵！ 擁有超必殺技的角色數量眾多，可以恢復超必殺技槽的SR僧侶「世界樹之芽守護者 菲希」將是戰鬥關鍵？",
+            "web_banner": "sakaba13.jpg?v=2",
+            "debuff": {
+              "atk": 0.2,
+              "def": 1.8,
+              "speed": 0.7,
+              "hp": 1
+            },
+            "pos": [
+              {
+                "area": 15,
+                "posx": -230,
+                "posy": 300
+              }
+            ]
+          }
         }
       ]
     },
@@ -1574,6 +1624,31 @@
               }
             ]
           }
+        },
+        {
+          "start": 1527757200,
+          "end": 1528966800,
+          "schedule_id": 23,
+          "data": {
+            "uzu_id": 3,
+            "stage_id": 5,
+            "home": 6,
+            "web_text": "加入擅長近戰攻撃的魔法師，準備好＜賢者之塔＞隊伍的前衛！ 沒有負責回復的限定角色「生命之賢者 蒂爾瑪」的話，就交給SR僧侶「醫術師 奧莉安娜」來回復吧！",
+            "web_banner": "sakaba03.jpg?v=2",
+            "debuff": {
+              "atk": 0.2,
+              "def": 1.8,
+              "speed": 0.7,
+              "hp": 1
+            },
+            "pos": [
+              {
+                "area": 2,
+                "posx": 310,
+                "posy": 20
+              }
+            ]
+          }
         }
       ]
     },
@@ -1866,12 +1941,37 @@
               }
             ]
           }
+        },
+        {
+          "start": 1527757200,
+          "end": 1528966800,
+          "schedule_id": 23,
+          "data": {
+            "uzu_id": 4,
+            "stage_id": 6,
+            "home": 3,
+            "web_text": "限定、聯動角色眾多，各式各樣的＜旅人＞所屬建議可以用喜歡的角色自由來組建隊伍！",
+            "web_banner": "sakaba14.jpg?v=2",
+            "debuff": {
+              "atk": 0.2,
+              "def": 1.8,
+              "speed": 0.7,
+              "hp": 1
+            },
+            "pos": [
+              {
+                "area": 1,
+                "posx": -440,
+                "posy": -110
+              }
+            ]
+          }
         }
       ]
     },
     {
       "uzu_id": 5,
-      "name": "一天四海ノ渦",
+      "name": "一天四海之渦",
       "boss_id": 7643,
       "boss_border": [
         10,
@@ -1930,6 +2030,31 @@
                 "area": 1,
                 "posx": 300,
                 "posy": 60
+              }
+            ]
+          }
+        },
+        {
+          "start": 1527757200,
+          "end": 1528966800,
+          "schedule_id": 23,
+          "data": {
+            "uzu_id": 5,
+            "stage_id": 7,
+            "home": 10,
+            "web_text": "限定角色「九領之首 修札」、「泰平之礎 千鳥」上場時，就能組成超強力的＜九領＞斬戰士隊伍！ 酒場登場的「統率汪洋的第十領主 三島」也千萬不要錯過喔！",
+            "web_banner": "sakaba07.jpg?v=2",
+            "debuff": {
+              "atk": 0.2,
+              "def": 1.8,
+              "speed": 0.7,
+              "hp": 1
+            },
+            "pos": [
+              {
+                "area": 5,
+                "posx": -380,
+                "posy": -350
               }
             ]
           }
@@ -3610,7 +3735,7 @@
           "stage": 12,
           "cleared_lv": 9,
           "lv": 10,
-          "title": "一天四海ノ渦　地獄級",
+          "title": "一天四海之渦　地獄級",
           "battle_point": 100,
           "home_rate": 540,
           "strength": 30,
@@ -3633,7 +3758,7 @@
           "stage": 11,
           "cleared_lv": 9,
           "lv": 10,
-          "title": "一天四海ノ渦　超上級",
+          "title": "一天四海之渦　超上級",
           "battle_point": 100,
           "home_rate": 540,
           "strength": 25,
@@ -3656,7 +3781,7 @@
           "stage": 10,
           "cleared_lv": 9,
           "lv": 10,
-          "title": "一天四海ノ渦　上級",
+          "title": "一天四海之渦　上級",
           "battle_point": 100,
           "home_rate": 540,
           "strength": 18,
@@ -3679,7 +3804,7 @@
           "stage": 9,
           "cleared_lv": 8,
           "lv": 9,
-          "title": "一天四海ノ渦９",
+          "title": "一天四海之渦９",
           "battle_point": 100,
           "home_rate": 540,
           "strength": 9.5,
@@ -3705,7 +3830,7 @@
           "stage": 8,
           "cleared_lv": 7,
           "lv": 8,
-          "title": "一天四海ノ渦８",
+          "title": "一天四海之渦８",
           "battle_point": 100,
           "home_rate": 510,
           "strength": 10,
@@ -3728,7 +3853,7 @@
           "stage": 7,
           "cleared_lv": 6,
           "lv": 7,
-          "title": "一天四海ノ渦７",
+          "title": "一天四海之渦７",
           "battle_point": 100,
           "home_rate": 480,
           "strength": 9,
@@ -3751,7 +3876,7 @@
           "stage": 6,
           "cleared_lv": 5,
           "lv": 6,
-          "title": "一天四海ノ渦６",
+          "title": "一天四海之渦６",
           "battle_point": 100,
           "home_rate": 450,
           "strength": 8,
@@ -3774,7 +3899,7 @@
           "stage": 5,
           "cleared_lv": 4,
           "lv": 5,
-          "title": "一天四海ノ渦５",
+          "title": "一天四海之渦５",
           "battle_point": 100,
           "home_rate": 420,
           "strength": 9,
@@ -3797,7 +3922,7 @@
           "stage": 4,
           "cleared_lv": 3,
           "lv": 4,
-          "title": "一天四海ノ渦４",
+          "title": "一天四海之渦４",
           "battle_point": 100,
           "home_rate": 390,
           "strength": 8,
@@ -3820,7 +3945,7 @@
           "stage": 3,
           "cleared_lv": 2,
           "lv": 3,
-          "title": "一天四海ノ渦３",
+          "title": "一天四海之渦３",
           "battle_point": 100,
           "home_rate": 360,
           "strength": 6,
@@ -3843,7 +3968,7 @@
           "stage": 2,
           "cleared_lv": 1,
           "lv": 2,
-          "title": "一天四海ノ渦２",
+          "title": "一天四海之渦２",
           "battle_point": 100,
           "home_rate": 330,
           "strength": 5,
@@ -3866,7 +3991,7 @@
           "stage": 1,
           "cleared_lv": 0,
           "lv": 1,
-          "title": "一天四海ノ渦１",
+          "title": "一天四海之渦１",
           "battle_point": 100,
           "home_rate": 300,
           "strength": 3,

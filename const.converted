@@ -147,7 +147,25 @@
         },
         "cover": null,
         "raid": null,
-        "totalwar": null,
+        "totalwar": {
+          "totalwar_id": 24,
+          "event_start": 1525968000,
+          "close": 1526572799,
+          "event_end": 1526572799,
+          "token_cnt_per_request": 100,
+          "banner_image": "1805108_souryokusen_top",
+          "special_reward_icon": "180510_special_reward_icon",
+          "start_cnt": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "close_interval": 10,
+          "first_border_ap": 10,
+          "event_days": 7,
+          "rest_border_ap": 30
+        },
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -164,11 +182,11 @@
   ],
   "mVer": {
     "charainfo": 1525768551,
-    "weaponlist": 1525838760,
-    "skilllist": 1525919530,
+    "weaponlist": 1526522478,
+    "skilllist": 1526279019,
     "worldinfo": 1520501418,
     "episodeinfo": 1519359370,
-    "questdigest": 1525838767,
+    "questdigest": 1526458734,
     "itemlist": 1516698337,
     "booklist": 1524536939,
     "motionlist": 1508311659,
@@ -191,18 +209,18 @@
     "questroute": 1525332447,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
-    "uzuinfo": 1509396461,
-    "vignette": 1525917135,
+    "uzuinfo": 1526461687,
+    "vignette": 1526538809,
     "spdrama": 1523419008,
-    "gachainfo": 1525856616,
+    "gachainfo": 1526456707,
     "questtree": 1525332180,
-    "eventareainfo": 1524645201,
+    "eventareainfo": 1526437434,
     "coverinfo": 1516863234,
     "towerinfo": 1525313258,
     "chropowerinfo": 1516603650,
     "sortieinfo": 1513670319,
     "openseainfo": 1518073410,
     "reload": 1520499899,
-    "servertime": 1525951103
+    "servertime": 1526559024
   }
 }
