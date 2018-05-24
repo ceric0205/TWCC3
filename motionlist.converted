@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1518084206,
+  "deceive": 1527154687,
   "motionlist": [
     {
       "_appear": "damage02",
@@ -1869,7 +1869,7 @@
       "_waitWarn": "fencer_neutral_tired01",
       "_walk": "fencer_walk01",
       "_walkWarn": "fencer_walk_tired01",
-      "_win": "win_fencer_girl01"
+      "_win": "fencer_win_girl01"
     },
     {
       "_appear": "fencer_damage01",
@@ -1913,7 +1913,7 @@
       "_waitWarn": "fencer_neutral_tired01",
       "_walk": "fencer_walk01",
       "_walkWarn": "fencer_walk_tired01",
-      "_win": "win_fencer_girl01"
+      "_win": "fencer_win_girl01"
     },
     {
       "_appear": "damage01",

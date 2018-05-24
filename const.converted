@@ -1,4 +1,4 @@
-{
+﻿{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -146,26 +146,31 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
-        "totalwar": {
-          "totalwar_id": 24,
-          "event_start": 1525968000,
-          "close": 1526572799,
-          "event_end": 1526572799,
-          "token_cnt_per_request": 100,
-          "banner_image": "1805108_souryokusen_top",
-          "special_reward_icon": "180510_special_reward_icon",
-          "start_cnt": [
-            1,
-            2,
-            3,
-            5
+        "raid": {
+          "raid_id": 29,
+          "bg": 2000,
+          "event_start": 1505282400,
+          "event_end": 1527832800,
+          "close": 1527746400,
+          "name": "蜜茲庫恩襲來",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "7649",
+              "skill_id": "30056"
+            }
           ],
-          "close_interval": 10,
-          "first_border_ap": 10,
-          "event_days": 7,
-          "rest_border_ap": 30
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false
         },
+        "totalwar": null,
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -181,46 +186,46 @@
     }
   ],
   "mVer": {
-    "charainfo": 1525768551,
+    "charainfo": 1526972233,
     "weaponlist": 1526522478,
-    "skilllist": 1526279019,
+    "skilllist": 1526888811,
     "worldinfo": 1520501418,
     "episodeinfo": 1519359370,
-    "questdigest": 1526458734,
+    "questdigest": 1527145206,
     "itemlist": 1516698337,
     "booklist": 1524536939,
-    "motionlist": 1508311659,
-    "missionlist": 1521049579,
+    "motionlist": 1526896661,
+    "missionlist": 1526891125,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1525768547,
+    "bossinfo": 1526888807,
     "battleinfo": 1516596545,
     "homelist": 1513670319,
     "supporterskill": 1525768549,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1524538764,
-    "weaponcompose": 1523851224,
+    "weaponcompose": 1526969843,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
     "various": 1525665158,
     "eventplace": 1,
     "eventbadge": 1,
-    "denju": 1525768547,
+    "denju": 1527065218,
     "questroute": 1525332447,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1526461687,
-    "vignette": 1526538809,
+    "vignette": 1527130148,
     "spdrama": 1523419008,
-    "gachainfo": 1526456707,
+    "gachainfo": 1527126669,
     "questtree": 1525332180,
-    "eventareainfo": 1526437434,
+    "eventareainfo": 1526970392,
     "coverinfo": 1516863234,
     "towerinfo": 1525313258,
     "chropowerinfo": 1516603650,
     "sortieinfo": 1513670319,
     "openseainfo": 1518073410,
     "reload": 1520499899,
-    "servertime": 1526559024
+    "servertime": 1527162334
   }
 }

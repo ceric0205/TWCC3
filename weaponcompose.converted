@@ -1,5 +1,5 @@
 {
-  "deceive": 1524128393,
+  "deceive": 1527154683,
   "weapon_compose": {
     "gold": [
       50000,
@@ -10,6 +10,34 @@
     "recipe": [
       {
         "target_id": 0,
+        "data": {
+          "weapon_id": 85569,
+          "priority": 42,
+          "material": [
+            26004,
+            26227,
+            26228,
+            26228,
+            26228
+          ]
+        }
+      },
+      {
+        "target_id": 1,
+        "data": {
+          "weapon_id": 85568,
+          "priority": 43,
+          "material": [
+            26000,
+            26219,
+            26220,
+            26220,
+            26220
+          ]
+        }
+      },
+      {
+        "target_id": 2,
         "data": {
           "weapon_id": 85546,
           "priority": 47,
@@ -23,7 +51,7 @@
         }
       },
       {
-        "target_id": 1,
+        "target_id": 3,
         "data": {
           "weapon_id": 26213,
           "priority": 48,
@@ -37,7 +65,7 @@
         }
       },
       {
-        "target_id": 2,
+        "target_id": 4,
         "data": {
           "weapon_id": 85285,
           "material": [
@@ -50,7 +78,7 @@
         }
       },
       {
-        "target_id": 3,
+        "target_id": 5,
         "data": {
           "weapon_id": 85284,
           "material": [
@@ -63,7 +91,7 @@
         }
       },
       {
-        "target_id": 4,
+        "target_id": 6,
         "data": {
           "weapon_id": 26208,
           "priority": 50,
@@ -77,7 +105,7 @@
         }
       },
       {
-        "target_id": 5,
+        "target_id": 7,
         "data": {
           "weapon_id": 96405,
           "priority": 49,
@@ -91,7 +119,7 @@
         }
       },
       {
-        "target_id": 6,
+        "target_id": 8,
         "data": {
           "weapon_id": 85547,
           "priority": 46,
@@ -105,7 +133,7 @@
         }
       },
       {
-        "target_id": 7,
+        "target_id": 9,
         "data": {
           "weapon_id": 85548,
           "priority": 45,
@@ -119,7 +147,7 @@
         }
       },
       {
-        "target_id": 8,
+        "target_id": 10,
         "data": {
           "weapon_id": 28000,
           "priority": 994,
@@ -133,7 +161,21 @@
         }
       },
       {
-        "target_id": 9,
+        "target_id": 11,
+        "data": {
+          "weapon_id": 28002,
+          "priority": 801,
+          "material": [
+            26002,
+            26216,
+            26216,
+            26216,
+            26216
+          ]
+        }
+      },
+      {
+        "target_id": 12,
         "data": {
           "weapon_id": 26216,
           "priority": 996,
@@ -147,7 +189,7 @@
         }
       },
       {
-        "target_id": 10,
+        "target_id": 13,
         "data": {
           "weapon_id": 26217,
           "priority": 997,

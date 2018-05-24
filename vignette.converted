@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1526547737,
+  "deceive": 1527154676,
   "vignette": [
     {
       "cid": 7015,
@@ -33,6 +33,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_2",
+      "event_area_name": 1
+    },
+    {
+      "cid": 7648,
+      "v_motionid": 0,
+      "bg": 5100,
+      "memo": "[FF0000]【魔神來襲】[-] 不～要～過～來～！！",
+      "start": 1506924000,
+      "end": 1527746400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "raid",
       "event_area_name": 1
     },
     {
