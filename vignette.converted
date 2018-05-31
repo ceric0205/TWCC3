@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1527154676,
+  "deceive": 1527757212,
   "vignette": [
     {
       "cid": 7015,
@@ -16,42 +16,6 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "explorer"
-    },
-    {
-      "cid": 7649,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "[FF0000]【魔神前置】[-]也可以不用那麼辛苦嘛～！",
-      "start": 1506924000,
-      "end": 1527746400,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 300,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_2",
-      "event_area_name": 1
-    },
-    {
-      "cid": 7648,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "[FF0000]【魔神來襲】[-] 不～要～過～來～！！",
-      "start": 1506924000,
-      "end": 1527746400,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 300,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
     },
     {
       "cid": 7015,
@@ -88,19 +52,22 @@
       "event_area_name": 2
     },
     {
-      "cid": 7649,
+      "cid": 8889,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "[FF0000]【魔神支援酒場】[-]\n受不了～！",
-      "start": 1506924000,
-      "end": 1527746400,
+      "bg": 6006,
+      "memo": "這樣可以嗎？",
+      "start": 1522918800,
+      "end": 1528351200,
       "link": "unity:GoGacha",
-      "param": {},
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
       "priority": 0,
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "gacha",
-      "event_area_name": 1
+      "event_area_name": null
     }
   ],
   "vignette_motion": [

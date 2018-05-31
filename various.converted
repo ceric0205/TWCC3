@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1525942803,
+  "deceive": 1527757213,
   "quest_event": [
     {
       "start": 1410242400,
@@ -7075,6 +7075,147 @@
         {
           "type": 2,
           "quest_id": 332225
+        }
+      ]
+    },
+    {
+      "start": 1504677600,
+      "end": 1528351200,
+      "param": {
+        "ap": 1,
+        "exp": 1.5,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "6月7日14:00為止"
+      },
+      "quest_list": [
+        {
+          "type": 2,
+          "quest_id": 334151
+        },
+        {
+          "type": 2,
+          "quest_id": 334152
+        },
+        {
+          "type": 2,
+          "quest_id": 334153
+        },
+        {
+          "type": 2,
+          "quest_id": 334161
+        },
+        {
+          "type": 2,
+          "quest_id": 334162
+        },
+        {
+          "type": 2,
+          "quest_id": 334163
+        },
+        {
+          "type": 2,
+          "quest_id": 334164
+        },
+        {
+          "type": 2,
+          "quest_id": 334165
+        },
+        {
+          "type": 2,
+          "quest_id": 334171
+        },
+        {
+          "type": 2,
+          "quest_id": 334172
+        },
+        {
+          "type": 2,
+          "quest_id": 334173
+        },
+        {
+          "type": 2,
+          "quest_id": 334174
+        },
+        {
+          "type": 2,
+          "quest_id": 334181
+        },
+        {
+          "type": 2,
+          "quest_id": 334182
+        },
+        {
+          "type": 2,
+          "quest_id": 334183
+        },
+        {
+          "type": 2,
+          "quest_id": 334184
+        },
+        {
+          "type": 2,
+          "quest_id": 334191
+        },
+        {
+          "type": 2,
+          "quest_id": 334192
+        },
+        {
+          "type": 2,
+          "quest_id": 334193
+        },
+        {
+          "type": 2,
+          "quest_id": 334201
+        },
+        {
+          "type": 2,
+          "quest_id": 334202
+        },
+        {
+          "type": 2,
+          "quest_id": 334203
+        },
+        {
+          "type": 2,
+          "quest_id": 334211
+        },
+        {
+          "type": 2,
+          "quest_id": 334212
+        },
+        {
+          "type": 2,
+          "quest_id": 334213
+        },
+        {
+          "type": 2,
+          "quest_id": 334221
+        },
+        {
+          "type": 2,
+          "quest_id": 334222
+        },
+        {
+          "type": 2,
+          "quest_id": 334223
+        },
+        {
+          "type": 2,
+          "quest_id": 334231
+        },
+        {
+          "type": 2,
+          "quest_id": 334232
+        },
+        {
+          "type": 2,
+          "quest_id": 334233
+        },
+        {
+          "type": 2,
+          "quest_id": 334234
         }
       ]
     }

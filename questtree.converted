@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1525942815,
+  "deceive": 1527757224,
   "quest_tree": [
     {
       "area_id": 0,
@@ -2036,14 +2036,18 @@
       "hero_id": 4,
       "icon": 31,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        334201,
+        334202,
+        334203
+      ],
       "size": 0,
       "story": 5,
-      "summary": "瑟蕾斯蒂５－１的概要",
-      "timestamp": "1522051353000",
-      "title": "瑟蕾斯蒂５－１",
+      "summary": "載著陷入沉眠的瑟蕾斯蒂的船隻駛回精靈島。 等待著她的卻是對瑟蕾斯蒂不太友善的森林精靈們。",
+      "timestamp": "1527474777000",
+      "title": "不斷改變的精靈島",
       "treasure": 0,
-      "update_time": 20180322,
+      "update_time": 20180531,
       "x_hero_ary": 0
     },
     {
@@ -2580,6 +2584,105 @@
       "treasure": 0,
       "update_time": 20180510,
       "x_hero_ary": 0
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 26,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "hero_id": 4,
+      "icon": 31,
+      "pub": 0,
+      "quest_ary": [
+        334211,
+        334212,
+        334213
+      ],
+      "size": 0,
+      "story": 5,
+      "summary": "在拉西爾和蘿絲卡的協助之下， 雙胞胎總算成功將瑟蕾斯蒂運至家中。 然而瑟蕾斯蒂仍未醒，雙胞胎陷入煩惱。",
+      "timestamp": "1527665120000",
+      "title": "歡迎不速之客",
+      "treasure": 0,
+      "update_time": 20180531,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 27,
+      "destiny": 1,
+      "develop_only": 0,
+      "episode": 3,
+      "hero_id": 4,
+      "icon": 31,
+      "pub": 0,
+      "quest_ary": [
+        334221,
+        334222,
+        334223
+      ],
+      "size": 0,
+      "story": 5,
+      "summary": "因瑟蕾斯蒂排斥派的計謀，雙胞胎演變成和赫利歐斯對戰。 然而途中，瑟蕾斯蒂身上似乎出現變化……。",
+      "timestamp": "1527474777000",
+      "title": "信念之戰",
+      "treasure": 0,
+      "update_time": 20180531,
+      "x_hero_ary": [
+        1,
+        4
+      ]
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 29,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "hero_id": 4,
+      "icon": 31,
+      "pub": 0,
+      "quest_ary": [
+        334231,
+        334232,
+        334233,
+        334234
+      ],
+      "size": 0,
+      "story": 5,
+      "summary": "在赫利歐斯的協助之下雙胞胎得以讓瑟蕾斯蒂恢復理智。 ３兄妹便帶領著赫利歐斯們參觀世界樹圖書館做為謝禮。",
+      "timestamp": "1527665120000",
+      "title": "作為家人",
+      "treasure": 0,
+      "update_time": 20180531,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 3,
+      "boss": 0,
+      "cell": 31,
+      "destiny": 1,
+      "develop_only": 0,
+      "episode": 1,
+      "hero_id": 4,
+      "icon": 31,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 6,
+      "summary": "瑟蕾斯蒂６－１的概要",
+      "timestamp": "1527474777000",
+      "title": "瑟蕾斯蒂６－１",
+      "treasure": 0,
+      "update_time": 20180531,
+      "x_hero_ary": [
+        1,
+        4
+      ]
     }
   ],
   "res": 0

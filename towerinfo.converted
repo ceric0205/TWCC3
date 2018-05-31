@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1527154732,
+  "deceive": 1527757267,
   "tower": [
     {
       "tower_id": 1,
@@ -27,6 +27,109 @@
         {
           "floor": "5",
           "floor_id": 5
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 200
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 300
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 400
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 500
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 750
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 1500
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 5000
+        }
+      ]
+    },
+    {
+      "tower_id": 2,
+      "start": 1527825600,
+      "end": 1530417600,
+      "free": 1527825600,
+      "close": 1528430400,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 6
+        },
+        {
+          "floor": "2",
+          "floor_id": 7
+        },
+        {
+          "floor": "3",
+          "floor_id": 8
+        },
+        {
+          "floor": "4",
+          "floor_id": 9
+        },
+        {
+          "floor": "5",
+          "floor_id": 10
         }
       ],
       "reward_list": [
@@ -1002,7 +1105,7 @@
             "wave": 5,
             "idx": 0
           },
-          "enemy_info": "ビーストと魔法生物が主に登場する。全エネミーは氷属性攻撃に弱い。",
+          "enemy_info": "野獸與魔法生物會登場。敵人的弱點是冰屬性。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1117,7 +1220,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "スノーマンが主に登場する。全エネミーは炎属性攻撃に弱い。",
+          "enemy_info": "雪人會登場。敵人的弱點是炎屬性。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1232,7 +1335,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "人間とカンゴクグモが主に登場する。全エネミーが打/拳武器攻撃に弱い。",
+          "enemy_info": "人類與蜘蛛會登場。敵人的弱點是拳/打屬性的攻擊。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,

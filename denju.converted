@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1527154689,
+  "deceive": 1527757225,
   "denju": [
     {
       "denju_id": 2,
@@ -10925,6 +10925,51 @@
       "sname": "毒殺贈禮",
       "stext": "在一定時間內讓自己以外的我方提升攻擊力及移動速度，但會陷入中毒狀態。",
       "timestamp": "1518161362000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8889,
+      "patternid0": 0,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "壓軸演唱",
+      "stext": "【歌】（效果可維持一定時間，自己無法移動）除了自己以外的所有我方成員攻擊力上升。",
+      "timestamp": "1527478833000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8890,
+      "patternid0": 0,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "流水蓮華",
+      "stext": "給予我方全體中等恢復的效果，並解除中毒與衰弱狀態。",
+      "timestamp": "1527478833000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8891,
+      "patternid0": 0,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 2,
+      "sname": "花心柔情",
+      "stext": "給予以自身為中心的範圍內全部敵人中等傷害，並附加暈眩狀態。",
+      "timestamp": "1527478833000",
       "weaponChange": 1
     }
   ],
