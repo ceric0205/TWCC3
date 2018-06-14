@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1526547750,
+  "deceive": 1528968974,
   "weaponlist": [
     {
       "id": 1,
@@ -18903,7 +18903,7 @@
     },
     {
       "id": 85572,
-      "name": "魔法雨傘",
+      "name": "魔法陽傘",
       "type_atk": 1,
       "attackMax": 11,
       "type_cri": 2,
@@ -18978,7 +18978,7 @@
     },
     {
       "id": 85578,
-      "name": "腓紅法杖",
+      "name": "緋紅法杖",
       "type_atk": 1,
       "attackMax": 8,
       "type_cri": 2,
@@ -30352,7 +30352,7 @@
     {
       "evol_dst": 85578,
       "id": 85578,
-      "name": "腓紅法杖",
+      "name": "緋紅法杖",
       "profile": "浴衣踏破復刻　アビなし",
       "rank_limit": 1,
       "rarity": 3,

@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1527757212,
+  "deceive": 1528968953,
   "vignette": [
     {
       "cid": 7015,
@@ -16,6 +16,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "explorer"
+    },
+    {
+      "cid": 4003,
+      "v_motionid": 0,
+      "bg": 5221,
+      "memo": "徒講仁義，無以守護！",
+      "start": 1506924000,
+      "end": 1529560800,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_1",
+      "event_area_name": 1
     },
     {
       "cid": 7015,
@@ -52,12 +70,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 8889,
+      "cid": 8892,
       "v_motionid": 0,
-      "bg": 6006,
-      "memo": "這樣可以嗎？",
+      "bg": 5100,
+      "memo": "燒吧。通通燒掉吧。",
       "start": 1522918800,
-      "end": 1528351200,
+      "end": 1529560800,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
