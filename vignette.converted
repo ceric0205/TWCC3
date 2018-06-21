@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1528968953,
+  "deceive": 1529571588,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 4003,
+      "cid": 6275,
       "v_motionid": 0,
-      "bg": 5221,
-      "memo": "徒講仁義，無以守護！",
+      "bg": 6006,
+      "memo": "有破綻！哈哈哈！",
       "start": 1506924000,
-      "end": 1529560800,
+      "end": 1530770400,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -70,12 +70,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 8892,
+      "cid": 265,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "燒吧。通通燒掉吧。",
+      "bg": 6006,
+      "memo": "這可是為了夏天特別準備的",
       "start": 1522918800,
-      "end": 1529560800,
+      "end": 1530770400,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
