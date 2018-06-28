@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1529571601,
+  "deceive": 1530178956,
   "denju": [
     {
       "denju_id": 2,
@@ -947,7 +947,7 @@
     },
     {
       "denju_id": 266,
-      "develop_only": 1,
+      "develop_only": 0,
       "patternid0": 0,
       "patternid1": 0,
       "patternid2": 0,
@@ -958,7 +958,7 @@
       "scost": 1,
       "sname": "連續針刺",
       "stext": "對接觸的所有敵人連續造成7次輕度傷害後，再次造成中度傷害並將其彈飛。",
-      "timestamp": "1513670318070",
+      "timestamp": "1530177378000",
       "weaponChange": 1
     },
     {
@@ -9986,7 +9986,7 @@
     },
     {
       "denju_id": 11217,
-      "develop_only": 1,
+      "develop_only": 0,
       "patternid0": 31121701,
       "patternid1": 0,
       "patternid2": 0,

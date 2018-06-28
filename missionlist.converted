@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1529571597,
+  "deceive": 1530178959,
   "missionlist": [
     {
       "id": 1,
@@ -6743,7 +6743,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "試著使用10枚聖靈幣進行合成吧",
+      "title": "試著使用10張聖靈進行合成吧",
       "sub_id": "Start006",
       "max_num": 10,
       "reward": {

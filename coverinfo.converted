@@ -1,5 +1,19 @@
 {
-  "deceive": 1529571612,
-  "cover_info": [],
+  "deceive": 1530178972,
+  "cover_info": [
+    {
+      "cover_id": 19,
+      "sp_cards": [
+        {
+          "cid": "265",
+          "pointid": 0
+        },
+        {
+          "cid": "6275",
+          "pointid": 0
+        }
+      ]
+    }
+  ],
   "res": 0
 }

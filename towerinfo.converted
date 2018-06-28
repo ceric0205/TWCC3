@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1529571627,
+  "deceive": 1530179000,
   "tower": [
     {
       "tower_id": 1,
@@ -130,6 +130,109 @@
         {
           "floor": "5",
           "floor_id": 10
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 200
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 300
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 400
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 500
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 750
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 1500
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 5000
+        }
+      ]
+    },
+    {
+      "tower_id": 3,
+      "start": 1530417600,
+      "end": 1533096000,
+      "free": 1530417600,
+      "close": 1531022400,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 11
+        },
+        {
+          "floor": "2",
+          "floor_id": 12
+        },
+        {
+          "floor": "3",
+          "floor_id": 13
+        },
+        {
+          "floor": "4",
+          "floor_id": 14
+        },
+        {
+          "floor": "5",
+          "floor_id": 15
         }
       ],
       "reward_list": [
@@ -1450,7 +1553,7 @@
             "wave": 5,
             "idx": 0
           },
-          "enemy_info": "人間が主に登場する。全エネミーは近づくまで姿が消えており通常遠距離攻撃が効かない。",
+          "enemy_info": "主要登場的是人類。全敵人在接近前會隱身通常遠距攻擊沒有效。",
           "reward": {
             "type": "item",
             "id": 13,
@@ -1565,7 +1668,7 @@
             "wave": 5,
             "idx": 0
           },
-          "enemy_info": "鬼の戰士と魔法使いが主に登場する。",
+          "enemy_info": "主要登場的為鬼族戰士與魔法師。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1680,7 +1783,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "サラマンダーが主に登場する。全エネミーは氷属性攻撃に弱い。エネミーの地形変化に注意。",
+          "enemy_info": "主要登場的為蜥蜴人。敵人的弱點是冰屬性。要注意敵人的地形變化技能。",
           "reward": {
             "type": "item",
             "id": 40,
@@ -1795,7 +1898,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "獣人が主に登場する。全エネミーが戰士の攻撃と突武器攻撃に弱い。エネミーの集中攻撃に注意。",
+          "enemy_info": "主要登場的為獸人。敵人的弱點為戰士的攻擊與突屬性攻擊。要注意敵人的集中攻擊。",
           "reward": {
             "type": "item",
             "id": 39,
@@ -1840,7 +1943,7 @@
             "wave": 6,
             "idx": 2
           },
-          "enemy_info": "薄命の民が登場する。",
+          "enemy_info": "薄命之民會登場。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -1875,7 +1978,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "海賊とクリオーネが登場する。",
+          "enemy_info": "海賊與海天使會登場。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -1910,7 +2013,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黑之士兵會登場。全力で挑んで勝利を掴もう。",
+          "enemy_info": "黑之士兵會登場。用盡全力挑戰獲得勝利吧。",
           "reward": {
             "type": "item",
             "id": 39,
