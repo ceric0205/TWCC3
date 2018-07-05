@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1529571588,
+  "deceive": 1530781523,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 6275,
+      "cid": 9219,
       "v_motionid": 0,
-      "bg": 6006,
-      "memo": "有破綻！哈哈哈！",
+      "bg": 71,
+      "memo": "嘿嘿，生氣了？",
       "start": 1506924000,
-      "end": 1530770400,
+      "end": 1531375200,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -68,24 +68,6 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 2
-    },
-    {
-      "cid": 265,
-      "v_motionid": 0,
-      "bg": 6006,
-      "memo": "這可是為了夏天特別準備的",
-      "start": 1522918800,
-      "end": 1530770400,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": null
     }
   ],
   "vignette_motion": [

@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1528968974,
+  "deceive": 1530781533,
   "weaponlist": [
     {
       "id": 1,
@@ -19443,7 +19443,7 @@
     },
     {
       "id": 85613,
-      "name": "肉槌",
+      "name": "衝擊肉",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -19458,7 +19458,7 @@
     },
     {
       "id": 85614,
-      "name": "雙牙",
+      "name": "決鬥牙",
       "type_atk": 4,
       "attackMax": 16,
       "type_cri": 2,
@@ -19593,7 +19593,7 @@
     },
     {
       "id": 85623,
-      "name": "芬德突擊步槍",
+      "name": "浮士德",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -30651,7 +30651,7 @@
     {
       "evol_dst": 85613,
       "id": 85613,
-      "name": "肉槌",
+      "name": "衝擊肉",
       "profile": "新ケ者報酬武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -30664,7 +30664,7 @@
     {
       "evol_dst": 85614,
       "id": 85614,
-      "name": "雙牙",
+      "name": "決鬥牙",
       "profile": "新ケ者報酬武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -30781,7 +30781,7 @@
     {
       "evol_dst": 85623,
       "id": 85623,
-      "name": "芬德突擊步槍",
+      "name": "浮士德",
       "profile": "罪軌跡武器",
       "rank_limit": 2,
       "rarity": 5,
