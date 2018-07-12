@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1530781523,
+  "deceive": 1531388613,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 9219,
+      "cid": 11218,
       "v_motionid": 0,
-      "bg": 71,
-      "memo": "嘿嘿，生氣了？",
+      "bg": 81,
+      "memo": "被我玩弄的滋味怎麼樣！？",
       "start": 1506924000,
-      "end": 1531375200,
+      "end": 1531980000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
