@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1530781533,
+  "deceive": 1532001418,
   "weaponlist": [
     {
       "id": 1,
@@ -9093,7 +9093,7 @@
     },
     {
       "id": 26206,
-      "name": "感謝標誌",
+      "name": "感謝的標誌",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -18483,7 +18483,7 @@
     },
     {
       "id": 85542,
-      "name": "千客萬来",
+      "name": "千客萬來",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -18588,7 +18588,7 @@
     },
     {
       "id": 85549,
-      "name": "四周年紀念大劍",
+      "name": "肆週年",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -24671,7 +24671,7 @@
     {
       "evol_dst": 26206,
       "id": 26206,
-      "name": "感謝標誌",
+      "name": "感謝的標誌",
       "profile": "錬金素材",
       "rank_limit": 1,
       "rarity": 3,
@@ -30014,7 +30014,7 @@
     {
       "evol_dst": 85542,
       "id": 85542,
-      "name": "千客萬来",
+      "name": "千客萬來",
       "profile": "錬金用武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -30066,7 +30066,7 @@
     {
       "evol_dst": 85549,
       "id": 85549,
-      "name": "四周年紀念大劍",
+      "name": "肆週年",
       "profile": "4周年お祝い武器",
       "rank_limit": 2,
       "rarity": 5,

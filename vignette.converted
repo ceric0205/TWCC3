@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1531388613,
+  "deceive": 1532001405,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 11218,
+      "cid": 7208,
       "v_motionid": 0,
-      "bg": 81,
-      "memo": "被我玩弄的滋味怎麼樣！？",
+      "bg": 6005,
+      "memo": "冒險不止！",
       "start": 1506924000,
-      "end": 1531980000,
+      "end": 1532584800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -33,6 +33,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_1",
+      "event_area_name": 4
+    },
+    {
+      "cid": 1041,
+      "v_motionid": 0,
+      "bg": 6005,
+      "memo": "用這雙手取得勝利！",
+      "start": 1506924000,
+      "end": 1533189600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_2",
       "event_area_name": 1
     },
     {
@@ -68,6 +86,24 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 2
+    },
+    {
+      "cid": 7210,
+      "v_motionid": 0,
+      "bg": 6005,
+      "memo": "怎麼可以輸給暴風雨啊啊！！",
+      "start": 1522918800,
+      "end": 1532584800,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
     }
   ],
   "vignette_motion": [
