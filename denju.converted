@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1531388623,
+  "deceive": 1532596000,
   "denju": [
     {
       "denju_id": 2,
@@ -5965,8 +5965,8 @@
       "patternid6": 0,
       "scost": 1,
       "sname": "奥義・斬空劍",
-      "stext": "對有接觸的全部敵人造成小幅傷害，並彈飛。",
-      "timestamp": "1513670318070",
+      "stext": "給予接觸的所有敵人小傷害並擊退。",
+      "timestamp": "1532320057000",
       "weaponChange": 1
     },
     {
