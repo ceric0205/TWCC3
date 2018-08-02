@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1532595990,
+  "deceive": 1533201964,
   "chronicle_power": [
     {
       "effect_level1": 30,
@@ -7,7 +7,7 @@
       "flag_level0": 10,
       "flag_level1": 15,
       "flag_level2": 20,
-      "flag_level3": 0,
+      "flag_level3": 50,
       "flag_level4": 0,
       "flag_level5": 0,
       "flag_level6": 0,
@@ -24,7 +24,7 @@
       "skillflag1_1": 0,
       "skillflag2_0": 16,
       "skillflag2_1": 0,
-      "skillflag3_0": 0,
+      "skillflag3_0": 32,
       "skillflag3_1": 0,
       "skillflag4_0": 0,
       "skillflag4_1": 0,
@@ -55,7 +55,7 @@
       "str3": "",
       "str4": "",
       "str5": "",
-      "timestamp": "1516603649000"
+      "timestamp": "1531709279000"
     }
   ],
   "chronicle_power_level": [
@@ -65,24 +65,24 @@
       "add2_level": 6,
       "add2_lv10": 0,
       "add2_lv5": 0,
-      "add3": 0,
-      "add3_level": 0,
+      "add3": 0.1,
+      "add3_level": 21,
       "add3_lv10": 0,
       "add3_lv5": 0,
-      "add4": 0,
-      "add4_level": 0,
+      "add4": 0.05,
+      "add4_level": 51,
       "add4_lv10": 0,
       "add4_lv5": 0,
       "add_lv10": 0,
       "add_lv5": 0.2,
       "levelid": 1,
       "name": "全體傷害",
-      "timestamp": "1516603649000"
+      "timestamp": "1531709279000"
     },
     {
       "add": 0,
-      "add2": 0,
-      "add2_level": 0,
+      "add2": 0.1,
+      "add2_level": 40,
       "add2_lv10": 0,
       "add2_lv5": 0,
       "add3": 0,
@@ -97,7 +97,7 @@
       "add_lv5": 0,
       "levelid": 2,
       "name": "全體擊退",
-      "timestamp": "1516603649000"
+      "timestamp": "1531709279000"
     }
   ],
   "res": 0

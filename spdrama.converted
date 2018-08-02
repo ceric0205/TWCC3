@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1528968956,
+  "deceive": 1533202530,
   "sp_drama_list": [
     {
       "drama_id": 3,
@@ -101,9 +101,9 @@
     },
     {
       "drama_id": 15,
-      "end": 1524722400,
+      "end": 1500512399,
       "hero": 1,
-      "start": 1523329077,
+      "start": 1499752800,
       "title": "治癒教祖永不終結的惡夢",
       "trigger": 4
     },
@@ -249,6 +249,142 @@
       "hero": 0,
       "start": 1508824800,
       "title": "絆之軌跡公開",
+      "trigger": 3
+    },
+    {
+      "drama_id": 33,
+      "end": 1510207199,
+      "hero": 0,
+      "start": 1509606000,
+      "title": "「競技場」體驗開放！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 34,
+      "end": 1510639199,
+      "hero": 0,
+      "start": 1510207200,
+      "title": "絆之軌跡公開",
+      "trigger": 3
+    },
+    {
+      "drama_id": 35,
+      "end": 1510120799,
+      "hero": 0,
+      "start": 1510034400,
+      "title": "未使用(由於無法刪除因此暫時留置)",
+      "trigger": 4
+    },
+    {
+      "drama_id": 36,
+      "end": 1511762399,
+      "hero": 0,
+      "start": 1511244000,
+      "title": "絆之軌跡＆第5章赫利歐斯篇追加",
+      "trigger": 3
+    },
+    {
+      "drama_id": 37,
+      "end": 1514249999,
+      "hero": 0,
+      "start": 1514041200,
+      "title": "聖夜的贈禮Fes.開始＆沙漠的聖夜之後的故事公開！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 38,
+      "end": 1516082399,
+      "hero": 2,
+      "start": 1515564000,
+      "title": "1100萬下載&第6章愛麗婕篇追加",
+      "trigger": 3
+    },
+    {
+      "drama_id": 39,
+      "end": 1517378399,
+      "hero": 4,
+      "start": 1516860000,
+      "title": "第6章瑟蕾斯蒂篇追加",
+      "trigger": 3
+    },
+    {
+      "drama_id": 40,
+      "end": 1518141599,
+      "hero": 5,
+      "start": 1517896800,
+      "title": "第6章『天津篇』追加",
+      "trigger": 3
+    },
+    {
+      "drama_id": 41,
+      "end": 1518659999,
+      "hero": 0,
+      "start": 1518141600,
+      "title": "甜蜜情人節Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 42,
+      "end": 1519264799,
+      "hero": 2,
+      "start": 1518660000,
+      "title": "「OVERLORDⅡ」聯動活動開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 43,
+      "end": 1519696799,
+      "hero": 0,
+      "start": 1519264800,
+      "title": "達成1200萬下載！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 44,
+      "end": 1520906399,
+      "hero": 1,
+      "start": 1520316000,
+      "title": "「BRAVE Fes.」開始！ & 第6章『赫利歐斯篇』追加！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 45,
+      "end": 1522029599,
+      "hero": 1,
+      "start": 1521511200,
+      "title": "血界戰線 & BEYOND聯動",
+      "trigger": 3
+    },
+    {
+      "drama_id": 46,
+      "end": 1522375199,
+      "hero": 0,
+      "start": 1522029600,
+      "title": "春爛漫！櫻花Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 49,
+      "end": 1523325599,
+      "hero": 0,
+      "start": 1522594800,
+      "title": "達成1300萬下載紀念活動公告",
+      "trigger": 3
+    },
+    {
+      "drama_id": 48,
+      "end": 1522508399,
+      "hero": 0,
+      "start": 1522375200,
+      "title": "達成1300萬下載紀念活動公告",
+      "trigger": 3
+    },
+    {
+      "drama_id": 47,
+      "end": 1522594799,
+      "hero": 0,
+      "start": 1522508400,
+      "title": "『鎖鏈戰記 妖怪大師』決定開始製作！",
       "trigger": 3
     }
   ],

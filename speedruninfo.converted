@@ -1,0 +1,1891 @@
+﻿{
+  "deceive": 1533201964,
+  "speed_run_info": [
+    {
+      "sprun_id": 1,
+      "start": 1509519600,
+      "end": 1512025200,
+      "title": "11月",
+      "timestamp": "1509521247635",
+      "reward_list": [
+        {
+          "rank": 10,
+          "border": 10,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 100000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "border": 20,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 50000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "border": 35,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 3,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 30000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "border": 60,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 20000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "border": 90,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 10000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 1,
+          "border": 100,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 5000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        }
+      ],
+      "quest_list": [
+        {
+          "quest_id": 340011,
+          "priority": 4,
+          "title": "預賽・騎士強化",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 40,
+          "stamina": 10,
+          "eneset_id": 3400111,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 224,
+              "lv": 80,
+              "hp": 9700,
+              "atk": 10400,
+              "helper_comment": "我要把你切碎♪",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "up_job",
+              "param": {
+                "enable_jobs": [
+                  4
+                ],
+                "state": {
+                  "atk_up": 3,
+                  "hp_up": 1
+                }
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              3,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340012,
+          "priority": 3,
+          "title": "預賽・弓箭手強化",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 50,
+          "stamina": 10,
+          "eneset_id": 3400121,
+          "border_time": 17500,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 4211,
+              "lv": 80,
+              "hp": 6040,
+              "atk": 10800,
+              "helper_comment": "這支箭絕對不會落空",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "up_job",
+              "param": {
+                "enable_jobs": [
+                  1
+                ],
+                "state": {
+                  "atk_up": 3,
+                  "hp_up": 1
+                }
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              21,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340013,
+          "priority": 2,
+          "title": "預賽・18 COST以下限定",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 60,
+          "stamina": 10,
+          "eneset_id": 3400131,
+          "border_time": 15000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 9210,
+              "lv": 80,
+              "hp": 5900,
+              "atk": 8900,
+              "helper_comment": "加油啊，普亞亞！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 10000,
+                "atk": 4500
+              }
+            },
+            {
+              "cid": 226,
+              "lv": 80,
+              "hp": 9700,
+              "atk": 9500,
+              "helper_comment": "嗯，我要一起去！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 5400,
+                "atk": 9680
+              }
+            },
+            {
+              "cid": 2238,
+              "lv": 80,
+              "hp": 5500,
+              "atk": 8500,
+              "helper_comment": "把拔，加油",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 8500,
+                "atk": 9500
+              }
+            },
+            {
+              "cid": 6277,
+              "lv": 80,
+              "hp": 8850,
+              "atk": 9250,
+              "helper_comment": "被碎屍萬段吧，蜉蝣",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 8500,
+                "atk": 8000
+              }
+            },
+            {
+              "cid": 5244,
+              "lv": 80,
+              "hp": 6000,
+              "atk": 8500,
+              "helper_comment": "不想工作啦～。",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 9000,
+                "atk": 9000
+              }
+            }
+          ],
+          "rules": [
+            {
+              "category": "characost",
+              "param": {
+                "border": 18,
+                "compare": "under"
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              24,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340014,
+          "priority": 1,
+          "title": "榮譽戰",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 80,
+          "stamina": 10,
+          "eneset_id": 3400141,
+          "border_time": 12500,
+          "sp_flag": 1,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26236,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 5211,
+              "lv": 80,
+              "hp": 10300,
+              "atk": 9800,
+              "helper_comment": "用不著你說……！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 6280,
+              "lv": 80,
+              "hp": 9300,
+              "atk": 9300,
+              "helper_comment": "頭抬得太高～～～了！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4224,
+              "lv": 80,
+              "hp": 6700,
+              "atk": 10000,
+              "helper_comment": "聽我唱歌吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 2226,
+              "lv": 80,
+              "hp": 6510,
+              "atk": 10020,
+              "helper_comment": "就這麼決定了！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 1213,
+              "lv": 80,
+              "hp": 7300,
+              "atk": 10700,
+              "helper_comment": "背負生命！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [],
+          "enemy_info": {
+            "enemy_type": [
+              4,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              208,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "period_end_times": [
+        1510038000,
+        1510642800,
+        1511247600,
+        1511852400
+      ]
+    },
+    {
+      "sprun_id": 2,
+      "start": 1512111600,
+      "end": 1514703600,
+      "title": "12月",
+      "timestamp": "1511925997887",
+      "reward_list": [
+        {
+          "rank": 10,
+          "border": 10,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 100000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "border": 20,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 50000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "border": 35,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 3,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 30000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "border": 60,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 20000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "border": 90,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 10000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 1,
+          "border": 100,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 5000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        }
+      ],
+      "quest_list": [
+        {
+          "quest_id": 340111,
+          "priority": 4,
+          "title": "預賽・副都限定",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 40,
+          "stamina": 10,
+          "eneset_id": 3401111,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 201,
+              "lv": 80,
+              "hp": 9000,
+              "atk": 9000,
+              "helper_comment": "把未來交出來吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 213,
+              "lv": 80,
+              "hp": 9100,
+              "atk": 9000,
+              "helper_comment": "登上處刑台吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 9210,
+              "lv": 80,
+              "hp": 5900,
+              "atk": 8900,
+              "helper_comment": "加油啊，普亞亞！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 10000,
+                "atk": 4500
+              }
+            },
+            {
+              "cid": 226,
+              "lv": 80,
+              "hp": 9700,
+              "atk": 9500,
+              "helper_comment": "嗯，我要一起去！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false,
+              "buddy_data": {
+                "hp": 5400,
+                "atk": 9680
+              }
+            },
+            {
+              "cid": 214,
+              "lv": 80,
+              "hp": 5550,
+              "atk": 9350,
+              "helper_comment": "我會用陷阱掩護你",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 280,
+              "lv": 80,
+              "hp": 8700,
+              "atk": 9300,
+              "helper_comment": "要揚名天下啊！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              2,
+              9,
+              0
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340112,
+          "priority": 3,
+          "title": "預賽・聖都限定",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 50,
+          "stamina": 10,
+          "eneset_id": 3401121,
+          "border_time": 17500,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 1254,
+              "lv": 80,
+              "hp": 9400,
+              "atk": 9200,
+              "helper_comment": "全員、進入戰鬥配置！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 1241,
+              "lv": 80,
+              "hp": 9500,
+              "atk": 9000,
+              "helper_comment": "跟隨此旗吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  5
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              5,
+              9,
+              2
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340113,
+          "priority": 2,
+          "title": "預賽・湖都限定",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 60,
+          "stamina": 10,
+          "eneset_id": 3401131,
+          "border_time": 15000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 4201,
+              "lv": 80,
+              "hp": 8820,
+              "atk": 9220,
+              "helper_comment": "一起跳舞吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4202,
+              "lv": 80,
+              "hp": 5800,
+              "atk": 9000,
+              "helper_comment": "黃金之歌！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4214,
+              "lv": 80,
+              "hp": 6700,
+              "atk": 8900,
+              "helper_comment": "碰到逆鱗囉！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4217,
+              "lv": 80,
+              "hp": 8800,
+              "atk": 9300,
+              "helper_comment": "演奏更激烈的曲子吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4218,
+              "lv": 80,
+              "hp": 6500,
+              "atk": 9300,
+              "helper_comment": "這樣的曲子如何呢",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4215,
+              "lv": 80,
+              "hp": 6400,
+              "atk": 9400,
+              "helper_comment": "環繞吧神秘！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  8
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              11,
+              9,
+              2
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340114,
+          "priority": 1,
+          "title": "榮譽戰・騎士弓箭手強化",
+          "strength": 10,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 80,
+          "stamina": 10,
+          "eneset_id": 3401141,
+          "border_time": 12500,
+          "sp_flag": 1,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26236,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 211,
+              "lv": 80,
+              "hp": 10100,
+              "atk": 10000,
+              "helper_comment": "要保護好尤古度！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4211,
+              "lv": 80,
+              "hp": 6040,
+              "atk": 10080,
+              "helper_comment": "這支箭絕對不會落空",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 224,
+              "lv": 80,
+              "hp": 9700,
+              "atk": 10400,
+              "helper_comment": "我會盡情的砍劈喔？",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            },
+            {
+              "cid": 4224,
+              "lv": 80,
+              "hp": 6700,
+              "atk": 10000,
+              "helper_comment": "歌聲高揚吧！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "up_job",
+              "param": {
+                "enable_jobs": [
+                  1,
+                  4
+                ],
+                "state": {
+                  "atk_up": 5,
+                  "hp_up": 1
+                }
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              24,
+              9,
+              2
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "period_end_times": [
+        1512630000,
+        1513234800,
+        1513839600,
+        1514444400
+      ]
+    },
+    {
+      "sprun_id": 3,
+      "start": 1514790000,
+      "end": 1517382000,
+      "title": "1月",
+      "timestamp": "1514170213412",
+      "reward_list": [
+        {
+          "rank": 10,
+          "border": 10,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 100000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "border": 20,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 50000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "border": 35,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 3,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 30000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "border": 60,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 20000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "border": 90,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 10000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 1,
+          "border": 100,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 5000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        }
+      ],
+      "quest_list": [
+        {
+          "quest_id": 340211,
+          "priority": 4,
+          "title": "預賽・獸人強化",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 40,
+          "stamina": 10,
+          "eneset_id": 3400111,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 9035,
+              "lv": 80,
+              "hp": 6200,
+              "atk": 9500,
+              "helper_comment": "這就是神託啊……",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "up_home",
+              "param": {
+                "home": [
+                  14
+                ],
+                "state": {
+                  "atk_up": 5,
+                  "hp_up": 1
+                }
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              3,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340212,
+          "priority": 3,
+          "title": "預賽・大海強化",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 50,
+          "stamina": 10,
+          "eneset_id": 3400121,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 7043,
+              "lv": 80,
+              "hp": 6000,
+              "atk": 9700,
+              "helper_comment": "拓開航路吧",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "up_home",
+              "param": {
+                "home": [
+                  12
+                ],
+                "state": {
+                  "atk_up": 5,
+                  "hp_up": 1
+                }
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              21,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340213,
+          "priority": 2,
+          "title": "預賽・魔神限定",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 60,
+          "stamina": 10,
+          "eneset_id": 3400131,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 7616,
+              "lv": 80,
+              "hp": 7500,
+              "atk": 10600,
+              "helper_comment": "看好了……魔女之力！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  2
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              24,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340214,
+          "priority": 1,
+          "title": "榮譽戰・20 COST以上限定",
+          "strength": 5,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 80,
+          "stamina": 10,
+          "eneset_id": 3400141,
+          "border_time": 10000,
+          "sp_flag": 1,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26236,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 212,
+              "lv": 80,
+              "hp": 7400,
+              "atk": 10600,
+              "helper_comment": "療癒的光輝啊……！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "characost",
+              "param": {
+                "border": 20,
+                "compare": "over"
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              4,
+              2,
+              9
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              208,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "period_end_times": [
+        1515308400,
+        1515913200,
+        1516518000,
+        1517122800
+      ]
+    },
+    {
+      "sprun_id": 4,
+      "start": 1517468400,
+      "end": 1517468400,
+      "title": "2月",
+      "timestamp": "1532506213000",
+      "reward_list": [
+        {
+          "rank": 10,
+          "border": 10,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 100000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "border": 20,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90904,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 50000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "border": 35,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 3,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 30000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "border": 60,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 2,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 20000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "border": 90,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 10000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        },
+        {
+          "rank": 1,
+          "border": 100,
+          "item_list": [
+            {
+              "type": "chara_rf",
+              "id": 90903,
+              "cnt": 1,
+              "disp": true,
+              "priority": 2
+            },
+            {
+              "type": "item",
+              "id": 10,
+              "cnt": 5000,
+              "disp": true,
+              "priority": 1
+            }
+          ]
+        }
+      ],
+      "quest_list": [
+        {
+          "quest_id": 340311,
+          "priority": 4,
+          "title": "預賽・賢者之塔限定",
+          "strength": 2,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 40,
+          "stamina": 10,
+          "eneset_id": 3401111,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 2201,
+              "lv": 80,
+              "hp": 7540,
+              "atk": 8940,
+              "helper_comment": "要保護好……大家！",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              2,
+              9,
+              0
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340312,
+          "priority": 3,
+          "title": "預賽・旅人限定",
+          "strength": 2,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 50,
+          "stamina": 10,
+          "eneset_id": 3401121,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 7511,
+              "lv": 80,
+              "hp": 7500,
+              "atk": 8700,
+              "helper_comment": "想要嗎？智慧。",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  3
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              5,
+              9,
+              2
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340313,
+          "priority": 2,
+          "title": "預賽・魔神限定",
+          "strength": 2,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 60,
+          "stamina": 10,
+          "eneset_id": 3401131,
+          "border_time": 20000,
+          "sp_flag": 0,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26237,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 7571,
+              "lv": 80,
+              "hp": 7500,
+              "atk": 10900,
+              "helper_comment": "來一粒如何？",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  2
+                ]
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              11,
+              9,
+              2
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "quest_id": 340314,
+          "priority": 1,
+          "title": "榮譽戰・騎士強化",
+          "strength": 10,
+          "bg": 418,
+          "bgm": 15,
+          "difficulty": 80,
+          "stamina": 10,
+          "eneset_id": 3403141,
+          "border_time": 12500,
+          "sp_flag": 1,
+          "invalid_chropower": 0,
+          "reward": {
+            "type": "weapon_ev",
+            "id": 26236,
+            "val": 1
+          },
+          "helpers": [
+            {
+              "cid": 5201,
+              "lv": 80,
+              "hp": 9550,
+              "atk": 9350,
+              "helper_comment": "是嗎，這裡就是那個啊",
+              "skillflag": [
+                true,
+                true,
+                true,
+                true
+              ],
+              "enable_act": false
+            }
+          ],
+          "rules": [
+            {
+              "category": "up_job",
+              "param": {
+                "enable_jobs": [
+                  4
+                ],
+                "state": {
+                  "atk_up": 5,
+                  "hp_up": 1
+                }
+              }
+            }
+          ],
+          "enemy_info": {
+            "enemy_type": [
+              24,
+              9,
+              2
+            ],
+            "enemy_job": [
+              0,
+              0,
+              0
+            ],
+            "enemy_note": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "period_end_times": []
+    }
+  ],
+  "res": 0
+}

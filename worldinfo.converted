@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1528968967,
+  "deceive": 1533201973,
   "area": [
     {
       "areaId": 1,
@@ -11,7 +11,7 @@
       "sx": 2400,
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 200,
       "ypos": -60
@@ -26,7 +26,7 @@
       "sx": 1700,
       "sy": 1385,
       "tex": "main_gui_AreaMap_02",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 330,
       "ypos": -135
@@ -41,7 +41,7 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_03",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 345,
       "ypos": 40
@@ -56,7 +56,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_04",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 150,
       "ypos": 120
@@ -71,7 +71,7 @@
       "sx": 2002,
       "sy": 1218,
       "tex": "main_gui_AreaMap_05",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 270,
       "ypos": 206
@@ -86,7 +86,7 @@
       "sx": 1916,
       "sy": 1136,
       "tex": "main_gui_AreaMap_06",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 49,
       "ypos": -65
@@ -101,7 +101,7 @@
       "sx": 2400,
       "sy": 1200,
       "tex": "main_gui_AreaMap_10",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 2,
       "xpos": 285,
       "ypos": -151
@@ -116,7 +116,7 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_11",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 2,
       "xpos": 30,
       "ypos": -99
@@ -131,7 +131,7 @@
       "sx": 2000,
       "sy": 2000,
       "tex": "main_gui_AreaMap_12",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 2,
       "xpos": 140,
       "ypos": 160
@@ -146,7 +146,7 @@
       "sx": 2000,
       "sy": 1000,
       "tex": "main_gui_AreaMap_13",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 2,
       "xpos": 330,
       "ypos": 100
@@ -161,7 +161,7 @@
       "sx": 1200,
       "sy": 2100,
       "tex": "main_gui_AreaMap_14",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 3,
       "xpos": 215,
       "ypos": -140
@@ -176,7 +176,7 @@
       "sx": 2300,
       "sy": 1380,
       "tex": "main_gui_AreaMap_15",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 3,
       "xpos": 47,
       "ypos": 52
@@ -191,7 +191,7 @@
       "sx": 1800,
       "sy": 1350,
       "tex": "main_gui_AreaMap_16",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 3,
       "xpos": 270,
       "ypos": 196
@@ -206,7 +206,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0001",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -221,7 +221,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0011",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -236,7 +236,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0021",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -251,7 +251,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0031",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -266,7 +266,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0041",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -281,7 +281,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1520501382000",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -296,7 +296,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -311,7 +311,7 @@
       "sx": 2000,
       "sy": 1667,
       "tex": "main_gui_AreaMap_17",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": 4,
       "xpos": 262,
       "ypos": -12
@@ -326,7 +326,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1520501382000",
+      "timestamp": "1526610325228",
       "worldId": 1,
       "xpos": 14,
       "ypos": 145
@@ -341,7 +341,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -356,7 +356,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -371,7 +371,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -386,7 +386,7 @@
       "sx": 1300,
       "sy": 900,
       "tex": "main_gui_AreaMap_1002",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -401,7 +401,7 @@
       "sx": 1723,
       "sy": 1001,
       "tex": "main_gui_AreaMap_1007",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -416,7 +416,7 @@
       "sx": 3200,
       "sy": 1100,
       "tex": "main_gui_AreaMap_1008",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -431,7 +431,7 @@
       "sx": 2880,
       "sy": 650,
       "tex": "main_gui_AreaMap_1009",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -446,7 +446,7 @@
       "sx": 1152,
       "sy": 2500,
       "tex": "main_gui_AreaMap_1010",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -461,7 +461,7 @@
       "sx": 1700,
       "sy": 1398,
       "tex": "main_gui_AreaMap_1011",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -476,7 +476,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_1012",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -491,7 +491,7 @@
       "sx": 1916,
       "sy": 1336,
       "tex": "main_gui_AreaMap_1013",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -506,7 +506,7 @@
       "sx": 1447,
       "sy": 1400,
       "tex": "main_gui_AreaMap_1014",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -521,7 +521,7 @@
       "sx": 1152,
       "sy": 3300,
       "tex": "main_gui_AreaMap_1015",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -536,7 +536,7 @@
       "sx": 1516,
       "sy": 2500,
       "tex": "main_gui_AreaMap_1016",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -551,7 +551,7 @@
       "sx": 2000,
       "sy": 2200,
       "tex": "main_gui_AreaMap_1017",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -566,7 +566,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_1018",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -581,7 +581,7 @@
       "sx": 2560,
       "sy": 2000,
       "tex": "main_gui_AreaMap_1019",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -596,7 +596,7 @@
       "sx": 2560,
       "sy": 2000,
       "tex": "main_gui_AreaMap_1020",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -611,7 +611,7 @@
       "sx": 2500,
       "sy": 1600,
       "tex": "main_gui_AreaMap_1021",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -626,7 +626,67 @@
       "sx": 1152,
       "sy": 3300,
       "tex": "main_gui_AreaMap_1022",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1023,
+      "chara": 2,
+      "icon": "-1",
+      "name": "大狩獵戰「罪之大陸篇」",
+      "open": 0,
+      "rank": 0,
+      "sx": 2000,
+      "sy": 2200,
+      "tex": "main_gui_AreaMap_1017",
+      "timestamp": "1526610325228",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1024,
+      "chara": 2,
+      "icon": "-1",
+      "name": "走遍聖誕節",
+      "open": 0,
+      "rank": 0,
+      "sx": 2840,
+      "sy": 640,
+      "tex": "main_gui_AreaMap_1024",
+      "timestamp": "1526610325228",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1025,
+      "chara": 2,
+      "icon": "-1",
+      "name": "獸人大狩獵",
+      "open": 0,
+      "rank": 0,
+      "sx": 1440,
+      "sy": 1620,
+      "tex": "main_gui_AreaMap_11",
+      "timestamp": "1526610325228",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1026,
+      "chara": 2,
+      "icon": "-1",
+      "name": "走遍九領",
+      "open": 0,
+      "rank": 0,
+      "sx": 1690,
+      "sy": 1690,
+      "tex": "main_gui_AreaMap_1025",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -641,7 +701,7 @@
       "sx": 2400,
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
-      "timestamp": "1513670318070",
+      "timestamp": "1526610325228",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -694,7 +754,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": -818.6755,
-      "y": -89.96437
+      "y": -89.96437,
+      "place_reward": {
+        "type": "card",
+        "id": 22,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -706,7 +771,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -180,
-      "y": -260
+      "y": -260,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -718,7 +788,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 63.67444,
-      "y": 4.359024
+      "y": 4.359024,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -730,7 +805,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": 630.1466,
-      "y": -3.515442
+      "y": -3.515442,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -742,7 +822,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 832.7329,
-      "y": 213.5987
+      "y": 213.5987,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -754,7 +839,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 397.562,
-      "y": 315.3065
+      "y": 315.3065,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -766,7 +856,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 920,
-      "y": -270
+      "y": -270,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -778,7 +873,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": 270.1106,
-      "y": -358.1875
+      "y": -358.1875,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -790,7 +890,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": -500,
-      "y": -400
+      "y": -400,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -802,7 +907,12 @@
       "placeId": 11,
       "ver3_flag": 0,
       "x": -107.9734,
-      "y": 238.8545
+      "y": 238.8545,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1,
@@ -814,7 +924,12 @@
       "placeId": 12,
       "ver3_flag": 0,
       "x": -1000,
-      "y": 250
+      "y": 250,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -838,7 +953,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": -92.20669,
-      "y": 198.733
+      "y": 198.733,
+      "place_reward": {
+        "type": "card",
+        "id": 2010,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -850,7 +970,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 354.7841,
-      "y": -172.8476
+      "y": -172.8476,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -862,7 +987,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": 40.43826,
-      "y": -454.0075
+      "y": -454.0075,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -874,7 +1004,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -607.689,
-      "y": -177.2473
+      "y": -177.2473,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -886,7 +1021,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -245.2804,
-      "y": -31.87166
+      "y": -31.87166,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -898,7 +1038,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 315.3918,
-      "y": 205.4993
+      "y": 205.4993,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -910,7 +1055,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 82.13979,
-      "y": 354.3716
+      "y": 354.3716,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -922,7 +1072,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 681.7343,
-      "y": 357.3373
+      "y": 357.3373,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -934,7 +1089,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": -293.5987,
-      "y": -515.1623
+      "y": -515.1623,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 2,
@@ -946,7 +1106,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": 663.6915,
-      "y": 52.52654
+      "y": 52.52654,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -970,7 +1135,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 165.1115,
-      "y": -377.9146
+      "y": -377.9146,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -982,7 +1152,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": -75.08684,
-      "y": -101.3432
+      "y": -101.3432,
+      "place_reward": {
+        "type": "card",
+        "id": 4004,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -994,7 +1169,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -491.6044,
-      "y": 46.03995
+      "y": 46.03995,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1006,7 +1186,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -99.13097,
-      "y": 305.5611
+      "y": 305.5611,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1018,7 +1203,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -460.8178,
-      "y": 529.5084
+      "y": 529.5084,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1030,7 +1220,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 165.9877,
-      "y": 116.4807
+      "y": 116.4807,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1042,7 +1237,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 470.173,
-      "y": -550.0944
+      "y": -550.0944,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1054,7 +1254,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 466.67,
-      "y": 336.009
+      "y": 336.009,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1066,7 +1271,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": 177.6359,
-      "y": 579.5029
+      "y": 579.5029,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 3,
@@ -1078,7 +1288,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": 465.0685,
-      "y": -149.5151
+      "y": -149.5151,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1102,7 +1317,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": -59.27432,
-      "y": 8.891144
+      "y": 8.891144,
+      "place_reward": {
+        "type": "card",
+        "id": 5007,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1114,7 +1334,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": -260.2965,
-      "y": 446.8724
+      "y": 446.8724,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1126,7 +1351,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -606.6831,
-      "y": 345.6389
+      "y": 345.6389,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1138,7 +1368,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -484.6227,
-      "y": -49.62685
+      "y": -49.62685,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1150,7 +1385,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -377.0533,
-      "y": -414.6433
+      "y": -414.6433,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1162,7 +1402,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 196.1917,
-      "y": -442.9738
+      "y": -442.9738,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1174,7 +1419,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 626.0333,
-      "y": -356.5063
+      "y": -356.5063,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1186,7 +1436,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 523.3159,
-      "y": 94.42714
+      "y": 94.42714,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 4,
@@ -1198,7 +1453,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": -800,
-      "y": 280
+      "y": 280,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1222,7 +1482,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": -388.644,
-      "y": -118.4949
+      "y": -118.4949,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1234,7 +1499,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 52.91295,
-      "y": -327.2242
+      "y": -327.2242,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1246,7 +1516,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": 561.33,
-      "y": -35.84444
+      "y": -35.84444,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1258,7 +1533,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 143.837,
-      "y": -0.3498306
+      "y": -0.3498306,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1270,7 +1550,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -746.293,
-      "y": 275.4879
+      "y": 275.4879,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1282,7 +1567,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 780.9837,
-      "y": -364.7451
+      "y": -364.7451,
+      "place_reward": {
+        "type": "card",
+        "id": 6002,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1294,7 +1584,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 385.2739,
-      "y": 316.7238
+      "y": 316.7238,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1306,7 +1601,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 25.93835,
-      "y": 356.8369
+      "y": 356.8369,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 5,
@@ -1318,7 +1618,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": -167.8213,
-      "y": 184.1819
+      "y": 184.1819,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1342,7 +1647,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 458.4225,
-      "y": 273.4957
+      "y": 273.4957,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1354,7 +1664,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 110.773,
-      "y": -47.70152
+      "y": -47.70152,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1366,7 +1681,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -115.2542,
-      "y": -345.7626
+      "y": -345.7626,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1378,7 +1698,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -309.2059,
-      "y": 9.777893
+      "y": 9.777893,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1390,7 +1715,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -761.462,
-      "y": 28.46396
+      "y": 28.46396,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1402,7 +1732,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": -625.8054,
-      "y": 248.3686
+      "y": 248.3686,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1414,7 +1749,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 494.1953,
-      "y": -53.37894
+      "y": -53.37894,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 6,
@@ -1426,7 +1766,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 458.6557,
-      "y": -360.0529
+      "y": -360.0529,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1450,7 +1795,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 450,
-      "y": -300
+      "y": -300,
+      "place_reward": {
+        "type": "card",
+        "id": 7057,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1462,7 +1812,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": -250,
-      "y": -400
+      "y": -400,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1474,7 +1829,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": 100,
-      "y": 0
+      "y": 0,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1486,7 +1846,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 500,
-      "y": 100
+      "y": 100,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1498,7 +1863,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -450,
-      "y": -100
+      "y": -100,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1510,7 +1880,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": -900,
-      "y": -50
+      "y": -50,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1522,7 +1897,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": -250,
-      "y": 250
+      "y": 250,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1534,7 +1914,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": -750,
-      "y": 350
+      "y": 350,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1546,7 +1931,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": 850,
-      "y": 350
+      "y": 350,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 10,
@@ -1558,7 +1948,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": -780,
-      "y": -400
+      "y": -400,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1582,7 +1977,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 332,
-      "y": -336
+      "y": -336,
+      "place_reward": {
+        "type": "card",
+        "id": 9036,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1594,7 +1994,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 557,
-      "y": 3
+      "y": 3,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1606,7 +2011,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -92,
-      "y": -365
+      "y": -365,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1618,7 +2028,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -489,
-      "y": -237
+      "y": -237,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1630,7 +2045,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -69,
-      "y": 178
+      "y": 178,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1642,7 +2062,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": -449,
-      "y": 298
+      "y": 298,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1654,7 +2079,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 282,
-      "y": 410
+      "y": 410,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 11,
@@ -1666,7 +2096,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 186,
-      "y": -73
+      "y": -73,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1690,7 +2125,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 43,
-      "y": -382
+      "y": -382,
+      "place_reward": {
+        "type": "card",
+        "id": 11039,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1702,7 +2142,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 433,
-      "y": -781
+      "y": -781,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1714,7 +2159,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": 360,
-      "y": 289
+      "y": 289,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1726,7 +2176,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 645,
-      "y": 423
+      "y": 423,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1738,7 +2193,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -302,
-      "y": 399
+      "y": 399,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1750,7 +2210,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": -690,
-      "y": 531
+      "y": 531,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1762,7 +2227,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 17,
-      "y": 17
+      "y": 17,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1774,7 +2244,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 621,
-      "y": -300
+      "y": -300,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1786,7 +2261,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": 99,
-      "y": 601
+      "y": 601,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1798,7 +2278,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": -540,
-      "y": -46
+      "y": -46,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 12,
@@ -1810,7 +2295,12 @@
       "placeId": 11,
       "ver3_flag": 0,
       "x": 779,
-      "y": 207
+      "y": 207,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1834,7 +2324,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": -270,
-      "y": 270
+      "y": 270,
+      "place_reward": {
+        "type": "card",
+        "id": 10032,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1846,7 +2341,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 100,
-      "y": 130
+      "y": 130,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1858,7 +2358,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -120,
-      "y": -230
+      "y": -230,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1870,7 +2375,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 300,
-      "y": -280
+      "y": -280,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1882,7 +2392,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": 310,
-      "y": 270
+      "y": 270,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1894,7 +2409,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 630,
-      "y": 240
+      "y": 240,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1906,7 +2426,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 770,
-      "y": -250
+      "y": -250,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1918,7 +2443,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": -440,
-      "y": -210
+      "y": -210,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1930,7 +2460,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": 600,
-      "y": 25
+      "y": 25,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 13,
@@ -1942,7 +2477,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": 860,
-      "y": 120
+      "y": 120,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -1966,7 +2506,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": -100,
-      "y": -550
+      "y": -550,
+      "place_reward": {
+        "type": "card",
+        "id": 12026,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -1978,7 +2523,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 150,
-      "y": -300
+      "y": -300,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -1990,7 +2540,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": 450,
-      "y": 150
+      "y": 150,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2002,7 +2557,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -100,
-      "y": 150
+      "y": 150,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2014,7 +2574,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -450,
-      "y": 300
+      "y": 300,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2026,7 +2591,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 75,
-      "y": 450
+      "y": 450,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2038,7 +2608,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": -300,
-      "y": 550
+      "y": 550,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2050,7 +2625,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 475,
-      "y": -650
+      "y": -650,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2062,7 +2642,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": -325,
-      "y": -275
+      "y": -275,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 14,
@@ -2074,7 +2659,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": 375,
-      "y": 725
+      "y": 725,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2098,7 +2688,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 317,
-      "y": -89
+      "y": -89,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2110,7 +2705,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 560,
-      "y": 181
+      "y": 181,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2122,7 +2722,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -120,
-      "y": -381
+      "y": -381,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2134,7 +2739,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": -193,
-      "y": 18
+      "y": 18,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2146,7 +2756,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": 55,
-      "y": 369
+      "y": 369,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2158,7 +2773,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 493,
-      "y": -479
+      "y": -479,
+      "place_reward": {
+        "type": "card",
+        "id": 7526,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2170,7 +2790,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 894,
-      "y": 247
+      "y": 247,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2182,7 +2807,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 422,
-      "y": 400
+      "y": 400,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2194,7 +2824,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": -604,
-      "y": 183
+      "y": 183,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2206,7 +2841,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": -849,
-      "y": 426
+      "y": 426,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2218,7 +2858,12 @@
       "placeId": 11,
       "ver3_flag": 0,
       "x": -526,
-      "y": -85
+      "y": -85,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 15,
@@ -2230,7 +2875,12 @@
       "placeId": 12,
       "ver3_flag": 0,
       "x": -682,
-      "y": -424
+      "y": -424,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2254,7 +2904,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": -743,
-      "y": -136
+      "y": -136,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2266,7 +2921,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": -450,
-      "y": 220
+      "y": 220,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2278,7 +2938,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -117,
-      "y": 334
+      "y": 334,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2290,7 +2955,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 326,
-      "y": 259
+      "y": 259,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2302,7 +2972,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": 600,
-      "y": -100
+      "y": -100,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2314,7 +2989,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": 250,
-      "y": -350
+      "y": -350,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2326,7 +3006,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": -30,
-      "y": -50
+      "y": -50,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 16,
@@ -2338,7 +3023,720 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": -747,
-      "y": 397
+      "y": 397,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 555,
+      "gacha": 0,
+      "icon": 2003,
+      "name": "起始之港町",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 2003,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 42,
+      "gacha": 0,
+      "icon": 2,
+      "name": "副都",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 2,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "風吹之町",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 2002,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "屈之町",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 2002,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "關所之村",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 43,
+      "gacha": 0,
+      "icon": 3,
+      "name": "聖都",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 3,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "峽之町",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 2002,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3002,
+      "name": "魔之山",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 3002,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 43,
+      "gacha": 0,
+      "icon": 3003,
+      "name": "大神殿",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 3003,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "偏遠之村",
+      "placeId": 9,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "振羽之村",
+      "placeId": 10,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "闇隱之森",
+      "placeId": 11,
+      "ver3_flag": 0,
+      "x": 3001,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 550,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "復興中的城下町",
+      "placeId": 12,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 550,
+      "gacha": 31,
+      "icon": 1,
+      "name": "王都",
+      "placeId": 13,
+      "ver3_flag": 0,
+      "x": 1,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 3000,
+      "gacha": 0,
+      "icon": 5001,
+      "name": "賭場",
+      "placeId": 14,
+      "ver3_flag": 0,
+      "x": 5001,
+      "y": 0
+    },
+    {
+      "areaId": 31,
+      "battleBg": 1,
+      "bg": 5000,
+      "gacha": 0,
+      "icon": 5004,
+      "name": "前線基地",
+      "placeId": 15,
+      "ver3_flag": 0,
+      "x": 5004,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "邊境之村",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 44,
+      "gacha": 0,
+      "icon": 11,
+      "name": "力之塔",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 11,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 44,
+      "gacha": 0,
+      "icon": 11,
+      "name": "命運之塔",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 11,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 44,
+      "gacha": 0,
+      "icon": 11,
+      "name": "生命之塔",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 11,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 551,
+      "gacha": 32,
+      "icon": 2011,
+      "name": "魔法學園正門",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": 2011,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 3002,
+      "name": "迷宮山脈入口",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 3002,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 45,
+      "gacha": 0,
+      "icon": 12,
+      "name": "東北東的集落",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 12,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 45,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "火妖精的集落",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "迷茫之森",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 3001,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "魔女之村",
+      "placeId": 9,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 32,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "可以看到海的村莊",
+      "placeId": 10,
+      "ver3_flag": 0,
+      "x": 2001,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "殘留綠意之町",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 2002,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 46,
+      "gacha": 33,
+      "icon": 21,
+      "name": "湖都",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 21,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "羽之綠洲",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 2022,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 52,
+      "gacha": 0,
+      "icon": 3021,
+      "name": "古代遺跡",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 3021,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "白沙綠洲",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": 2022,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "有水路聯繫之町",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 2022,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "半月綠洲",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 2022,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2021,
+      "name": "南端綠洲",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 2021,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "花之綠洲",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 2022,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 2023,
+      "name": "水平與地平之村",
+      "placeId": 9,
+      "ver3_flag": 0,
+      "x": 2023,
+      "y": 0
+    },
+    {
+      "areaId": 33,
+      "battleBg": 0,
+      "bg": 54,
+      "gacha": 0,
+      "icon": 3002,
+      "name": "久遠的沙漠",
+      "placeId": 10,
+      "ver3_flag": 0,
+      "x": 3002,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "千河之集落",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 2031,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 553,
+      "gacha": 34,
+      "icon": 31,
+      "name": "世界樹",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 31,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "北之森",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 3001,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "海風集落",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 2031,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "西之森",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": 3001,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "大樹集落",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 2031,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "南之森",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 3001,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "黃果集落",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 2031,
+      "y": 0
+    },
+    {
+      "areaId": 34,
+      "battleBg": 0,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "東之森",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 3001,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 3041,
+      "name": "火中之祠",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 3041,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 48,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第一領",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 48,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第二領",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第三領",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 48,
+      "gacha": 35,
+      "icon": 41,
+      "name": "第四領",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 48,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第五領",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第六領",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第七領",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 48,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第八領",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 35,
+      "battleBg": 0,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 41,
+      "name": "第九領",
+      "placeId": 9,
+      "ver3_flag": 0,
+      "x": 41,
+      "y": 0
+    },
+    {
+      "areaId": 36,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "活動區域",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "areaId": 38,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "外海",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
     },
     {
       "areaId": 101,
@@ -2362,7 +3760,12 @@
       "placeId": 1,
       "ver3_flag": 0,
       "x": 172,
-      "y": -99
+      "y": -99,
+      "place_reward": {
+        "type": "card",
+        "id": 8103,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2374,7 +3777,12 @@
       "placeId": 2,
       "ver3_flag": 0,
       "x": 483,
-      "y": -551
+      "y": -551,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2386,7 +3794,12 @@
       "placeId": 3,
       "ver3_flag": 0,
       "x": -214,
-      "y": 2
+      "y": 2,
+      "place_reward": {
+        "type": "stone",
+        "id": 0,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2398,7 +3811,12 @@
       "placeId": 4,
       "ver3_flag": 0,
       "x": 73,
-      "y": -471
+      "y": -471,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2410,7 +3828,12 @@
       "placeId": 5,
       "ver3_flag": 0,
       "x": -716,
-      "y": -107
+      "y": -107,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2422,7 +3845,12 @@
       "placeId": 6,
       "ver3_flag": 0,
       "x": -601,
-      "y": 199
+      "y": 199,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2434,7 +3862,12 @@
       "placeId": 7,
       "ver3_flag": 0,
       "x": 366,
-      "y": 228
+      "y": 228,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2446,7 +3879,12 @@
       "placeId": 8,
       "ver3_flag": 0,
       "x": 599,
-      "y": 536
+      "y": 536,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2458,7 +3896,12 @@
       "placeId": 9,
       "ver3_flag": 0,
       "x": 55,
-      "y": 370
+      "y": 370,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2470,7 +3913,12 @@
       "placeId": 10,
       "ver3_flag": 0,
       "x": -441,
-      "y": 480
+      "y": 480,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 101,
@@ -2482,7 +3930,12 @@
       "placeId": 11,
       "ver3_flag": 0,
       "x": -289,
-      "y": -357
+      "y": -357,
+      "place_reward": {
+        "type": "chara_rf",
+        "id": 90904,
+        "val": 1
+      }
     },
     {
       "areaId": 1004,
@@ -3697,18 +5150,6 @@
       "y": 560
     },
     {
-      "areaId": 9999,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 11,
-      "name": "禁止進入",
-      "placeId": 0,
-      "ver3_flag": 0,
-      "x": -793,
-      "y": 238.8545
-    },
-    {
       "areaId": 1017,
       "battleBg": 12,
       "bg": 210,
@@ -3803,702 +5244,6 @@
       "ver3_flag": 0,
       "x": 99,
       "y": 601
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 555,
-      "gacha": 0,
-      "icon": 0,
-      "name": "起始之港町",
-      "placeId": 0,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 42,
-      "gacha": 0,
-      "icon": 0,
-      "name": "副都",
-      "placeId": 1,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "風吹之町",
-      "placeId": 2,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "屈之町",
-      "placeId": 3,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "關所之村",
-      "placeId": 4,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 43,
-      "gacha": 0,
-      "icon": 0,
-      "name": "聖都",
-      "placeId": 5,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "峽之町",
-      "placeId": 6,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "魔之山",
-      "placeId": 7,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 43,
-      "gacha": 0,
-      "icon": 0,
-      "name": "大神殿",
-      "placeId": 8,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "偏遠之村",
-      "placeId": 9,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "振羽之村",
-      "placeId": 10,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "闇隱之森",
-      "placeId": 11,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 550,
-      "gacha": 0,
-      "icon": 0,
-      "name": "復興中的城下町",
-      "placeId": 12,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 550,
-      "gacha": 31,
-      "icon": 0,
-      "name": "王都",
-      "placeId": 13,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 3000,
-      "gacha": 0,
-      "icon": 0,
-      "name": "賭場",
-      "placeId": 14,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 5000,
-      "gacha": 0,
-      "icon": 0,
-      "name": "前線基地",
-      "placeId": 15,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "邊境之村",
-      "placeId": 0,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 44,
-      "gacha": 0,
-      "icon": 0,
-      "name": "力之塔",
-      "placeId": 1,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 44,
-      "gacha": 0,
-      "icon": 0,
-      "name": "命運之塔",
-      "placeId": 2,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 44,
-      "gacha": 0,
-      "icon": 0,
-      "name": "生命之塔",
-      "placeId": 3,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 551,
-      "gacha": 32,
-      "icon": 0,
-      "name": "魔法學園正門",
-      "placeId": 4,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 51,
-      "gacha": 0,
-      "icon": 0,
-      "name": "迷宮山脈入口",
-      "placeId": 5,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 45,
-      "gacha": 0,
-      "icon": 0,
-      "name": "東北東的集落",
-      "placeId": 6,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 45,
-      "gacha": 0,
-      "icon": 0,
-      "name": "火妖精的集落",
-      "placeId": 7,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "迷茫之森",
-      "placeId": 8,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "魔女之村",
-      "placeId": 9,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 32,
-      "battleBg": 1,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "可以看到海的村莊",
-      "placeId": 10,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "殘留綠意之町",
-      "placeId": 0,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 46,
-      "gacha": 33,
-      "icon": 0,
-      "name": "湖都",
-      "placeId": 1,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 56,
-      "gacha": 0,
-      "icon": 0,
-      "name": "羽之綠洲",
-      "placeId": 2,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 52,
-      "gacha": 0,
-      "icon": 0,
-      "name": "古代遺跡",
-      "placeId": 3,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 56,
-      "gacha": 0,
-      "icon": 0,
-      "name": "白沙綠洲",
-      "placeId": 4,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "有水路聯繫之町",
-      "placeId": 5,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 56,
-      "gacha": 0,
-      "icon": 0,
-      "name": "半月綠洲",
-      "placeId": 6,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 56,
-      "gacha": 0,
-      "icon": 0,
-      "name": "南端綠洲",
-      "placeId": 7,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 56,
-      "gacha": 0,
-      "icon": 0,
-      "name": "花之綠洲",
-      "placeId": 8,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 50,
-      "gacha": 0,
-      "icon": 0,
-      "name": "水平與地平之村",
-      "placeId": 9,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 33,
-      "battleBg": 0,
-      "bg": 54,
-      "gacha": 0,
-      "icon": 0,
-      "name": "久遠的沙漠",
-      "placeId": 10,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 47,
-      "gacha": 0,
-      "icon": 0,
-      "name": "千河之集落",
-      "placeId": 0,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 553,
-      "gacha": 34,
-      "icon": 0,
-      "name": "世界樹",
-      "placeId": 1,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "北之森",
-      "placeId": 2,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 47,
-      "gacha": 0,
-      "icon": 0,
-      "name": "海風集落",
-      "placeId": 3,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "西之森",
-      "placeId": 4,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 47,
-      "gacha": 0,
-      "icon": 0,
-      "name": "大樹集落",
-      "placeId": 5,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "南之森",
-      "placeId": 6,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 47,
-      "gacha": 0,
-      "icon": 0,
-      "name": "黃果集落",
-      "placeId": 7,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 34,
-      "battleBg": 0,
-      "bg": 53,
-      "gacha": 0,
-      "icon": 0,
-      "name": "東之森",
-      "placeId": 8,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 60,
-      "gacha": 0,
-      "icon": 0,
-      "name": "火中之祠",
-      "placeId": 0,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 48,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第一領",
-      "placeId": 1,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 48,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第二領",
-      "placeId": 2,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 60,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第三領",
-      "placeId": 3,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 48,
-      "gacha": 35,
-      "icon": 0,
-      "name": "第四領",
-      "placeId": 4,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 48,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第五領",
-      "placeId": 5,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 60,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第六領",
-      "placeId": 6,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 60,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第七領",
-      "placeId": 7,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 48,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第八領",
-      "placeId": 8,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 35,
-      "battleBg": 0,
-      "bg": 60,
-      "gacha": 0,
-      "icon": 0,
-      "name": "第九領",
-      "placeId": 9,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
-    },
-    {
-      "areaId": 36,
-      "battleBg": 1,
-      "bg": 201,
-      "gacha": 0,
-      "icon": 0,
-      "name": "活動區域",
-      "placeId": 1,
-      "ver3_flag": 0,
-      "x": 0,
-      "y": 0
     },
     {
       "areaId": 1018,
@@ -4993,16 +5738,448 @@
       "y": -1450
     },
     {
-      "areaId": 38,
-      "battleBg": 1,
-      "bg": 201,
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 212,
       "gacha": 0,
-      "icon": 0,
-      "name": "外海",
+      "icon": 25,
+      "name": "愚痴監獄",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 433,
+      "y": -881
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 212,
+      "gacha": 0,
+      "icon": 25,
+      "name": "愚痴之牢",
       "placeId": 1,
       "ver3_flag": 0,
       "x": 0,
-      "y": 0
+      "y": -482
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 216,
+      "gacha": 0,
+      "icon": 25,
+      "name": "憤怒監獄",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": -302,
+      "y": 299
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 216,
+      "gacha": 0,
+      "icon": 25,
+      "name": "憤怒的終極",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": -690,
+      "y": 431
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 216,
+      "gacha": 0,
+      "icon": 25,
+      "name": "監獄蜘蛛的巢穴",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -495,
+      "y": 550
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 212,
+      "gacha": 0,
+      "icon": 25,
+      "name": "愚痴之狗屋",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 250,
+      "y": -482
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 214,
+      "gacha": 0,
+      "icon": 25,
+      "name": "貪婪監獄",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 360,
+      "y": 189
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 214,
+      "gacha": 0,
+      "icon": 25,
+      "name": "貪婪的末路",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 645,
+      "y": 323
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "bg": 214,
+      "gacha": 0,
+      "icon": 25,
+      "name": "黑狗訓練場",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 779,
+      "y": 107
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "bg": 46,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "始源沙漠",
+      "placeId": 0,
+      "ver3_flag": 1,
+      "x": 1300,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "bg": 54,
+      "gacha": 0,
+      "icon": 2021,
+      "name": "仙人掌群生地",
+      "placeId": 1,
+      "ver3_flag": 1,
+      "x": 1030,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 131,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "青之綠洲",
+      "placeId": 2,
+      "ver3_flag": 1,
+      "x": 760,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 6,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 4,
+      "name": "光之谷",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 490,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 131,
+      "bg": 54,
+      "gacha": 0,
+      "icon": 2021,
+      "name": "中央沙漠",
+      "placeId": 4,
+      "ver3_flag": 1,
+      "x": 220,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 9,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "黃之綠洲",
+      "placeId": 5,
+      "ver3_flag": 1,
+      "x": -50,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "bg": 54,
+      "gacha": 0,
+      "icon": 2021,
+      "name": "最後的沙漠",
+      "placeId": 6,
+      "ver3_flag": 1,
+      "x": -320,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "bg": 56,
+      "gacha": 0,
+      "icon": 2022,
+      "name": "赤之綠洲",
+      "placeId": 7,
+      "ver3_flag": 1,
+      "x": -590,
+      "y": 100
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 3,
+      "bg": 54,
+      "gacha": 0,
+      "icon": 2021,
+      "name": "砂螢花的花田",
+      "placeId": 8,
+      "ver3_flag": 1,
+      "x": -880,
+      "y": 100
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 206,
+      "gacha": 0,
+      "icon": 21,
+      "name": "太陽的聚落",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": -92,
+      "y": -365
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 24,
+      "name": "天空的高原",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": -550,
+      "y": -200
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 17,
+      "name": "山豬森林",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": -250,
+      "y": -150
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 61,
+      "gacha": 0,
+      "icon": 10,
+      "name": "奪回的堡壘",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": -69,
+      "y": 178
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 209,
+      "gacha": 0,
+      "icon": 6,
+      "name": "原始之森",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -449,
+      "y": 298
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 24,
+      "name": "風之高原",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 186,
+      "y": -73
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 17,
+      "name": "大地之森",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 400,
+      "y": -250
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 207,
+      "gacha": 0,
+      "icon": 23,
+      "name": "神之洞窟",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": 557,
+      "y": 3
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "bg": 208,
+      "gacha": 0,
+      "icon": 24,
+      "name": "羽之峽谷",
+      "placeId": 8,
+      "ver3_flag": 0,
+      "x": 370,
+      "y": 410
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 57,
+      "gacha": 0,
+      "icon": 41,
+      "name": "與第八領的領境",
+      "placeId": 0,
+      "ver3_flag": 1,
+      "x": -450,
+      "y": 500
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 567,
+      "gacha": 0,
+      "icon": 13,
+      "name": "河童棲息的河川",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": -200,
+      "y": 400
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 24,
+      "name": "紅蓮的荒野",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 50,
+      "y": 330
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 16,
+      "name": "亡者的墓場",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 310,
+      "y": 210
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 62,
+      "gacha": 0,
+      "icon": 14,
+      "name": "古戰場遺址",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -80,
+      "y": 135
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 4,
+      "name": "寂寥山路",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 310,
+      "y": 20
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 17,
+      "name": "蛤蟆之森",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": 80,
+      "y": -250
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 4,
+      "name": "神山山麓",
+      "placeId": 7,
+      "ver3_flag": 0,
+      "x": -150,
+      "y": -400
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "bg": 60,
+      "gacha": 0,
+      "icon": 12,
+      "name": "天狗的神山",
+      "placeId": 8,
+      "ver3_flag": 1,
+      "x": 65,
+      "y": -590
+    },
+    {
+      "areaId": 9999,
+      "battleBg": 1,
+      "bg": 50,
+      "gacha": 0,
+      "icon": 11,
+      "name": "禁止進入",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": -793,
+      "y": 238.8545
     }
   ],
   "route": [
@@ -5010,1890 +6187,2114 @@
       "areaId": 1,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 1,
       "battleBg": 0,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 11
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 12
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 2,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 8,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 6,
       "battleBg": 8,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 12,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 11
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 11
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 9,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 11,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 12
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 11
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 101,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 101,
       "battleBg": 2,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 9,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 10
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1009,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1009,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1009,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1009,
       "battleBg": 13,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 8,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1011,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1011,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1011,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1011,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1011,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1011,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1015,
       "battleBg": 120,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 8,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 9
     },
     {
       "areaId": 1017,
       "battleBg": 107,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1017,
       "battleBg": 109,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1017,
       "battleBg": 108,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 8
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 1
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 2
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 3
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 4
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 5
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 6
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
       "to": 7
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1504848436675",
+      "timestamp": "1519968435748",
+      "to": 8
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 0,
+      "timestamp": "1519968435748",
+      "to": 1
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 1,
+      "timestamp": "1519968435748",
+      "to": 2
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 2,
+      "timestamp": "1519968435748",
+      "to": 3
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 3,
+      "timestamp": "1519968435748",
+      "to": 4
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 0,
+      "timestamp": "1519968435748",
+      "to": 5
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 5,
+      "timestamp": "1519968435748",
+      "to": 6
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 6,
+      "timestamp": "1519968435748",
+      "to": 7
+    },
+    {
+      "areaId": 1023,
+      "battleBg": 110,
+      "from": 7,
+      "timestamp": "1519968435748",
+      "to": 8
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 0,
+      "timestamp": "1519968435748",
+      "to": 1
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 7,
+      "timestamp": "1519968435748",
+      "to": 8
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 1,
+      "timestamp": "1519968435748",
+      "to": 2
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 6,
+      "timestamp": "1519968435748",
+      "to": 7
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 5,
+      "timestamp": "1519968435748",
+      "to": 6
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 4,
+      "timestamp": "1519968435748",
+      "to": 5
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 3,
+      "timestamp": "1519968435748",
+      "to": 4
+    },
+    {
+      "areaId": 1024,
+      "battleBg": 4,
+      "from": 2,
+      "timestamp": "1519968435748",
+      "to": 3
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1519968435748",
+      "to": 1
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1519968435748",
+      "to": 2
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1519968435748",
+      "to": 3
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 3,
+      "timestamp": "1519968435748",
+      "to": 4
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1519968435748",
+      "to": 5
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1519968435748",
+      "to": 6
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 6,
+      "timestamp": "1519968435748",
+      "to": 7
+    },
+    {
+      "areaId": 1025,
+      "battleBg": 1,
+      "from": 7,
+      "timestamp": "1519968435748",
+      "to": 8
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1519968435748",
+      "to": 1
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1519968435748",
+      "to": 2
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1519968435748",
+      "to": 3
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1519968435748",
+      "to": 5
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 6,
+      "timestamp": "1519968435748",
+      "to": 7
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 3,
+      "timestamp": "1519968435748",
+      "to": 4
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1519968435748",
+      "to": 6
+    },
+    {
+      "areaId": 1026,
+      "battleBg": 1,
+      "from": 7,
+      "timestamp": "1519968435748",
       "to": 8
     }
   ],
@@ -6902,7 +8303,7 @@
       "id": 0,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 0,
       "y": 0
     },
@@ -6910,7 +8311,7 @@
       "id": 1,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 0,
       "y": 0
     },
@@ -6918,7 +8319,7 @@
       "id": 2,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 0,
       "y": 0
     },
@@ -6926,7 +8327,7 @@
       "id": 3,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 0,
       "y": 0
     },
@@ -6934,7 +8335,7 @@
       "id": 42,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -6942,7 +8343,7 @@
       "id": 43,
       "ofs_x": -100,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 440,
       "y": 640
     },
@@ -6950,7 +8351,7 @@
       "id": 44,
       "ofs_x": -110,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 405,
       "y": 640
     },
@@ -6958,7 +8359,7 @@
       "id": 45,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -6966,7 +8367,7 @@
       "id": 46,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -6974,7 +8375,7 @@
       "id": 47,
       "ofs_x": -120,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 330,
       "y": 640
     },
@@ -6982,7 +8383,7 @@
       "id": 48,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -6990,7 +8391,7 @@
       "id": 49,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -6998,7 +8399,7 @@
       "id": 50,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7006,7 +8407,7 @@
       "id": 51,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7014,7 +8415,7 @@
       "id": 52,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7022,7 +8423,7 @@
       "id": 53,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7030,7 +8431,7 @@
       "id": 54,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7038,7 +8439,7 @@
       "id": 55,
       "ofs_x": -110,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 389,
       "y": 640
     },
@@ -7046,7 +8447,7 @@
       "id": 56,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 513
     },
@@ -7054,7 +8455,7 @@
       "id": 57,
       "ofs_x": -110,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 337,
       "y": 640
     },
@@ -7062,7 +8463,7 @@
       "id": 58,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7070,7 +8471,7 @@
       "id": 60,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 556
     },
@@ -7078,7 +8479,7 @@
       "id": 61,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7086,7 +8487,7 @@
       "id": 62,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7094,7 +8495,7 @@
       "id": 200,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7102,7 +8503,7 @@
       "id": 201,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7110,7 +8511,7 @@
       "id": 202,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7118,7 +8519,7 @@
       "id": 203,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7126,7 +8527,7 @@
       "id": 204,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7134,7 +8535,7 @@
       "id": 205,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7142,7 +8543,7 @@
       "id": 206,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7150,7 +8551,7 @@
       "id": 207,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7158,7 +8559,7 @@
       "id": 208,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7166,7 +8567,7 @@
       "id": 209,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7174,7 +8575,7 @@
       "id": 210,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7182,7 +8583,7 @@
       "id": 211,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7190,7 +8591,7 @@
       "id": 212,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7198,7 +8599,7 @@
       "id": 213,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7206,7 +8607,7 @@
       "id": 214,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7214,7 +8615,7 @@
       "id": 215,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7222,7 +8623,7 @@
       "id": 216,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7230,7 +8631,7 @@
       "id": 217,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7238,7 +8639,7 @@
       "id": 218,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7246,7 +8647,7 @@
       "id": 219,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7254,7 +8655,7 @@
       "id": 220,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7262,7 +8663,7 @@
       "id": 221,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7270,7 +8671,7 @@
       "id": 222,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7278,7 +8679,7 @@
       "id": 223,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7286,7 +8687,7 @@
       "id": 224,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7294,7 +8695,7 @@
       "id": 225,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7302,7 +8703,7 @@
       "id": 226,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7310,7 +8711,7 @@
       "id": 227,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7318,7 +8719,7 @@
       "id": 228,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7326,7 +8727,7 @@
       "id": 229,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7334,7 +8735,7 @@
       "id": 232,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7342,7 +8743,7 @@
       "id": 230,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7350,7 +8751,7 @@
       "id": 231,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7358,7 +8759,7 @@
       "id": 233,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7366,7 +8767,7 @@
       "id": 234,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7374,7 +8775,7 @@
       "id": 235,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7382,7 +8783,7 @@
       "id": 236,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7390,7 +8791,7 @@
       "id": 237,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7398,7 +8799,7 @@
       "id": 238,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7406,7 +8807,7 @@
       "id": 239,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1136,
       "y": 413
     },
@@ -7414,7 +8815,7 @@
       "id": 240,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1136,
       "y": 413
     },
@@ -7422,7 +8823,7 @@
       "id": 241,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1136,
       "y": 413
     },
@@ -7430,7 +8831,7 @@
       "id": 242,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7438,7 +8839,7 @@
       "id": 243,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1151,
       "y": 384
     },
@@ -7446,7 +8847,7 @@
       "id": 244,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7454,7 +8855,7 @@
       "id": 245,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7462,7 +8863,7 @@
       "id": 246,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7470,7 +8871,7 @@
       "id": 247,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7478,7 +8879,7 @@
       "id": 248,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7486,7 +8887,7 @@
       "id": 249,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7494,7 +8895,7 @@
       "id": 251,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7502,7 +8903,7 @@
       "id": 252,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7510,255 +8911,15 @@
       "id": 254,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
-    },
-    {
-      "id": 1000,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1001,
-      "ofs_x": -100,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 427,
-      "y": 640
-    },
-    {
-      "id": 1002,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1136,
-      "y": 640
-    },
-    {
-      "id": 1003,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 488
-    },
-    {
-      "id": 1005,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1006,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1023,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1024,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1025,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1026,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1027,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 1028,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 2000,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 384
-    },
-    {
-      "id": 3000,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 3001,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 3002,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4000,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1699,
-      "y": 1260
-    },
-    {
-      "id": 4001,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4002,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 2400,
-      "y": 1200
-    },
-    {
-      "id": 4003,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4004,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4005,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4006,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4007,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4008,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4009,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4010,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4011,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
-    },
-    {
-      "id": 4012,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1402,
-      "y": 902
-    },
-    {
-      "id": 5000,
-      "ofs_x": 0,
-      "ofs_y": 0,
-      "timestamp": "1507105138603",
-      "x": 1152,
-      "y": 640
     },
     {
       "id": 262,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 488
     },
@@ -7766,7 +8927,7 @@
       "id": 264,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7774,7 +8935,7 @@
       "id": 265,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
     },
@@ -7782,9 +8943,257 @@
       "id": 266,
       "ofs_x": 0,
       "ofs_y": 0,
-      "timestamp": "1507105138603",
+      "timestamp": "1520411520168",
       "x": 1152,
       "y": 384
+    },
+    {
+      "id": 567,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1024,
+      "y": 1024
+    },
+    {
+      "id": 1000,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1001,
+      "ofs_x": -100,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 427,
+      "y": 640
+    },
+    {
+      "id": 1002,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1136,
+      "y": 640
+    },
+    {
+      "id": 1003,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 488
+    },
+    {
+      "id": 1005,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1006,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1023,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1024,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1025,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1026,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1027,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 1028,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 2000,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 384
+    },
+    {
+      "id": 3000,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 3001,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 3002,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4000,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1699,
+      "y": 1260
+    },
+    {
+      "id": 4001,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4002,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 2400,
+      "y": 1200
+    },
+    {
+      "id": 4003,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4004,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4005,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4006,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4007,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4008,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4009,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4010,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4011,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
+    },
+    {
+      "id": 4012,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1402,
+      "y": 902
+    },
+    {
+      "id": 5000,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1520411520168",
+      "x": 1152,
+      "y": 640
     }
   ],
   "world": [
@@ -7815,114 +9224,114 @@
   ],
   "chara_place": [
     {
-      "id": "0",
+      "id": 0,
       "name": "1部副都",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "1",
+      "id": 1,
       "name": "1部聖都",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "1部賢者之塔",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "1部迷宮山脈",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "1部湖都",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "5",
-      "name": "1部精霊島",
-      "timestamp": "1505977485454"
+      "id": 5,
+      "name": "1部精靈島",
+      "timestamp": "1531709279000"
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "1部九領",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "7",
-      "name": "其他",
-      "timestamp": "1505977485454"
+      "id": 7,
+      "name": "其它",
+      "timestamp": "1531709279000"
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "2部海風之港",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "2部大海",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "2部獸人大陸",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "11",
+      "id": 11,
       "name": "2部罪之大陸",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "12",
+      "id": 12,
       "name": "2部薄命大陸",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "13",
+      "id": 13,
       "name": "2部鐵煙大陸",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "14",
+      "id": 14,
       "name": "2部年代記",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "15",
+      "id": 15,
       "name": "2部書架",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "16",
+      "id": 16,
       "name": "雷姆雷斯島",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "30",
+      "id": 30,
       "name": "3部聖王國",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "31",
+      "id": 31,
       "name": "3部賢者之塔",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "32",
+      "id": 32,
       "name": "3部湖都",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "33",
+      "id": 33,
       "name": "3部精靈島",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     },
     {
-      "id": "34",
+      "id": 34,
       "name": "3部九領",
-      "timestamp": "1505977485454"
+      "timestamp": "1531709279000"
     }
   ],
   "res": 0

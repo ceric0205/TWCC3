@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1532001415,
+  "deceive": 1533201981,
   "missionlist": [
     {
       "id": 1,
@@ -3639,7 +3639,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生100次Great成就",
+      "title": "合成大成功１００回吧",
       "sub_id": "Great 011",
       "max_num": 100,
       "reward": {
@@ -3655,7 +3655,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生150次Great成就",
+      "title": "合成大成功１５０回吧",
       "sub_id": "Great 012",
       "max_num": 150,
       "reward": {
@@ -3671,7 +3671,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生200次Great成就",
+      "title": "合成大成功２００回吧",
       "sub_id": "Great 013",
       "max_num": 200,
       "reward": {
@@ -3687,7 +3687,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生250次Great成就",
+      "title": "合成大成功２５０回吧",
       "sub_id": "Great 014",
       "max_num": 250,
       "reward": {
@@ -3703,7 +3703,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生300次Great成就",
+      "title": "合成大成功３００回吧",
       "sub_id": "Great 015",
       "max_num": 300,
       "reward": {
@@ -3719,7 +3719,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生400次Great成就",
+      "title": "合成大成功４００回吧",
       "sub_id": "Great 016",
       "max_num": 400,
       "reward": {
@@ -3735,7 +3735,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "發生500次Great成就",
+      "title": "合成大成功５００回吧",
       "sub_id": "Great 017",
       "max_num": 500,
       "reward": {
@@ -4807,7 +4807,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「斬」武器訓練8\r",
+      "title": "「斬」武器訓練8",
       "sub_id": "Training 047",
       "max_num": 50,
       "reward": {
@@ -4823,7 +4823,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「聖」武器訓練8\r",
+      "title": "「聖」武器訓練8",
       "sub_id": "Training 048",
       "max_num": 50,
       "reward": {
@@ -4839,7 +4839,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「弓」武器訓練8\r",
+      "title": "「弓」武器訓練8",
       "sub_id": "Training 049",
       "max_num": 50,
       "reward": {
@@ -4855,7 +4855,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「魔」武器訓練8\r",
+      "title": "「魔」武器訓練8",
       "sub_id": "Training 050",
       "max_num": 50,
       "reward": {
@@ -4871,7 +4871,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「突」武器訓練8\r",
+      "title": "「突」武器訓練8",
       "sub_id": "Training 051",
       "max_num": 50,
       "reward": {
@@ -4887,7 +4887,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「打」武器訓練8\r",
+      "title": "「打」武器訓練8",
       "sub_id": "Training 052",
       "max_num": 50,
       "reward": {
@@ -4903,7 +4903,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「拳」武器訓練5\r",
+      "title": "「拳」武器訓練5",
       "sub_id": "Training 053",
       "max_num": 50,
       "reward": {
@@ -4919,7 +4919,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「斬」武器訓練9\r",
+      "title": "「斬」武器訓練9",
       "sub_id": "Training 054",
       "max_num": 50,
       "reward": {
@@ -4935,7 +4935,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「聖」武器訓練9\r",
+      "title": "「聖」武器訓練9",
       "sub_id": "Training 055",
       "max_num": 50,
       "reward": {
@@ -4951,7 +4951,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「弓」武器訓練9\r",
+      "title": "「弓」武器訓練9",
       "sub_id": "Training 056",
       "max_num": 50,
       "reward": {
@@ -4967,7 +4967,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「魔」武器訓練9\r",
+      "title": "「魔」武器訓練9",
       "sub_id": "Training 057",
       "max_num": 50,
       "reward": {
@@ -4983,7 +4983,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「突」武器訓練9\r",
+      "title": "「突」武器訓練9",
       "sub_id": "Training 058",
       "max_num": 50,
       "reward": {
@@ -4999,7 +4999,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「打」武器訓練9\r",
+      "title": "「打」武器訓練9",
       "sub_id": "Training 059",
       "max_num": 50,
       "reward": {
@@ -5015,7 +5015,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「拳」武器訓練6\r",
+      "title": "「拳」武器訓練6",
       "sub_id": "Training 060",
       "max_num": 50,
       "reward": {
@@ -5143,7 +5143,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「槍」武器訓練10",
+      "title": "「銃」武器訓練1",
       "sub_id": "Training 068",
       "max_num": 10,
       "reward": {
@@ -5271,7 +5271,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「槍」武器訓練2",
+      "title": "「銃」武器訓練2",
       "sub_id": "Training 076",
       "max_num": 20,
       "reward": {
@@ -5399,7 +5399,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「槍」武器訓練3",
+      "title": "「銃」武器訓練3",
       "sub_id": "Training 084",
       "max_num": 30,
       "reward": {
@@ -5415,7 +5415,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "「狙」武器訓練10",
+      "title": "「狙」武器訓練1",
       "sub_id": "Training 085",
       "max_num": 10,
       "reward": {
@@ -5527,7 +5527,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "聖騎士團學徒",
+      "title": "騎士公會學徒",
       "sub_id": "Knight 001",
       "max_num": 20,
       "reward": {
@@ -5543,7 +5543,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "聖騎士團新人",
+      "title": "騎士公會新人",
       "sub_id": "Knight 002",
       "max_num": 100,
       "reward": {
@@ -5559,7 +5559,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "聖騎士團希望",
+      "title": "騎士公會希望",
       "sub_id": "Knight 003",
       "max_num": 500,
       "reward": {
@@ -5575,7 +5575,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "聖騎士團中堅",
+      "title": "騎士公會中堅",
       "sub_id": "Knight 004",
       "max_num": 1000,
       "reward": {
@@ -5591,7 +5591,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "聖騎士團老將",
+      "title": "騎士公會老將",
       "sub_id": "Knight 005",
       "max_num": 2000,
       "reward": {
@@ -5607,7 +5607,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "聖騎士團王牌",
+      "title": "騎士公會王牌",
       "sub_id": "Knight 006",
       "max_num": 10000,
       "reward": {
@@ -5623,7 +5623,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "遊俠公會學徒",
+      "title": "弓箭手公會學徒",
       "sub_id": "Archer 001",
       "max_num": 20,
       "reward": {
@@ -5639,7 +5639,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "遊俠公會新人",
+      "title": "弓箭手公會新人",
       "sub_id": "Archer 002",
       "max_num": 100,
       "reward": {
@@ -5655,7 +5655,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "遊俠公會希望",
+      "title": "弓箭手公會希望",
       "sub_id": "Archer 003",
       "max_num": 500,
       "reward": {
@@ -5671,7 +5671,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "遊俠公會中堅",
+      "title": "弓箭手公會中堅",
       "sub_id": "Archer 004",
       "max_num": 1000,
       "reward": {
@@ -5687,7 +5687,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "遊俠公會老將",
+      "title": "弓箭手公會老將",
       "sub_id": "Archer 005",
       "max_num": 2000,
       "reward": {
@@ -5703,7 +5703,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "遊俠公會王牌",
+      "title": "弓箭手公會王牌",
       "sub_id": "Archer 006",
       "max_num": 10000,
       "reward": {
@@ -5815,7 +5815,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "治癒師公會學徒",
+      "title": "僧侶公會學徒",
       "sub_id": "Healer 001",
       "max_num": 5,
       "reward": {
@@ -5831,7 +5831,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "治癒師公會新人",
+      "title": "僧侶公會新人",
       "sub_id": "Healer 002",
       "max_num": 20,
       "reward": {
@@ -5847,7 +5847,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "治癒師公會希望",
+      "title": "僧侶公會希望",
       "sub_id": "Healer 003",
       "max_num": 100,
       "reward": {
@@ -5863,7 +5863,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "治癒師公會中堅",
+      "title": "僧侶公會中堅",
       "sub_id": "Healer 004",
       "max_num": 500,
       "reward": {
@@ -5879,7 +5879,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "治癒師公會老將",
+      "title": "僧侶公會老將",
       "sub_id": "Healer 005",
       "max_num": 1000,
       "reward": {
@@ -5895,7 +5895,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "治癒師公會王牌",
+      "title": "僧侶公會王牌",
       "sub_id": "Healer 006",
       "max_num": 2000,
       "reward": {
@@ -6023,7 +6023,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行5回華麗突刺！\r",
+      "title": "進行５回華麗突刺！",
       "sub_id": "Excellent 001",
       "max_num": 5,
       "reward": {
@@ -6031,7 +6031,7 @@
         "id": null,
         "val": "1"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2002,
@@ -6039,7 +6039,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行10回華麗突刺！\r",
+      "title": "進行１０回華麗突刺！",
       "sub_id": "Excellent 002",
       "max_num": 10,
       "reward": {
@@ -6047,7 +6047,7 @@
         "id": null,
         "val": "2"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2003,
@@ -6055,7 +6055,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行20回華麗突刺！\r",
+      "title": "進行２０回華麗突刺！",
       "sub_id": "Excellent 003",
       "max_num": 20,
       "reward": {
@@ -6063,7 +6063,7 @@
         "id": null,
         "val": "2"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2004,
@@ -6071,7 +6071,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行30回華麗突刺！\r",
+      "title": "進行３０回華麗突刺！",
       "sub_id": "Excellent 004",
       "max_num": 30,
       "reward": {
@@ -6079,7 +6079,7 @@
         "id": null,
         "val": "3"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2005,
@@ -6087,7 +6087,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行50回華麗突刺！\r",
+      "title": "進行５０回華麗突刺！",
       "sub_id": "Excellent 005",
       "max_num": 50,
       "reward": {
@@ -6095,7 +6095,7 @@
         "id": null,
         "val": "3"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2006,
@@ -6103,7 +6103,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行100回華麗突刺！\r",
+      "title": "進行１００回華麗突刺！",
       "sub_id": "Excellent 006",
       "max_num": 100,
       "reward": {
@@ -6111,7 +6111,7 @@
         "id": null,
         "val": "3"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2007,
@@ -6119,7 +6119,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行150回華麗突刺！\r",
+      "title": "進行１５０回華麗突刺！",
       "sub_id": "Excellent 007",
       "max_num": 150,
       "reward": {
@@ -6127,7 +6127,7 @@
         "id": null,
         "val": "4"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2008,
@@ -6135,7 +6135,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行200回華麗突刺！\r",
+      "title": "進行２００回華麗突刺！",
       "sub_id": "Excellent 008",
       "max_num": 200,
       "reward": {
@@ -6143,7 +6143,7 @@
         "id": null,
         "val": "4"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2009,
@@ -6151,7 +6151,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行300回華麗突刺！\r",
+      "title": "進行３００回華麗突刺！",
       "sub_id": "Excellent 009",
       "max_num": 300,
       "reward": {
@@ -6159,7 +6159,7 @@
         "id": null,
         "val": "4"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2010,
@@ -6167,7 +6167,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行400回華麗突刺！\r",
+      "title": "進行４００回華麗突刺！",
       "sub_id": "Excellent 010",
       "max_num": 400,
       "reward": {
@@ -6175,7 +6175,7 @@
         "id": null,
         "val": "4"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2011,
@@ -6183,7 +6183,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行500回華麗突刺！\r",
+      "title": "進行５００回華麗突刺！",
       "sub_id": "Excellent 011",
       "max_num": 500,
       "reward": {
@@ -6191,7 +6191,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2012,
@@ -6199,7 +6199,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行600回華麗突刺！\r",
+      "title": "進行６００回華麗突刺！",
       "sub_id": "Excellent 012",
       "max_num": 600,
       "reward": {
@@ -6207,7 +6207,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2013,
@@ -6215,7 +6215,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行700回華麗突刺！\r",
+      "title": "進行７００回華麗突刺！",
       "sub_id": "Excellent 013",
       "max_num": 700,
       "reward": {
@@ -6223,7 +6223,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2014,
@@ -6231,7 +6231,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行800回華麗突刺！\r",
+      "title": "進行８００回華麗突刺！",
       "sub_id": "Excellent 014",
       "max_num": 800,
       "reward": {
@@ -6239,7 +6239,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2015,
@@ -6247,7 +6247,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行900回華麗突刺！\r",
+      "title": "進行９００回華麗突刺！",
       "sub_id": "Excellent 015",
       "max_num": 900,
       "reward": {
@@ -6255,7 +6255,7 @@
         "id": null,
         "val": "5"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2016,
@@ -6263,7 +6263,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "進行1000回華麗突刺！\r",
+      "title": "進行１０００回華麗突刺！",
       "sub_id": "Excellent 016",
       "max_num": 1000,
       "reward": {
@@ -6271,7 +6271,7 @@
         "id": null,
         "val": "10"
       },
-      "help": "同時達成\\n戰鬥的所有紅利吧！"
+      "help": ""
     },
     {
       "id": 2101,
@@ -6511,7 +6511,7 @@
         "id": null,
         "val": "1"
       },
-      "help": "對最後一個敵人用【自然發生的毒傷害】\\n給予最後一擊吧！ "
+      "help": "對最後一個敵人用【自然發生的毒傷害】\\n給予最後一擊吧！"
     },
     {
       "id": 2202,
@@ -6743,7 +6743,7 @@
       "start_time": 0,
       "end_time": 0,
       "quest_id": [],
-      "title": "試著使用10張聖靈進行合成吧",
+      "title": "試著使用10枚聖靈幣進行合成吧",
       "sub_id": "Start006",
       "max_num": 10,
       "reward": {
@@ -6896,252 +6896,6 @@
         "val": "10"
       },
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
-    },
-    {
-      "id": 308871,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251310
-      ],
-      "title": "快速地完成指定任務！",
-      "sub_id": "Event 001",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "96214",
-        "val": "1"
-      },
-      "help": "在關卡「4週年的成長」中，快速地過關1次！"
-    },
-    {
-      "id": 308872,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251310
-      ],
-      "title": "完成2次指定任務！",
-      "sub_id": "Event 002",
-      "max_num": 2,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85012",
-        "val": "1"
-      },
-      "help": "在關卡「4週年的成長」中，成功過關2次！"
-    },
-    {
-      "id": 308873,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251310
-      ],
-      "title": "在指定任務中開啟10次寶箱！",
-      "sub_id": "Event 003",
-      "max_num": 10,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85283",
-        "val": "1"
-      },
-      "help": "在關卡「4週年的成長」中，合計回收10個寶箱！"
-    },
-    {
-      "id": 308874,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251312
-      ],
-      "title": "用必殺技給予最後一擊！",
-      "sub_id": "Event 004",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26005",
-        "val": "5"
-      },
-      "help": "在關卡「VS聖王國」以必殺技給予最後一擊！"
-    },
-    {
-      "id": 308875,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251313
-      ],
-      "title": "用<突>類型的武器來結束戰鬥！",
-      "sub_id": "Event 005",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26004",
-        "val": "5"
-      },
-      "help": "在關卡「VS賢者之塔」中，用<突>類型的武器給予最後一擊！\\n愛麗婕拿的正好是<突>類型的武器呢。"
-    },
-    {
-      "id": 308876,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251314
-      ],
-      "title": "展露歌舞吧！",
-      "sub_id": "Event 006",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26008",
-        "val": "5"
-      },
-      "help": "在關卡「VS湖都」中，使用【歌】．【舞】類型的必殺技！\\n讓艾夏露在【最後排】使用必殺技吧。"
-    },
-    {
-      "id": 308877,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251315
-      ],
-      "title": "奮起吧、騎士！",
-      "sub_id": "Event 007",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26002",
-        "val": "5"
-      },
-      "help": "在關卡「VS精靈島」中，使用騎士夥伴。\\n好友和替補隊伍都可列入計算。"
-    },
-    {
-      "id": 308878,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251316
-      ],
-      "title": "由戰士來結束戰鬥",
-      "sub_id": "Event 008",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26000",
-        "val": "5"
-      },
-      "help": "在關卡「VS九領」中，由＜戰士＞來給予最後一擊！\\n由天津來結束戰鬥也行喔。"
-    },
-    {
-      "id": 308879,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251306
-      ],
-      "title": "完成指定任務！．1",
-      "sub_id": "Event 009",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "7202",
-        "val": "1"
-      },
-      "help": "在關卡「第6話『殘渣』」中，成功過關！"
-    },
-    {
-      "id": 308880,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251317
-      ],
-      "title": "安全地通過關卡！",
-      "sub_id": "Event 010",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "7",
-        "val": "1"
-      },
-      "help": "在關卡「VS義勇軍」中，不曾接關並成功過關！"
-    },
-    {
-      "id": 308881,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251308
-      ],
-      "title": "完成指定任務！．2",
-      "sub_id": "Event 011",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85562",
-        "val": "1"
-      },
-      "help": "在關卡「第8話『沒有盡頭的戰鬥』」中，成功過關！"
-    },
-    {
-      "id": 308882,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251310,
-        251312,
-        251313,
-        251314,
-        251315,
-        251316,
-        251317
-      ],
-      "title": "與義勇軍一同訓練！．1",
-      "sub_id": "Event 012",
-      "max_num": 40,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "400"
-      },
-      "help": "在指定關卡中打倒40位「壞人」吧！"
-    },
-    {
-      "id": 308883,
-      "type": 1,
-      "start_time": 1531467000,
-      "end_time": 1533276000,
-      "quest_id": [
-        251310,
-        251312,
-        251313,
-        251314,
-        251315,
-        251316,
-        251317
-      ],
-      "title": "與義勇軍一同訓練！．2",
-      "sub_id": "Event 013",
-      "max_num": 400,
-      "reward": {
-        "type": "item",
-        "id": "7",
-        "val": "4"
-      },
-      "help": "在指定關卡中打倒400位「壞人」吧！"
     }
   ],
   "res": 0

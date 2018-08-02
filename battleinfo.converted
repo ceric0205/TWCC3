@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1528968955,
+  "deceive": 1533202530,
   "battle_bg": [
     {
       "id": 1,
@@ -434,6 +434,30 @@
       "change_flag": 0
     },
     {
+      "id": 140,
+      "flag": 512,
+      "bg_name": "城鎮",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 141,
+      "flag": 262144,
+      "bg_name": "城中",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 143,
+      "flag": 0,
+      "bg_name": "河底",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
       "id": 400,
       "flag": 8192,
       "bg_name": "夜晚的祭典",
@@ -573,6 +597,30 @@
       "id": 417,
       "flag": 4,
       "bg_name": "森林",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 418,
+      "flag": 0,
+      "bg_name": "競技場",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 420,
+      "flag": 0,
+      "bg_name": "圓形競技場",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 421,
+      "flag": 0,
+      "bg_name": "走廊",
       "effect_s": "",
       "effect_l": "",
       "change_flag": 0

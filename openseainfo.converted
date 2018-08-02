@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1532595990,
+  "deceive": 1533201964,
   "open_sea_info": [
     {
       "id": 1,
@@ -78,6 +78,25 @@
       "url": "",
       "quest_list": [
         0
+      ],
+      "bgm_intro": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "bg": 277,
+      "priority": 1,
+      "title": "？？？",
+      "url": "",
+      "quest_list": [
+        222101,
+        222102,
+        222103,
+        222104
+      ],
+      "bgm": [
+        "BGM_FIELD_02_KIKAN"
       ],
       "bgm_intro": [
         ""

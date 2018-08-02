@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1532596040,
+  "deceive": 1533202007,
   "tower": [
     {
       "tower_id": 1,
@@ -233,6 +233,109 @@
         {
           "floor": "5",
           "floor_id": 15
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 200
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 300
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 400
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 500
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 750
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 1500
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 5000
+        }
+      ]
+    },
+    {
+      "tower_id": 4,
+      "start": 1533096000,
+      "end": 1535774400,
+      "free": 1533096000,
+      "close": 1533873600,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 1
+        },
+        {
+          "floor": "2",
+          "floor_id": 2
+        },
+        {
+          "floor": "3",
+          "floor_id": 3
+        },
+        {
+          "floor": "4",
+          "floor_id": 4
+        },
+        {
+          "floor": "5",
+          "floor_id": 5
         }
       ],
       "reward_list": [
@@ -1208,7 +1311,7 @@
             "wave": 5,
             "idx": 0
           },
-          "enemy_info": "野獸與魔法生物會登場。敵人的弱點是冰屬性。",
+          "enemy_info": "主要出場的是野獸及魔法生物。敵方全體對冰屬性攻擊較弱。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1323,7 +1426,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "雪人會登場。敵人的弱點是炎屬性。",
+          "enemy_info": "主要出場的是雪人。敵方全體對炎屬性攻擊較弱。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1438,7 +1541,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "人類與蜘蛛會登場。敵人的弱點是拳/打屬性的攻擊。",
+          "enemy_info": "主要出場的是人類和監獄蜘蛛。敵方全體對打/拳武器較弱。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1553,7 +1656,7 @@
             "wave": 5,
             "idx": 0
           },
-          "enemy_info": "主要登場的是人類。全敵人在接近前會隱身通常遠距攻擊沒有效。",
+          "enemy_info": "主要出場的是人類。敵方全體除了在接近前會維持隱身狀態以外，通常遠距離攻擊也無效。",
           "reward": {
             "type": "item",
             "id": 13,
@@ -1668,7 +1771,7 @@
             "wave": 5,
             "idx": 0
           },
-          "enemy_info": "主要登場的為鬼族戰士與魔法師。",
+          "enemy_info": "主要出場的是鬼族戰士和魔法師。",
           "reward": {
             "type": "chara_rf",
             "id": 90905,
@@ -1783,7 +1886,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "主要登場的為蜥蜴人。敵人的弱點是冰屬性。要注意敵人的地形變化技能。",
+          "enemy_info": "主要出場的是火精靈。敵方全體對冰屬性攻擊較弱。注意敵方的地形變化。",
           "reward": {
             "type": "item",
             "id": 40,
@@ -1898,7 +2001,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "主要登場的為獸人。敵人的弱點為戰士的攻擊與突屬性攻擊。要注意敵人的集中攻擊。",
+          "enemy_info": "主要出場的是獸人。敵方全體對戰士和穿刺武器攻擊較弱。注意敵方的集中攻擊。",
           "reward": {
             "type": "item",
             "id": 39,
@@ -1978,7 +2081,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "海賊與海天使會登場。",
+          "enemy_info": "海盜和水母怪會登場。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -2013,7 +2116,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黑之士兵會登場。用盡全力挑戰獲得勝利吧。",
+          "enemy_info": "黑之士兵會登場。全力挑戰並把握勝利吧。",
           "reward": {
             "type": "item",
             "id": 39,
