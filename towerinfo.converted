@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1533202007,
+  "deceive": 1533818024,
   "tower": [
     {
       "tower_id": 1,
@@ -315,7 +315,7 @@
       "start": 1533096000,
       "end": 1535774400,
       "free": 1533096000,
-      "close": 1533873600,
+      "close": 1534478400,
       "floor_list": [
         {
           "floor": "1",
@@ -555,7 +555,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 3
+            "val": 5
           },
           "point_list": [
             {
@@ -590,7 +590,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 3
+            "val": 5
           },
           "point_list": [
             {
@@ -623,8 +623,8 @@
           },
           "enemy_info": "主要是魚人會登場。最終WAVE的BOSS敵方全狀態異常免疫。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
+            "type": "item",
+            "id": 40,
             "val": 3
           },
           "point_list": [
@@ -670,7 +670,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 2
+            "val": 3
           },
           "point_list": [
             {
@@ -705,7 +705,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 2
+            "val": 3
           },
           "point_list": [
             {
@@ -738,9 +738,9 @@
           },
           "enemy_info": "主要登場的為黑之士兵。全敵人弱點為火屬性。最終WAVE的BOSS全異常狀態免疫。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
-            "val": 2
+            "type": "item",
+            "id": 13,
+            "val": 25
           },
           "point_list": [
             {
@@ -785,7 +785,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 5
+            "val": 10
           },
           "point_list": [
             {
@@ -820,7 +820,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 5
+            "val": 10
           },
           "point_list": [
             {
@@ -853,8 +853,8 @@
           },
           "enemy_info": "人類會登場。用盡全力挑戰獲得勝利吧。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
+            "type": "item",
+            "id": 39,
             "val": 5
           },
           "point_list": [
@@ -900,7 +900,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 4
+            "val": 7
           },
           "point_list": [
             {
@@ -935,7 +935,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 4
+            "val": 7
           },
           "point_list": [
             {
@@ -968,9 +968,9 @@
           },
           "enemy_info": "主要登場的為鬼族。全敵人弱點為魔。最終WAVE的BOSS全異常狀態免疫。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
-            "val": 4
+            "type": "item",
+            "id": 39,
+            "val": 1
           },
           "point_list": [
             {
@@ -1015,7 +1015,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 5
+            "val": 10
           },
           "point_list": [
             {
@@ -1050,7 +1050,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 5
+            "val": 10
           },
           "point_list": [
             {
@@ -1083,8 +1083,8 @@
           },
           "enemy_info": "人類會登場。用盡全力挑戰獲得勝利吧。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
+            "type": "item",
+            "id": 39,
             "val": 5
           },
           "point_list": [
@@ -1245,7 +1245,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 2
+            "val": 3
           },
           "point_list": [
             {
@@ -1280,7 +1280,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 2
+            "val": 3
           },
           "point_list": [
             {
@@ -1313,9 +1313,9 @@
           },
           "enemy_info": "主要出場的是野獸及魔法生物。敵方全體對冰屬性攻擊較弱。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
-            "val": 2
+            "type": "item",
+            "id": 13,
+            "val": 25
           },
           "point_list": [
             {
@@ -1360,7 +1360,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 3
+            "val": 5
           },
           "point_list": [
             {
@@ -1395,7 +1395,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 3
+            "val": 5
           },
           "point_list": [
             {
@@ -1428,8 +1428,8 @@
           },
           "enemy_info": "主要出場的是雪人。敵方全體對炎屬性攻擊較弱。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
+            "type": "item",
+            "id": 40,
             "val": 3
           },
           "point_list": [
@@ -1475,7 +1475,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 4
+            "val": 7
           },
           "point_list": [
             {
@@ -1510,7 +1510,7 @@
           "reward": {
             "type": "stone",
             "id": 0,
-            "val": 4
+            "val": 7
           },
           "point_list": [
             {
@@ -1543,9 +1543,9 @@
           },
           "enemy_info": "主要出場的是人類和監獄蜘蛛。敵方全體對打/拳武器較弱。",
           "reward": {
-            "type": "chara_rf",
-            "id": 90905,
-            "val": 4
+            "type": "item",
+            "id": 39,
+            "val": 1
           },
           "point_list": [
             {

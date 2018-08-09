@@ -1,4 +1,4 @@
-{
+﻿{
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -146,7 +146,48 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
+        "raid": {
+          "raid_id": 30,
+          "bg": 2000,
+          "event_start": 1513749600,
+          "event_end": 1534485600,
+          "close": 1534399200,
+          "name": "布卡芬來襲",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "7617",
+              "skill_id": "30057",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 0.85,
+                "limit_break_2": 1.2,
+                "limit_break_3": 1.55,
+                "limit_break_4": 1.9
+              }
+            },
+            {
+              "cid": "7618",
+              "skill_id": "30057",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 0.85,
+                "limit_break_2": 1.2,
+                "limit_break_3": 1.55,
+                "limit_break_4": 1.9
+              }
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false
+        },
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -163,12 +204,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1532672292,
+    "charainfo": 1533635676,
     "weaponlist": 1533198661,
-    "skilllist": 1533198663,
+    "skilllist": 1533785637,
     "worldinfo": 1531709316,
-    "episodeinfo": 1522200064,
-    "questdigest": 1533200276,
+    "episodeinfo": 1531709287,
+    "questdigest": 1533785642,
     "itemlist": 1526610327,
     "booklist": 1532942242,
     "motionlist": 1521539936,
@@ -181,10 +222,10 @@
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
-    "weaponcompose": 1531103953,
+    "weaponcompose": 1533715393,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
-    "various": 1533093802,
+    "various": 1533544702,
     "eventplace": 1,
     "eventbadge": 1,
     "denju": 1532672288,
@@ -192,20 +233,20 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1526610326,
-    "vignette": 1533184948,
+    "vignette": 1533716945,
     "spdrama": 1526610326,
-    "gachainfo": 1533197102,
+    "gachainfo": 1533719819,
     "questtree": 1532940699,
-    "eventareainfo": 1532946163,
+    "eventareainfo": 1533536294,
     "coverinfo": 1532506214,
-    "towerinfo": 1533097475,
+    "towerinfo": 1533803078,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1532332426,
-    "openseainfo": 1533090891,
+    "openseainfo": 1533710370,
     "speedruninfo": 1532506214,
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1533216772
+    "servertime": 1533819480
   }
 }
