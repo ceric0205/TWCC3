@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1533817980,
+  "deceive": 1534410106,
+  "res": 0,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +19,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 7618,
+      "cid": 11214,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "將此份憎恨化為子彈！",
+      "bg": 5281,
+      "memo": "我砍我砍我砍砍砍～～～?",
       "start": 1506924000,
-      "end": 1534399200,
+      "end": 1535608800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -33,25 +34,7 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_1",
-      "event_area_name": 1
-    },
-    {
-      "cid": 7616,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "[FF0000]【魔神來襲】[-] 看好了……這個魔女之力！",
-      "start": 1506924000,
-      "end": 1534399200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 300,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
+      "event_area_name": 3
     },
     {
       "cid": 7015,
@@ -88,12 +71,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 7617,
+      "cid": 11213,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "你就高調地退場吧",
+      "bg": 5281,
+      "memo": "把你們通通揍飛喔！",
       "start": 1522918800,
-      "end": 1534399200,
+      "end": 1535608800,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -240,6 +223,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }

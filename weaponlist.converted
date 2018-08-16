@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1533201974,
+  "deceive": 1534410121,
+  "res": 0,
   "weaponlist": [
     {
       "id": 1,
@@ -15828,7 +15829,7 @@
     },
     {
       "id": 85288,
-      "name": "天晴之魂拳",
+      "name": "天晴乃輝拳",
       "type_atk": 4,
       "attackMax": 17,
       "type_cri": 5,
@@ -19998,7 +19999,7 @@
     },
     {
       "id": 85624,
-      "name": "規則之槍",
+      "name": "玩耍",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -29753,7 +29754,7 @@
     {
       "evol_dst": 85288,
       "id": 85288,
-      "name": "天晴之魂拳",
+      "name": "天晴乃輝拳",
       "profile": "<拳>神器",
       "rank_limit": 2,
       "rarity": 5,
@@ -32650,7 +32651,7 @@
     {
       "evol_dst": 85624,
       "id": 85624,
-      "name": "規則之槍",
+      "name": "玩耍",
       "profile": "新イベント武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -37977,6 +37978,5 @@
       "type": 7,
       "ring": -1
     }
-  ],
-  "res": 0
+  ]
 }

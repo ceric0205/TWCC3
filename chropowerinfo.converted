@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1533817980,
+  "res": 0,
+  "deceive": 1534410106,
   "chronicle_power": [
     {
       "effect_level1": 30,
@@ -99,6 +100,5 @@
       "name": "全體擊退",
       "timestamp": "1531709279000"
     }
-  ],
-  "res": 0
+  ]
 }
