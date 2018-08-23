@@ -1,4 +1,5 @@
 ﻿{
+  "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -134,7 +135,6 @@
   ],
   "sortie_new_commer_limit": 4,
   "uzu_majin_debuf_offtime": 1922194800,
-  "res": 0,
   "body": [
     {
       "type": 14,
@@ -145,49 +145,48 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
-        "raid": {
-          "raid_id": 30,
-          "bg": 2000,
-          "event_start": 1513749600,
-          "event_end": 1534485600,
-          "close": 1534399200,
-          "name": "布卡芬來襲",
-          "full_time": 130,
-          "part_time": 90,
-          "sp_cards": [
-            {
-              "cid": "7617",
-              "skill_id": "30057",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0.5,
-                "limit_break_1": 0.85,
-                "limit_break_2": 1.2,
-                "limit_break_3": 1.55,
-                "limit_break_4": 1.9
-              }
+        "cover": {
+          "cover_id": 21,
+          "is_mop_up": true,
+          "name": "大狩獵戰「罪之大陸篇」",
+          "area_id": 1023,
+          "dist_start": 1510725600,
+          "event_start": 1510725600,
+          "event_end": 1535706000,
+          "dist_end": 1535619600,
+          "bgm": "BGM_FIELD_MOPUP_01",
+          "point_list": {
+            "point1": {
+              "name": "地獄犬的爪",
+              "icon": "Item_MopUp_02_A",
+              "target_enemy_id": "335310",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335311",
+              "rare_target_point_val": "70"
             },
-            {
-              "cid": "7618",
-              "skill_id": "30057",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0.5,
-                "limit_break_1": 0.85,
-                "limit_break_2": 1.2,
-                "limit_break_3": 1.55,
-                "limit_break_4": 1.9
-              }
+            "point2": {
+              "name": "蜘蛛的絲線",
+              "icon": "Item_MopUp_02_B",
+              "target_enemy_id": "335310",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335311",
+              "rare_target_point_val": "70"
             }
+          },
+          "info_list": [
+            "Tutorial_MopUp_02_01",
+            "Tutorial_MopUp_02_02",
+            "Tutorial_MopUp_02_03",
+            "Tutorial_MopUp_02_04"
           ],
-          "full_pirica_time": 13,
-          "part_pirica_time": 22,
-          "hp_up": 3,
-          "atk_up": 3,
-          "anger_hp_up": 2,
-          "anger_atk_up": 2,
-          "anger_battle_time": 30,
-          "invalid_chropower": false
+          "rush": {
+            "rate": 0.15,
+            "validcnt": 1,
+            "text": "目標大量出現！",
+            "bgm": 13
+          }
         },
+        "raid": null,
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -209,9 +208,9 @@
     "skilllist": 1534149876,
     "worldinfo": 1534329274,
     "episodeinfo": 1531709287,
-    "questdigest": 1534391688,
+    "questdigest": 1534921838,
     "itemlist": 1526610327,
-    "booklist": 1534316901,
+    "booklist": 1534500665,
     "motionlist": 1521539936,
     "missionlist": 1526610330,
     "repeatmissionlist": 1513670320,
@@ -222,7 +221,7 @@
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
-    "weaponcompose": 1534390904,
+    "weaponcompose": 1534908369,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
     "various": 1533544702,
@@ -233,20 +232,20 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1526610326,
-    "vignette": 1534392407,
+    "vignette": 1534989019,
     "spdrama": 1526610326,
-    "gachainfo": 1534329386,
+    "gachainfo": 1534920679,
     "questtree": 1532940699,
-    "eventareainfo": 1534373983,
-    "coverinfo": 1534131365,
+    "eventareainfo": 1534905270,
+    "coverinfo": 1534904839,
     "towerinfo": 1533803078,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1532332426,
-    "openseainfo": 1534298486,
+    "openseainfo": 1534500662,
     "speedruninfo": 1532506214,
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1534423972
+    "servertime": 1535025240
   }
 }

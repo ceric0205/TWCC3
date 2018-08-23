@@ -1,6 +1,5 @@
 ﻿{
-  "deceive": 1534410106,
-  "res": 0,
+  "deceive": 1535015326,
   "vignette": [
     {
       "cid": 7015,
@@ -19,12 +18,30 @@
       "v_category": "explorer"
     },
     {
+      "cid": 11221,
+      "v_motionid": 0,
+      "bg": 5281,
+      "memo": "[FF0000]【大狩獵戰開催中】[-] 去狩獵吧！",
+      "start": 1497506400,
+      "end": 1535619600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1023,
+        "place_id": 0
+      },
+      "priority": 550,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "mopup",
+      "event_area_name": null
+    },
+    {
       "cid": 11214,
       "v_motionid": 0,
       "bg": 5281,
       "memo": "我砍我砍我砍砍砍～～～?",
       "start": 1506924000,
-      "end": 1535608800,
+      "end": 1535619600,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -76,7 +93,7 @@
       "bg": 5281,
       "memo": "把你們通通揍飛喔！",
       "start": 1522918800,
-      "end": 1535608800,
+      "end": 1535619600,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -223,5 +240,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }
