@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1535015326,
+  "deceive": 1535537360,
   "vignette": [
     {
       "cid": 7015,
@@ -70,6 +70,24 @@
       "v_category": "favorite"
     },
     {
+      "cid": 7202,
+      "v_motionid": 2,
+      "bg": 5201,
+      "memo": "只要我還愛著您！",
+      "start": 1535558400,
+      "end": 1536249600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 31,
+        "place_id": 15
+      },
+      "priority": 1,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "totalwar",
+      "event_area_name": null
+    },
+    {
       "cid": 3,
       "v_motionid": 0,
       "bg": 2003,
@@ -88,15 +106,15 @@
       "event_area_name": 2
     },
     {
-      "cid": 11213,
+      "cid": 211,
       "v_motionid": 0,
-      "bg": 5281,
-      "memo": "把你們通通揍飛喔！",
-      "start": 1522918800,
-      "end": 1535619600,
+      "bg": 3,
+      "memo": "守護尤古度！",
+      "start": 1497506400,
+      "end": 1536213600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
+        "type": "legend",
         "gacha_id": 1
       },
       "priority": 0,

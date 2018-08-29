@@ -1,6 +1,5 @@
 {
-  "res": 0,
-  "deceive": 1535015359,
+  "deceive": 1535537386,
   "gacha_info": {
     "fes": {
       "ring": [
@@ -30,9 +29,9 @@
       "legend_fes": [
         {
           "gacha_id": 1,
-          "start": 1518674400,
-          "end": 1534399200,
-          "icon": "FesBtn_180809_l",
+          "start": 1522918800,
+          "end": 1536213600,
+          "icon": "180829_FesBtn_l",
           "priority": 1
         }
       ],
@@ -55,9 +54,9 @@
         },
         {
           "gacha_id": 2,
-          "start": 1506924000,
-          "end": 1506924000,
-          "icon": "180405_FesBtn_2",
+          "start": 1522918800,
+          "end": 1536213600,
+          "icon": "180829_FesBtn",
           "priority": 5
         },
         {
@@ -91,5 +90,6 @@
         "quest_id": 335043
       }
     ]
-  }
+  },
+  "res": 0
 }
