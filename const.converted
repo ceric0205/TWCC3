@@ -1,4 +1,4 @@
-﻿{
+{
   "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
@@ -145,49 +145,27 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 21,
-          "is_mop_up": true,
-          "name": "大狩獵戰「罪之大陸篇」",
-          "area_id": 1023,
-          "dist_start": 1510725600,
-          "event_start": 1510725600,
-          "event_end": 1535619600,
-          "dist_end": 1535706000,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "地獄犬的爪",
-              "icon": "Item_MopUp_02_A",
-              "target_enemy_id": "335310",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335311",
-              "rare_target_point_val": "70"
-            },
-            "point2": {
-              "name": "蜘蛛的絲線",
-              "icon": "Item_MopUp_02_B",
-              "target_enemy_id": "335310",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335311",
-              "rare_target_point_val": "70"
-            }
-          },
-          "info_list": [
-            "Tutorial_MopUp_02_01",
-            "Tutorial_MopUp_02_02",
-            "Tutorial_MopUp_02_03",
-            "Tutorial_MopUp_02_04"
-          ],
-          "rush": {
-            "rate": 0.15,
-            "validcnt": 1,
-            "text": "目標大量出現！",
-            "bgm": 13
-          }
-        },
+        "cover": null,
         "raid": null,
-        "totalwar": null,
+        "totalwar": {
+          "totalwar_id": 23,
+          "event_start": 1535558400,
+          "close": 1536249599,
+          "event_end": 1536249599,
+          "token_cnt_per_request": 100,
+          "banner_image": "180829_souryokusen_top",
+          "special_reward_icon": "180510_special_reward_icon",
+          "start_cnt": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "close_interval": 10,
+          "first_border_ap": 10,
+          "event_days": 8,
+          "rest_border_ap": 30
+        },
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -203,18 +181,18 @@
     }
   ],
   "mVer": {
-    "charainfo": 1535530656,
-    "weaponlist": 1534149874,
-    "skilllist": 1535358628,
+    "charainfo": 1536028212,
+    "weaponlist": 1536049745,
+    "skilllist": 1536113034,
     "worldinfo": 1534329274,
     "episodeinfo": 1531709287,
-    "questdigest": 1535530661,
+    "questdigest": 1536222414,
     "itemlist": 1526610327,
     "booklist": 1535337918,
     "motionlist": 1521539936,
     "missionlist": 1526610330,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1535530652,
+    "bossinfo": 1535945028,
     "battleinfo": 1526610326,
     "homelist": 1533104774,
     "supporterskill": 1535358096,
@@ -228,24 +206,24 @@
     "eventplace": 1,
     "eventbadge": 1,
     "denju": 1535343118,
-    "questroute": 1532941558,
+    "questroute": 1535963100,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1526610326,
-    "vignette": 1535531630,
+    "vignette": 1536207891,
     "spdrama": 1535105810,
-    "gachainfo": 1535528807,
-    "questtree": 1532940699,
-    "eventareainfo": 1535525533,
+    "gachainfo": 1536206840,
+    "questtree": 1535963100,
+    "eventareainfo": 1536036104,
     "coverinfo": 1535535072,
     "towerinfo": 1535430721,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1535429723,
-    "openseainfo": 1535093633,
+    "openseainfo": 1536031502,
     "speedruninfo": 1532506214,
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1535545106
+    "servertime": 1536233815
   }
 }

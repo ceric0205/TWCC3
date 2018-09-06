@@ -1,6 +1,6 @@
 ﻿{
-  "deceive": 1534410121,
   "res": 0,
+  "deceive": 1536224394,
   "weaponlist": [
     {
       "id": 1,
@@ -9139,7 +9139,7 @@
     },
     {
       "id": 26206,
-      "name": "感謝標誌",
+      "name": "感謝的標誌",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -15589,7 +15589,7 @@
     },
     {
       "id": 85272,
-      "name": "閃亮亮魔法杖",
+      "name": "閃亮亮魔法棒",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -15619,7 +15619,7 @@
     },
     {
       "id": 85274,
-      "name": "魔法☆棒",
+      "name": "神奇☆魔杖",
       "type_atk": 1,
       "attackMax": 6,
       "type_cri": 2,
@@ -20524,7 +20524,7 @@
     },
     {
       "id": 85659,
-      "name": "金牌射手",
+      "name": "賞金射手",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -20584,7 +20584,7 @@
     },
     {
       "id": 85666,
-      "name": "金牌獵人",
+      "name": "賞金獵人",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -26172,7 +26172,7 @@
     {
       "evol_dst": 26206,
       "id": 26206,
-      "name": "感謝標誌",
+      "name": "感謝的標誌",
       "profile": "錬金素材",
       "rank_limit": 1,
       "rarity": 3,
@@ -29566,7 +29566,7 @@
     {
       "evol_dst": 85272,
       "id": 85272,
-      "name": "閃亮亮魔法杖",
+      "name": "閃亮亮魔法棒",
       "profile": "リーゼロッテVer2　キャラクエ1話武器",
       "rank_limit": 2,
       "rarity": 4,
@@ -29582,7 +29582,7 @@
     {
       "evol_dst": 85273,
       "id": 85273,
-      "name": "閃亮亮★魔法杖",
+      "name": "閃亮亮★魔法棒",
       "profile": "リーゼロッテVer2　キャラクエ2話武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -29598,7 +29598,7 @@
     {
       "evol_dst": 85274,
       "id": 85274,
-      "name": "魔法☆杖",
+      "name": "神奇☆魔杖",
       "profile": "リーゼロッテイベント武器",
       "rank_limit": 1,
       "rarity": 3,
@@ -33002,7 +33002,7 @@
     {
       "evol_dst": 85659,
       "id": 85659,
-      "name": "金牌射手",
+      "name": "賞金射手",
       "profile": "錬金追加",
       "rank_limit": 2,
       "rarity": 5,
@@ -33054,7 +33054,7 @@
     {
       "evol_dst": 85666,
       "id": 85666,
-      "name": "金牌獵人",
+      "name": "賞金獵人",
       "profile": "錬金追加",
       "rank_limit": 2,
       "rarity": 5,

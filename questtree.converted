@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1533201975,
+  "deceive": 1536224388,
   "quest_tree": [
     {
       "area_id": 0,
@@ -2683,23 +2683,32 @@
     {
       "area_id": 1,
       "boss": 0,
-      "cell": 31,
-      "destiny": 0,
+      "cell": 32,
+      "destiny": 1,
       "develop_only": 0,
       "episode": 1,
       "gathering": 0,
       "hero_id": 2,
       "icon": 11,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        332231,
+        332232,
+        332233,
+        332234,
+        332235
+      ],
       "size": 0,
       "story": 6,
-      "summary": "愛麗婕６－１的概要",
-      "timestamp": "1525332179000",
-      "title": "愛麗婕６－１",
+      "summary": "被白色光柱所包住的王都――。 由三賢者帶領，魔法兵團和三星以上的教授們組成了大救援部隊。 另外，為了借用刻印之力，蓓兒塔和卡琳也收到了出發的邀請……",
+      "timestamp": "1535961435000",
+      "title": "三賢者，出動",
       "treasure": 0,
-      "update_time": 20180510,
-      "x_hero_ary": 0
+      "update_time": 20180906,
+      "x_hero_ary": [
+        2,
+        3
+      ]
     },
     {
       "area_id": 3,
@@ -3153,6 +3162,136 @@
         1,
         4
       ]
+    },
+    {
+      "area_id": 1,
+      "boss": 0,
+      "cell": 33,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "gathering": 0,
+      "hero_id": 2,
+      "icon": 2001,
+      "pub": 0,
+      "quest_ary": [
+        332241,
+        332242,
+        332243,
+        332244
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "愛麗婕終於下定決心前往王都，並試圖搭上運送救援物資的馬車……另一方面，抵達王都的三賢者與蓓兒塔等人則是……",
+      "timestamp": "1535961435000",
+      "title": "前往王都！！",
+      "treasure": 0,
+      "update_time": 20180906,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 34,
+      "destiny": 1,
+      "develop_only": 0,
+      "episode": 3,
+      "gathering": 0,
+      "hero_id": 2,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        332251,
+        332252,
+        332253,
+        332254,
+        332255
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "蓓兒塔等人終於進入了白色光柱內部，她們在那裏看到的，是完全超乎預期的驚悚景象…… 她們雖然深受眼前的景象所震攝，但仍試圖尋找待援者，可是??",
+      "timestamp": "1535961435000",
+      "title": "純白的街道",
+      "treasure": 0,
+      "update_time": 20180906,
+      "x_hero_ary": [
+        1,
+        2
+      ]
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 35,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "gathering": 0,
+      "hero_id": 2,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        332261,
+        332262,
+        332263,
+        332264
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "愛麗婕與索妮雅一同進入王都，但兩人卻看到蓓兒塔等人及普利西雅……也就是兩人最重要朋友的幻影而陷入混亂。",
+      "timestamp": "1535961435000",
+      "title": "意欲取回之物",
+      "treasure": 0,
+      "update_time": 20180906,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 36,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 5,
+      "gathering": 0,
+      "hero_id": 2,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        332271,
+        332272,
+        332273,
+        332274,
+        332275
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "在一片純白的王都內，蓓兒塔等人遇到了艾德斐爾薩斯教授以及艾斯緹菈，但教授卻命令艾斯緹菈奪走蓓兒塔的雙眼。",
+      "timestamp": "1535961435000",
+      "title": "再會，然後再會。",
+      "treasure": 0,
+      "update_time": 20180906,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 37,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "gathering": 0,
+      "hero_id": 2,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 7,
+      "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
+      "timestamp": "1535963099000",
+      "title": "英雄們的回歸",
+      "treasure": 0,
+      "update_time": 20180906,
+      "x_hero_ary": 0
     }
   ],
   "res": 0

@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1535537360,
+  "deceive": 1536224376,
   "vignette": [
     {
       "cid": 7015,
@@ -18,30 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 11221,
+      "cid": 2204,
       "v_motionid": 0,
-      "bg": 5281,
-      "memo": "[FF0000]【大狩獵戰開催中】[-] 去狩獵吧！",
-      "start": 1497506400,
-      "end": 1535619600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1023,
-        "place_id": 0
-      },
-      "priority": 550,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "mopup",
-      "event_area_name": null
-    },
-    {
-      "cid": 11214,
-      "v_motionid": 0,
-      "bg": 5281,
-      "memo": "我砍我砍我砍砍砍～～～?",
+      "bg": 11,
+      "memo": "不要緊的～～已經不痛了唷",
       "start": 1506924000,
-      "end": 1535619600,
+      "end": 1536818400,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -106,12 +88,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 211,
+      "cid": 2219,
       "v_motionid": 0,
-      "bg": 3,
-      "memo": "守護尤古度！",
+      "bg": 41,
+      "memo": "燃燒吧！妖刀！！",
       "start": 1497506400,
-      "end": 1536213600,
+      "end": 1536818400,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
