@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1536224388,
+  "deceive": 1536832838,
+  "res": 0,
   "quest_tree": [
     {
       "area_id": 0,
@@ -3293,6 +3294,5 @@
       "update_time": 20180906,
       "x_hero_ary": 0
     }
-  ],
-  "res": 0
+  ]
 }

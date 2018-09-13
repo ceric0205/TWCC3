@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1536224394,
+  "deceive": 1536832854,
   "weaponlist": [
     {
       "id": 1,
@@ -9664,7 +9664,7 @@
     },
     {
       "id": 26242,
-      "name": "天炫之羽",
+      "name": "天眩之羽",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -26732,7 +26732,7 @@
     {
       "evol_dst": 26242,
       "id": 26242,
-      "name": "天炫之羽",
+      "name": "天眩之羽",
       "profile": "天晴武器弓用素材",
       "rank_limit": 1,
       "rarity": 5,

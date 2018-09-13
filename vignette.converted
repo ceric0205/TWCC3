@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1536224376,
+  "res": 0,
+  "deceive": 1536832830,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +19,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 2204,
+      "cid": 4278,
       "v_motionid": 0,
-      "bg": 11,
-      "memo": "不要緊的～～已經不痛了唷",
+      "bg": 6001,
+      "memo": "我就是……真正的邪惡！",
       "start": 1506924000,
-      "end": 1536818400,
+      "end": 1538028000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -52,24 +53,6 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7202,
-      "v_motionid": 2,
-      "bg": 5201,
-      "memo": "只要我還愛著您！",
-      "start": 1535558400,
-      "end": 1536249600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 31,
-        "place_id": 15
-      },
-      "priority": 1,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "totalwar",
-      "event_area_name": null
-    },
-    {
       "cid": 3,
       "v_motionid": 0,
       "bg": 2003,
@@ -88,22 +71,22 @@
       "event_area_name": 2
     },
     {
-      "cid": 2219,
+      "cid": 4276,
       "v_motionid": 0,
-      "bg": 41,
-      "memo": "燃燒吧！妖刀！！",
-      "start": 1497506400,
-      "end": 1536818400,
+      "bg": 6001,
+      "memo": "這就是獲得聖樹所賜予的希望",
+      "start": 1506924000,
+      "end": 1538028000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 0,
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "gacha",
-      "event_area_name": null
+      "event_area_name": 1
     }
   ],
   "vignette_motion": [
@@ -240,6 +223,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }

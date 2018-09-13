@@ -1,5 +1,6 @@
 {
-  "deceive": 1533201994,
+  "res": 0,
+  "deceive": 1536832854,
   "high_and_low": [],
   "casino_race": [],
   "casino_roulette": [
@@ -51,6 +52,5 @@
       "val": 3,
       "mass": 4
     }
-  ],
-  "res": 0
+  ]
 }
