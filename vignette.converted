@@ -1,6 +1,5 @@
 ﻿{
-  "res": 0,
-  "deceive": 1536832830,
+  "deceive": 1537435072,
   "vignette": [
     {
       "cid": 7015,
@@ -37,6 +36,42 @@
       "event_area_name": 3
     },
     {
+      "cid": 4276,
+      "v_motionid": 0,
+      "bg": 6001,
+      "memo": "這就是獲得聖樹所賜予的希望",
+      "start": 1506924000,
+      "end": 1538028000,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 200,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": 1
+    },
+    {
+      "cid": 4277,
+      "v_motionid": 0,
+      "bg": 6001,
+      "memo": "潔淨的一擊啊，擊破病魔吧！",
+      "start": 1519279200,
+      "end": 1538028000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1024,
+        "place_id": 0
+      },
+      "priority": 100,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "cover",
+      "event_area_name": null
+    },
+    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -71,21 +106,21 @@
       "event_area_name": 2
     },
     {
-      "cid": 4276,
+      "cid": 8149,
       "v_motionid": 0,
-      "bg": 6001,
-      "memo": "這就是獲得聖樹所賜予的希望",
+      "bg": 2001,
+      "memo": "消失吧！！",
       "start": 1506924000,
       "end": 1538028000,
-      "link": "unity:GoGacha",
+      "link": "unity:GoSpecifiedArea",
       "param": {
-        "type": "event",
-        "gacha_id": 1
+        "area_id": 36,
+        "place_id": 1
       },
       "priority": 0,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "gacha",
+      "v_category": "event_1",
       "event_area_name": 1
     }
   ],
@@ -223,5 +258,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }

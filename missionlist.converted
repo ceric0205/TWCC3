@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1536832846,
+  "deceive": 1537435087,
   "missionlist": [
     {
       "id": 1,
@@ -6897,6 +6897,266 @@
         "val": "10"
       },
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
+    },
+    {
+      "id": 308886,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302003
+      ],
+      "title": "到達「仙人掌群生地」！",
+      "sub_id": "Event 001",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "抵達踏破活動的「仙人掌群生地」！"
+    },
+    {
+      "id": 308887,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302007
+      ],
+      "title": "到達「光之谷」！",
+      "sub_id": "Event 002",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90010",
+        "val": "10"
+      },
+      "help": "抵達踏破活動的「光之谷」！"
+    },
+    {
+      "id": 308888,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302013
+      ],
+      "title": "到達「最後的沙漠」！",
+      "sub_id": "Event 003",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90013",
+        "val": "10"
+      },
+      "help": "抵達踏破活動的「最後的沙漠」！"
+    },
+    {
+      "id": 308889,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302017
+      ],
+      "title": "到達「砂螢花的花田」！",
+      "sub_id": "Event 004",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90016",
+        "val": "1"
+      },
+      "help": "抵達踏破活動的「砂螢花的花田」！"
+    },
+    {
+      "id": 308890,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302022
+      ],
+      "title": "由戰士給予最後一擊！",
+      "sub_id": "Event 005",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90015",
+        "val": "1"
+      },
+      "help": "在關卡「仙人掌攻防戰」中，由<戰士>來給予最後一擊！"
+    },
+    {
+      "id": 308891,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302023
+      ],
+      "title": "打倒50名壞人。",
+      "sub_id": "Event 006",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "1"
+      },
+      "help": "在關卡「青之綠洲防衛」中，打倒50名壞人吧！"
+    },
+    {
+      "id": 308892,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302024
+      ],
+      "title": "由僧侶給予最後一擊！",
+      "sub_id": "Event 007",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "4",
+        "val": "1"
+      },
+      "help": "在關卡「光之谷防衛」中，由<僧侶>來給予最後一擊！起碼3次。"
+    },
+    {
+      "id": 308893,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302025
+      ],
+      "title": "達成全部的戰鬥獎勵吧！",
+      "sub_id": "Event 008",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90018",
+        "val": "1"
+      },
+      "help": "在關卡「沙漠的攻防」中，快速、無人死亡，並以必殺技給予最後一擊吧！"
+    },
+    {
+      "id": 308894,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302026
+      ],
+      "title": "用<拳>類型的武器來結束戰鬥！",
+      "sub_id": "Event 009",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85651",
+        "val": "1"
+      },
+      "help": "在關卡「黃之綠洲防衛」中，用<拳>類型的武器給予最後一擊！"
+    },
+    {
+      "id": 308895,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302027
+      ],
+      "title": "用<聖>類型的武器來結束戰鬥！",
+      "sub_id": "Event 010",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85430",
+        "val": "1"
+      },
+      "help": "在關卡「溫柔惡魔的援軍」中，用<聖>類型的武器給予最後一擊！"
+    },
+    {
+      "id": 308896,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302028
+      ],
+      "title": "安全地通過關卡！",
+      "sub_id": "Event 011",
+      "max_num": 3,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "3"
+      },
+      "help": "通過關卡「紅之綠洲防衛」時不曾接關。起碼3次！"
+    },
+    {
+      "id": 308897,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302022,
+        302024,
+        302027,
+        302028,
+        302029
+      ],
+      "title": "打倒100隻聖夜骷髏兵！",
+      "sub_id": "Event 012",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85420",
+        "val": "1"
+      },
+      "help": "在指定關卡中打倒100位骷髏兵吧！"
+    },
+    {
+      "id": 308898,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302022,
+        302024,
+        302027,
+        302028,
+        302029
+      ],
+      "title": "打倒200隻聖夜骷髏兵！",
+      "sub_id": "Event 013",
+      "max_num": 200,
+      "reward": {
+        "type": "card",
+        "id": "5258",
+        "val": "1"
+      },
+      "help": "在指定關卡中打倒200位骷髏兵吧！"
+    },
+    {
+      "id": 308899,
+      "type": 1,
+      "start_time": 1537147800,
+      "end_time": 1538114400,
+      "quest_id": [
+        302029
+      ],
+      "title": "達成全部的戰鬥獎勵吧！",
+      "sub_id": "Event 014",
+      "max_num": 3,
+      "reward": {
+        "type": "item",
+        "id": "1033",
+        "val": "1"
+      },
+      "help": "在關卡「沙漠的攻防」中，快速、無人死亡，並以必殺技給予最後一擊吧！起碼3次！"
     }
   ]
 }
