@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1537435072,
+  "deceive": 1538046023,
   "vignette": [
     {
       "cid": 7015,
@@ -18,58 +18,40 @@
       "v_category": "explorer"
     },
     {
-      "cid": 4278,
+      "cid": 6203,
       "v_motionid": 0,
-      "bg": 6001,
-      "memo": "我就是……真正的邪惡！",
+      "bg": 6005,
+      "memo": "釜蓋朔日、給我當心了！！",
       "start": 1506924000,
-      "end": 1538028000,
+      "end": 1538632800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
         "place_id": 1
       },
-      "priority": 300,
+      "priority": 200,
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 3
     },
     {
-      "cid": 4276,
+      "cid": 4203,
       "v_motionid": 0,
-      "bg": 6001,
-      "memo": "這就是獲得聖樹所賜予的希望",
+      "bg": 6005,
+      "memo": "開幕－－『沙之薔薇』！",
       "start": 1506924000,
-      "end": 1538028000,
+      "end": 1538632800,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 200,
+      "priority": 100,
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": 1
-    },
-    {
-      "cid": 4277,
-      "v_motionid": 0,
-      "bg": 6001,
-      "memo": "潔淨的一擊啊，擊破病魔吧！",
-      "start": 1519279200,
-      "end": 1538028000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1024,
-        "place_id": 0
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "cover",
-      "event_area_name": null
     },
     {
       "cid": 7015,
@@ -104,24 +86,6 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 2
-    },
-    {
-      "cid": 8149,
-      "v_motionid": 0,
-      "bg": 2001,
-      "memo": "消失吧！！",
-      "start": 1506924000,
-      "end": 1538028000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_1",
-      "event_area_name": 1
     }
   ],
   "vignette_motion": [

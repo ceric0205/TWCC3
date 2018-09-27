@@ -1,6 +1,5 @@
 ﻿{
-  "deceive": 1536832838,
-  "res": 0,
+  "deceive": 1538046029,
   "quest_tree": [
     {
       "area_id": 0,
@@ -2801,14 +2800,18 @@
       "hero_id": 4,
       "icon": 31,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        334241,
+        334242,
+        334243
+      ],
       "size": 0,
       "story": 6,
-      "summary": "瑟蕾斯蒂６－１的概要",
-      "timestamp": "1527474777000",
-      "title": "瑟蕾斯蒂６－１",
+      "summary": "察覺了王都的異常的精靈島上、森林精靈們就該如何應對而彼此交換意見討論著。在會議之中，赫利歐斯提出了想要一同前往王都的意願。",
+      "timestamp": "1538035040000",
+      "title": "王都救援",
       "treasure": 0,
-      "update_time": 20180531,
+      "update_time": 20180927,
       "x_hero_ary": [
         1,
         4
@@ -3276,6 +3279,85 @@
     {
       "area_id": 0,
       "boss": 0,
+      "cell": 32,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "gathering": 0,
+      "hero_id": 4,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        334251,
+        334252,
+        334253,
+        334254
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "一行人與赫利歐斯及琪可露等人一同出發前往聖王國。 途中瑟蕾斯蒂要求琪可露告訴她有關鐵煙大陸的往事， 就這樣度過了大戰前短暫的寧靜時光。",
+      "timestamp": "1537841068000",
+      "title": "前往黑煙密布的城鎮",
+      "treasure": 0,
+      "update_time": 20180927,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 33,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "gathering": 0,
+      "hero_id": 4,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        334261,
+        334262,
+        334263
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "瑟蕾斯蒂等人逐漸接近了王都， 並在途中碰上來自王都的避難民眾。 在從他們口中得知王都的現狀後，更加深了瑟蕾斯蒂等人的危機意識。",
+      "timestamp": "1537841068000",
+      "title": "在白色城鎮中",
+      "treasure": 0,
+      "update_time": 20180927,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 36,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "gathering": 0,
+      "hero_id": 4,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        334271,
+        334272,
+        334273,
+        334274,
+        334275,
+        334276
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "瑟蕾斯蒂等人終於攻入了王都， 出現在她們眼前的光景是……",
+      "timestamp": "1538035040000",
+      "title": "單純的願望",
+      "treasure": 0,
+      "update_time": 20180927,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
       "cell": 37,
       "destiny": 0,
       "develop_only": 0,
@@ -3288,11 +3370,39 @@
       "size": 0,
       "story": 7,
       "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
-      "timestamp": "1535963099000",
+      "timestamp": "1537841068000",
       "title": "英雄們的回歸",
       "treasure": 0,
       "update_time": 20180906,
-      "x_hero_ary": 0
+      "x_hero_ary": [
+        2,
+        4
+      ]
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 37,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "gathering": 0,
+      "hero_id": 4,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 7,
+      "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
+      "timestamp": "1537841068000",
+      "title": "英雄們的回歸",
+      "treasure": 0,
+      "update_time": 20180927,
+      "x_hero_ary": [
+        2,
+        4
+      ]
     }
-  ]
+  ],
+  "res": 0
 }
