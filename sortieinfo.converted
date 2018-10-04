@@ -1,9 +1,9 @@
 ﻿{
   "res": 0,
-  "device": 1538046048,
+  "device": 1538643646,
   "sortie_info": [
     {
-      "end_time": 1538323200,
+      "end_time": 1538323199,
       "reward_cid": 237,
       "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
       "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
@@ -288,8 +288,8 @@
               "sp_rate": 150
             },
             {
-              "sp_type": 4,
-              "sp_id": 3,
+              "sp_type": 3,
+              "sp_id": 4,
               "sp_rate": 150
             }
           ]

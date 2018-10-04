@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1538046023,
+  "res": 0,
+  "deceive": 1538643626,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +19,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 6203,
+      "cid": 248,
       "v_motionid": 0,
-      "bg": 6005,
-      "memo": "釜蓋朔日、給我當心了！！",
+      "bg": 2,
+      "memo": "殺了你！現在，就在這裡！",
       "start": 1506924000,
-      "end": 1538632800,
+      "end": 1539237600,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -32,16 +33,16 @@
       "priority": 200,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "event_1",
+      "v_category": "event_2",
       "event_area_name": 3
     },
     {
-      "cid": 4203,
+      "cid": 11216,
       "v_motionid": 0,
-      "bg": 6005,
-      "memo": "開幕－－『沙之薔薇』！",
+      "bg": 5281,
+      "memo": "不要緊，不要怕喔！",
       "start": 1506924000,
-      "end": 1538632800,
+      "end": 1539237600,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -222,6 +223,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }

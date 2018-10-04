@@ -1,6 +1,6 @@
 ﻿{
+  "deceive": 1538643641,
   "res": 0,
-  "deceive": 1536832854,
   "weaponlist": [
     {
       "id": 1,
@@ -18874,7 +18874,7 @@
     },
     {
       "id": 85542,
-      "name": "千客萬来",
+      "name": "千客萬來",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -20614,7 +20614,7 @@
     },
     {
       "id": 85668,
-      "name": "黃金的烏賊",
+      "name": "黃金烏賊",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -31871,7 +31871,7 @@
     {
       "evol_dst": 85542,
       "id": 85542,
-      "name": "千客萬来",
+      "name": "千客萬來",
       "profile": "錬金用武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -33080,7 +33080,7 @@
     {
       "evol_dst": 85668,
       "id": 85668,
-      "name": "黃金的烏賊",
+      "name": "黃金烏賊",
       "profile": "ケ者イベント報酬",
       "rank_limit": 2,
       "rarity": 5,
