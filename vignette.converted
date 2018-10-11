@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1538643626,
+  "deceive": 1539248384,
   "vignette": [
     {
       "cid": 7015,
@@ -19,12 +19,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 248,
+      "cid": 9222,
       "v_motionid": 0,
-      "bg": 2,
-      "memo": "殺了你！現在，就在這裡！",
+      "bg": 71,
+      "memo": "我好歹也是族長嘛",
       "start": 1506924000,
-      "end": 1539237600,
+      "end": 1540447200,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -37,12 +37,12 @@
       "event_area_name": 3
     },
     {
-      "cid": 11216,
+      "cid": 9220,
       "v_motionid": 0,
-      "bg": 5281,
-      "memo": "不要緊，不要怕喔！",
+      "bg": 71,
+      "memo": "必殺、貓騙！",
       "start": 1506924000,
-      "end": 1539237600,
+      "end": 1540447200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
