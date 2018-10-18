@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1539248384,
+  "deceive": 1539853225,
   "vignette": [
     {
       "cid": 7015,
@@ -17,6 +17,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "explorer"
+    },
+    {
+      "cid": 9221,
+      "v_motionid": 0,
+      "bg": 5281,
+      "memo": "該是我加油的時候了！",
+      "start": 1497506400,
+      "end": 1540447200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1025,
+        "place_id": 0
+      },
+      "priority": 550,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "mopup",
+      "event_area_name": null
     },
     {
       "cid": 9222,

@@ -1,4 +1,4 @@
-{
+﻿{
   "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
@@ -145,7 +145,47 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
+        "cover": {
+          "cover_id": 23,
+          "is_mop_up": true,
+          "name": "大狩獵戰「貓與兔的大奮鬥！」",
+          "area_id": 1025,
+          "dist_start": 1539842400,
+          "event_start": 1539842400,
+          "event_end": 1540447200,
+          "dist_end": 1540533600,
+          "bgm": "BGM_FIELD_MOPUP_01",
+          "point_list": {
+            "point1": {
+              "name": "山豬獠牙",
+              "icon": "Item_MopUp_03_A",
+              "target_enemy_id": "335374",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335375",
+              "rare_target_point_val": "70"
+            },
+            "point2": {
+              "name": "蝴蝶鱗粉",
+              "icon": "Item_MopUp_03_B",
+              "target_enemy_id": "335374",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335375",
+              "rare_target_point_val": "70"
+            }
+          },
+          "info_list": [
+            "Tutorial_MopUp_03_01",
+            "Tutorial_MopUp_03_02",
+            "Tutorial_MopUp_03_03",
+            "Tutorial_MopUp_03_04"
+          ],
+          "rush": {
+            "rate": 0.15,
+            "validcnt": 1,
+            "text": "目標大量出現！",
+            "bgm": 13
+          }
+        },
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -192,12 +232,12 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1538465416,
-    "vignette": 1539226291,
+    "vignette": 1539759016,
     "spdrama": 1535105810,
-    "gachainfo": 1539226547,
+    "gachainfo": 1539759971,
     "questtree": 1539228164,
     "eventareainfo": 1538965750,
-    "coverinfo": 1538992135,
+    "coverinfo": 1539760019,
     "towerinfo": 1535430721,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1538359282,
@@ -206,6 +246,6 @@
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1539268901
+    "servertime": 1539860887
   }
 }
