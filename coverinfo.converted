@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1539853249,
+  "deceive": 1540461408,
   "cover_info": [
     {
       "cover_id": 23,
@@ -19,12 +19,6 @@
           "skillid": 38000001,
           "pointid": 1
         }
-      ]
-    },
-    {
-      "cover_id": 2,
-      "start_quest": [
-        300203
       ]
     }
   ]

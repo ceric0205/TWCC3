@@ -1,6 +1,5 @@
 ﻿{
-  "res": 0,
-  "deceive": 1539853225,
+  "deceive": 1540461691,
   "vignette": [
     {
       "cid": 7015,
@@ -19,30 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 9221,
+      "cid": 268,
       "v_motionid": 0,
-      "bg": 5281,
-      "memo": "該是我加油的時候了！",
-      "start": 1497506400,
-      "end": 1540447200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1025,
-        "place_id": 0
-      },
-      "priority": 550,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "mopup",
-      "event_area_name": null
-    },
-    {
-      "cid": 9222,
-      "v_motionid": 0,
-      "bg": 71,
-      "memo": "我好歹也是族長嘛",
+      "bg": 6010,
+      "memo": "看不到看不到——",
       "start": 1506924000,
-      "end": 1540447200,
+      "end": 1541052000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -55,22 +36,22 @@
       "event_area_name": 3
     },
     {
-      "cid": 9220,
-      "v_motionid": 0,
-      "bg": 71,
-      "memo": "必殺、貓騙！",
-      "start": 1506924000,
-      "end": 1540447200,
-      "link": "unity:GoGacha",
+      "cid": 43,
+      "v_motionid": 2,
+      "bg": 5003,
+      "memo": "來，您的餐點到了！",
+      "start": 1540483200,
+      "end": 1541052000,
+      "link": "unity:GoSpecifiedArea",
       "param": {
-        "type": "event",
-        "gacha_id": 1
+        "area_id": 31,
+        "place_id": 15
       },
       "priority": 100,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": 1
+      "v_category": "totalwar",
+      "event_area_name": null
     },
     {
       "cid": 7015,
@@ -105,6 +86,24 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 2
+    },
+    {
+      "cid": 289,
+      "v_motionid": 0,
+      "bg": 6010,
+      "memo": "年輕的南瓜們啊！",
+      "start": 1507305600,
+      "end": 1541052000,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "story",
+        "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
     }
   ],
   "vignette_motion": [
@@ -241,5 +240,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }
