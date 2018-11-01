@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "device": 1540533535,
+  "device": 1541062721,
   "sortie_info": [
     {
       "end_time": 1538323199,
@@ -12,142 +12,6 @@
       "stamina": 5,
       "theme_list": [
         {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
-          "enemy_texture": 302003,
-          "bg": 136,
-          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 10,
-              "sp_rate": 150
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 150
-            }
-          ]
-        },
-        {
           "enemy_texture": 302007,
           "bg": 135,
           "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
@@ -262,6 +126,142 @@
             {
               "sp_type": 3,
               "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
               "sp_rate": 150
             }
           ]
@@ -443,6 +443,272 @@
             {
               "sp_type": 3,
               "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "end_time": 1543766400,
+      "reward_cid": 237,
+      "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
+      "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
+      "serif_normal": "對敵軍造成這種程度的損害應該足夠了！好了，一同慶祝勝利吧！！",
+      "serif_entry": "好了各位，準備上吧！讓我等取得勝利吧！",
+      "stamina": 5,
+      "theme_list": [
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302007,
+          "bg": 135,
+          "serif": "聖都和精靈島的夥伴們會較為活躍呢。\\n最前線可說是他們的一支獨秀場地喔",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 5,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 9,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 150
+            }
+          ]
+        },
+        {
+          "enemy_texture": 302003,
+          "bg": 136,
+          "serif": "九領和旅人很重要喔。 \\n 這次的戰鬥也倚賴他們的力量，\\n掌握住勝利吧",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 150
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
               "sp_rate": 150
             }
           ]

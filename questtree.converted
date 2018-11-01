@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1540533847,
+  "res": 0,
+  "deceive": 1541062709,
   "quest_tree": [
     {
       "area_id": 0,
@@ -3054,14 +3055,20 @@
       "hero_id": 5,
       "icon": 41,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        335231,
+        335232,
+        335233,
+        335234,
+        335235
+      ],
       "size": 0,
       "story": 6,
-      "summary": "天津６－１的概要",
-      "timestamp": "1532939885000",
-      "title": "天津６－１",
+      "summary": "跟奧信一起打倒第四領主明月的天津一行人。但主要目標的白銀卻往光柱的所在而去。而同一時間，修札率領著第一領的軍隊正準備向第四領進攻……",
+      "timestamp": "1540459819000",
+      "title": "動亂",
       "treasure": 0,
-      "update_time": 20180614,
+      "update_time": 20181101,
       "x_hero_ary": 0
     },
     {
@@ -3356,6 +3363,85 @@
       "x_hero_ary": 0
     },
     {
+      "area_id": 4,
+      "boss": 0,
+      "cell": 32,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "gathering": 0,
+      "hero_id": 5,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        335241,
+        335242,
+        335243,
+        335244,
+        335245
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "奧信代替明月迎戰修札的大軍， 這時鶴及義景等人也及時介入，領主們的權術鬥爭就此開始。",
+      "timestamp": "1540459819000",
+      "title": "進攻",
+      "treasure": 0,
+      "update_time": 20181101,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 35,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "gathering": 0,
+      "hero_id": 5,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        335251,
+        335252,
+        335253,
+        335254
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "天津再次來到了聖王國，並發現光柱乃是圍繞著王都出現。 為了找尋白銀的行蹤而進入光柱的天津等人所看到的是？",
+      "timestamp": "1540459819000",
+      "title": "光芒",
+      "treasure": 0,
+      "update_time": 20181101,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 36,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "gathering": 0,
+      "hero_id": 5,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        335261,
+        335262,
+        335263,
+        335264
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "光柱的內側已化為異界，整個王都幾乎已失去原貌。 而天津等人雖然在此與白銀對峙，可是卻……",
+      "timestamp": "1540459819000",
+      "title": "白堊",
+      "treasure": 0,
+      "update_time": 20181101,
+      "x_hero_ary": 0
+    },
+    {
       "area_id": 0,
       "boss": 0,
       "cell": 37,
@@ -3376,7 +3462,8 @@
       "update_time": 20180906,
       "x_hero_ary": [
         2,
-        4
+        4,
+        5
       ]
     },
     {
@@ -3400,9 +3487,34 @@
       "update_time": 20180927,
       "x_hero_ary": [
         2,
-        4
+        4,
+        5
+      ]
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 37,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "gathering": 0,
+      "hero_id": 5,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 7,
+      "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
+      "timestamp": "1540460364000",
+      "title": "英雄們的回歸",
+      "treasure": 0,
+      "update_time": 20181101,
+      "x_hero_ary": [
+        2,
+        4,
+        5
       ]
     }
-  ],
-  "res": 0
+  ]
 }

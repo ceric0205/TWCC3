@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1540533505,
+  "deceive": 1541062698,
   "vignette": [
     {
       "cid": 7015,
@@ -19,12 +19,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 268,
+      "cid": 9216,
       "v_motionid": 0,
-      "bg": 6010,
-      "memo": "看不到看不到——",
+      "bg": 5271,
+      "memo": "哇喔～～～～",
       "start": 1506924000,
-      "end": 1541052000,
+      "end": 1541656800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -35,24 +35,6 @@
       "max_rank": 250,
       "v_category": "event_2",
       "event_area_name": 3
-    },
-    {
-      "cid": 43,
-      "v_motionid": 2,
-      "bg": 5003,
-      "memo": "來，您的餐點到了！",
-      "start": 1540483200,
-      "end": 1541052000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 31,
-        "place_id": 15
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "totalwar",
-      "event_area_name": null
     },
     {
       "cid": 7015,
@@ -89,15 +71,15 @@
       "event_area_name": 2
     },
     {
-      "cid": 289,
+      "cid": 5275,
       "v_motionid": 0,
-      "bg": 6010,
-      "memo": "年輕的南瓜們啊！",
-      "start": 1507305600,
-      "end": 1541052000,
+      "bg": 5231,
+      "memo": "讓我們一起面對吧！",
+      "start": 1497506400,
+      "end": 1541656800,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
+        "type": "legend",
         "gacha_id": 1
       },
       "priority": 0,
