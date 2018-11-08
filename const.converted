@@ -1,5 +1,4 @@
 {
-  "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -135,6 +134,7 @@
   ],
   "sortie_new_commer_limit": 4,
   "uzu_majin_debuf_offtime": 1922194800,
+  "res": 0,
   "body": [
     {
       "type": 14,
@@ -147,25 +147,7 @@
         },
         "cover": null,
         "raid": null,
-        "totalwar": {
-          "totalwar_id": 25,
-          "event_start": 1540483200,
-          "close": 1541088000,
-          "event_end": 1541088000,
-          "token_cnt_per_request": 100,
-          "banner_image": "181025_souryokusen_top",
-          "special_reward_icon": "181025_special_reward_icon",
-          "start_cnt": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "close_interval": 10,
-          "first_border_ap": 10,
-          "event_days": 8,
-          "rest_border_ap": 30
-        },
+        "totalwar": null,
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -181,21 +163,21 @@
     }
   ],
   "mVer": {
-    "charainfo": 1540788046,
-    "weaponlist": 1538537596,
-    "skilllist": 1540788046,
+    "charainfo": 1541477006,
+    "weaponlist": 1541477004,
+    "skilllist": 1541477006,
     "worldinfo": 1534329274,
     "episodeinfo": 1531709287,
-    "questdigest": 1541046468,
+    "questdigest": 1541581247,
     "itemlist": 1526610327,
     "booklist": 1540363480,
     "motionlist": 1521539936,
     "missionlist": 1537841844,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1540788042,
+    "bossinfo": 1541477002,
     "battleinfo": 1526610326,
     "homelist": 1533104774,
-    "supporterskill": 1539937052,
+    "supporterskill": 1541477004,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
@@ -210,12 +192,12 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1538465416,
-    "vignette": 1541045985,
+    "vignette": 1541643778,
     "spdrama": 1535105810,
-    "gachainfo": 1540887710,
+    "gachainfo": 1541491200,
     "questtree": 1540460365,
-    "eventareainfo": 1540974328,
-    "coverinfo": 1540460365,
+    "eventareainfo": 1541470607,
+    "coverinfo": 1541470494,
     "towerinfo": 1540456338,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1540971408,
@@ -224,6 +206,6 @@
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1541074372
+    "servertime": 1541679839
   }
 }

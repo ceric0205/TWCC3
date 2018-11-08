@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1540533523,
+  "deceive": 1541667484,
   "weaponlist": [
     {
       "id": 1,
@@ -20869,7 +20869,7 @@
     },
     {
       "id": 85689,
-      "name": "御刀?鳳雛",
+      "name": "御刀・鳳雛",
       "type_atk": 1,
       "attackMax": 11,
       "type_cri": 2,
@@ -20884,7 +20884,7 @@
     },
     {
       "id": 85690,
-      "name": "獄刀?骨?",
+      "name": "獄刀・骨噬",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,

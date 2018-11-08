@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1540533531,
+  "deceive": 1541667490,
   "supporterskill": [
     {
       "ability_id": 2,
@@ -1292,7 +1292,7 @@
       "abi1": 0,
       "abi2": 0,
       "abi3": 0,
-      "text": "◆每次WAVE推進時，回復自身HP。"
+      "text": "◆每前進至下一WAVE時，恢復自身HP。"
     },
     {
       "ability_id": 6264,
