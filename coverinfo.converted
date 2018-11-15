@@ -1,5 +1,22 @@
 {
   "res": 0,
-  "deceive": 1541667501,
-  "cover_info": []
+  "deceive": 1542272322,
+  "cover_info": [
+    {
+      "cover_id": 24,
+      "start_quest": [
+        302101
+      ],
+      "sp_cards": [
+        {
+          "cid": "6204",
+          "pointid": 0
+        },
+        {
+          "cid": "6259",
+          "pointid": 0
+        }
+      ]
+    }
+  ]
 }
