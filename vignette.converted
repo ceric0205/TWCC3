@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1542272292,
+  "deceive": 1542880997,
   "vignette": [
     {
       "cid": 7015,
@@ -19,39 +19,39 @@
       "v_category": "explorer"
     },
     {
-      "cid": 6259,
+      "cid": 2063,
+      "v_motionid": 2,
+      "bg": 5003,
+      "memo": "正義的制裁！",
+      "start": 1542902400,
+      "end": 1545321600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 31,
+        "place_id": 15
+      },
+      "priority": 200,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "totalwar",
+      "event_area_name": null
+    },
+    {
+      "cid": 2063,
       "v_motionid": 0,
-      "bg": 41,
-      "memo": "我要排除掉你",
+      "bg": 11,
+      "memo": "迪馬哈爾・瑪丹利卡・夫蘭達",
       "start": 1506924000,
-      "end": 1542866400,
+      "end": 1543471200,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
         "place_id": 1
       },
-      "priority": 200,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_2",
-      "event_area_name": 3
-    },
-    {
-      "cid": 6204,
-      "v_motionid": 0,
-      "bg": 41,
-      "memo": "愛叫就叫個夠吧！",
-      "start": 1506924000,
-      "end": 1542866400,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
       "priority": 100,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "gacha",
+      "v_category": "event_2",
       "event_area_name": 1
     },
     {
@@ -89,21 +89,21 @@
       "event_area_name": 2
     },
     {
-      "cid": 6294,
+      "cid": 9201,
       "v_motionid": 0,
-      "bg": 41,
-      "memo": "妖氣全開啦——！",
-      "start": 1519279200,
-      "end": 1542866400,
-      "link": "unity:GoSpecifiedArea",
+      "bg": 2,
+      "memo": " 閃閃亮亮☆",
+      "start": 1507305600,
+      "end": 1543471200,
+      "link": "unity:GoGacha",
       "param": {
-        "area_id": 1026,
-        "place_id": 0
+        "type": "story",
+        "gacha_id": 1
       },
       "priority": 0,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "cover",
+      "v_category": "gacha",
       "event_area_name": null
     }
   ],

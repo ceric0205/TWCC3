@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1541667490,
+  "deceive": 1542881021,
   "supporterskill": [
     {
       "ability_id": 2,
@@ -2380,7 +2380,7 @@
       "abi1": 0,
       "abi2": 0,
       "abi3": 0,
-      "text": "◆戰鬥中所獲得的金幣增加。"
+      "text": "◆戰鬥後獲得的金幣增加。"
     },
     {
       "ability_id": 9214,

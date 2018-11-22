@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1541062709,
+  "deceive": 1542881002,
   "quest_tree": [
     {
       "area_id": 0,
@@ -2955,14 +2955,20 @@
       "hero_id": 3,
       "icon": 21,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        333291,
+        333292,
+        333293,
+        333294,
+        333295
+      ],
       "size": 0,
       "story": 6,
-      "summary": "艾夏露６－１的概要",
-      "timestamp": "1527758944000",
-      "title": "艾夏露６－１",
+      "summary": "『沙之薔薇』為了尋求找回艾夏露失去的記憶的方法。找到了擅長心療魔法的瑪魯魯絲醫生，請她來幫艾夏露診斷……。",
+      "timestamp": "1542873992000",
+      "title": "新的旅程",
       "treasure": 0,
-      "update_time": 20180607,
+      "update_time": 20181122,
       "x_hero_ary": 0
     },
     {
@@ -3442,6 +3448,113 @@
       "x_hero_ary": 0
     },
     {
+      "area_id": 1,
+      "boss": 0,
+      "cell": 32,
+      "destiny": 1,
+      "develop_only": 0,
+      "episode": 2,
+      "gathering": 0,
+      "hero_id": 3,
+      "icon": 11,
+      "pub": 0,
+      "quest_ary": [
+        333301,
+        333302,
+        333303,
+        333304
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "艾夏露為了取回記憶而來到了賢者之塔，並與過去在湖都留下羈絆的好友再次重逢。 她能否在此找到取回記憶的線索呢……",
+      "timestamp": "1542269650000",
+      "title": "瑪魯魯絲的診所",
+      "treasure": 0,
+      "update_time": 20181122,
+      "x_hero_ary": [
+        2,
+        3
+      ]
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 34,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "gathering": 0,
+      "hero_id": 3,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        333311,
+        333312,
+        333313,
+        333314,
+        333315
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "艾夏露在透過瑪魯魯絲的魔法得知喪失記憶的原因與白之異形及光柱有關後，雖然向『沙之薔薇』的同伴們表示想前往被光柱包圍的王都，可是卻…… ",
+      "timestamp": "1542269650000",
+      "title": "尋找記憶之旅",
+      "treasure": 0,
+      "update_time": 20181122,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 35,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "gathering": 0,
+      "hero_id": 3,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        333321,
+        333322,
+        333323,
+        333324
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "『沙之薔薇』一行人在抵達被光柱包圍的王都後，在陷入絕境的王都大劇場內舉行了特別公演。 艾夏露在重新回到舞台上以後，是否能取得什麼收穫呢。",
+      "timestamp": "1542269650000",
+      "title": "不會是孤單一人",
+      "treasure": 0,
+      "update_time": 20181122,
+      "x_hero_ary": 0
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 36,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 5,
+      "gathering": 0,
+      "hero_id": 3,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": [
+        333331,
+        333332,
+        333333
+      ],
+      "size": 0,
+      "story": 6,
+      "summary": "艾夏露被突然出現的白光淹沒，並從舞台上憑空消失。 剩下的『沙之薔薇』成員們一面等待艾夏露歸來，一面努力讓公演繼續下去。",
+      "timestamp": "1542269650000",
+      "title": "白之世界",
+      "treasure": 0,
+      "update_time": 20181122,
+      "x_hero_ary": 0
+    },
+    {
       "area_id": 0,
       "boss": 0,
       "cell": 37,
@@ -3456,12 +3569,13 @@
       "size": 0,
       "story": 7,
       "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
-      "timestamp": "1537841068000",
+      "timestamp": "1542269650000",
       "title": "英雄們的回歸",
       "treasure": 0,
       "update_time": 20180906,
       "x_hero_ary": [
         2,
+        3,
         4,
         5
       ]
@@ -3481,12 +3595,13 @@
       "size": 0,
       "story": 7,
       "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
-      "timestamp": "1537841068000",
+      "timestamp": "1542269650000",
       "title": "英雄們的回歸",
       "treasure": 0,
       "update_time": 20180927,
       "x_hero_ary": [
         2,
+        3,
         4,
         5
       ]
@@ -3506,12 +3621,39 @@
       "size": 0,
       "story": 7,
       "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
-      "timestamp": "1540460364000",
+      "timestamp": "1542269650000",
       "title": "英雄們的回歸",
       "treasure": 0,
       "update_time": 20181101,
       "x_hero_ary": [
         2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "area_id": 0,
+      "boss": 0,
+      "cell": 37,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "gathering": 0,
+      "hero_id": 3,
+      "icon": 1,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 7,
+      "summary": "王都已完全被染為純白色， 而在這千鈞一髮之際，傳說的義勇軍終於趕到了。 在絕望的赫利歐斯等人面前，英雄們讓他們看到的一線光明是……",
+      "timestamp": "1542879383000",
+      "title": "英雄們的回歸",
+      "treasure": 0,
+      "update_time": 20181101,
+      "x_hero_ary": [
+        2,
+        3,
         4,
         5
       ]
