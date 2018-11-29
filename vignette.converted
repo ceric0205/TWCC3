@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1542880997,
+  "deceive": 1543481867,
   "vignette": [
     {
       "cid": 7015,
@@ -37,24 +37,6 @@
       "event_area_name": null
     },
     {
-      "cid": 2063,
-      "v_motionid": 0,
-      "bg": 11,
-      "memo": "迪馬哈爾・瑪丹利卡・夫蘭達",
-      "start": 1506924000,
-      "end": 1543471200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_2",
-      "event_area_name": 1
-    },
-    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -69,6 +51,24 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "favorite"
+    },
+    {
+      "cid": 202,
+      "v_motionid": 2,
+      "bg": 2,
+      "memo": "無論如何……都不要死啊！",
+      "start": 1506924000,
+      "end": 1544076000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_2",
+      "event_area_name": 3
     },
     {
       "cid": 3,
@@ -89,22 +89,22 @@
       "event_area_name": 2
     },
     {
-      "cid": 9201,
+      "cid": 201,
       "v_motionid": 0,
       "bg": 2,
-      "memo": " 閃閃亮亮☆",
-      "start": 1507305600,
-      "end": 1543471200,
+      "memo": "把未來交出來吧！",
+      "start": 1506924000,
+      "end": 1544076000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 0,
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "gacha",
-      "event_area_name": null
+      "event_area_name": 1
     }
   ],
   "vignette_motion": [
