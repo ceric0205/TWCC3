@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1541667484,
+  "deceive": 1544087302,
   "weaponlist": [
     {
       "id": 1,
@@ -20809,7 +20809,7 @@
     },
     {
       "id": 85685,
-      "name": "一千三百萬之拳",
+      "name": "一千三百萬之弓",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -33223,7 +33223,7 @@
     {
       "evol_dst": 85685,
       "id": 85685,
-      "name": "一千三百萬之拳",
+      "name": "一千三百萬之弓",
       "profile": "イベント武器",
       "rank_limit": 2,
       "rarity": 5,
