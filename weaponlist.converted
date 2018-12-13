@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1544087302,
+  "deceive": 1544693619,
   "weaponlist": [
     {
       "id": 1,
@@ -20719,7 +20719,7 @@
     },
     {
       "id": 85679,
-      "name": "五連光弓",
+      "name": "特拉維斯卡爾",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -20749,7 +20749,7 @@
     },
     {
       "id": 85681,
-      "name": "陽光的封弓",
+      "name": "陽光之封弓",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -20779,7 +20779,7 @@
     },
     {
       "id": 85683,
-      "name": "暗影之錘",
+      "name": "伊魯利萊姆",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -21034,7 +21034,7 @@
     },
     {
       "id": 85703,
-      "name": "大的烤糯米丸子",
+      "name": "大的烤糯米糰子",
       "type_atk": 1,
       "attackMax": 7,
       "type_cri": 2,
@@ -33158,7 +33158,7 @@
     {
       "evol_dst": 85679,
       "id": 85679,
-      "name": "五連光弓",
+      "name": "特拉維斯卡爾",
       "profile": "スカクリル初期用",
       "rank_limit": 2,
       "rarity": 4,
@@ -33171,7 +33171,7 @@
     {
       "evol_dst": 85681,
       "id": 85681,
-      "name": "陽光的封弓",
+      "name": "陽光之封弓",
       "profile": "スカクリル初期武器色替え渦武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -33197,7 +33197,7 @@
     {
       "evol_dst": 85683,
       "id": 85683,
-      "name": "暗影之錘",
+      "name": "伊魯利萊姆",
       "profile": "チャンディラム初期武器",
       "rank_limit": 2,
       "rarity": 4,
@@ -33314,7 +33314,7 @@
     {
       "evol_dst": 85703,
       "id": 85703,
-      "name": "大的烤糯米丸子",
+      "name": "大的烤糯米糰子",
       "profile": "2018桜フェス　配布報酬",
       "rank_limit": 2,
       "rarity": 4,
@@ -33340,7 +33340,7 @@
     {
       "evol_dst": 85706,
       "id": 85706,
-      "name": "桜の飾り弓",
+      "name": "櫻之裝飾弓",
       "profile": "2018桜フェス　配布報酬、モデル流用",
       "rank_limit": 2,
       "rarity": 4,

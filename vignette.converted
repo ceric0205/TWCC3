@@ -1,6 +1,6 @@
 ﻿{
+  "deceive": 1544693611,
   "res": 0,
-  "deceive": 1544087294,
   "vignette": [
     {
       "cid": 7015,
@@ -53,12 +53,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 12222,
+      "cid": 7595,
       "v_motionid": 0,
-      "bg": 101,
-      "memo": "這個鋼鐵的心中也有我的信念！",
+      "bg": 5100,
+      "memo": "結束光芒，讓黑暗降臨！",
       "start": 1506924000,
-      "end": 1544680800,
+      "end": 1545890400,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -89,12 +89,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 1268,
+      "cid": 7594,
       "v_motionid": 0,
-      "bg": 3,
-      "memo": "喝啊啊啊啊啊啊啊！！",
+      "bg": 5100,
+      "memo": "居然會有被染黑的光芒！",
       "start": 1506924000,
-      "end": 1544680800,
+      "end": 1545890400,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
