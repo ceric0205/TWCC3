@@ -1,4 +1,4 @@
-{
+﻿{
   "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
@@ -146,12 +146,53 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
+        "raid": {
+          "raid_id": 31,
+          "bg": 2000,
+          "event_start": 1517968800,
+          "event_end": 1545890400,
+          "close": 1545890400,
+          "name": "史卡庫莉兒來襲",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "7594",
+              "skill_id": "30058",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 0.85,
+                "limit_break_2": 1.2,
+                "limit_break_3": 1.55,
+                "limit_break_4": 1.9
+              }
+            },
+            {
+              "cid": "7595",
+              "skill_id": "30058",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 0.85,
+                "limit_break_2": 1.2,
+                "limit_break_3": 1.55,
+                "limit_break_4": 1.9
+              }
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false
+        },
         "totalwar": {
-          "totalwar_id": 7,
-          "event_start": 1544112000,
-          "close": 1544716799,
-          "event_end": 1544716799,
+          "totalwar_id": 8,
+          "event_start": 1544716800,
+          "close": 1545321599,
+          "event_end": 1545321599,
           "token_cnt_per_request": 100,
           "banner_image": "181122_souryokusen_top",
           "special_reward_icon": "181122_special_reward_icon",
@@ -181,12 +222,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1544433990,
-    "weaponlist": 1544685366,
-    "skilllist": 1544685368,
+    "charainfo": 1545203241,
+    "weaponlist": 1545020982,
+    "skilllist": 1545277623,
     "worldinfo": 1534329274,
     "episodeinfo": 1531709287,
-    "questdigest": 1544685373,
+    "questdigest": 1545277628,
     "itemlist": 1526610327,
     "booklist": 1542782422,
     "motionlist": 1521539936,
@@ -199,7 +240,7 @@
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
-    "weaponcompose": 1538536893,
+    "weaponcompose": 1545117683,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
     "various": 1543893829,
@@ -210,11 +251,11 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1538465416,
-    "vignette": 1544676346,
+    "vignette": 1545273867,
     "spdrama": 1535105810,
-    "gachainfo": 1544692756,
+    "gachainfo": 1545121361,
     "questtree": 1543480867,
-    "eventareainfo": 1544088815,
+    "eventareainfo": 1545116599,
     "coverinfo": 1542256943,
     "towerinfo": 1543373089,
     "chropowerinfo": 1531709280,
@@ -224,6 +265,6 @@
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1544715335
+    "servertime": 1545311586
   }
 }
