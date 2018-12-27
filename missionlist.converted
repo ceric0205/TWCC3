@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1544087293,
+  "deceive": 1545902302,
   "missionlist": [
     {
       "id": 1,
@@ -6017,6 +6017,258 @@
         "val": "10000"
       },
       "help": "還是有失敗的時候呢…"
+    },
+    {
+      "id": 1637,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252107
+      ],
+      "title": "擊倒50名黑之軍團吧！",
+      "sub_id": "Hunt 001",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵骷髏＆黑之軍團！」中\\n擊倒50名黑之軍團吧！"
+    },
+    {
+      "id": 1638,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252108
+      ],
+      "title": "擊倒50隻野獸吧！",
+      "sub_id": "Hunt 002",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵哥布林＆野獸！」中\\n擊倒50隻野獸吧！"
+    },
+    {
+      "id": 1639,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252109
+      ],
+      "title": "擊倒50名惡棍吧！",
+      "sub_id": "Hunt 003",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵惡棍！」中\\n擊倒50名惡棍吧！"
+    },
+    {
+      "id": 1640,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252110
+      ],
+      "title": "擊倒50隻幽靈吧！",
+      "sub_id": "Hunt 004",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵魔法生物＆幽靈！」中\\n擊倒50隻幽靈吧！"
+    },
+    {
+      "id": 1641,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252121
+      ],
+      "title": "擊倒50隻樹妖吧！",
+      "sub_id": "Hunt 005",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵鬼＆樹妖！」中\\n擊倒50隻樹妖吧！"
+    },
+    {
+      "id": 1642,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252111
+      ],
+      "title": "擊倒10隻龍吧！",
+      "sub_id": "Hunt 006",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵龍＆蜥蜴人！」中\\n擊倒10隻龍吧！"
+    },
+    {
+      "id": 1643,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252112
+      ],
+      "title": "擊倒40隻魚人吧！",
+      "sub_id": "Hunt 007",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵海洋生物！」中\\n擊倒40隻魚人吧！"
+    },
+    {
+      "id": 1644,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252113
+      ],
+      "title": "擊倒10隻巨人吧！",
+      "sub_id": "Hunt 008",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵魔像＆巨人！」中\\n擊倒10隻巨人吧！"
+    },
+    {
+      "id": 1645,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252114
+      ],
+      "title": "擊倒50隻山豬吧！",
+      "sub_id": "Hunt 009",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵山豬！」中\\n擊倒50隻山豬吧！"
+    },
+    {
+      "id": 1646,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252115
+      ],
+      "title": "擊倒40隻巨大昆蟲吧！",
+      "sub_id": "Hunt 010",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵巨大昆蟲！」中\\n擊倒40隻巨大昆蟲吧！"
+    },
+    {
+      "id": 1647,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252117
+      ],
+      "title": "擊倒30隻地獄犬吧！",
+      "sub_id": "Hunt 011",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵地獄犬！」中\\n擊倒30隻地獄犬吧！"
+    },
+    {
+      "id": 1648,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252116
+      ],
+      "title": "擊倒40隻吸血蝙蝠吧！",
+      "sub_id": "Hunt 012",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵吸血蝙蝠！」中\\n擊倒40隻吸血蝙蝠吧！"
+    },
+    {
+      "id": 1649,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252118
+      ],
+      "title": "擊倒40隻刀頭鳥吧！",
+      "sub_id": "Hunt 013",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵刀頭鳥！」中\\n擊倒40隻刀頭鳥吧！"
+    },
+    {
+      "id": 1650,
+      "type": 1,
+      "start_time": 1517292000,
+      "end_time": 1546581600,
+      "quest_id": [
+        252119
+      ],
+      "title": "擊倒30隻魔性蛙吧！",
+      "sub_id": "Hunt 014",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "在任務「狩獵魔性蛙！」中\\n擊倒30隻魔性蛙吧！"
     },
     {
       "id": 1661,

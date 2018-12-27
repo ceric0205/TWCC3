@@ -1,6 +1,6 @@
 ﻿{
+  "deceive": 1545902302,
   "res": 0,
-  "deceive": 1540533508,
   "episodeinfo": [
     {
       "type": 2,
@@ -18799,6 +18799,45 @@
           "name": "命運物語",
           "quest": [
             89071
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8908,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            89081
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8909,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            89091
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8910,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            89101
           ]
         }
       ],

@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1545296424,
+  "deceive": 1545902299,
   "vignette": [
     {
       "cid": 7015,
@@ -19,42 +19,6 @@
       "v_category": "explorer"
     },
     {
-      "cid": 7593,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "好！照亮吧！",
-      "start": 1506924000,
-      "end": 1545890400,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 300,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
-    },
-    {
-      "cid": 2063,
-      "v_motionid": 2,
-      "bg": 5003,
-      "memo": "正義的制裁！",
-      "start": 1542902400,
-      "end": 1545321600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 31,
-        "place_id": 15
-      },
-      "priority": 200,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "totalwar",
-      "event_area_name": null
-    },
-    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -71,12 +35,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7595,
+      "cid": 8910,
       "v_motionid": 0,
       "bg": 5100,
-      "memo": "結束光芒，讓黑暗降臨！",
+      "memo": "是你的話，我一定全力相助。",
       "start": 1506924000,
-      "end": 1545890400,
+      "end": 1547100000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -107,12 +71,12 @@
       "event_area_name": 2
     },
     {
-      "cid": 7594,
+      "cid": 8908,
       "v_motionid": 0,
       "bg": 5100,
-      "memo": "居然會有被染黑的光芒！",
+      "memo": "大野狼Kick！",
       "start": 1506924000,
-      "end": 1545890400,
+      "end": 1547100000,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",

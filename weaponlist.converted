@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1545296421,
+  "deceive": 1545902294,
   "weaponlist": [
     {
       "id": 1,
@@ -23986,6 +23986,96 @@
       "skill": 0,
       "type": 6,
       "equip_type": 5
+    },
+    {
+      "id": 95869,
+      "name": "風爪狼拳",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 6,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95869_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95870,
+      "name": "風爪狼拳（左）",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 6,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95870_body",
+      "rank": 1,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95871,
+      "name": "星爆烈魔",
+      "type_atk": 1,
+      "attackMax": 10,
+      "type_cri": 2,
+      "criticalMax": 14,
+      "type_grd": 3,
+      "guardMax": 6,
+      "model": "weapon95871_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 4,
+      "equip_type": 5
+    },
+    {
+      "id": 95872,
+      "name": "稻穗之母",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 6,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95872_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 5,
+      "equip_type": 5
+    },
+    {
+      "id": 95873,
+      "name": "StarLightStrikeBuster",
+      "type_atk": 1,
+      "attackMax": 10,
+      "type_cri": 2,
+      "criticalMax": 14,
+      "type_grd": 3,
+      "guardMax": 6,
+      "model": "weapon95871_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 4,
+      "equip_type": 5
+    },
+    {
+      "id": 95874,
+      "name": "萌米",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 6,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95872_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 5,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -37675,6 +37765,45 @@
       "usable": [
         8045
       ]
+    },
+    {
+      "evol_dst": 95869,
+      "id": 95869,
+      "name": "風爪狼拳",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95871,
+      "id": 95871,
+      "name": "星爆烈魔",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95872,
+      "id": 95872,
+      "name": "稻穗之母",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
     }
   ],
   "reinforce": [

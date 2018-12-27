@@ -1,6 +1,6 @@
 ﻿{
+  "deceive": 1545902307,
   "res": 0,
-  "deceive": 1542881021,
   "supporterskill": [
     {
       "ability_id": 2,
@@ -21523,6 +21523,57 @@
       "abi2": 0,
       "abi3": 0,
       "text": "戰鬥時攻擊力上升。\\n◆戰鬥後敵人掉落寶箱的機率上升。"
+    },
+    {
+      "ability_id": 8908,
+      "name": "東港三寶",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 101002,
+      "abi1": 101015,
+      "abi2": 107503,
+      "abi3": 0,
+      "text": "◆攻擊力和移動速度上升。\\n◆暴擊威力上升。"
+    },
+    {
+      "ability_id": 8909,
+      "name": "給我更多的爆炸！",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 110001,
+      "abi1": 108001,
+      "abi2": 0,
+      "abi3": 0,
+      "text": "◆不會陷入黑暗狀態。\\n◆暴擊發生率上升。"
+    },
+    {
+      "ability_id": 8910,
+      "name": "白米嫁之力",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 113001,
+      "abi1": 0,
+      "abi2": 0,
+      "abi3": 0,
+      "text": "◆每前進至下一WAVE時，恢復我方全體HP。"
     }
   ]
 }

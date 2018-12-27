@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1545296462,
+  "deceive": 1545902331,
   "tower": [
     {
       "tower_id": 1,
@@ -749,6 +749,109 @@
         {
           "floor": "5",
           "floor_id": 10
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 200
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 300
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 400
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 500
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 750
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 1500
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "item",
+          "id": 39,
+          "val": 1,
+          "border": 5000
+        }
+      ]
+    },
+    {
+      "tower_id": 9,
+      "start": 1546315200,
+      "end": 1548993600,
+      "free": 1546315200,
+      "close": 1546920000,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 11
+        },
+        {
+          "floor": "2",
+          "floor_id": 12
+        },
+        {
+          "floor": "3",
+          "floor_id": 13
+        },
+        {
+          "floor": "4",
+          "floor_id": 14
+        },
+        {
+          "floor": "5",
+          "floor_id": 15
         }
       ],
       "reward_list": [
