@@ -1,38 +1,24 @@
 ﻿{
   "res": 0,
-  "deceive": 1545902299,
+  "deceive": 1546505953,
   "vignette": [
     {
-      "cid": 7015,
+      "cid": 8909,
       "v_motionid": 0,
-      "bg": 5010,
-      "memo": "探索終了！",
-      "start": 1479394800,
-      "end": 1546271999,
-      "link": "event_web",
+      "bg": 5100,
+      "memo": "接招吧，真‧亞龍多斯滅邪斬！",
+      "start": 1506924000,
+      "end": 1547100000,
+      "link": "unity:GoSpecifiedArea",
       "param": {
-        "url": ""
+        "area_id": 36,
+        "place_id": 1
       },
-      "priority": 1000,
+      "priority": 300,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "explorer"
-    },
-    {
-      "cid": 7015,
-      "v_motionid": 0,
-      "bg": 2002,
-      "memo": "",
-      "start": 1489021200,
-      "end": 1546271999,
-      "link": "event_web",
-      "param": {
-        "url": ""
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "favorite"
+      "v_category": "raid",
+      "event_area_name": 1
     },
     {
       "cid": 8910,
@@ -51,24 +37,6 @@
       "max_rank": 250,
       "v_category": "event_2",
       "event_area_name": 1
-    },
-    {
-      "cid": 3,
-      "v_motionid": 0,
-      "bg": 2003,
-      "memo": "每日任務是鍛鍊隊伍的好機會！",
-      "start": 1481763600,
-      "end": 1546271999,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_1",
-      "event_area_name": 2
     },
     {
       "cid": 8908,

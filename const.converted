@@ -147,18 +147,18 @@
         },
         "cover": null,
         "raid": {
-          "raid_id": 31,
+          "raid_id": 120,
           "bg": 2000,
-          "event_start": 1517968800,
-          "event_end": 1545976800,
-          "close": 1545890400,
-          "name": "史卡庫莉兒來襲",
+          "event_start": 1513749600,
+          "event_end": 1547186400,
+          "close": 1547100000,
+          "name": "真紅穗姬來襲",
           "full_time": 130,
           "part_time": 90,
           "sp_cards": [
             {
-              "cid": "7594",
-              "skill_id": "30058",
+              "cid": "8908",
+              "skill_id": "30890907",
               "lb_coin_rate_map": {
                 "limit_break_0": 0.5,
                 "limit_break_1": 0.85,
@@ -168,8 +168,8 @@
               }
             },
             {
-              "cid": "7595",
-              "skill_id": "30058",
+              "cid": "8910",
+              "skill_id": "30890907",
               "lb_coin_rate_map": {
                 "limit_break_0": 0.5,
                 "limit_break_1": 0.85,
@@ -209,7 +209,7 @@
     "skilllist": 1545642458,
     "worldinfo": 1534329274,
     "episodeinfo": 1545356815,
-    "questdigest": 1545892158,
+    "questdigest": 1546489485,
     "itemlist": 1526610327,
     "booklist": 1542782422,
     "motionlist": 1521539936,
@@ -233,11 +233,11 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1538465416,
-    "vignette": 1545809675,
+    "vignette": 1546415477,
     "spdrama": 1535105810,
-    "gachainfo": 1545706655,
+    "gachainfo": 1546487194,
     "questtree": 1543480867,
-    "eventareainfo": 1545791893,
+    "eventareainfo": 1546399966,
     "coverinfo": 1542256943,
     "towerinfo": 1545712683,
     "chropowerinfo": 1531709280,
@@ -247,6 +247,6 @@
     "heroicskilllist": 1526610326,
     "soundExData": 1,
     "reload": 1500271199,
-    "servertime": 1545907477
+    "servertime": 1546512100
   }
 }
