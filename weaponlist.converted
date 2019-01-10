@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1545902294,
+  "deceive": 1547110693,
   "weaponlist": [
     {
       "id": 1,
@@ -20824,7 +20824,7 @@
     },
     {
       "id": 85686,
-      "name": "Sword?Of?巧克力師",
+      "name": "巧克力大師之劍",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -20839,7 +20839,7 @@
     },
     {
       "id": 85687,
-      "name": "可可亞甜點?雷爵",
+      "name": "可可亞甜點・雷爵",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -20854,7 +20854,7 @@
     },
     {
       "id": 85688,
-      "name": "Bullet?Of?可可亞",
+      "name": "甜點子彈",
       "type_atk": 1,
       "attackMax": 18,
       "type_cri": 2,
@@ -33326,7 +33326,7 @@
     {
       "evol_dst": 85687,
       "id": 85687,
-      "name": "可可亞甜點?雷爵",
+      "name": "可可亞甜點・雷爵",
       "profile": "イベント配布武器",
       "rank_limit": 2,
       "rarity": 4,

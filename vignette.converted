@@ -1,32 +1,14 @@
 ﻿{
   "res": 0,
-  "deceive": 1546505953,
+  "deceive": 1547110697,
   "vignette": [
     {
-      "cid": 8909,
+      "cid": 7226,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "接招吧，真‧亞龍多斯滅邪斬！",
+      "bg": 6003,
+      "memo": "看看我的愛吧！！",
       "start": 1506924000,
-      "end": 1547100000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 300,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
-    },
-    {
-      "cid": 8910,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "是你的話，我一定全力相助。",
-      "start": 1506924000,
-      "end": 1547100000,
+      "end": 1547704800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -39,12 +21,12 @@
       "event_area_name": 1
     },
     {
-      "cid": 8908,
+      "cid": 2286,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "大野狼Kick！",
+      "bg": 6003,
+      "memo": "不對，剛剛那個不算！",
       "start": 1506924000,
-      "end": 1547100000,
+      "end": 1547704800,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
