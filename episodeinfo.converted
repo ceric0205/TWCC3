@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1545902302,
+  "deceive": 1547717228,
   "res": 0,
   "episodeinfo": [
     {
@@ -9808,24 +9808,6 @@
     },
     {
       "type": 0,
-      "id": 8077,
-      "episode": [
-        {
-          "name": "命運物語",
-          "quest": [
-            80771
-          ]
-        },
-        {
-          "name": "羈絆物語",
-          "quest": [
-            80772
-          ]
-        }
-      ]
-    },
-    {
-      "type": 0,
       "id": 11007,
       "episode": [
         {
@@ -9887,38 +9869,6 @@
           "name": "羈絆物語",
           "quest": [
             80922
-          ]
-        }
-      ]
-    },
-    {
-      "type": 0,
-      "id": 5074,
-      "episode": [
-        {
-          "name": "羈絆物語",
-          "quest": [
-            50741,
-            50742
-          ]
-        }
-      ]
-    },
-    {
-      "type": 0,
-      "id": 5076,
-      "episode": [
-        {
-          "name": "命運物語",
-          "quest": [
-            50761
-          ]
-        },
-        {
-          "name": "羈絆物語",
-          "quest": [
-            50762,
-            50763
           ]
         }
       ]
@@ -10356,24 +10306,6 @@
           "name": "羈絆物語",
           "quest": [
             10652
-          ]
-        }
-      ]
-    },
-    {
-      "type": 0,
-      "id": 5069,
-      "episode": [
-        {
-          "name": "命運物語",
-          "quest": [
-            50691
-          ]
-        },
-        {
-          "name": "羈絆物語",
-          "quest": [
-            50692
           ]
         }
       ]
@@ -17145,6 +17077,787 @@
           "name": "命運物語",
           "quest": [
             92141
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 10002,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            100021
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 10024,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            100241
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 10202,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            102021
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 303,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            3031
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 12225,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            122251
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 304,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            3041
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 305,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            3051
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 2229,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            22291
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 11220,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            112201
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7229,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            72291
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 6308,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            63081
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 2209,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            22091
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 5216,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            52161
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 5262,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            52621
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 5032,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            50321
+          ]
+        },
+        {
+          "name": "羈絆物語",
+          "quest": [
+            50322
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 4238,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            42381
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 293,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            2931
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 5276,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            52761
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 1270,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            12701
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 12226,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            122261
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7584,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            75841
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7583,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            75831
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7585,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            75851
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 5241,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            52411
+          ]
+        },
+        {
+          "name": "羈絆物語",
+          "quest": [
+            52412
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8289,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82891
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8293,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82931
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8294,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82941
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8290,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82901
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 12213,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            122131
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 2248,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            22481
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 12032,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            120321
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 12215,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            122151
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 12007,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            120071
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 308,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            3081
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 6266,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            62661
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8296,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82961
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8297,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82971
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8295,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82951
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7530,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            75301
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7644,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            76441,
+            76442,
+            76443
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 1261,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            12611
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 6222,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            62221
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7660,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            76601
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7661,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            76611
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 295,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            2951
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 2282,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            22821
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 2299,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            22991
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8298,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82981
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8299,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            82991
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8300,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            83001
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8301,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            83011
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8302,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            83021
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8303,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            83031
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8304,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            83041
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 9223,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            92231
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 11212,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            112121
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 6284,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            62841
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 6286,
+      "episode": [
+        {
+          "name": "命運物語",
+          "quest": [
+            62861
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 7562,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            75621
           ]
         }
       ],

@@ -1,6 +1,6 @@
 ﻿{
+  "deceive": 1547717226,
   "res": 0,
-  "deceive": 1540533844,
   "sp_drama_list": [
     {
       "drama_id": 3,
@@ -365,27 +365,123 @@
       "trigger": 3
     },
     {
-      "drama_id": 49,
-      "end": 1523325599,
-      "hero": 0,
-      "start": 1522594800,
-      "title": "達成1300萬下載紀念活動公告",
-      "trigger": 3
-    },
-    {
-      "drama_id": 48,
-      "end": 1522508399,
-      "hero": 0,
-      "start": 1522375200,
-      "title": "達成1300萬下載紀念活動公告",
-      "trigger": 3
-    },
-    {
       "drama_id": 47,
       "end": 1522594799,
       "hero": 0,
       "start": 1522508400,
       "title": "『鎖鏈戰記 妖怪大師』決定開始製作！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 50,
+      "end": 1525485599,
+      "hero": 1,
+      "start": 1524448800,
+      "title": "菲娜回歸！　＆　『絕佳拍檔祭』開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 51,
+      "end": 1526349599,
+      "hero": 2,
+      "start": 1525917600,
+      "title": "追加『愛麗婕篇』第8章！＆「BRAVE慶祝活動」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 52,
+      "end": 1527645599,
+      "hero": 5,
+      "start": 1527228000,
+      "title": "追加『天津篇』第8章！＆「BRAVE慶祝活動」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 53,
+      "end": 1529027999,
+      "hero": 4,
+      "start": 1528682400,
+      "title": "追加『瑟蕾斯蒂篇』第8章！＆「BRAVE慶祝活動」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 54,
+      "end": 1529891999,
+      "hero": 0,
+      "start": 1529287200,
+      "title": "「受讚頌者　給逝者的搖籃曲合作活動」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 55,
+      "end": 1530669599,
+      "hero": 0,
+      "start": 1529892000,
+      "title": "「5th Anniversary ～前夜祭～」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 56,
+      "end": 1530669599,
+      "hero": 3,
+      "start": 1530237600,
+      "title": "追加『艾夏露篇』第8章！＆「BRAVE慶祝活動」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 57,
+      "end": 1531879199,
+      "hero": 1,
+      "start": 1531360800,
+      "title": "追加『赫利歐斯篇』第8章！＆「絕佳拍檔祭」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 58,
+      "end": 1532393999,
+      "hero": 0,
+      "start": 1531879200,
+      "title": "「鎖鏈戰記網路電台　鎖鏈電台」合作活動開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 59,
+      "end": 1532915999,
+      "hero": 0,
+      "start": 1532412000,
+      "title": "「5th Anniversary Fes.」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 60,
+      "end": 1532617199,
+      "hero": 0,
+      "start": 1532570400,
+      "title": "鎖鏈戰記5周年！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 62,
+      "end": 1533866399,
+      "hero": 5,
+      "start": 1533261600,
+      "title": "『天津篇』第9章追加！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 63,
+      "end": 1535594399,
+      "hero": 0,
+      "start": 1534816800,
+      "title": "『女神異聞錄3』合作活動開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 64,
+      "end": 1536199199,
+      "hero": 2,
+      "start": 1535608800,
+      "title": "『愛麗婕篇』第9章追加！",
       "trigger": 3
     }
   ]

@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1540533505,
+  "deceive": 1547717227,
   "speed_run_info": [
     {
       "sprun_id": 1,
@@ -134,7 +134,7 @@
         {
           "quest_id": 340011,
           "priority": 4,
-          "title": "預賽・騎士強化",
+          "title": "予選・騎士強化",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -155,7 +155,7 @@
               "lv": 80,
               "hp": 9700,
               "atk": 10400,
-              "helper_comment": "我要把你切碎♪",
+              "helper_comment": "キミはみじん切りっ♪",
               "skillflag": [
                 true,
                 true,
@@ -200,7 +200,7 @@
         {
           "quest_id": 340012,
           "priority": 3,
-          "title": "預賽・弓箭手強化",
+          "title": "予選・弓使い強化",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -221,7 +221,7 @@
               "lv": 80,
               "hp": 6040,
               "atk": 10800,
-              "helper_comment": "這支箭絕對不會落空",
+              "helper_comment": "この矢は絶対外さない",
               "skillflag": [
                 true,
                 true,
@@ -266,7 +266,7 @@
         {
           "quest_id": 340013,
           "priority": 2,
-          "title": "預賽・18 COST以下限定",
+          "title": "予選・18コスト以下限定",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -287,7 +287,7 @@
               "lv": 80,
               "hp": 5900,
               "atk": 8900,
-              "helper_comment": "加油啊，普亞亞！",
+              "helper_comment": "がんばれ、プアア！",
               "skillflag": [
                 true,
                 true,
@@ -305,7 +305,7 @@
               "lv": 80,
               "hp": 9700,
               "atk": 9500,
-              "helper_comment": "嗯，我要一起去！",
+              "helper_comment": "うん、一緒にいくよ！",
               "skillflag": [
                 true,
                 true,
@@ -323,7 +323,7 @@
               "lv": 80,
               "hp": 5500,
               "atk": 8500,
-              "helper_comment": "把拔，加油",
+              "helper_comment": "パパ、頑張って",
               "skillflag": [
                 true,
                 true,
@@ -341,7 +341,7 @@
               "lv": 80,
               "hp": 8850,
               "atk": 9250,
-              "helper_comment": "被碎屍萬段吧，蜉蝣",
+              "helper_comment": "喰い千切れ、カゲロウ",
               "skillflag": [
                 true,
                 true,
@@ -359,7 +359,7 @@
               "lv": 80,
               "hp": 6000,
               "atk": 8500,
-              "helper_comment": "不想工作啦～。",
+              "helper_comment": "はたらきたくな～い。",
               "skillflag": [
                 true,
                 true,
@@ -403,7 +403,7 @@
         {
           "quest_id": 340014,
           "priority": 1,
-          "title": "榮譽戰",
+          "title": "栄誉戦",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -424,7 +424,7 @@
               "lv": 80,
               "hp": 10300,
               "atk": 9800,
-              "helper_comment": "用不著你說……！",
+              "helper_comment": "言われなくても…っ！",
               "skillflag": [
                 true,
                 true,
@@ -438,7 +438,7 @@
               "lv": 80,
               "hp": 9300,
               "atk": 9300,
-              "helper_comment": "頭抬得太高～～～了！",
+              "helper_comment": "頭が高～～～い！",
               "skillflag": [
                 true,
                 true,
@@ -452,7 +452,7 @@
               "lv": 80,
               "hp": 6700,
               "atk": 10000,
-              "helper_comment": "聽我唱歌吧！",
+              "helper_comment": "私の歌を、聞いてくれ",
               "skillflag": [
                 true,
                 true,
@@ -466,7 +466,7 @@
               "lv": 80,
               "hp": 6510,
               "atk": 10020,
-              "helper_comment": "就這麼決定了！",
+              "helper_comment": "これで決まりですわ！",
               "skillflag": [
                 true,
                 true,
@@ -480,7 +480,7 @@
               "lv": 80,
               "hp": 7300,
               "atk": 10700,
-              "helper_comment": "背負生命！",
+              "helper_comment": "いのちを背負う！",
               "skillflag": [
                 true,
                 true,
@@ -649,7 +649,7 @@
         {
           "quest_id": 340111,
           "priority": 4,
-          "title": "預賽・副都限定",
+          "title": "予選・副都限定",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -670,7 +670,7 @@
               "lv": 80,
               "hp": 9000,
               "atk": 9000,
-              "helper_comment": "把未來交出來吧！",
+              "helper_comment": "未来を、よこしな！",
               "skillflag": [
                 true,
                 true,
@@ -684,7 +684,7 @@
               "lv": 80,
               "hp": 9100,
               "atk": 9000,
-              "helper_comment": "登上處刑台吧！",
+              "helper_comment": "処刑台に登れ！",
               "skillflag": [
                 true,
                 true,
@@ -698,7 +698,7 @@
               "lv": 80,
               "hp": 5900,
               "atk": 8900,
-              "helper_comment": "加油啊，普亞亞！",
+              "helper_comment": "がんばれ、プアア！",
               "skillflag": [
                 true,
                 true,
@@ -716,7 +716,7 @@
               "lv": 80,
               "hp": 9700,
               "atk": 9500,
-              "helper_comment": "嗯，我要一起去！",
+              "helper_comment": "うん、一緒にいくよ！",
               "skillflag": [
                 true,
                 true,
@@ -734,7 +734,7 @@
               "lv": 80,
               "hp": 5550,
               "atk": 9350,
-              "helper_comment": "我會用陷阱掩護你",
+              "helper_comment": "罠で援護してあげます",
               "skillflag": [
                 true,
                 true,
@@ -748,7 +748,7 @@
               "lv": 80,
               "hp": 8700,
               "atk": 9300,
-              "helper_comment": "要揚名天下啊！",
+              "helper_comment": "有名になるんだ！",
               "skillflag": [
                 true,
                 true,
@@ -789,7 +789,7 @@
         {
           "quest_id": 340112,
           "priority": 3,
-          "title": "預賽・聖都限定",
+          "title": "予選・聖都限定",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -810,7 +810,7 @@
               "lv": 80,
               "hp": 9400,
               "atk": 9200,
-              "helper_comment": "全員、進入戰鬥配置！",
+              "helper_comment": "総員、戦闘配置！",
               "skillflag": [
                 true,
                 true,
@@ -824,7 +824,7 @@
               "lv": 80,
               "hp": 9500,
               "atk": 9000,
-              "helper_comment": "跟隨此旗吧！",
+              "helper_comment": "この旗に続け！",
               "skillflag": [
                 true,
                 true,
@@ -865,7 +865,7 @@
         {
           "quest_id": 340113,
           "priority": 2,
-          "title": "預賽・湖都限定",
+          "title": "予選・湖都限定",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -886,7 +886,7 @@
               "lv": 80,
               "hp": 8820,
               "atk": 9220,
-              "helper_comment": "一起跳舞吧！",
+              "helper_comment": "一緒に踊ろうよ！",
               "skillflag": [
                 true,
                 true,
@@ -900,7 +900,7 @@
               "lv": 80,
               "hp": 5800,
               "atk": 9000,
-              "helper_comment": "黃金之歌！",
+              "helper_comment": "黄金の歌を！",
               "skillflag": [
                 true,
                 true,
@@ -914,7 +914,7 @@
               "lv": 80,
               "hp": 6700,
               "atk": 8900,
-              "helper_comment": "碰到逆鱗囉！",
+              "helper_comment": "逆鱗に触れたぞ！",
               "skillflag": [
                 true,
                 true,
@@ -928,7 +928,7 @@
               "lv": 80,
               "hp": 8800,
               "atk": 9300,
-              "helper_comment": "演奏更激烈的曲子吧！",
+              "helper_comment": "激しい曲をちょうだい！",
               "skillflag": [
                 true,
                 true,
@@ -942,7 +942,7 @@
               "lv": 80,
               "hp": 6500,
               "atk": 9300,
-              "helper_comment": "這樣的曲子如何呢",
+              "helper_comment": "こういう曲はどうかな",
               "skillflag": [
                 true,
                 true,
@@ -956,7 +956,7 @@
               "lv": 80,
               "hp": 6400,
               "atk": 9400,
-              "helper_comment": "環繞吧神秘！",
+              "helper_comment": "神秘よ、巡れ！",
               "skillflag": [
                 true,
                 true,
@@ -997,7 +997,7 @@
         {
           "quest_id": 340114,
           "priority": 1,
-          "title": "榮譽戰・騎士弓箭手強化",
+          "title": "栄誉戦・騎弓強化",
           "strength": 10,
           "bg": 418,
           "bgm": 15,
@@ -1018,7 +1018,7 @@
               "lv": 80,
               "hp": 10100,
               "atk": 10000,
-              "helper_comment": "要保護好尤古度！",
+              "helper_comment": "ユグドを守る！",
               "skillflag": [
                 true,
                 true,
@@ -1032,7 +1032,7 @@
               "lv": 80,
               "hp": 6040,
               "atk": 10080,
-              "helper_comment": "這支箭絕對不會落空",
+              "helper_comment": "この矢は絶対外さない",
               "skillflag": [
                 true,
                 true,
@@ -1046,7 +1046,7 @@
               "lv": 80,
               "hp": 9700,
               "atk": 10400,
-              "helper_comment": "我會盡情的砍劈喔？",
+              "helper_comment": "いっぱい斬るね？",
               "skillflag": [
                 true,
                 true,
@@ -1060,7 +1060,7 @@
               "lv": 80,
               "hp": 6700,
               "atk": 10000,
-              "helper_comment": "歌聲高揚吧！",
+              "helper_comment": "響け、歌声",
               "skillflag": [
                 true,
                 true,
@@ -1243,7 +1243,7 @@
         {
           "quest_id": 340211,
           "priority": 4,
-          "title": "預賽・獸人強化",
+          "title": "予選・ケ者強化",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -1264,7 +1264,7 @@
               "lv": 80,
               "hp": 6200,
               "atk": 9500,
-              "helper_comment": "這就是神託啊……",
+              "helper_comment": "これが神託だ……",
               "skillflag": [
                 true,
                 true,
@@ -1309,7 +1309,7 @@
         {
           "quest_id": 340212,
           "priority": 3,
-          "title": "預賽・大海強化",
+          "title": "予選・大海強化",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -1330,7 +1330,7 @@
               "lv": 80,
               "hp": 6000,
               "atk": 9700,
-              "helper_comment": "拓開航路吧",
+              "helper_comment": "航路は切り開いてやる",
               "skillflag": [
                 true,
                 true,
@@ -1375,7 +1375,7 @@
         {
           "quest_id": 340213,
           "priority": 2,
-          "title": "預賽・魔神限定",
+          "title": "予選・魔神限定",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -1396,7 +1396,7 @@
               "lv": 80,
               "hp": 7500,
               "atk": 10600,
-              "helper_comment": "看好了……魔女之力！",
+              "helper_comment": "括目せよ…魔女の力を",
               "skillflag": [
                 true,
                 true,
@@ -1437,7 +1437,7 @@
         {
           "quest_id": 340214,
           "priority": 1,
-          "title": "榮譽戰・20 COST以上限定",
+          "title": "栄誉戦・20コスト以上限定",
           "strength": 5,
           "bg": 418,
           "bgm": 15,
@@ -1458,7 +1458,7 @@
               "lv": 80,
               "hp": 7400,
               "atk": 10600,
-              "helper_comment": "療癒的光輝啊……！",
+              "helper_comment": "癒しの輝きよ……！",
               "skillflag": [
                 true,
                 true,
@@ -1506,9 +1506,9 @@
     {
       "sprun_id": 4,
       "start": 1517468400,
-      "end": 1517468400,
+      "end": 1519801200,
       "title": "2月",
-      "timestamp": "1532506213000",
+      "timestamp": "1516759115834",
       "reward_list": [
         {
           "rank": 10,
@@ -1635,7 +1635,7 @@
         {
           "quest_id": 340311,
           "priority": 4,
-          "title": "預賽・賢者之塔限定",
+          "title": "予選・賢者の塔限定",
           "strength": 2,
           "bg": 418,
           "bgm": 15,
@@ -1656,7 +1656,7 @@
               "lv": 80,
               "hp": 7540,
               "atk": 8940,
-              "helper_comment": "要保護好……大家！",
+              "helper_comment": "みんなを……守る！",
               "skillflag": [
                 true,
                 true,
@@ -1697,7 +1697,7 @@
         {
           "quest_id": 340312,
           "priority": 3,
-          "title": "預賽・旅人限定",
+          "title": "予選・旅人限定",
           "strength": 2,
           "bg": 418,
           "bgm": 15,
@@ -1718,7 +1718,7 @@
               "lv": 80,
               "hp": 7500,
               "atk": 8700,
-              "helper_comment": "想要嗎？智慧。",
+              "helper_comment": "欲するか、知恵を。",
               "skillflag": [
                 true,
                 true,
@@ -1759,7 +1759,7 @@
         {
           "quest_id": 340313,
           "priority": 2,
-          "title": "預賽・魔神限定",
+          "title": "予選・魔神限定",
           "strength": 2,
           "bg": 418,
           "bgm": 15,
@@ -1780,7 +1780,7 @@
               "lv": 80,
               "hp": 7500,
               "atk": 10900,
-              "helper_comment": "來一粒如何？",
+              "helper_comment": "一粒どうかしら。",
               "skillflag": [
                 true,
                 true,
@@ -1821,7 +1821,7 @@
         {
           "quest_id": 340314,
           "priority": 1,
-          "title": "榮譽戰・騎士強化",
+          "title": "栄誉戦・騎士強化",
           "strength": 10,
           "bg": 418,
           "bgm": 15,
@@ -1842,7 +1842,7 @@
               "lv": 80,
               "hp": 9550,
               "atk": 9350,
-              "helper_comment": "是嗎，這裡就是那個啊",
+              "helper_comment": "そうか、ここであれだ",
               "skillflag": [
                 true,
                 true,
@@ -1885,7 +1885,12 @@
           }
         }
       ],
-      "period_end_times": []
+      "period_end_times": [
+        1517900400,
+        1518505200,
+        1519110000,
+        1519714800
+      ]
     }
   ]
 }

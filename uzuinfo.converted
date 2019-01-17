@@ -1,6 +1,2535 @@
 ﻿{
+  "deceive": 1547716747,
   "res": 0,
-  "deceive": 1547110686,
+  "stage": [
+    {
+      "stage_id": 1,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "萬物吞天之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 22,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101011
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "萬物吞天之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 17,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101010
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "萬物吞天之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "萬物吞天之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "萬物吞天之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "萬物吞天之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "萬物吞天之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "萬物吞天之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "萬物吞天之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "萬物吞天之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "萬物吞天之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 2,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "命運流轉之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 22,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101102
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "命運流轉之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 17,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101101
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "命運流轉之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "命運流轉之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "命運流轉之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "命運流轉之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "命運流轉之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "命運流轉之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "命運流轉之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "命運流轉之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "命運流轉之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 3,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "萬物吞天之渦　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101012
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "萬物吞天之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 22,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101011
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "萬物吞天之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 17,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101010
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "萬物吞天之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "萬物吞天之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "萬物吞天之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "萬物吞天之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "萬物吞天之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "萬物吞天之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "萬物吞天之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "萬物吞天之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "萬物吞天之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 4,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "命運流轉之渦　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101103
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "命運流轉之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 22,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101102
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "命運流轉之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 17,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101101
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "命運流轉之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "命運流轉之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "命運流轉之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "命運流轉之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "命運流轉之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "命運流轉之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "命運流轉之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "命運流轉之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "命運流轉之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 5,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "想火連天之渦　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101203
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "想火連天之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 22,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101202
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "想火連天之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 18,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101201
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "想火連天之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "想火連天之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "想火連天之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "想火連天之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "想火連天之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "想火連天之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "想火連天之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "想火連天之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "想火連天之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 6,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "落花轉鳥之渦　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101303
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "落花轉鳥之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 25,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101302
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "落花轉鳥之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 18,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101301
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "落花轉鳥之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "落花轉鳥之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "落花轉鳥之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "落花轉鳥之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "落花轉鳥之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "落花轉鳥之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "落花轉鳥之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "落花轉鳥之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "落花轉鳥之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 7,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "一天四海之渦　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101403
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "一天四海之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 25,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101402
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "一天四海之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 18,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101401
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "一天四海之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "一天四海之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "一天四海之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "一天四海之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "一天四海之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "一天四海之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "一天四海之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "一天四海之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "一天四海之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 8,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "終局判別之渦　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101503
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "終局判別之渦　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 25,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101502
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "終局判別之渦　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 18,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101501
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "終局判別之渦９",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "終局判別之渦８",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "終局判別之渦７",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "終局判別之渦６",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "終局判別之渦５",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "終局判別之渦４",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "終局判別之渦３",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "終局判別之渦２",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "終局判別之渦１",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 9,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "遍滿森羅之渦 地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 30,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101603
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "遍滿森羅之渦 超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 25,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101602
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "遍滿森羅之渦 上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 18,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7101601
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "遍滿森羅之渦 9",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 9.5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 75,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101009,
+            7101013,
+            7101014,
+            7101015
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "遍滿森羅之渦 8",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 10,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "遍滿森羅之渦 7",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 65,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "遍滿森羅之渦 6",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 60,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "遍滿森羅之渦 5",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 9,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 55,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "遍滿森羅之渦 4",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 8,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "遍滿森羅之渦 3",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 6,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 40,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "遍滿森羅之渦 2",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 5,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 30,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "遍滿森羅之渦 1",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 3,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 20,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7101001
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {
+    "uzu_key_max": 30,
+    "uzu_key_init": 11,
+    "uzu_key_recover_1day": 1,
+    "uzu_key_recover_item": 1,
+    "uzu_key_recover_use": 1,
+    "uzu_key_update_time": 61200
+  },
   "uzu": [
     {
       "uzu_id": 1,
@@ -4603,2250 +7132,47 @@
           }
         }
       ]
+    },
+    {
+      "uzu_id": 7,
+      "name": "遍布森羅之渦",
+      "boss_id": 7644,
+      "boss_border": [
+        10,
+        20,
+        20,
+        20,
+        20,
+        30,
+        30,
+        30,
+        30
+      ],
+      "reward_map": [
+        {
+          "reward_list": [
+            {
+              "type": "chara_rf",
+              "id": 90905,
+              "val": 1,
+              "border": 3880
+            },
+            {
+              "type": "stone",
+              "id": 0,
+              "val": 1,
+              "border": 7760
+            },
+            {
+              "type": "item",
+              "id": 34,
+              "val": 1,
+              "border": 11640
+            }
+          ]
+        }
+      ],
+      "schedule": []
     }
-  ],
-  "stage": [
-    {
-      "stage_id": 1,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "萬物吞天之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 22,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101011
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "萬物吞天之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 17,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101010
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "萬物吞天之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "萬物吞天之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "萬物吞天之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "萬物吞天之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "萬物吞天之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "萬物吞天之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "萬物吞天之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "萬物吞天之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "萬物吞天之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 2,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "命運流轉之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 22,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101102
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "命運流轉之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 17,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101101
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "命運流轉之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "命運流轉之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "命運流轉之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "命運流轉之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "命運流轉之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "命運流轉之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "命運流轉之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "命運流轉之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "命運流轉之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 3,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 12,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "萬物吞天之渦　地獄級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 30,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 100,
-          "df_icon": 3,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101012
-          ]
-        },
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "萬物吞天之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 22,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101011
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "萬物吞天之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 17,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101010
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "萬物吞天之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "萬物吞天之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "萬物吞天之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "萬物吞天之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "萬物吞天之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "萬物吞天之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "萬物吞天之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "萬物吞天之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "萬物吞天之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 4,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 12,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "命運流轉之渦　地獄級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 30,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 100,
-          "df_icon": 3,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101103
-          ]
-        },
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "命運流轉之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 22,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101102
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "命運流轉之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 17,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101101
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "命運流轉之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "命運流轉之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "命運流轉之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "命運流轉之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "命運流轉之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "命運流轉之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "命運流轉之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "命運流轉之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "命運流轉之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 5,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 12,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "想火連天之渦　地獄級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 30,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 100,
-          "df_icon": 3,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101203
-          ]
-        },
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "想火連天之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 22,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101202
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "想火連天之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 18,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101201
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "想火連天之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "想火連天之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "想火連天之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "想火連天之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "想火連天之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "想火連天之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "想火連天之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "想火連天之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "想火連天之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 6,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 12,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "落花轉鳥之渦　地獄級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 30,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 100,
-          "df_icon": 3,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101303
-          ]
-        },
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "落花轉鳥之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 25,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101302
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "落花轉鳥之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 18,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101301
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "落花轉鳥之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "落花轉鳥之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "落花轉鳥之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "落花轉鳥之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "落花轉鳥之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "落花轉鳥之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "落花轉鳥之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "落花轉鳥之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "落花轉鳥之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 7,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 12,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "一天四海之渦　地獄級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 30,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 100,
-          "df_icon": 3,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101403
-          ]
-        },
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "一天四海之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 25,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101402
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "一天四海之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 18,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101401
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "一天四海之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "一天四海之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "一天四海之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "一天四海之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "一天四海之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "一天四海之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "一天四海之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "一天四海之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "一天四海之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    },
-    {
-      "stage_id": 8,
-      "use_key": 1,
-      "stage_list": [
-        {
-          "stage": 12,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "終局判別之渦　地獄級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 30,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 100,
-          "df_icon": 3,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101503
-          ]
-        },
-        {
-          "stage": 11,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "終局判別之渦　超上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 25,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 90,
-          "df_icon": 2,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101502
-          ]
-        },
-        {
-          "stage": 10,
-          "cleared_lv": 9,
-          "lv": 10,
-          "title": "終局判別之渦　上級",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 18,
-          "bg": 130,
-          "bgm": 12,
-          "difficulty": 80,
-          "df_icon": 1,
-          "bt_mana": 2,
-          "boss_flag": 1,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 5
-          },
-          "eneset": [
-            7101501
-          ]
-        },
-        {
-          "stage": 9,
-          "cleared_lv": 8,
-          "lv": 9,
-          "title": "終局判別之渦９",
-          "battle_point": 100,
-          "home_rate": 540,
-          "strength": 9.5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 75,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101009,
-            7101013,
-            7101014,
-            7101015
-          ]
-        },
-        {
-          "stage": 8,
-          "cleared_lv": 7,
-          "lv": 8,
-          "title": "終局判別之渦８",
-          "battle_point": 100,
-          "home_rate": 510,
-          "strength": 10,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 70,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101008
-          ]
-        },
-        {
-          "stage": 7,
-          "cleared_lv": 6,
-          "lv": 7,
-          "title": "終局判別之渦７",
-          "battle_point": 100,
-          "home_rate": 480,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 65,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101007
-          ]
-        },
-        {
-          "stage": 6,
-          "cleared_lv": 5,
-          "lv": 6,
-          "title": "終局判別之渦６",
-          "battle_point": 100,
-          "home_rate": 450,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 60,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101006
-          ]
-        },
-        {
-          "stage": 5,
-          "cleared_lv": 4,
-          "lv": 5,
-          "title": "終局判別之渦５",
-          "battle_point": 100,
-          "home_rate": 420,
-          "strength": 9,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 55,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101005
-          ]
-        },
-        {
-          "stage": 4,
-          "cleared_lv": 3,
-          "lv": 4,
-          "title": "終局判別之渦４",
-          "battle_point": 100,
-          "home_rate": 390,
-          "strength": 8,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 50,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101004
-          ]
-        },
-        {
-          "stage": 3,
-          "cleared_lv": 2,
-          "lv": 3,
-          "title": "終局判別之渦３",
-          "battle_point": 100,
-          "home_rate": 360,
-          "strength": 6,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 40,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101003
-          ]
-        },
-        {
-          "stage": 2,
-          "cleared_lv": 1,
-          "lv": 2,
-          "title": "終局判別之渦２",
-          "battle_point": 100,
-          "home_rate": 330,
-          "strength": 5,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 30,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101002
-          ]
-        },
-        {
-          "stage": 1,
-          "cleared_lv": 0,
-          "lv": 1,
-          "title": "終局判別之渦１",
-          "battle_point": 100,
-          "home_rate": 300,
-          "strength": 3,
-          "bg": 130,
-          "bgm": 11,
-          "difficulty": 20,
-          "df_icon": 0,
-          "bt_mana": 2,
-          "boss_flag": 0,
-          "reward": {
-            "type": "item",
-            "id": 34,
-            "val": 1
-          },
-          "eneset": [
-            7101001
-          ]
-        }
-      ]
-    }
-  ],
-  "info": {
-    "uzu_key_max": 30,
-    "uzu_key_init": 11,
-    "uzu_key_recover_1day": 1,
-    "uzu_key_recover_item": 1,
-    "uzu_key_recover_use": 1,
-    "uzu_key_update_time": 61200
-  }
+  ]
 }

@@ -1,0 +1,501 @@
+﻿{
+  "res": 0,
+  "deceive": 1547717226,
+  "event_portal": [
+    {
+      "_id": 0,
+      "events": [
+        {
+          "banner": [
+            {
+              "start": 1535594400,
+              "end": 1535594399,
+              "priority": 0,
+              "name": "WeeklyQuest.jpg",
+              "url": "",
+              "type": "CollaboArea",
+              "place_id": 1,
+              "area_id": 201,
+              "tab_id": 103,
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=9529554"
+            },
+            {
+              "start": 1535594400,
+              "end": 1535594399,
+              "priority": 1,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "story",
+              "gacha_id": 1,
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=3495450"
+            }
+          ],
+          "icon": "Portal_Icon_Collabo_03",
+          "img": [
+            {
+              "start": 1535594400,
+              "end": 1535594399,
+              "chara": "cha_2d_whole_08257"
+            }
+          ],
+          "url": "",
+          "end": 1535594399,
+          "start": 1535594400,
+          "priority": 20,
+          "category": "collabo_1"
+        }
+      ],
+      "timestamp": "1545884315000"
+    },
+    {
+      "_id": 1,
+      "events": [
+        {
+          "category": "collabo_2",
+          "priority": 11,
+          "start": 1535162400,
+          "end": 1535594399,
+          "url": "",
+          "img": [
+            {
+              "start": 1535162400,
+              "end": 1535594399,
+              "chara": "cha_2d_whole_08219"
+            }
+          ],
+          "icon": "Portal_Icon_Collabo_02",
+          "banner": [
+            {
+              "start": 1535162400,
+              "end": 1535594399,
+              "priority": 0,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "CollaboArea",
+              "place_id": 1,
+              "area_id": 201,
+              "tab_id": 102,
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=2903037"
+            },
+            {
+              "start": 1535162400,
+              "end": 1545897428,
+              "priority": 1,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "event",
+              "gacha_id": 1,
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=1858583"
+            }
+          ]
+        }
+      ],
+      "timestamp": "1545808811000"
+    },
+    {
+      "_id": 2,
+      "events": [
+        {
+          "banner": [
+            {
+              "start": 1535608800,
+              "end": 1548309599,
+              "priority": 20,
+              "name": "BN_20190110_1.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "legend",
+              "gacha_id": 1,
+              "info_url": ""
+            },
+            {
+              "start": 1535608800,
+              "end": 1548309599,
+              "priority": 10,
+              "name": "BN_20190110_4.jpg",
+              "url": "",
+              "type": "Legend1Area",
+              "place_id": 1,
+              "area_id": 202,
+              "tab_id": 201,
+              "info_url": ""
+            }
+          ],
+          "icon": "Portal_Icon_Legend_00",
+          "img": [
+            {
+              "start": 1535608800,
+              "end": 1548309599,
+              "chara": "cha_2d_whole_02229",
+              "bg_img": "TownBG_6009"
+            }
+          ],
+          "url": "",
+          "end": 1548309599,
+          "start": 1535608800,
+          "priority": 15,
+          "category": "legend"
+        }
+      ],
+      "timestamp": "1547620296000"
+    },
+    {
+      "_id": 3,
+      "events": [
+        {
+          "kind": "guild",
+          "banner": [
+            {
+              "start": 1547740800,
+              "end": 1548345599,
+              "priority": 0,
+              "name": "BN_20190110_3.jpg",
+              "url": "",
+              "type": "TotalWar",
+              "info_url": ""
+            }
+          ],
+          "icon": "Portal_Icon_Totalwar_00",
+          "img": [
+            {
+              "start": 1547740800,
+              "end": 1548345599,
+              "chara": "cha_2d_whole_00079"
+            }
+          ],
+          "url": "",
+          "end": 1548345599,
+          "start": 1547740800,
+          "priority": 0,
+          "category": "game"
+        },
+        {
+          "category": "game",
+          "priority": 15,
+          "start": 1533866400,
+          "end": 1534730399,
+          "url": "",
+          "img": [
+            {
+              "start": 1533866400,
+              "end": 1534730399,
+              "chara": "cha_2d_whole_02299",
+              "text": "夏休みでも、\\nわたくしは全力ですわ！"
+            }
+          ],
+          "icon": "Portal_Icon_Touha_00",
+          "banner": [
+            {
+              "start": 1533866400,
+              "end": 1534730399,
+              "priority": 10,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "180821_P3Fes_02.jpg",
+              "type": "PremiumGacha",
+              "gacha_type": "event",
+              "gacha_id": 1,
+              "info_url": "http://xxx.xxx.xxx.xxx/cover/180810_touha_fes.html?v=5605934"
+            },
+            {
+              "start": 1533952800,
+              "end": 1534730399,
+              "priority": 9,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "CompMapEvent",
+              "info_url": "http://xxx.xxx.xxx.xxx/cover/180810_touha_open_info.html?v=6788093"
+            },
+            {
+              "start": 1533866400,
+              "end": 1534730399,
+              "priority": 8,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "CompMapEvent",
+              "info_url": "http://xxx.xxx.xxx.xxx/cover/180810_touha_open_info.html?v=8313616"
+            }
+          ],
+          "kind": "cover"
+        },
+        {
+          "kind": "raid",
+          "banner": [
+            {
+              "start": 1536199200,
+              "end": 1536803999,
+              "priority": 10,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "story",
+              "gacha_id": 1,
+              "info_url": "http://xxx.xxx.xxx.xxx/raid/180906_7562/raid_7562_fes.html?v=1522"
+            },
+            {
+              "start": 1536372000,
+              "end": 1536803999,
+              "priority": 9,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "event",
+              "gacha_id": 1,
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180908_beginnerFes.html?v=7719556"
+            },
+            {
+              "start": 1536199200,
+              "end": 1536803999,
+              "priority": 8,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "RaidBoss",
+              "info_url": ""
+            },
+            {
+              "start": 1536804000,
+              "end": 1536890399,
+              "priority": 7,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "RaidBoss",
+              "info_url": ""
+            }
+          ],
+          "icon": "Portal_Icon_Raid_00",
+          "img": [
+            {
+              "start": 1536199200,
+              "end": 1536890399,
+              "chara": "cha_2d_whole_07562"
+            }
+          ],
+          "url": "",
+          "end": 1536890399,
+          "start": 1536199200,
+          "priority": 15,
+          "category": "game"
+        }
+      ],
+      "timestamp": "1547543702000"
+    },
+    {
+      "_id": 4,
+      "events": [
+        {
+          "banner": [
+            {
+              "start": 1532412000,
+              "end": 1533913199,
+              "priority": 2,
+              "name": "sortie.jpg",
+              "url": "",
+              "type": "Sortie",
+              "info_url": ""
+            },
+            {
+              "start": 1533913200,
+              "end": -1,
+              "priority": 1,
+              "name": "sortie.jpg",
+              "url": "",
+              "type": "Sortie",
+              "info_url": ""
+            }
+          ],
+          "icon": "Portal_Icon_Sortie_00",
+          "img": [
+            {
+              "start": 1532412000,
+              "end": 1532411999,
+              "chara": "cha_2d_whole_07079"
+            },
+            {
+              "start": 1533913200,
+              "end": 1609340399,
+              "chara": "cha_2d_whole_01216"
+            }
+          ],
+          "url": "",
+          "end": 1609340399,
+          "start": 1533913200,
+          "priority": 0,
+          "category": "sortie"
+        }
+      ],
+      "timestamp": "1547625826000"
+    },
+    {
+      "_id": 5,
+      "events": [
+        {
+          "banner": [
+            {
+              "start": 1532397600,
+              "end": 1532397599,
+              "priority": 0,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 99,
+              "info_url": ""
+            },
+            {
+              "start": 1535608800,
+              "end": 1536199199,
+              "priority": 2,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 15,
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=5547683"
+            },
+            {
+              "start": 1535608800,
+              "end": 1536199199,
+              "priority": 1,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 3,
+              "info_url": ""
+            }
+          ],
+          "icon": "Portal_Icon_5th_00",
+          "img": [
+            {
+              "start": 1532397600,
+              "end": 1535608799,
+              "bg_img": "TownBG_6009"
+            },
+            {
+              "start": 1535608800,
+              "end": 1536199199,
+              "chara": "cha_2d_whole_01045",
+              "bg_img": "TownBG_6009"
+            }
+          ],
+          "url": "",
+          "end": 1536199199,
+          "start": 1532397600,
+          "priority": 10,
+          "category": "event_area"
+        },
+        {
+          "category": "event_area",
+          "priority": 1,
+          "start": 1536199200,
+          "end": 1567648799,
+          "url": "",
+          "img": [
+            {
+              "start": 1536199200,
+              "end": 1567648799,
+              "bg_img": "TownBG_6009"
+            },
+            {
+              "start": 1536026400,
+              "end": 1536112799,
+              "chara": "cha_2d_whole_01003",
+              "bg_img": "TownBG_6009"
+            }
+          ],
+          "icon": "Portal_Icon_Event_00",
+          "banner": [
+            {
+              "start": 1535421600,
+              "end": 1535421599,
+              "priority": 0,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "event",
+              "gacha_id": 1,
+              "info_url": ""
+            },
+            {
+              "start": 1547791200,
+              "end": 1548309599,
+              "priority": 2,
+              "name": "BN_20190110_2.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 3,
+              "info_url": ""
+            },
+            {
+              "start": 1535421600,
+              "end": 1536112799,
+              "priority": 1,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 0,
+              "info_url": ""
+            },
+            {
+              "start": 1536199200,
+              "end": 1536199199,
+              "priority": 0,
+              "name": "180821_P3Fes_02.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 99,
+              "info_url": ""
+            }
+          ]
+        }
+      ],
+      "timestamp": "1547620296000"
+    },
+    {
+      "_id": 6,
+      "events": [
+        {
+          "category": "week",
+          "priority": 0,
+          "start": 1532066400,
+          "end": 1609340399,
+          "url": "",
+          "img": [
+            {
+              "start": 1532066400,
+              "end": 1609340399,
+              "chara": "cha_2d_whole_00003",
+              "text": "每日任務是鍛練隊伍\\n的大好機會！"
+            }
+          ],
+          "icon": "Portal_Icon_Weekly_",
+          "banner": [
+            {
+              "start": 1532066400,
+              "end": -1,
+              "priority": 0,
+              "name": "WeeklyQuest.jpg",
+              "url": "",
+              "type": "WeekArea",
+              "place_id": 1,
+              "area_id": 204,
+              "tab_id": 2,
+              "info_url": ""
+            }
+          ]
+        }
+      ],
+      "timestamp": "1545450555000"
+    }
+  ]
+}

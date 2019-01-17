@@ -1,6 +1,6 @@
 ﻿{
+  "deceive": 1547716755,
   "res": 0,
-  "deceive": 1540533845,
   "area": [
     {
       "areaId": 1,
@@ -12,7 +12,7 @@
       "sx": 2400,
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 200,
       "ypos": -60
@@ -27,7 +27,7 @@
       "sx": 1700,
       "sy": 1385,
       "tex": "main_gui_AreaMap_02",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 330,
       "ypos": -135
@@ -42,7 +42,7 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_03",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 345,
       "ypos": 40
@@ -57,7 +57,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_04",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 150,
       "ypos": 120
@@ -72,7 +72,7 @@
       "sx": 2002,
       "sy": 1218,
       "tex": "main_gui_AreaMap_05",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 270,
       "ypos": 206
@@ -87,7 +87,7 @@
       "sx": 1916,
       "sy": 1136,
       "tex": "main_gui_AreaMap_06",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 49,
       "ypos": -65
@@ -102,7 +102,7 @@
       "sx": 2400,
       "sy": 1200,
       "tex": "main_gui_AreaMap_10",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 2,
       "xpos": 285,
       "ypos": -151
@@ -117,7 +117,7 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_11",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 2,
       "xpos": 30,
       "ypos": -99
@@ -132,7 +132,7 @@
       "sx": 2000,
       "sy": 2000,
       "tex": "main_gui_AreaMap_12",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 2,
       "xpos": 140,
       "ypos": 160
@@ -147,7 +147,7 @@
       "sx": 2000,
       "sy": 1000,
       "tex": "main_gui_AreaMap_13",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 2,
       "xpos": 330,
       "ypos": 100
@@ -162,7 +162,7 @@
       "sx": 1200,
       "sy": 2100,
       "tex": "main_gui_AreaMap_14",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 3,
       "xpos": 215,
       "ypos": -140
@@ -177,7 +177,7 @@
       "sx": 2300,
       "sy": 1380,
       "tex": "main_gui_AreaMap_15",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 3,
       "xpos": 47,
       "ypos": 52
@@ -192,7 +192,7 @@
       "sx": 1800,
       "sy": 1350,
       "tex": "main_gui_AreaMap_16",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 3,
       "xpos": 270,
       "ypos": 196
@@ -207,7 +207,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0001",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -222,7 +222,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0011",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -237,7 +237,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0021",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -252,7 +252,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0031",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -267,7 +267,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0041",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -282,7 +282,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -297,7 +297,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 5,
       "xpos": -1,
       "ypos": -1
@@ -312,7 +312,7 @@
       "sx": 2000,
       "sy": 1667,
       "tex": "main_gui_AreaMap_17",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 4,
       "xpos": 262,
       "ypos": -12
@@ -321,16 +321,106 @@
       "areaId": 102,
       "chara": 0,
       "icon": "11",
-      "name": "活動區域",
+      "name": "【使用禁止】",
       "open": 0,
       "rank": 0,
       "sx": 1800,
       "sy": 1300,
       "tex": "AreaMap0051",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": 1,
       "xpos": 14,
       "ypos": 145
+    },
+    {
+      "areaId": 200,
+      "chara": 0,
+      "icon": "-1",
+      "name": "魔神戰區域",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1544752840558",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 201,
+      "chara": 0,
+      "icon": "-1",
+      "name": "合作區域",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1544752840558",
+      "worldId": 5,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 202,
+      "chara": 0,
+      "icon": "-1",
+      "name": "傳說區域1",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1544752840558",
+      "worldId": 5,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 203,
+      "chara": 0,
+      "icon": "-1",
+      "name": "傳說區域2",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1544752840558",
+      "worldId": 5,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 204,
+      "chara": 0,
+      "icon": "-1",
+      "name": "每日區域",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1544752840558",
+      "worldId": 5,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 205,
+      "chara": 0,
+      "icon": "-1",
+      "name": "挑戰區域",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "AreaMap0051",
+      "timestamp": "1544752840558",
+      "worldId": 5,
+      "xpos": -1,
+      "ypos": -1
     },
     {
       "areaId": 1001,
@@ -342,7 +432,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -357,7 +447,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -372,7 +462,7 @@
       "sx": 2048,
       "sy": 650,
       "tex": "main_gui_AreaMap_1001",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -387,7 +477,7 @@
       "sx": 1300,
       "sy": 900,
       "tex": "main_gui_AreaMap_1002",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -402,7 +492,7 @@
       "sx": 1723,
       "sy": 1001,
       "tex": "main_gui_AreaMap_1007",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -417,7 +507,7 @@
       "sx": 3200,
       "sy": 1100,
       "tex": "main_gui_AreaMap_1008",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -432,7 +522,7 @@
       "sx": 2880,
       "sy": 650,
       "tex": "main_gui_AreaMap_1009",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -447,7 +537,7 @@
       "sx": 1152,
       "sy": 2500,
       "tex": "main_gui_AreaMap_1010",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -462,7 +552,7 @@
       "sx": 1700,
       "sy": 1398,
       "tex": "main_gui_AreaMap_1011",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -477,7 +567,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_1012",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -492,7 +582,7 @@
       "sx": 1916,
       "sy": 1336,
       "tex": "main_gui_AreaMap_1013",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -507,7 +597,7 @@
       "sx": 1447,
       "sy": 1400,
       "tex": "main_gui_AreaMap_1014",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -522,7 +612,7 @@
       "sx": 1152,
       "sy": 3300,
       "tex": "main_gui_AreaMap_1015",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -537,7 +627,7 @@
       "sx": 1516,
       "sy": 2500,
       "tex": "main_gui_AreaMap_1016",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -552,7 +642,7 @@
       "sx": 2000,
       "sy": 2200,
       "tex": "main_gui_AreaMap_1017",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -567,7 +657,7 @@
       "sx": 1800,
       "sy": 1300,
       "tex": "main_gui_AreaMap_1018",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -582,7 +672,7 @@
       "sx": 2560,
       "sy": 2000,
       "tex": "main_gui_AreaMap_1019",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -597,7 +687,7 @@
       "sx": 2560,
       "sy": 2000,
       "tex": "main_gui_AreaMap_1020",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -612,7 +702,7 @@
       "sx": 2500,
       "sy": 1600,
       "tex": "main_gui_AreaMap_1021",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -627,7 +717,7 @@
       "sx": 1152,
       "sy": 3300,
       "tex": "main_gui_AreaMap_1022",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -642,7 +732,7 @@
       "sx": 2000,
       "sy": 2200,
       "tex": "main_gui_AreaMap_1017",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -657,7 +747,7 @@
       "sx": 2840,
       "sy": 640,
       "tex": "main_gui_AreaMap_1024",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -672,7 +762,7 @@
       "sx": 1440,
       "sy": 1620,
       "tex": "main_gui_AreaMap_11",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -687,7 +777,67 @@
       "sx": 1690,
       "sy": 1690,
       "tex": "main_gui_AreaMap_1025",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1027,
+      "chara": 2,
+      "icon": "-1",
+      "name": "薄命大狩獵",
+      "open": 0,
+      "rank": 0,
+      "sx": 2000,
+      "sy": 1000,
+      "tex": "main_gui_AreaMap_13",
+      "timestamp": "1544752840558",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1028,
+      "chara": 2,
+      "icon": "-1",
+      "name": "踏破",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "main_gui_AreaMap_1026",
+      "timestamp": "1544752840558",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1029,
+      "chara": 2,
+      "icon": "-1",
+      "name": "鐵煙大狩獵",
+      "open": 0,
+      "rank": 0,
+      "sx": 1200,
+      "sy": 2100,
+      "tex": "main_gui_AreaMap_14",
+      "timestamp": "1544752840558",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1030,
+      "chara": 2,
+      "icon": "-1",
+      "name": "夏日踏破2018",
+      "open": 0,
+      "rank": 0,
+      "sx": 2272,
+      "sy": 1280,
+      "tex": "main_gui_AreaMap_1030",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -702,7 +852,7 @@
       "sx": 2400,
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
-      "timestamp": "1526610325228",
+      "timestamp": "1544752840558",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -909,23 +1059,6 @@
       "ver3_flag": 0,
       "x": -107.9734,
       "y": 238.8545,
-      "place_reward": {
-        "type": "chara_rf",
-        "id": 90904,
-        "val": 1
-      }
-    },
-    {
-      "areaId": 1,
-      "battleBg": 1,
-      "bg": 5000,
-      "gacha": 0,
-      "icon": 91,
-      "name": "前線基地",
-      "placeId": 12,
-      "ver3_flag": 0,
-      "x": -1000,
-      "y": 250,
       "place_reward": {
         "type": "chara_rf",
         "id": 90904,
@@ -3212,18 +3345,6 @@
       "y": 0
     },
     {
-      "areaId": 31,
-      "battleBg": 1,
-      "bg": 5000,
-      "gacha": 0,
-      "icon": 5004,
-      "name": "前線基地",
-      "placeId": 15,
-      "ver3_flag": 0,
-      "x": 5004,
-      "y": 0
-    },
-    {
       "areaId": 32,
       "battleBg": 1,
       "bg": 50,
@@ -3937,6 +4058,78 @@
         "id": 90904,
         "val": 1
       }
+    },
+    {
+      "areaId": 200,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "魔神襲来",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "areaId": 201,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "合作活動",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "areaId": 202,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "傳勇劇情",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "areaId": 203,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "傳勇劇情",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "areaId": 204,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "每日任務",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "areaId": 205,
+      "battleBg": 1,
+      "bg": 201,
+      "gacha": 0,
+      "icon": 0,
+      "name": "挑戰任務",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": 0
     },
     {
       "areaId": 1004,
@@ -6171,6 +6364,366 @@
       "y": -590
     },
     {
+      "areaId": 1027,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "小廣場",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": -450,
+      "y": 120
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "長老的聚落",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 60,
+      "y": 140
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 6,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 13,
+      "name": "跑進的洞窟",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 320,
+      "y": 200
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "鳥群的水邊",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 730,
+      "y": 180
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "無名丘陵",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -210,
+      "y": -50
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "隱密花田",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 200,
+      "y": -110
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "黃果集落",
+      "placeId": 0,
+      "ver3_flag": 1,
+      "x": 600,
+      "y": -420
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3051,
+      "name": "第1間歇泉",
+      "placeId": 1,
+      "ver3_flag": 1,
+      "x": 320,
+      "y": -280
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "千河之集落",
+      "placeId": 2,
+      "ver3_flag": 1,
+      "x": 440,
+      "y": 210
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3051,
+      "name": "第2間歇泉",
+      "placeId": 3,
+      "ver3_flag": 1,
+      "x": 100,
+      "y": 160
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "海風集落",
+      "placeId": 4,
+      "ver3_flag": 1,
+      "x": -440,
+      "y": 200
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 2031,
+      "name": "大樹集落",
+      "placeId": 5,
+      "ver3_flag": 1,
+      "x": -280,
+      "y": -410
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "bg": 47,
+      "gacha": 0,
+      "icon": 31,
+      "name": "世界樹",
+      "placeId": 6,
+      "ver3_flag": 1,
+      "x": 60,
+      "y": -60
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 118,
+      "bg": 230,
+      "gacha": 0,
+      "icon": 30,
+      "name": "機械城",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 75,
+      "y": 450
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 117,
+      "bg": 228,
+      "gacha": 0,
+      "icon": 32,
+      "name": "北高層站",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 450,
+      "y": 150
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 117,
+      "bg": 228,
+      "gacha": 0,
+      "icon": 32,
+      "name": "中央車站",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 150,
+      "y": -300
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 115,
+      "bg": 224,
+      "gacha": 0,
+      "icon": 31,
+      "name": "放棄地區",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 450,
+      "y": -400
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 116,
+      "bg": 225,
+      "gacha": 0,
+      "icon": 30,
+      "name": "機族城鎮",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -200,
+      "y": 150
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 115,
+      "bg": 227,
+      "gacha": 0,
+      "icon": 29,
+      "name": "上層居住區",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": 0,
+      "y": -50
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 115,
+      "bg": 224,
+      "gacha": 0,
+      "icon": 31,
+      "name": "煤礦的遺跡",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": -325,
+      "y": -500
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 261,
+      "gacha": 0,
+      "icon": 2021,
+      "name": "水上主題樂園",
+      "placeId": 0,
+      "ver3_flag": 1,
+      "x": 650,
+      "y": 300
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "游泳池外的平原",
+      "placeId": 1,
+      "ver3_flag": 1,
+      "x": 400,
+      "y": 250
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "第一水源地",
+      "placeId": 2,
+      "ver3_flag": 1,
+      "x": 610,
+      "y": -100
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 261,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "第二水源地",
+      "placeId": 3,
+      "ver3_flag": 1,
+      "x": 820,
+      "y": 100
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 261,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "第三水源地",
+      "placeId": 4,
+      "ver3_flag": 1,
+      "x": 950,
+      "y": -150
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 261,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "第四水源地",
+      "placeId": 5,
+      "ver3_flag": 1,
+      "x": 720,
+      "y": -400
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "第五水源地",
+      "placeId": 6,
+      "ver3_flag": 1,
+      "x": 420,
+      "y": -300
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 3002,
+      "name": "迷宮山脈入口",
+      "placeId": 7,
+      "ver3_flag": 1,
+      "x": 160,
+      "y": -450
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 3002,
+      "name": "東北東的集落周邊",
+      "placeId": 8,
+      "ver3_flag": 1,
+      "x": -120,
+      "y": -280
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "bg": 51,
+      "gacha": 0,
+      "icon": 3002,
+      "name": "最後的水源地",
+      "placeId": 9,
+      "ver3_flag": 1,
+      "x": -500,
+      "y": -300
+    },
+    {
       "areaId": 9999,
       "battleBg": 1,
       "bg": 50,
@@ -6188,2115 +6741,2297 @@
       "areaId": 1,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 1,
       "battleBg": 0,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 11
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 12
     },
     {
       "areaId": 1,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 2,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 2,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 2,
       "battleBg": 6,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 8,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 3,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 4,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 5,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 6,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 6,
       "battleBg": 8,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 10,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 11,
       "battleBg": 106,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 12,
       "battleBg": 106,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 11
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 12,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 12,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 13,
       "battleBg": 111,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 13,
       "battleBg": 113,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 14,
       "battleBg": 117,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 14,
       "battleBg": 115,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 14,
       "battleBg": 116,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 11
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 9,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 11,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 12
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 15,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 16,
       "battleBg": 121,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 11
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 101,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 101,
       "battleBg": 2,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 9,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 10
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 101,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1004,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1005,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1006,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1007,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1008,
       "battleBg": 7,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1009,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1009,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1009,
       "battleBg": 3,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1009,
       "battleBg": 13,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1009,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 8,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1010,
       "battleBg": 6,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1011,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1011,
       "battleBg": 12,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1011,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1011,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1011,
       "battleBg": 106,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1011,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1012,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1013,
       "battleBg": 5,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1014,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1015,
       "battleBg": 112,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1015,
       "battleBg": 120,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1015,
       "battleBg": 6,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1016,
       "battleBg": 123,
       "from": 8,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 9
     },
     {
       "areaId": 1017,
       "battleBg": 107,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1017,
       "battleBg": 109,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1017,
       "battleBg": 108,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1017,
       "battleBg": 110,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1018,
       "battleBg": 2,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1019,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1020,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1021,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1022,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1023,
       "battleBg": 110,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1024,
       "battleBg": 4,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1025,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 0,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 1
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 1,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 2
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 2,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 3
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 4,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 5
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 6,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 7
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 3,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 4
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 5,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 6
     },
     {
       "areaId": 1026,
       "battleBg": 1,
       "from": 7,
-      "timestamp": "1519968435748",
+      "timestamp": "1532932261885",
       "to": 8
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1532932261885",
+      "to": 1
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1532932261885",
+      "to": 2
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1532932261885",
+      "to": 3
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1532932261885",
+      "to": 4
+    },
+    {
+      "areaId": 1027,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1532932261885",
+      "to": 5
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "from": 0,
+      "timestamp": "1532932261885",
+      "to": 1
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "from": 1,
+      "timestamp": "1532932261885",
+      "to": 2
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "from": 2,
+      "timestamp": "1532932261885",
+      "to": 3
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "from": 3,
+      "timestamp": "1532932261885",
+      "to": 4
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "from": 4,
+      "timestamp": "1532932261885",
+      "to": 5
+    },
+    {
+      "areaId": 1028,
+      "battleBg": 2,
+      "from": 5,
+      "timestamp": "1532932261885",
+      "to": 6
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1532932261885",
+      "to": 1
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1532932261885",
+      "to": 2
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1532932261885",
+      "to": 3
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1532932261885",
+      "to": 4
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1532932261885",
+      "to": 5
+    },
+    {
+      "areaId": 1029,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1532932261885",
+      "to": 6
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1532932261885",
+      "to": 1
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1532932261885",
+      "to": 2
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1532932261885",
+      "to": 3
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 3,
+      "timestamp": "1532932261885",
+      "to": 4
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1532932261885",
+      "to": 5
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1532932261885",
+      "to": 6
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 6,
+      "timestamp": "1532932261885",
+      "to": 7
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 7,
+      "timestamp": "1532932261885",
+      "to": 8
+    },
+    {
+      "areaId": 1030,
+      "battleBg": 1,
+      "from": 8,
+      "timestamp": "1532932261885",
+      "to": 9
     }
   ],
   "place_bg": [

@@ -1,7 +1,89 @@
 ﻿{
-  "deceive": 1540533538,
+  "deceive": 1547717254,
   "res": 0,
   "explorer_location": [
+    {
+      "location": 100,
+      "name": "ケ者の大陸",
+      "start": 1473141600,
+      "end": 1473901199,
+      "timestamp": "1521434658340",
+      "quest_type": 2,
+      "quest_id": 210206,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "１部２章クリアで\\n開放されます",
+      "img_id": "search_area_icon_e01",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 27,
+      "get_item": [
+        {
+          "type": "chara_rf",
+          "id": 90020,
+          "val": 1,
+          "category_id": 2,
+          "priority": 7
+        },
+        {
+          "type": "weapon_rf",
+          "id": 93021,
+          "val": 1,
+          "category_id": 3,
+          "priority": 8
+        },
+        {
+          "type": "item",
+          "id": 1011,
+          "val": 1,
+          "category_id": 7,
+          "priority": 6
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85100,
+          "val": 1,
+          "category_id": 8,
+          "priority": 1
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26008,
+          "val": 1,
+          "category_id": 8,
+          "priority": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 96316,
+          "val": 1,
+          "category_id": 8,
+          "priority": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85068,
+          "val": 1,
+          "category_id": 8,
+          "priority": 4
+        },
+        {
+          "type": "weapon_ev",
+          "id": 96306,
+          "val": 1,
+          "category_id": 8,
+          "priority": 5
+        }
+      ]
+    },
     {
       "location": 0,
       "name": "城砦",
@@ -1208,6 +1290,95 @@
       ]
     },
     {
+      "location": 109,
+      "name": "神殿",
+      "start": 1490680800,
+      "end": 1491458399,
+      "timestamp": "1526610325228",
+      "quest_type": 2,
+      "quest_id": 210206,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "１部２章クリアで\\n開放されます",
+      "img_id": "search_area_icon_006",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 30,
+      "get_item": [
+        {
+          "type": "card",
+          "id": 58011,
+          "val": 1,
+          "category_id": 103,
+          "priority": 1
+        },
+        {
+          "type": "card",
+          "id": 58012,
+          "val": 1,
+          "category_id": 104,
+          "priority": 2
+        },
+        {
+          "type": "card",
+          "id": 58008,
+          "val": 1,
+          "category_id": 105,
+          "priority": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85247,
+          "val": 1,
+          "category_id": 106,
+          "priority": 4
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85248,
+          "val": 1,
+          "category_id": 106,
+          "priority": 5
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85244,
+          "val": 1,
+          "category_id": 106,
+          "priority": 6
+        },
+        {
+          "type": "item",
+          "id": 1001,
+          "val": 1,
+          "category_id": 7,
+          "priority": 8
+        },
+        {
+          "type": "item",
+          "id": 1002,
+          "val": 1,
+          "category_id": 7,
+          "priority": 9
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 7,
+          "priority": 7
+        }
+      ]
+    },
+    {
       "location": 108,
       "name": "仄暗い坑道",
       "start": 1487224800,
@@ -1316,95 +1487,6 @@
           "category_id": 140,
           "priority": 2,
           "limit": 70
-        }
-      ]
-    },
-    {
-      "location": 109,
-      "name": "神殿",
-      "start": 1490680800,
-      "end": 1491458399,
-      "timestamp": "1526610325228",
-      "quest_type": 2,
-      "quest_id": 210206,
-      "v3_quest_id": null,
-      "tab": 4,
-      "text": "１部２章クリアで\\n開放されます",
-      "img_id": "search_area_icon_006",
-      "gold": [
-        {
-          "interval_id": 1,
-          "val": 1000
-        },
-        {
-          "interval_id": 2,
-          "val": 3000
-        }
-      ],
-      "event_bg": 30,
-      "get_item": [
-        {
-          "type": "card",
-          "id": 58011,
-          "val": 1,
-          "category_id": 103,
-          "priority": 1
-        },
-        {
-          "type": "card",
-          "id": 58012,
-          "val": 1,
-          "category_id": 104,
-          "priority": 2
-        },
-        {
-          "type": "card",
-          "id": 58008,
-          "val": 1,
-          "category_id": 105,
-          "priority": 3
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85247,
-          "val": 1,
-          "category_id": 106,
-          "priority": 4
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85248,
-          "val": 1,
-          "category_id": 106,
-          "priority": 5
-        },
-        {
-          "type": "weapon_ev",
-          "id": 85244,
-          "val": 1,
-          "category_id": 106,
-          "priority": 6
-        },
-        {
-          "type": "item",
-          "id": 1001,
-          "val": 1,
-          "category_id": 7,
-          "priority": 8
-        },
-        {
-          "type": "item",
-          "id": 1002,
-          "val": 1,
-          "category_id": 7,
-          "priority": 9
-        },
-        {
-          "type": "item",
-          "id": 7,
-          "val": 1,
-          "category_id": 7,
-          "priority": 7
         }
       ]
     },

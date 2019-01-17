@@ -1,5 +1,102 @@
 {
-  "deceive": 1547110686,
-  "sound_ex_data": [],
-  "res": 0
+  "res": 0,
+  "deceive": 1547716755,
+  "sound_ex_data": [
+    {
+      "type": 1,
+      "start": 1512054000,
+      "limit": 1517410799,
+      "target": "hogeBGM",
+      "change": "fugaBGM",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 2,
+      "start": 1512054000,
+      "limit": 1517410799,
+      "target": "hogeSE",
+      "change": "fugaSE",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 3,
+      "start": 1516345200,
+      "limit": 1516348800,
+      "target": "126",
+      "change": "1",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 3,
+      "start": 1516345200,
+      "limit": 1516348800,
+      "target": "127",
+      "change": "1",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 3,
+      "start": 1516345200,
+      "limit": 1516348800,
+      "target": "137",
+      "change": "1",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 3,
+      "start": 1516345200,
+      "limit": 1516348800,
+      "target": "139",
+      "change": "1",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 2,
+      "start": 1516077000,
+      "limit": 1516165200,
+      "target": "SE_KONOSUBA_001",
+      "change": "SE_TS_BOMB_01",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 2,
+      "start": 1516077000,
+      "limit": 1516165200,
+      "target": "SE_KONOSUBA_002",
+      "change": "SE_ZANGEKI_01",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 1,
+      "start": 1516077000,
+      "limit": 1516165200,
+      "target": "BGM_KONOSUBA_001",
+      "change": "BGM_DRAMA_HAPPY_CC3",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 1,
+      "start": 1516077000,
+      "limit": 1516165200,
+      "target": "BGM_KONOSUBA_005",
+      "change": "BGM_DRAMA_SEIOTO",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 2,
+      "start": 1516077000,
+      "limit": 1516251600,
+      "target": "SE_TAIKO_DON",
+      "change": "SE_ATTACK_01",
+      "timestamp": "1516261862315"
+    },
+    {
+      "type": 3,
+      "start": 1516077000,
+      "limit": 1516165200,
+      "target": "138",
+      "change": "1",
+      "timestamp": "1516261862315"
+    }
+  ]
 }
