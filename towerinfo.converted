@@ -1,6 +1,6 @@
 ﻿{
-  "deceive": 1547717270,
   "res": 0,
+  "deceive": 1548320474,
   "tower": [
     {
       "tower_id": 1,
@@ -852,6 +852,33 @@
         {
           "floor": "5",
           "floor_id": 15
+        }
+      ],
+      "ex_floor_list": [
+        {
+          "floor": "1",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "2",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "3",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "4",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "5",
+          "floor_id": -1,
+          "rules": []
         }
       ],
       "reward_list": [

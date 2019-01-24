@@ -1,25 +1,7 @@
 ﻿{
-  "deceive": 1547716742,
   "res": 0,
+  "deceive": 1548320437,
   "vignette": [
-    {
-      "cid": 11220,
-      "v_motionid": 0,
-      "bg": 81,
-      "memo": "睜大眼睛看好我千錘百鍊的鬥術！",
-      "start": 1547791200,
-      "end": 1548309600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 200,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_2",
-      "event_area_name": 3
-    },
     {
       "cid": 79,
       "v_motionid": 0,
@@ -39,22 +21,40 @@
       "event_area_name": null
     },
     {
-      "cid": 2229,
+      "cid": 7585,
       "v_motionid": 0,
-      "bg": 11,
-      "memo": "跟緊我……",
-      "start": 1535608800,
-      "end": 1548309600,
-      "link": "unity:GoLegendArea",
+      "bg": 5100,
+      "memo": "小女子對您傾心不已",
+      "start": 1506924000,
+      "end": 1549519200,
+      "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 202,
-        "place_id": 1
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "raid",
+      "event_area_name": 1
+    },
+    {
+      "cid": 7584,
+      "v_motionid": 0,
+      "bg": 5100,
+      "memo": "別阻撓我的愛情！",
+      "start": 1506924000,
+      "end": 1549519200,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
       },
       "priority": 0,
       "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "legend",
-      "event_area_name": 201
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": 1
     }
   ],
   "vignette_motion": [

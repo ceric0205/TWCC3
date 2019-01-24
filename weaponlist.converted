@@ -1,6 +1,6 @@
 ﻿{
-  "deceive": 1547716775,
   "res": 0,
+  "deceive": 1548320435,
   "weaponlist": [
     {
       "id": 1,
@@ -9844,7 +9844,7 @@
     },
     {
       "id": 26254,
-      "name": "羈絆的碎片",
+      "name": "絆之碎片",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -9859,7 +9859,7 @@
     },
     {
       "id": 26255,
-      "name": "羈絆的結晶",
+      "name": "絆之結晶",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -9874,7 +9874,7 @@
     },
     {
       "id": 26256,
-      "name": "羈絆的大結晶",
+      "name": "絆之大結晶",
       "type_atk": 1,
       "attackMax": 1,
       "type_cri": 2,
@@ -19504,7 +19504,7 @@
     },
     {
       "id": 85580,
-      "name": "圍繞著風的銀狼之劍",
+      "name": "纏風銀狼之劍",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -19519,7 +19519,7 @@
     },
     {
       "id": 85581,
-      "name": "三星教授的魔杖",
+      "name": "三星教授之杖",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -20644,7 +20644,7 @@
     },
     {
       "id": 85663,
-      "name": "獻上祈禱的聖杖",
+      "name": "奉獻祈禱聖杖",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -21319,7 +21319,7 @@
     },
     {
       "id": 85712,
-      "name": "楓葉杖＋",
+      "name": "羈絆＋",
       "type_atk": 4,
       "attackMax": 15,
       "type_cri": 2,
@@ -21334,7 +21334,7 @@
     },
     {
       "id": 85713,
-      "name": "黃金人偶＋",
+      "name": "黃金娃娃＋",
       "type_atk": 4,
       "attackMax": 7,
       "type_cri": 5,
@@ -21349,7 +21349,7 @@
     },
     {
       "id": 85714,
-      "name": "黃金之槍＋",
+      "name": "黃金之矛＋",
       "type_atk": 1,
       "attackMax": 11,
       "type_cri": 5,
@@ -21679,7 +21679,7 @@
     },
     {
       "id": 85736,
-      "name": "婚姻的封花",
+      "name": "婚姻之封花",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -27989,7 +27989,7 @@
     {
       "evol_dst": 26254,
       "id": 26254,
-      "name": "羈絆的碎片",
+      "name": "絆之碎片",
       "profile": "義勇軍的武器素材1",
       "rank_limit": 1,
       "rarity": 3,
@@ -28005,7 +28005,7 @@
     {
       "evol_dst": 26255,
       "id": 26255,
-      "name": "羈絆的結晶",
+      "name": "絆之結晶",
       "profile": "義勇軍的武器素材2",
       "rank_limit": 2,
       "rarity": 4,
@@ -28021,7 +28021,7 @@
     {
       "evol_dst": 26256,
       "id": 26256,
-      "name": "羈絆的大結晶",
+      "name": "絆之大結晶",
       "profile": "義勇軍的武器素材3",
       "rank_limit": 2,
       "rarity": 5,
@@ -33393,7 +33393,7 @@
     {
       "evol_dst": 85580,
       "id": 85580,
-      "name": "圍繞著風的銀狼之劍",
+      "name": "纏風銀狼之劍",
       "profile": "イベント武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -33406,7 +33406,7 @@
     {
       "evol_dst": 85581,
       "id": 85581,
-      "name": "三星教授的魔杖",
+      "name": "三星教授之杖",
       "profile": "イベント武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -34173,7 +34173,7 @@
     {
       "evol_dst": 85663,
       "id": 85663,
-      "name": "獻上祈禱的聖杖",
+      "name": "奉獻祈禱聖杖",
       "profile": "リリスVer.2モチーフ武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -34550,7 +34550,7 @@
     {
       "evol_dst": 85712,
       "id": 85712,
-      "name": "楓葉杖＋",
+      "name": "羈絆＋",
       "profile": "強化武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -34563,7 +34563,7 @@
     {
       "evol_dst": 85713,
       "id": 85713,
-      "name": "黃金人偶＋",
+      "name": "黃金娃娃＋",
       "profile": "強化武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -34576,7 +34576,7 @@
     {
       "evol_dst": 85714,
       "id": 85714,
-      "name": "黃金之槍＋",
+      "name": "黃金之矛＋",
       "profile": "強化武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -34771,7 +34771,7 @@
     {
       "evol_dst": 85736,
       "id": 85736,
-      "name": "婚姻的封花",
+      "name": "婚姻之封花",
       "profile": "卡麥薩魯來襲",
       "rank_limit": 2,
       "rarity": 5,
