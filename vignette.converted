@@ -1,24 +1,42 @@
 ﻿{
   "res": 0,
-  "deceive": 1548320437,
+  "deceive": 1548925103,
   "vignette": [
     {
-      "cid": 79,
+      "cid": 5032,
       "v_motionid": 0,
-      "bg": 2,
-      "memo": "我流最終奧義！",
-      "start": 1547740800,
-      "end": 1548345600,
+      "bg": 5231,
+      "memo": "呣喵呣喵、好想睡～～",
+      "start": 1550124000,
+      "end": 1550728800,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 31,
-        "place_id": 15
+        "area_id": 1028,
+        "place_id": 0
       },
       "priority": 100,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "totalwar",
+      "v_category": "cover",
       "event_area_name": null
+    },
+    {
+      "cid": 7583,
+      "v_motionid": 0,
+      "bg": 5100,
+      "memo": "我會帶給妳幸福的",
+      "start": 1506924000,
+      "end": 1549519200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 70,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "raid",
+      "event_area_name": 1
     },
     {
       "cid": 7585,
@@ -39,6 +57,24 @@
       "event_area_name": 1
     },
     {
+      "cid": 5262,
+      "v_motionid": 0,
+      "bg": 5231,
+      "memo": "從這裡以上是我的領域。",
+      "start": 1549519200,
+      "end": 1550728800,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1028,
+        "place_id": 0
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "cover",
+      "event_area_name": null
+    },
+    {
       "cid": 7584,
       "v_motionid": 0,
       "bg": 5100,
@@ -49,6 +85,24 @@
       "param": {
         "type": "event",
         "gacha_id": 1
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": 1
+    },
+    {
+      "cid": 5216,
+      "v_motionid": 0,
+      "bg": 5231,
+      "memo": "風速、風向、目標位置皆宜。",
+      "start": 1549519200,
+      "end": 1550728800,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 2
       },
       "priority": 0,
       "min_rank": 1,

@@ -1,5 +1,19 @@
 {
   "res": 0,
-  "deceive": 1547717251,
-  "cover_info": []
+  "deceive": 1548925117,
+  "cover_info": [
+    {
+      "cover_id": 26,
+      "sp_cards": [
+        {
+          "cid": "5216",
+          "pointid": 0
+        },
+        {
+          "cid": "5262",
+          "pointid": 0
+        }
+      ]
+    }
+  ]
 }
