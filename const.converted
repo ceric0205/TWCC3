@@ -145,7 +145,22 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
+        "cover": {
+          "cover_id": 26,
+          "is_mop_up": false,
+          "name": "精靈島瑪那騷動",
+          "area_id": 1028,
+          "dist_start": 1549519200,
+          "event_start": 1549519200,
+          "main_start": 1550127600,
+          "event_end": 1550728800,
+          "dist_end": 1550728800,
+          "bgm": "BGM_FIELD_CC3",
+          "normal_fever": 1.5,
+          "great_fever": 3,
+          "extend_fever_time": 330,
+          "reward_cid": 5032
+        },
         "raid": {
           "raid_id": 32,
           "bg": 2000,
@@ -258,6 +273,6 @@
     "medalinfo": 1,
     "eventPortal": 1548823112,
     "reload": 1500271199,
-    "servertime": 1548938189
+    "servertime": 1549523326
   }
 }

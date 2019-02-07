@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1548925094,
+  "deceive": 1548939976,
   "event_portal": [
     {
       "_id": 0,
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=1356841"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=5044534"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=7454425"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=8308756"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=6961098"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=591864"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=879045"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=117491"
             }
           ]
         }
@@ -417,7 +417,7 @@
               "place_id": 1,
               "area_id": 36,
               "tab_id": 15,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=7401212"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=8169201"
             },
             {
               "start": 1535608800,
