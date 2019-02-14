@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1548925103,
+  "deceive": 1550134953,
   "vignette": [
     {
       "cid": 5032,
@@ -21,42 +21,6 @@
       "event_area_name": null
     },
     {
-      "cid": 7583,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "我會帶給妳幸福的",
-      "start": 1506924000,
-      "end": 1549519200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 70,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
-    },
-    {
-      "cid": 7585,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "小女子對您傾心不已",
-      "start": 1506924000,
-      "end": 1549519200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
-    },
-    {
       "cid": 5262,
       "v_motionid": 0,
       "bg": 5231,
@@ -73,24 +37,6 @@
       "max_rank": 250,
       "v_category": "cover",
       "event_area_name": null
-    },
-    {
-      "cid": 7584,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "別阻撓我的愛情！",
-      "start": 1506924000,
-      "end": 1549519200,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": 1
     },
     {
       "cid": 5216,

@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1548925108,
+  "res": 0,
+  "deceive": 1550134952,
   "missionlist": [
     {
       "id": 1,
@@ -7546,7 +7547,132 @@
         "val": "1"
       },
       "help": "在指定關卡中一擊造成1000000以上的傷害！"
+    },
+    {
+      "id": 308901,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302206
+      ],
+      "title": "到達「千河集落」！",
+      "sub_id": "Event 001",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96069",
+        "val": "1"
+      },
+      "help": "抵達踏破活動的「千河集落」！"
+    },
+    {
+      "id": 308902,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302216
+      ],
+      "title": "到達「世界樹」！",
+      "sub_id": "Event 002",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85098",
+        "val": "1"
+      },
+      "help": "抵達踏破活動的「世界樹」！"
+    },
+    {
+      "id": 308903,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302225
+      ],
+      "title": "使用4次以上傳授必殺技吧！",
+      "sub_id": "Event 003",
+      "max_num": 4,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96069",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n使用4次以上傳授必殺技吧"
+    },
+    {
+      "id": 308904,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302226
+      ],
+      "title": "達成全部的戰鬥獎勵！1",
+      "sub_id": "Event 004",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96238",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n快速、無人死亡，並以必殺技給予最後一擊吧！"
+    },
+    {
+      "id": 308905,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302227
+      ],
+      "title": "由弓箭手來結束戰鬥！",
+      "sub_id": "Event 005",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 85496,
+        "val": "1"
+      },
+      "help": "在指定任務中\\n由＜弓箭手＞來給予最後一擊！"
+    },
+    {
+      "id": 308906,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302228
+      ],
+      "title": "達成全部的戰鬥獎勵！2",
+      "sub_id": "Event 006",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85098",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n快速、無人死亡，並以必殺技給予最後一擊吧！！"
+    },
+    {
+      "id": 308907,
+      "type": 1,
+      "start_time": 1549956331,
+      "end_time": 1550815200,
+      "quest_id": [
+        302229
+      ],
+      "title": "安全地通過關卡！",
+      "sub_id": "Event 007",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1034",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n過關時不曾接關。"
     }
-  ],
-  "res": 0
+  ]
 }
