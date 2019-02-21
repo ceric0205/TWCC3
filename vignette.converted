@@ -1,54 +1,52 @@
 ﻿{
   "res": 0,
-  "deceive": 1550134953,
+  "deceive": 1550748553,
   "vignette": [
     {
-      "cid": 5032,
+      "cid": 7015,
       "v_motionid": 0,
-      "bg": 5231,
-      "memo": "呣喵呣喵、好想睡～～",
-      "start": 1550124000,
-      "end": 1550728800,
-      "link": "unity:GoSpecifiedArea",
+      "bg": 2002,
+      "memo": "",
+      "start": 1489021200,
+      "end": 1577807999,
+      "link": "event_web",
       "param": {
-        "area_id": 1028,
-        "place_id": 0
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "cover",
-      "event_area_name": null
-    },
-    {
-      "cid": 5262,
-      "v_motionid": 0,
-      "bg": 5231,
-      "memo": "從這裡以上是我的領域。",
-      "start": 1549519200,
-      "end": 1550728800,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1028,
-        "place_id": 0
+        "url": ""
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 250,
-      "v_category": "cover",
-      "event_area_name": null
+      "v_category": "favorite"
     },
     {
-      "cid": 5216,
-      "v_motionid": 0,
-      "bg": 5231,
-      "memo": "風速、風向、目標位置皆宜。",
-      "start": 1549519200,
-      "end": 1550728800,
+      "cid": 12225,
+      "v_motionid": 2,
+      "bg": 101,
+      "memo": "我負責保護大家！",
+      "start": 1506924000,
+      "end": 1551247200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_2",
+      "event_area_name": 3
+    },
+    {
+      "cid": 303,
+      "v_motionid": 2,
+      "bg": 2,
+      "memo": "就算在賭場我也是最顯眼的！",
+      "start": 1506924000,
+      "end": 1551247200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
-        "gacha_id": 2
+        "gacha_id": 1
       },
       "priority": 0,
       "min_rank": 1,

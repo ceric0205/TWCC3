@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1550134949,
+  "deceive": 1550748547,
   "bossinfo": {
     "bossskill": [
       {
@@ -100948,7 +100948,7 @@
         "skillid4": 0,
         "skillid5": 0,
         "skillid6": 0,
-        "sname": "奧丁衝擊",
+        "sname": "奧汀突擊",
         "stext": "我只接受快樂的結尾啊！",
         "tid": 0,
         "voice": 2
@@ -110264,7 +110264,7 @@
         "posp": 0,
         "priority": 0,
         "scost": 1,
-        "sinfo": "【地形變化】於一定時間內地形變更為雪山。",
+        "sinfo": "【地形變化】將地形長時間變更為雪山。",
         "skillid0": 31020200,
         "skillid1": 0,
         "skillid2": 0,
@@ -110292,7 +110292,7 @@
         "posp": 0,
         "priority": 100,
         "scost": 1,
-        "sinfo": "【地形】在雪山地形時，我方全體成員的HP少量回復。並於一定時間內增加我方全體成員的攻擊力。",
+        "sinfo": "【地形】地形為雪山時，小幅恢復我方全體HP，並且在一定時間內提升我方全體攻擊力。",
         "skillid0": 31020201,
         "skillid1": 0,
         "skillid2": 0,
@@ -110300,7 +110300,7 @@
         "skillid4": 0,
         "skillid5": 0,
         "skillid6": 0,
-        "sname": "半龍之雪",
+        "sname": "生命之雪",
         "stext": "從天而降，讓生命閃耀",
         "tid": 0,
         "voice": 3
