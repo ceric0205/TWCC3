@@ -1,7 +1,25 @@
 ﻿{
   "res": 0,
-  "deceive": 1550748553,
+  "deceive": 1551258102,
   "vignette": [
+    {
+      "cid": 10024,
+      "v_motionid": 2,
+      "bg": 5291,
+      "memo": "毀滅他吧、光芒呀！",
+      "start": 1506924000,
+      "end": 1552543200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_1",
+      "event_area_name": 3
+    },
     {
       "cid": 7015,
       "v_motionid": 0,
@@ -19,30 +37,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 12225,
-      "v_motionid": 2,
-      "bg": 101,
-      "memo": "我負責保護大家！",
-      "start": 1506924000,
-      "end": 1551247200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "event_2",
-      "event_area_name": 3
-    },
-    {
-      "cid": 303,
-      "v_motionid": 2,
-      "bg": 2,
-      "memo": "就算在賭場我也是最顯眼的！",
-      "start": 1506924000,
-      "end": 1551247200,
+      "cid": 10002,
+      "v_motionid": 0,
+      "bg": 5291,
+      "memo": "為了我們自己的未來努力！",
+      "start": 1522918800,
+      "end": 1552543200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -52,7 +52,7 @@
       "min_rank": 1,
       "max_rank": 250,
       "v_category": "gacha",
-      "event_area_name": 1
+      "event_area_name": null
     }
   ],
   "vignette_motion": [

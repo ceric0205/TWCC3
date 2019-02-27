@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1550748541,
+  "deceive": 1551258091,
   "res": 0,
   "event_portal": [
     {
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=4489325"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=561196"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=1635562"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=1196807"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=291267"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=1584890"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=1963484"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=9396448"
             }
           ]
         }
@@ -185,8 +185,8 @@
               "info_url": ""
             },
             {
-              "start": 1533913200,
-              "end": 1548950399,
+              "start": 1551369600,
+              "end": 1609340399,
               "priority": 1,
               "name": "sortie.jpg",
               "url": "",
@@ -214,7 +214,7 @@
           "category": "sortie"
         }
       ],
-      "timestamp": "1548823111000"
+      "timestamp": "1551162012000"
     },
     {
       "_id": 6,
@@ -417,7 +417,7 @@
               "place_id": 1,
               "area_id": 36,
               "tab_id": 15,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=2856353"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=535180"
             },
             {
               "start": 1535608800,
@@ -475,32 +475,9 @@
           "banner": [
             {
               "start": 1535421600,
-              "end": 1551247199,
-              "priority": 0,
-              "name": "BN_20190214_3.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1549000800,
-              "end": 1551247199,
-              "priority": 2,
-              "name": "BN_20190214_6.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 12,
-              "info_url": ""
-            },
-            {
-              "start": 1535421600,
-              "end": 1548914399,
-              "priority": 0,
-              "name": "BN_20190117_1.jpg",
+              "end": 1551938399,
+              "priority": 7,
+              "name": "BN_20190214_1.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "story",
@@ -508,10 +485,33 @@
               "info_url": ""
             },
             {
+              "start": 1549000800,
+              "end": 1551938399,
+              "priority": 6,
+              "name": "BN_20190214_2.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 16,
+              "info_url": ""
+            },
+            {
+              "start": 1535421600,
+              "end": 1552543199,
+              "priority": 9,
+              "name": "BN_20190219_1.jpg",
+              "url": "",
+              "type": "PremiumGacha",
+              "gacha_type": "event",
+              "gacha_id": 1,
+              "info_url": ""
+            },
+            {
               "start": 1548950400,
-              "end": 1551247199,
-              "priority": 1,
-              "name": "BN_20190214_4.jpg",
+              "end": 1553147999,
+              "priority": 8,
+              "name": "BN_20190219_2.jpg",
               "url": "",
               "type": "EventArea",
               "place_id": 1,
@@ -530,11 +530,23 @@
               "area_id": 36,
               "tab_id": 99,
               "info_url": ""
+            },
+            {
+              "start": 1551333600,
+              "end": 1551938399,
+              "priority": 10,
+              "name": "BN_20190214_7.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 7,
+              "info_url": ""
             }
           ]
         }
       ],
-      "timestamp": "1550733587000"
+      "timestamp": "1551150743000"
     }
   ]
 }
