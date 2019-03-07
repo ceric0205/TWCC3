@@ -1,4 +1,4 @@
-{
+﻿{
   "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
@@ -145,7 +145,49 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
+        "cover": {
+          "cover_id": 25,
+          "is_mop_up": true,
+          "name": "大狩獵戰「薄命之地雪花飄」",
+          "area_id": 1027,
+          "dist_start": 1523412000,
+          "event_start": 1523412000,
+          "main_start": 1546417535,
+          "event_end": 1552543200,
+          "dist_end": 1552629600,
+          "bgm": "BGM_FIELD_MOPUP_01",
+          "point_list": {
+            "point1": {
+              "name": "銳利羽毛",
+              "icon": "Item_MopUp_04_A",
+              "target_enemy_id": "335453",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335454",
+              "rare_target_point_val": "80"
+            },
+            "point2": {
+              "name": "龜的甲殼",
+              "icon": "Item_MopUp_04_B",
+              "target_enemy_id": "335453",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335454",
+              "rare_target_point_val": "80"
+            }
+          },
+          "info_list": [
+            "Tutorial_MopUp_04_01",
+            "Tutorial_MopUp_04_02",
+            "Tutorial_MopUp_04_03",
+            "Tutorial_MopUp_04_04"
+          ],
+          "rush": {
+            "rate": 0.15,
+            "validcnt": 1,
+            "text": "目標大量出現！",
+            "bgm": 13
+          },
+          "reward_cid": 10202
+        },
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -168,7 +210,7 @@
     "skilllist": 1551175848,
     "worldinfo": 1544752879,
     "episodeinfo": 1550037664,
-    "questdigest": 1551249034,
+    "questdigest": 1551854396,
     "itemlist": 1526610327,
     "booklist": 1550746053,
     "motionlist": 1536123104,
@@ -192,12 +234,12 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1551162829,
+    "vignette": 1551854815,
     "spdrama": 1544754882,
-    "gachainfo": 1551151910,
+    "gachainfo": 1551852174,
     "questtree": 1551067539,
-    "eventareainfo": 1551150370,
-    "coverinfo": 1550045045,
+    "eventareainfo": 1551768464,
+    "coverinfo": 1551855249,
     "towerinfo": 1548660966,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1551154324,
@@ -206,8 +248,8 @@
     "heroicskilllist": 1547780650,
     "soundExData": 1516261863,
     "medalinfo": 1,
-    "eventPortal": 1551163495,
+    "eventPortal": 1551852171,
     "reload": 1500271199,
-    "servertime": 1551267415
+    "servertime": 1551960234
   }
 }
