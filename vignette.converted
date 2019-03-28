@@ -1,7 +1,25 @@
 ﻿{
   "res": 0,
-  "deceive": 1553158734,
+  "deceive": 1553763907,
   "vignette": [
+    {
+      "cid": 12007,
+      "v_motionid": 2,
+      "bg": 101,
+      "memo": "高品味代表高性能！",
+      "start": 1506924000,
+      "end": 1554962400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 300,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "event_1",
+      "event_area_name": 4
+    },
     {
       "cid": 7015,
       "v_motionid": 0,
@@ -19,15 +37,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 5241,
+      "cid": 12032,
       "v_motionid": 0,
-      "bg": 31,
-      "memo": "向我們的天空許願！",
+      "bg": 101,
+      "memo": "將一切化為灰燼！",
       "start": 1522918800,
-      "end": 1553752800,
+      "end": 1554962400,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 0,
@@ -35,24 +53,6 @@
       "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": null
-    },
-    {
-      "cid": 5201,
-      "v_motionid": 0,
-      "bg": 31,
-      "memo": "貫穿吧！",
-      "start": 1535608800,
-      "end": 1553752800,
-      "link": "unity:GoLegendArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 4
     }
   ],
   "vignette_motion": [
