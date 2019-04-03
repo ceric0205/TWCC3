@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1553763907,
+  "deceive": 1554281980,
   "vignette": [
     {
       "cid": 12007,
@@ -19,6 +19,24 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 4
+    },
+    {
+      "cid": 12215,
+      "v_motionid": 2,
+      "bg": 101,
+      "memo": "為了迎接更燦爛的明天！",
+      "start": 1497506400,
+      "end": 1554962400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1029,
+        "place_id": 0
+      },
+      "priority": 250,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "mopup",
+      "event_area_name": null
     },
     {
       "cid": 7015,
