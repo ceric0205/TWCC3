@@ -1,4 +1,5 @@
 ﻿{
+  "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
   "exp_up": 604800,
@@ -134,7 +135,6 @@
   ],
   "sortie_new_commer_limit": 4,
   "uzu_majin_debuf_offtime": 1922194800,
-  "res": 0,
   "body": [
     {
       "type": 14,
@@ -206,11 +206,11 @@
   ],
   "mVer": {
     "charainfo": 1554088629,
-    "weaponlist": 1554088627,
-    "skilllist": 1553583644,
+    "weaponlist": 1554713028,
+    "skilllist": 1554967457,
     "worldinfo": 1544752879,
     "episodeinfo": 1550037664,
-    "questdigest": 1554259048,
+    "questdigest": 1554956666,
     "itemlist": 1526610327,
     "booklist": 1553149737,
     "motionlist": 1536123104,
@@ -230,15 +230,15 @@
     "eventplace": 1486504842,
     "eventbadge": 1536117664,
     "denju": 1551928828,
-    "questroute": 1552361546,
+    "questroute": 1554712095,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1554258884,
+    "vignette": 1554952234,
     "spdrama": 1544754882,
-    "gachainfo": 1554191665,
-    "questtree": 1552361546,
-    "eventareainfo": 1554171490,
+    "gachainfo": 1554882209,
+    "questtree": 1554712095,
+    "eventareainfo": 1554964348,
     "coverinfo": 1554174789,
     "towerinfo": 1553671494,
     "chropowerinfo": 1531709280,
@@ -250,6 +250,6 @@
     "medalinfo": 1,
     "eventPortal": 1554254853,
     "reload": 1500271199,
-    "servertime": 1554288899
+    "servertime": 1554981935
   }
 }
