@@ -1,5 +1,5 @@
 ﻿{
-  "deceive": 1553763920,
+  "deceive": 1555578370,
   "res": 0,
   "supporterskill": [
     {
@@ -22594,6 +22594,57 @@
       "abi2": 0,
       "abi3": 0,
       "text": "◆每前進至下一WAVE時，恢復我方全體HP。"
+    },
+    {
+      "ability_id": 8911,
+      "name": "準確命中",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 115001,
+      "abi1": 101002,
+      "abi2": 101013,
+      "abi3": 0,
+      "text": "◆以持有1顆法珠的狀態下開始戰鬥。\\n◆戰鬥時，攻擊力和移動速度上升。"
+    },
+    {
+      "ability_id": 8912,
+      "name": "賜予的至福",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 112004,
+      "abi1": 110002,
+      "abi2": 0,
+      "abi3": 0,
+      "text": "◆每前進至下一WAVE時，恢復包含自身在內剩餘HP最低的1名夥伴的HP。\\n◆不會陷入緩速狀態。"
+    },
+    {
+      "ability_id": 8913,
+      "name": "妖狐之眼",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 104515,
+      "abi1": 106002,
+      "abi2": 110001,
+      "abi3": 110006,
+      "text": "◆遠距離一般攻擊的威力提升。\\n◆必殺技威力增加。\\n◆不會陷入黑暗/封印狀態。"
     }
   ]
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
@@ -145,49 +145,7 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 27,
-          "is_mop_up": true,
-          "name": "大狩獵戰「鍛鐵的時代」",
-          "area_id": 1029,
-          "dist_start": 1554174881,
-          "event_start": 1554174881,
-          "main_start": 1554271200,
-          "event_end": 1554962400,
-          "dist_end": 1555048800,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "水晶體",
-              "icon": "Item_MopUp_05_A",
-              "target_enemy_id": "335539",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335540",
-              "rare_target_point_val": "80"
-            },
-            "point2": {
-              "name": "內燃汽缸",
-              "icon": "Item_MopUp_05_B",
-              "target_enemy_id": "335539",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335540",
-              "rare_target_point_val": "80"
-            }
-          },
-          "info_list": [
-            "Tutorial_MopUp_05_01",
-            "Tutorial_MopUp_05_02",
-            "Tutorial_MopUp_05_03",
-            "Tutorial_MopUp_05_04"
-          ],
-          "rush": {
-            "rate": 0.15,
-            "validcnt": 1,
-            "text": "目標大量出現！",
-            "bgm": 13
-          },
-          "reward_cid": 12215
-        },
+        "cover": null,
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -205,12 +163,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1554088629,
-    "weaponlist": 1554713028,
-    "skilllist": 1554967457,
+    "charainfo": 1555569365,
+    "weaponlist": 1555572576,
+    "skilllist": 1555572578,
     "worldinfo": 1544752879,
-    "episodeinfo": 1550037664,
-    "questdigest": 1554956666,
+    "episodeinfo": 1555040694,
+    "questdigest": 1555556732,
     "itemlist": 1526610327,
     "booklist": 1553149737,
     "motionlist": 1536123104,
@@ -219,7 +177,7 @@
     "bossinfo": 1552538648,
     "battleinfo": 1544752841,
     "homelist": 1533099940,
-    "supporterskill": 1553583642,
+    "supporterskill": 1555570387,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
@@ -234,11 +192,11 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1554952234,
+    "vignette": 1555563387,
     "spdrama": 1544754882,
-    "gachainfo": 1554882209,
+    "gachainfo": 1555396776,
     "questtree": 1554712095,
-    "eventareainfo": 1554964348,
+    "eventareainfo": 1555053852,
     "coverinfo": 1554174789,
     "towerinfo": 1553671494,
     "chropowerinfo": 1531709280,
@@ -250,6 +208,6 @@
     "medalinfo": 1,
     "eventPortal": 1554254853,
     "reload": 1500271199,
-    "servertime": 1554981935
+    "servertime": 1555583775
   }
 }

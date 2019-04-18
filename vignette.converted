@@ -1,6 +1,5 @@
 ﻿{
-  "deceive": 1554973212,
-  "res": 0,
+  "deceive": 1555578362,
   "vignette": [
     {
       "cid": 7015,
@@ -19,12 +18,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 304,
+      "cid": 8912,
       "v_motionid": 2,
-      "bg": 2,
-      "memo": "這種也是貨真價實的魔法！",
+      "bg": 5100,
+      "memo": "羊媽媽Power！",
       "start": 1522918800,
-      "end": 1555567200,
+      "end": 1556776800,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -37,12 +36,12 @@
       "event_area_name": null
     },
     {
-      "cid": 6308,
+      "cid": 8913,
       "v_motionid": 2,
-      "bg": 41,
-      "memo": "耶咿！嚐嚐這招！",
+      "bg": 5100,
+      "memo": "封印解除！",
       "start": 1535608800,
-      "end": 1555567200,
+      "end": 1556776800,
       "link": "unity:GoLegendArea",
       "param": {
         "area_id": 36,
@@ -52,7 +51,7 @@
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "event_1",
-      "event_area_name": 3
+      "event_area_name": 4
     }
   ],
   "vignette_motion": [
@@ -189,5 +188,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }

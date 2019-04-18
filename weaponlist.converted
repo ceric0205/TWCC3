@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1554973218,
+  "deceive": 1555578372,
   "weaponlist": [
     {
       "id": 1,
@@ -25051,6 +25051,51 @@
       "skill": 0,
       "type": 5,
       "equip_type": 5
+    },
+    {
+      "id": 95875,
+      "name": "獵人用狙擊槍",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 14,
+      "type_grd": 3,
+      "guardMax": 5,
+      "model": "weapon95875_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 9,
+      "equip_type": 5
+    },
+    {
+      "id": 95876,
+      "name": "黃金聖母槌",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 5,
+      "type_grd": 3,
+      "guardMax": 11,
+      "model": "weapon95876_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 2,
+      "equip_type": 5
+    },
+    {
+      "id": 95877,
+      "name": "魅惑的煙斗",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 6,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95877_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 4,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -39338,6 +39383,45 @@
       "evol_dst": 95872,
       "id": 95872,
       "name": "稻穗之母",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95875,
+      "id": 95875,
+      "name": "獵人用狙擊槍",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95876,
+      "id": 95876,
+      "name": "黃金聖母槌",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95877,
+      "id": 95877,
+      "name": "魅惑的煙斗",
       "profile": "",
       "rank_limit": 2,
       "rarity": 4,
