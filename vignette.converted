@@ -1,6 +1,24 @@
 ﻿{
-  "deceive": 1555578362,
+  "deceive": 1556189563,
   "vignette": [
+    {
+      "cid": 8911,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "精準…射擊！",
+      "start": 1506924000,
+      "end": 1556776800,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 70,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "raid",
+      "event_area_name": 1
+    },
     {
       "cid": 7015,
       "v_motionid": 0,
