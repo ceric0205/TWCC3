@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1556189568,
+  "deceive": 1556791152,
   "weaponlist": [
     {
       "id": 1,
@@ -21514,7 +21514,7 @@
     },
     {
       "id": 85725,
-      "name": "拜斯・布洛特",
+      "name": "白色布洛特",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -21844,7 +21844,7 @@
     },
     {
       "id": 85747,
-      "name": "自由之杖・改",
+      "name": "愛之杖・改",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -21859,7 +21859,7 @@
     },
     {
       "id": 85748,
-      "name": "漆黑之劍・改",
+      "name": "闇之劍・改",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -21874,7 +21874,7 @@
     },
     {
       "id": 85749,
-      "name": "月光之刃・改",
+      "name": "月神之刃・改",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -21889,7 +21889,7 @@
     },
     {
       "id": 85750,
-      "name": "真・彩杖自由",
+      "name": "真・彩杖深愛",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -21904,7 +21904,7 @@
     },
     {
       "id": 85751,
-      "name": "真・光劍漆黑",
+      "name": "真・光劍破曉",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -21919,7 +21919,7 @@
     },
     {
       "id": 85752,
-      "name": "真・麗刀月光",
+      "name": "真・麗刀太陰",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -34939,7 +34939,7 @@
     {
       "evol_dst": 85747,
       "id": 85747,
-      "name": "自由之杖・改",
+      "name": "愛之杖・改",
       "profile": "鎖鏈電台合作活動",
       "rank_limit": 2,
       "rarity": 5,
@@ -34952,7 +34952,7 @@
     {
       "evol_dst": 85748,
       "id": 85748,
-      "name": "漆黑之劍・改",
+      "name": "闇之劍・改",
       "profile": "鎖鏈電台合作活動",
       "rank_limit": 2,
       "rarity": 5,
@@ -34965,7 +34965,7 @@
     {
       "evol_dst": 85749,
       "id": 85749,
-      "name": "月光之刃・改",
+      "name": "月神之刃・改",
       "profile": "鎖鏈電台合作活動",
       "rank_limit": 2,
       "rarity": 5,

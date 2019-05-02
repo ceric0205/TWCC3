@@ -1,24 +1,7 @@
 ﻿{
-  "deceive": 1556189563,
+  "res": 0,
+  "deceive": 1556791137,
   "vignette": [
-    {
-      "cid": 8911,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "精準…射擊！",
-      "start": 1506924000,
-      "end": 1556776800,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 70,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
-    },
     {
       "cid": 7015,
       "v_motionid": 0,
@@ -36,40 +19,94 @@
       "v_category": "favorite"
     },
     {
-      "cid": 8912,
+      "cid": 1270,
       "v_motionid": 2,
-      "bg": 5100,
-      "memo": "羊媽媽Power！",
+      "bg": 1,
+      "memo": "我會守住那句誓言！",
       "start": 1522918800,
-      "end": 1556776800,
+      "end": 1557381600,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 0,
+      "priority": 50,
       "min_rank": 1,
-      "max_rank": 250,
+      "max_rank": 260,
       "v_category": "gacha",
       "event_area_name": null
     },
     {
-      "cid": 8913,
+      "cid": 8295,
       "v_motionid": 2,
-      "bg": 5100,
-      "memo": "封印解除！",
+      "bg": 1,
+      "memo": "呵呵，這招如何～？",
       "start": 1535608800,
-      "end": 1556776800,
+      "end": 1557381600,
       "link": "unity:GoLegendArea",
       "param": {
         "area_id": 36,
         "place_id": 1
       },
-      "priority": 0,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "event_1",
-      "event_area_name": 4
+      "event_area_name": 16
+    },
+    {
+      "cid": 8296,
+      "v_motionid": 0,
+      "bg": 1,
+      "memo": "在光芒中消滅吧！",
+      "start": 1522918800,
+      "end": 1557381600,
+      "link": "unity:GoLegendArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 16
+    },
+    {
+      "cid": 8297,
+      "v_motionid": 2,
+      "bg": 1,
+      "memo": "我就是我！",
+      "start": 1522918800,
+      "end": 1557381600,
+      "link": "unity:GoLegendArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 16
+    },
+    {
+      "cid": 12226,
+      "v_motionid": 2,
+      "bg": 1,
+      "memo": "休想弄髒我這件婚紗！",
+      "start": 1522918800,
+      "end": 1557381600,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "gacha",
+      "event_area_name": null
     }
   ],
   "vignette_motion": [
@@ -206,6 +243,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }
