@@ -1,4 +1,4 @@
-﻿{
+{
   "res": 0,
   "stamina_recover": 480,
   "power_recover": 1800,
@@ -146,87 +146,27 @@
           "review": 1
         },
         "cover": null,
-        "raid": {
-          "raid_id": 121,
-          "bg": 2000,
-          "event_start": 1513749600,
-          "event_end": 1556863200,
-          "close": 1556776800,
-          "name": "獵人穗姬來襲",
-          "full_time": 130,
-          "part_time": 90,
-          "sp_cards": [
-            {
-              "cid": "8912",
-              "skill_id": "30891107",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0.5,
-                "limit_break_1": 0.85,
-                "limit_break_2": 1.2,
-                "limit_break_3": 1.55,
-                "limit_break_4": 1.9
-              }
-            },
-            {
-              "cid": "8913",
-              "skill_id": "30891107",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0.5,
-                "limit_break_1": 0.85,
-                "limit_break_2": 1.2,
-                "limit_break_3": 1.55,
-                "limit_break_4": 1.9
-              }
-            },
-            {
-              "cid": "8908",
-              "skill_id": "30890907",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0,
-                "limit_break_1": 0,
-                "limit_break_2": 0,
-                "limit_break_3": 0,
-                "limit_break_4": 0
-              }
-            },
-            {
-              "cid": "8909",
-              "skill_id": "30890907",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0,
-                "limit_break_1": 0,
-                "limit_break_2": 0,
-                "limit_break_3": 0,
-                "limit_break_4": 0
-              }
-            },
-            {
-              "cid": "8910",
-              "skill_id": "30890907",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0,
-                "limit_break_1": 0,
-                "limit_break_2": 0,
-                "limit_break_3": 0,
-                "limit_break_4": 0
-              }
-            }
+        "raid": null,
+        "totalwar": {
+          "totalwar_id": 28,
+          "event_start": 1556812800,
+          "close": 1557417600,
+          "event_end": 1557417600,
+          "token_cnt_per_request": 100,
+          "banner_image": "190502_souryokusen_top",
+          "special_reward_icon": "special_reward_icon06266",
+          "start_cnt": [
+            1,
+            2,
+            3,
+            5
           ],
-          "full_pirica_time": 13,
-          "part_pirica_time": 22,
-          "hp_up": 3,
-          "atk_up": 3,
-          "anger_hp_up": 2,
-          "anger_atk_up": 2,
-          "anger_battle_time": 30,
-          "invalid_chropower": false,
-          "main_start": 1555645776,
-          "raid_area_quest": [
-            1000184
-          ],
-          "reward_cid": 8911
+          "close_interval": 10,
+          "first_border_ap": 10,
+          "event_days": 8,
+          "rest_border_ap": 30,
+          "reward_cid": 6266
         },
-        "totalwar": null,
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -242,12 +182,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1556790415,
-    "weaponlist": 1556521423,
+    "charainfo": 1557295863,
+    "weaponlist": 1557295861,
     "skilllist": 1556761342,
     "worldinfo": 1544752879,
     "episodeinfo": 1555040694,
-    "questdigest": 1556790420,
+    "questdigest": 1557307945,
     "itemlist": 1526610327,
     "booklist": 1553149737,
     "motionlist": 1536123104,
@@ -273,9 +213,9 @@
     "uzuinfo": 1544754882,
     "vignette": 1556769507,
     "spdrama": 1544754882,
-    "gachainfo": 1556764171,
+    "gachainfo": 1557209149,
     "questtree": 1554712095,
-    "eventareainfo": 1556767715,
+    "eventareainfo": 1557209146,
     "coverinfo": 1554174789,
     "towerinfo": 1556006958,
     "chropowerinfo": 1531709280,
@@ -285,8 +225,8 @@
     "heroicskilllist": 1547780650,
     "soundExData": 1516261863,
     "medalinfo": 1,
-    "eventPortal": 1556789291,
+    "eventPortal": 1557370429,
     "reload": 1500271199,
-    "servertime": 1556797552
+    "servertime": 1557404897
   }
 }

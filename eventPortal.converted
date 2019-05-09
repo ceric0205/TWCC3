@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1556791131,
+  "deceive": 1557392371,
   "event_portal": [
     {
       "_id": 0,
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=4628355"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=1666457"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=7763971"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=9861734"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=4654801"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=6027620"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=4321455"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=4801469"
             }
           ]
         }
@@ -101,9 +101,9 @@
           "banner": [
             {
               "start": 1535608800,
-              "end": 1554962399,
+              "end": 1557986399,
               "priority": 20,
-              "name": "BN_20190320_4.jpg",
+              "name": "BN_20190417_4.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -112,9 +112,9 @@
             },
             {
               "start": 1535608800,
-              "end": 1554962399,
+              "end": 1557986399,
               "priority": 10,
-              "name": "BN_20190320_5.jpg",
+              "name": "BN_20190417_5.jpg",
               "url": "",
               "type": "Legend1Area",
               "place_id": 1,
@@ -162,13 +162,13 @@
             }
           ],
           "url": "",
-          "end": 1554962399,
+          "end": 1557986399,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
-      "timestamp": "1556095679000"
+      "timestamp": "1557370428000"
     },
     {
       "_id": 4,
@@ -509,7 +509,7 @@
               "place_id": 1,
               "area_id": 36,
               "tab_id": 15,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=8795314"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180830_reTouha.html?v=8629264"
             },
             {
               "start": 1535608800,
