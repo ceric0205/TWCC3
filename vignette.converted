@@ -1,6 +1,5 @@
 ﻿{
-  "res": 0,
-  "deceive": 1556791137,
+  "deceive": 1557997133,
   "vignette": [
     {
       "cid": 7015,
@@ -19,94 +18,40 @@
       "v_category": "favorite"
     },
     {
-      "cid": 1270,
-      "v_motionid": 2,
-      "bg": 1,
-      "memo": "我會守住那句誓言！",
-      "start": 1522918800,
-      "end": 1557381600,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "gacha",
-      "event_area_name": null
-    },
-    {
-      "cid": 8295,
-      "v_motionid": 2,
-      "bg": 1,
-      "memo": "呵呵，這招如何～？",
-      "start": 1535608800,
-      "end": 1557381600,
-      "link": "unity:GoLegendArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 16
-    },
-    {
-      "cid": 8296,
+      "cid": 6222,
       "v_motionid": 0,
       "bg": 1,
-      "memo": "在光芒中消滅吧！",
+      "memo": "真礙眼……去死！",
       "start": 1522918800,
-      "end": 1557381600,
-      "link": "unity:GoLegendArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 16
-    },
-    {
-      "cid": 8297,
-      "v_motionid": 2,
-      "bg": 1,
-      "memo": "我就是我！",
-      "start": 1522918800,
-      "end": 1557381600,
-      "link": "unity:GoLegendArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 16
-    },
-    {
-      "cid": 12226,
-      "v_motionid": 2,
-      "bg": 1,
-      "memo": "休想弄髒我這件婚紗！",
-      "start": 1522918800,
-      "end": 1557381600,
+      "end": 1558591200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
-        "gacha_id": 1
+        "gacha_id": 2
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "gacha",
       "event_area_name": null
+    },
+    {
+      "cid": 4201,
+      "v_motionid": 2,
+      "bg": 1,
+      "memo": "我只接受快樂的結尾啊！",
+      "start": 1522918800,
+      "end": 1558591200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 16
     }
   ],
   "vignette_motion": [
@@ -243,5 +188,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }
