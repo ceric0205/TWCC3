@@ -1,5 +1,6 @@
 ﻿{
-  "deceive": 1557997133,
+  "deceive": 1558601987,
+  "res": 0,
   "vignette": [
     {
       "cid": 7015,
@@ -18,16 +19,16 @@
       "v_category": "favorite"
     },
     {
-      "cid": 6222,
+      "cid": 308,
       "v_motionid": 0,
       "bg": 1,
-      "memo": "真礙眼……去死！",
+      "memo": "瑪莉娜，麻煩妳！",
       "start": 1522918800,
-      "end": 1558591200,
+      "end": 1559196000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 2
+        "type": "story",
+        "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
@@ -36,12 +37,12 @@
       "event_area_name": null
     },
     {
-      "cid": 4201,
+      "cid": 309,
       "v_motionid": 2,
       "bg": 1,
-      "memo": "我只接受快樂的結尾啊！",
+      "memo": "天使治癒！",
       "start": 1522918800,
-      "end": 1558591200,
+      "end": 1559196000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -188,6 +189,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }

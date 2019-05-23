@@ -147,26 +147,7 @@
         },
         "cover": null,
         "raid": null,
-        "totalwar": {
-          "totalwar_id": 29,
-          "event_start": 1557417600,
-          "close": 1558022400,
-          "event_end": 1558022400,
-          "token_cnt_per_request": 100,
-          "banner_image": "190502_souryokusen_top",
-          "special_reward_icon": "special_reward_icon06266",
-          "start_cnt": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "close_interval": 10,
-          "first_border_ap": 10,
-          "event_days": 8,
-          "rest_border_ap": 30,
-          "reward_cid": 6266
-        },
+        "totalwar": null,
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -182,12 +163,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1557820448,
-    "weaponlist": 1557739975,
-    "skilllist": 1556761342,
+    "charainfo": 1558339993,
+    "weaponlist": 1558339991,
+    "skilllist": 1558596486,
     "worldinfo": 1544752879,
     "episodeinfo": 1557974327,
-    "questdigest": 1557976437,
+    "questdigest": 1558427720,
     "itemlist": 1526610327,
     "booklist": 1553149737,
     "motionlist": 1536123104,
@@ -200,7 +181,7 @@
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
-    "weaponcompose": 1554175276,
+    "weaponcompose": 1558505647,
     "teacherdisciple": 1455807601,
     "weaponcomposeevent": 1,
     "various": 1548751902,
@@ -211,11 +192,11 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1557976535,
+    "vignette": 1558593271,
     "spdrama": 1544754882,
-    "gachainfo": 1557826565,
-    "questtree": 1557394611,
-    "eventareainfo": 1557888328,
+    "gachainfo": 1558431524,
+    "questtree": 1558001591,
+    "eventareainfo": 1558406748,
     "coverinfo": 1554174789,
     "towerinfo": 1556006958,
     "chropowerinfo": 1531709280,
@@ -225,8 +206,8 @@
     "heroicskilllist": 1547780650,
     "soundExData": 1516261863,
     "medalinfo": 1,
-    "eventPortal": 1557888328,
+    "eventPortal": 1558509401,
     "reload": 1500271199,
-    "servertime": 1558007038
+    "servertime": 1558610669
   }
 }
