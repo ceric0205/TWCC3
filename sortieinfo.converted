@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "device": 1558601999,
+  "device": 1559206775,
   "sortie_info": [
     {
       "sortie_id": 3,
@@ -245,7 +245,7 @@
     {
       "sortie_id": 5,
       "start_time": 1557072000,
-      "end_time": 1559491200,
+      "end_time": 1559318400,
       "reward_cid": 237,
       "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
       "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
@@ -267,6 +267,31 @@
               "sp_type": 3,
               "sp_id": 9,
               "sp_rate": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortie_id": 6,
+      "start_time": 1559318400,
+      "end_time": 1561910400,
+      "reward_cid": 4238,
+      "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
+      "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
+      "serif_normal": "對敵軍造成這種程度的損害應該足夠了！好了，一同慶祝勝利吧！！",
+      "serif_entry": "好了各位，準備上吧！讓我等取得勝利吧！",
+      "stamina": 0,
+      "theme_list": [
+        {
+          "enemy_texture": 302008,
+          "bg": 137,
+          "serif": "九領的同伴們很重要喔。\\n 這次戰鬥也借助他們的力量 \\n獲取勝利吧。",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 10,
+              "sp_rate": 160
             }
           ]
         }

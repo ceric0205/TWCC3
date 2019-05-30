@@ -1,6 +1,6 @@
 ﻿{
-  "deceive": 1558601987,
   "res": 0,
+  "deceive": 1559206759,
   "vignette": [
     {
       "cid": 7015,
@@ -19,15 +19,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 308,
-      "v_motionid": 0,
-      "bg": 1,
-      "memo": "瑪莉娜，麻煩妳！",
+      "cid": 295,
+      "v_motionid": 2,
+      "bg": 6006,
+      "memo": "夏天也要來HAPPY一下！",
       "start": 1522918800,
-      "end": 1559196000,
+      "end": 1560405600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 50,
@@ -37,16 +37,16 @@
       "event_area_name": null
     },
     {
-      "cid": 309,
+      "cid": 2282,
       "v_motionid": 2,
-      "bg": 1,
-      "memo": "天使治癒！",
+      "bg": 6006,
+      "memo": "準備上囉～！",
       "start": 1522918800,
-      "end": 1559196000,
+      "end": 1560405600,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 36,
-        "place_id": 1
+        "area_id": 1030,
+        "place_id": 0
       },
       "priority": 50,
       "min_rank": 1,

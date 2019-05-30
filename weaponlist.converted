@@ -1,6 +1,6 @@
 ﻿{
   "res": 0,
-  "deceive": 1558601999,
+  "deceive": 1559206769,
   "weaponlist": [
     {
       "id": 1,
@@ -21949,7 +21949,7 @@
     },
     {
       "id": 85754,
-      "name": "仲夏的陽傘杖",
+      "name": "仲夏的陽傘",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 12,
@@ -34991,7 +34991,7 @@
     {
       "evol_dst": 85754,
       "id": 85754,
-      "name": "仲夏的陽傘杖",
+      "name": "仲夏的陽傘",
       "profile": "泳裝踏破2018",
       "rank_limit": 2,
       "rarity": 5,
