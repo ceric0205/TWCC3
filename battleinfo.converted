@@ -1,6 +1,6 @@
-﻿{
-  "deceive": 1550134938,
+{
   "res": 0,
+  "deceive": 1561625953,
   "battle_bg": [
     {
       "id": 1,
@@ -638,6 +638,14 @@
       "id": 421,
       "flag": 0,
       "bg_name": "走廊",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 422,
+      "flag": 8192,
+      "bg_name": "平原夜",
       "effect_s": "",
       "effect_l": "",
       "change_flag": 0

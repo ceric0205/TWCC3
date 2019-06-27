@@ -1,25 +1,7 @@
-﻿{
+{
   "res": 0,
-  "deceive": 1560418858,
+  "deceive": 1561625965,
   "vignette": [
-    {
-      "cid": 7562,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "影子呀，遵從我的命令！",
-      "start": 1561014000,
-      "end": 1561615200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 70,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "raid",
-      "event_area_name": 1
-    },
     {
       "cid": 7015,
       "v_motionid": 0,
@@ -37,15 +19,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 6284,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "憑這把劍……跨越過去！",
-      "start": 1522918800,
-      "end": 1561615200,
+      "cid": 6298,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "讓我打個痛快！",
+      "start": 1518674400,
+      "end": 1562220000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
+        "type": "legend",
         "gacha_id": 1
       },
       "priority": 0,
@@ -53,24 +35,6 @@
       "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": null
-    },
-    {
-      "cid": 6286,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "代我斬斷宿疾！",
-      "start": 1535608800,
-      "end": 1561615200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 4
     }
   ],
   "vignette_motion": [
@@ -200,6 +164,25 @@
       "tansaku_end": "home_titantail_happy01",
       "tansaku_walk": "tansaku_titantail_walk01",
       "v_motionid": 7,
+      "voice_01": "",
+      "voice_02": "",
+      "voice_03": "",
+      "voice_04": "C",
+      "voice_05": "S",
+      "voice_06": "H"
+    },
+    {
+      "home_01": "home_joy01_limuru",
+      "home_02": "home_joy01_limuru",
+      "home_03": "home_angry01_limuru",
+      "home_04": "home_call05_limuru",
+      "home_05": "home_sad05_limuru",
+      "home_06": "home_happy05_limuru",
+      "home_idle": "home_idle01_limuru",
+      "memo": "スライム骨（転スラリムル用）",
+      "tansaku_end": "home_joy01_limuru",
+      "tansaku_walk": "tansaku_walk01_limuru",
+      "v_motionid": 8,
       "voice_01": "",
       "voice_02": "",
       "voice_03": "",
