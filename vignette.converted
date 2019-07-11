@@ -1,5 +1,5 @@
 {
-  "deceive": 1562230780,
+  "deceive": 1562841656,
   "res": 0,
   "vignette": [
     {
@@ -75,6 +75,24 @@
       "v_motionid": 2,
       "bg": 5100,
       "memo": "不要擋路！",
+      "start": 1535608800,
+      "end": 1563429600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 0,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 8914,
+      "v_motionid": 0,
+      "bg": 5100,
+      "memo": "炎帝...咆嘯！！",
       "start": 1535608800,
       "end": 1563429600,
       "link": "unity:GoSpecifiedArea",
