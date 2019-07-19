@@ -1,5 +1,5 @@
 {
-  "deceive": 1562841656,
+  "deceive": 1563440486,
   "res": 0,
   "vignette": [
     {
@@ -35,6 +35,60 @@
       "v_category": "favorite"
     },
     {
+      "cid": 13207,
+      "v_motionid": 0,
+      "bg": 6012,
+      "memo": "菲娜！",
+      "start": 1522918800,
+      "end": 1564034400,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "story",
+        "gacha_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 7229,
+      "v_motionid": 0,
+      "bg": 6012,
+      "memo": "是，姊姊！！",
+      "start": 1522918800,
+      "end": 1564034400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 40,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 17
+    },
+    {
+      "cid": 6003,
+      "v_motionid": 0,
+      "bg": 6012,
+      "memo": "頭抬太高了！",
+      "start": 1522918800,
+      "end": 1564034400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 9
+    },
+    {
       "cid": 3,
       "v_motionid": 0,
       "bg": 2003,
@@ -51,60 +105,6 @@
       "max_rank": 250,
       "v_category": "event_1",
       "event_area_name": 2
-    },
-    {
-      "cid": 8915,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "這就是友情的力量！",
-      "start": 1522918800,
-      "end": 1563429600,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "gacha",
-      "event_area_name": null
-    },
-    {
-      "cid": 8916,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "不要擋路！",
-      "start": 1535608800,
-      "end": 1563429600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 8914,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "炎帝...咆嘯！！",
-      "start": 1535608800,
-      "end": 1563429600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
     }
   ],
   "vignette_motion": [
