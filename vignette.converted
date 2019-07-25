@@ -1,6 +1,6 @@
 {
-  "deceive": 1563440486,
   "res": 0,
+  "deceive": 1564045365,
   "vignette": [
     {
       "cid": 7015,
@@ -35,15 +35,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 13207,
+      "cid": 5224,
       "v_motionid": 0,
       "bg": 6012,
-      "memo": "菲娜！",
+      "memo": "接下我的霸王之槍吧！",
       "start": 1522918800,
-      "end": 1564034400,
+      "end": 1564639200,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
+        "type": "legend",
         "gacha_id": 1
       },
       "priority": 50,
@@ -53,30 +53,12 @@
       "event_area_name": null
     },
     {
-      "cid": 7229,
+      "cid": 3001,
       "v_motionid": 0,
       "bg": 6012,
-      "memo": "是，姊姊！！",
+      "memo": "去去去，真礙眼",
       "start": 1522918800,
-      "end": 1564034400,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 40,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 17
-    },
-    {
-      "cid": 6003,
-      "v_motionid": 0,
-      "bg": 6012,
-      "memo": "頭抬太高了！",
-      "start": 1522918800,
-      "end": 1564034400,
+      "end": 1564639200,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -87,6 +69,24 @@
       "max_rank": 260,
       "v_category": "event_1",
       "event_area_name": 9
+    },
+    {
+      "cid": 2292,
+      "v_motionid": 0,
+      "bg": 6012,
+      "memo": "炎刃全開衝啦！",
+      "start": 1522918800,
+      "end": 1565244000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 3
     },
     {
       "cid": 3,

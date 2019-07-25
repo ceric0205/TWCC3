@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1563440490,
+  "deceive": 1564045372,
   "missionlist": [
     {
       "id": 1,
@@ -6987,6 +6987,96 @@
         "val": "1"
       },
       "help": "在關卡「強敵警報」中，成功過關10次！"
+    },
+    {
+      "id": 308916,
+      "type": 1,
+      "start_time": 1563775200,
+      "end_time": 1564725600,
+      "quest_id": [
+        259438
+      ],
+      "title": "續．通過指定關卡吧！１",
+      "sub_id": "Event 006",
+      "max_num": 2,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96298",
+        "val": "1"
+      },
+      "help": "在關卡「哥布林的修煉場」中，成功過關2次！"
+    },
+    {
+      "id": 308917,
+      "type": 1,
+      "start_time": 1563775200,
+      "end_time": 1564725600,
+      "quest_id": [
+        259438
+      ],
+      "title": "續．通過指定關卡吧！２",
+      "sub_id": "Event 007",
+      "max_num": 4,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96228",
+        "val": "1"
+      },
+      "help": "在關卡「哥布林的修煉場」中，成功過關4次！"
+    },
+    {
+      "id": 308918,
+      "type": 1,
+      "start_time": 1563775200,
+      "end_time": 1564725600,
+      "quest_id": [
+        259438
+      ],
+      "title": "續．通過指定關卡吧！３",
+      "sub_id": "Event 008",
+      "max_num": 6,
+      "reward": {
+        "type": "card",
+        "id": "3001",
+        "val": "1"
+      },
+      "help": "在關卡「哥布林的修煉場」中，成功過關6次！"
+    },
+    {
+      "id": 308919,
+      "type": 1,
+      "start_time": 1563775200,
+      "end_time": 1564725600,
+      "quest_id": [
+        259438
+      ],
+      "title": "續．通過指定關卡吧！４",
+      "sub_id": "Event 009",
+      "max_num": 8,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96298",
+        "val": "1"
+      },
+      "help": "在關卡「哥布林的修煉場」中，成功過關8次！"
+    },
+    {
+      "id": 308920,
+      "type": 1,
+      "start_time": 1563775200,
+      "end_time": 1564725600,
+      "quest_id": [
+        259438
+      ],
+      "title": "續．通過指定關卡吧！５",
+      "sub_id": "Event 010",
+      "max_num": 10,
+      "reward": {
+        "type": "card",
+        "id": "3001",
+        "val": "1"
+      },
+      "help": "在關卡「哥布林的修煉場」中，成功過關10次！"
     }
   ]
 }
