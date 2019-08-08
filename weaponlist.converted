@@ -1,5 +1,6 @@
 {
-  "deceive": 1562841679,
+  "res": 0,
+  "deceive": 1565254739,
   "weaponlist": [
     {
       "id": 1,
@@ -19863,7 +19864,7 @@
     },
     {
       "id": 85604,
-      "name": "初始紅寶之刀",
+      "name": "初始紅寶石",
       "type_atk": 1,
       "attackMax": 7,
       "type_cri": 2,
@@ -21888,7 +21889,7 @@
     },
     {
       "id": 85746,
-      "name": "Fifth Anniversary",
+      "name": "五週年",
       "type_atk": 1,
       "attackMax": 16,
       "type_cri": 2,
@@ -34463,7 +34464,7 @@
     {
       "evol_dst": 85604,
       "id": 85604,
-      "name": "初始紅寶之刀",
+      "name": "初始紅寶石",
       "profile": "湖都5章武器",
       "rank_limit": 2,
       "rarity": 4,
@@ -35795,7 +35796,7 @@
     {
       "evol_dst": 85746,
       "id": 85746,
-      "name": "Fifth Anniversary",
+      "name": "五週年",
       "profile": "5周年記念武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -41138,6 +41139,5 @@
       "type": 7,
       "ring": -1
     }
-  ],
-  "res": 0
+  ]
 }
