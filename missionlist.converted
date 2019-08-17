@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1565254744,
+  "deceive": 1565859668,
   "missionlist": [
     {
       "id": 1,
@@ -6557,6 +6557,258 @@
         "val": "50"
       },
       "help": "在任務「5週年的成長」中過關20次吧！"
+    },
+    {
+      "id": 1822,
+      "type": 1,
+      "start_time": 1535680800,
+      "end_time": 1566540000,
+      "quest_id": [
+        261012
+      ],
+      "title": "通過指定任務吧！1",
+      "sub_id": "Event 001",
+      "max_num": 2,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96059",
+        "val": "1"
+      },
+      "help": "在任務「潛藏在廢都的影子」過關2次吧！\\n 就算復活也會列入計算喔！"
+    },
+    {
+      "id": 1823,
+      "type": 1,
+      "start_time": 1535680800,
+      "end_time": 1566540000,
+      "quest_id": [
+        261012
+      ],
+      "title": "通過指定任務吧！2",
+      "sub_id": "Event 002",
+      "max_num": 4,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96053",
+        "val": "1"
+      },
+      "help": "在任務「潛藏在廢都的影子」過關4次吧！\\n 就算復活也會列入計算喔！"
+    },
+    {
+      "id": 1824,
+      "type": 1,
+      "start_time": 1535680800,
+      "end_time": 1566540000,
+      "quest_id": [
+        261012
+      ],
+      "title": "通過指定任務吧！3",
+      "sub_id": "Event 003",
+      "max_num": 6,
+      "reward": {
+        "type": "card",
+        "id": "1045",
+        "val": "1"
+      },
+      "help": "在任務「潛藏在廢都的影子」過關6次吧！\\n 就算復活也會列入計算喔！"
+    },
+    {
+      "id": 1825,
+      "type": 1,
+      "start_time": 1535680800,
+      "end_time": 1566540000,
+      "quest_id": [
+        261012
+      ],
+      "title": "通過指定任務吧！4",
+      "sub_id": "Event 004",
+      "max_num": 8,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96007",
+        "val": "1"
+      },
+      "help": "在任務「潛藏在廢都的影子」過關8次吧！\\n 就算復活也會列入計算喔！"
+    },
+    {
+      "id": 1826,
+      "type": 1,
+      "start_time": 1535680800,
+      "end_time": 1566540000,
+      "quest_id": [
+        261012
+      ],
+      "title": "通過指定任務吧！5",
+      "sub_id": "Event 005",
+      "max_num": 10,
+      "reward": {
+        "type": "card",
+        "id": "1045",
+        "val": "1"
+      },
+      "help": "在任務「潛藏在廢都的影子」過關10次吧！\\n 就算復活也會列入計算喔！"
+    },
+    {
+      "id": 1845,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "用<斬>類型武器給予最後一擊！1",
+      "sub_id": "Event001",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96280",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中\\n用＜斬＞武器給予最後一擊！"
+    },
+    {
+      "id": 1846,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "用<斬>類型武器給予最後一擊！2",
+      "sub_id": "Event002",
+      "max_num": 3,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85043",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中\\n用＜斬＞武器給予最後一擊3次！"
+    },
+    {
+      "id": 1847,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "用<斬>類型武器給予最後一擊！3",
+      "sub_id": "Event003",
+      "max_num": 5,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中\\n用＜斬＞武器給予最後一擊5次！"
+    },
+    {
+      "id": 1848,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "使用戰士夥伴10次",
+      "sub_id": "Event004",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96045",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中使用戰士夥伴10次\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 1849,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "使用戰士夥伴20次",
+      "sub_id": "Event005",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中使用戰士夥伴20次\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 1850,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "使用戰士夥伴30次",
+      "sub_id": "Event006",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中使用戰士夥伴30次\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 1851,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "使用戰士夥伴40次",
+      "sub_id": "Event007",
+      "max_num": 40,
+      "reward": {
+        "type": "stone",
+        "id": null,
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中使用戰士夥伴40次\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 1852,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "用必殺技給予最後一擊！1",
+      "sub_id": "Event008",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85335",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中\\n以必殺技給予最後一擊！"
+    },
+    {
+      "id": 1853,
+      "type": 1,
+      "start_time": 1538028000,
+      "end_time": 1566540000,
+      "quest_id": [
+        222206
+      ],
+      "title": "用必殺技給予最後一擊！2",
+      "sub_id": "Event009",
+      "max_num": 2,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「精靈島血戰」中\\n以必殺技給予最後一擊2次！"
     },
     {
       "id": 1907,

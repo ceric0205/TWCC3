@@ -1,5 +1,6 @@
 {
-  "deceive": 1565254736,
+  "res": 0,
+  "deceive": 1565859665,
   "vignette": [
     {
       "cid": 7015,
@@ -34,15 +35,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4294,
+      "cid": 1041,
       "v_motionid": 0,
       "bg": 6012,
-      "memo": "願此成為不動的和平根基！",
+      "memo": "用這雙手取得勝利",
       "start": 1522918800,
-      "end": 1565848800,
+      "end": 1566453600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 50,
@@ -52,22 +53,22 @@
       "event_area_name": null
     },
     {
-      "cid": 7212,
+      "cid": 1045,
       "v_motionid": 0,
       "bg": 6012,
-      "memo": "想不想葬身黎明的大海？",
+      "memo": "邁向這把槍和自由的未來！",
       "start": 1522918800,
-      "end": 1565848800,
-      "link": "unity:GoLegendArea",
+      "end": 1566453600,
+      "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 202,
+        "area_id": 36,
         "place_id": 1
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "legend",
-      "event_area_name": 201
+      "v_category": "event_1",
+      "event_area_name": 15
     },
     {
       "cid": 3,
@@ -241,6 +242,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }
