@@ -1,6 +1,6 @@
 {
+  "deceive": 1567069098,
   "res": 0,
-  "deceive": 1565254739,
   "weaponlist": [
     {
       "id": 1,
@@ -22219,7 +22219,7 @@
     },
     {
       "id": 85768,
-      "name": "大賢岩板",
+      "name": "大賢巖板",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -35994,7 +35994,7 @@
     {
       "evol_dst": 85768,
       "id": 85768,
-      "name": "大賢岩板",
+      "name": "大賢巖板",
       "profile": "10末レイド",
       "rank_limit": 2,
       "rarity": 5,
