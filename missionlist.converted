@@ -1,6 +1,5 @@
 {
-  "res": 0,
-  "deceive": 1567069097,
+  "deceive": 1567674004,
   "missionlist": [
     {
       "id": 1,
@@ -7289,6 +7288,135 @@
         "val": "10"
       },
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
+    },
+    {
+      "id": 3089112,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用華麗的斬擊結束戰鬥吧！",
+      "sub_id": "Event 001",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 95883,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜斬＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089113,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用猛烈的叩打結束戰鬥吧！",
+      "sub_id": "Event 002",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 96119,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜打＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089114,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用迅速的突刺結束戰鬥吧！",
+      "sub_id": "Event 003",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 95882,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜突＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089115,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用精準的一箭結束戰鬥吧！",
+      "sub_id": "Event 004",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 96108,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜弓＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089116,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用絢爛的魔法結束戰鬥吧！",
+      "sub_id": "Event 005",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 85091,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜魔＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089117,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用神聖的攻勢結束戰鬥吧！",
+      "sub_id": "Event 006",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 26258,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜聖＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089118,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "用崩山的勁拳結束戰鬥吧！",
+      "sub_id": "Event 007",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 95881,
+        "val": "1"
+      },
+      "help": "通過任意關卡時\\n用＜拳＞類型的武器來給予最後一擊10次！"
+    },
+    {
+      "id": 3089119,
+      "type": 1,
+      "start_time": 1567134000,
+      "end_time": 1568959200,
+      "quest_id": [],
+      "title": "盡情地武器鍊金吧！",
+      "sub_id": "Event 008",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_ev",
+        "id": 26235,
+        "val": "1"
+      },
+      "help": "利用＜武器鍊金＞功能達50次！"
     }
-  ]
+  ],
+  "res": 0
 }

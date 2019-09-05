@@ -1,6 +1,5 @@
 {
-  "deceive": 1567069098,
-  "res": 0,
+  "deceive": 1567674021,
   "weaponlist": [
     {
       "id": 1,
@@ -25921,6 +25920,51 @@
       "skill": 0,
       "type": 9,
       "equip_type": 5
+    },
+    {
+      "id": 95881,
+      "name": "舞者的翡翠手環",
+      "type_atk": 1,
+      "attackMax": 12,
+      "type_cri": 2,
+      "criticalMax": 13,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon85108_body",
+      "rank": 3,
+      "skill": 30891506,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95882,
+      "name": "深淵的吸血魔槍",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon85439_body",
+      "rank": 3,
+      "skill": 30891507,
+      "type": 2,
+      "equip_type": 5
+    },
+    {
+      "id": 95883,
+      "name": "支援的義勇軍之劍",
+      "type_atk": 1,
+      "attackMax": 8,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 13,
+      "model": "weapon122_body",
+      "rank": 3,
+      "skill": 30891508,
+      "type": 0,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -40836,6 +40880,45 @@
       "usable2": -1,
       "ring": -1,
       "material": 0
+    },
+    {
+      "evol_dst": 95881,
+      "id": 95881,
+      "name": "舞者的翡翠手環",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95882,
+      "id": 95882,
+      "name": "深淵的吸血魔槍",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95883,
+      "id": 95883,
+      "name": "支援的義勇軍之劍",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
     }
   ],
   "reinforce": [
@@ -41139,5 +41222,6 @@
       "type": 7,
       "ring": -1
     }
-  ]
+  ],
+  "res": 0
 }

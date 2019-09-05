@@ -1,5 +1,5 @@
 {
-  "deceive": 1567069094,
+  "deceive": 1567673994,
   "vignette": [
     {
       "cid": 7015,
@@ -18,6 +18,24 @@
       "v_category": "explorer"
     },
     {
+      "cid": 1260,
+      "v_motionid": 0,
+      "bg": 5203,
+      "memo": "我已不想再讓任何人死去。",
+      "start": 1550124000,
+      "end": 1568872800,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1032,
+        "place_id": 0
+      },
+      "priority": 100,
+      "min_rank": 1,
+      "max_rank": 270,
+      "v_category": "cover",
+      "event_area_name": null
+    },
+    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -34,40 +52,22 @@
       "v_category": "favorite"
     },
     {
-      "cid": 279,
-      "v_motionid": 2,
-      "bg": 2,
-      "memo": "給我讓開———！",
-      "start": 1522918800,
-      "end": 1567663200,
+      "cid": 1252,
+      "v_motionid": 0,
+      "bg": 5203,
+      "memo": "肅穆舞動，審判大鐮。",
+      "start": 1549519200,
+      "end": 1568872800,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
-      "max_rank": 260,
+      "max_rank": 270,
       "v_category": "gacha",
       "event_area_name": null
-    },
-    {
-      "cid": 7638,
-      "v_motionid": 2,
-      "bg": 5004,
-      "memo": "全力配合我！",
-      "start": 1522918800,
-      "end": 1567663200,
-      "link": "unity:GoLegendArea",
-      "param": {
-        "area_id": 202,
-        "place_id": 1
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "legend",
-      "event_area_name": 201
     },
     {
       "cid": 3,
