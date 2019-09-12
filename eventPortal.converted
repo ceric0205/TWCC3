@@ -1,6 +1,6 @@
 {
-  "deceive": 1567673991,
   "res": 0,
+  "deceive": 1568288804,
   "event_portal": [
     {
       "_id": 0,
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=6534740"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=1160758"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=5732787"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=2864885"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=7524420"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=5109859"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=8341387"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=8705387"
             }
           ]
         }
@@ -124,9 +124,9 @@
             },
             {
               "start": 1549519200,
-              "end": 1561615199,
+              "end": 1568872799,
               "priority": 20,
-              "name": "BN_20190619_4.jpg",
+              "name": "BN_20190823_1.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -150,8 +150,8 @@
           "img": [
             {
               "start": 1535608800,
-              "end": 1567663199,
-              "chara": "cha_2d_whole_00279",
+              "end": 1568872799,
+              "chara": "cha_2d_whole_00224",
               "bg_img": "TownBG_6009"
             },
             {
@@ -162,13 +162,13 @@
             }
           ],
           "url": "",
-          "end": 1567663199,
+          "end": 1568872799,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
-      "timestamp": "1566889949000"
+      "timestamp": "1568169889000"
     },
     {
       "_id": 4,
