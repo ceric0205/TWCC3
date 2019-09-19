@@ -1,5 +1,6 @@
 {
-  "deceive": 1567673994,
+  "deceive": 1568883467,
+  "res": 0,
   "vignette": [
     {
       "cid": 7015,
@@ -18,24 +19,6 @@
       "v_category": "explorer"
     },
     {
-      "cid": 1260,
-      "v_motionid": 0,
-      "bg": 5203,
-      "memo": "我已不想再讓任何人死去。",
-      "start": 1550124000,
-      "end": 1568872800,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1032,
-        "place_id": 0
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 270,
-      "v_category": "cover",
-      "event_area_name": null
-    },
-    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -52,22 +35,40 @@
       "v_category": "favorite"
     },
     {
-      "cid": 1252,
-      "v_motionid": 0,
-      "bg": 5203,
-      "memo": "肅穆舞動，審判大鐮。",
-      "start": 1549519200,
-      "end": 1568872800,
+      "cid": 282,
+      "v_motionid": 2,
+      "bg": 2,
+      "memo": "這就是魔法的精髓",
+      "start": 1522918800,
+      "end": 1569477600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 1
+        "type": "legend",
+        "gacha_id": 2
       },
       "priority": 50,
       "min_rank": 1,
-      "max_rank": 270,
+      "max_rank": 260,
       "v_category": "gacha",
       "event_area_name": null
+    },
+    {
+      "cid": 4203,
+      "v_motionid": 0,
+      "bg": 21,
+      "memo": "開幕――『沙之薔薇』！",
+      "start": 1522918800,
+      "end": 1569477600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 12
     },
     {
       "cid": 3,
@@ -241,6 +242,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }

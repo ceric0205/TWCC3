@@ -1,5 +1,6 @@
 {
-  "deceive": 1568288836,
+  "deceive": 1568883506,
+  "res": 0,
   "stage": [
     {
       "floor_id": 1,
@@ -11095,7 +11096,6 @@
     "tower_play_border_lv": 100,
     "tower_ticket_limit_time": 7200
   },
-  "res": 0,
   "tower": [
     {
       "tower_id": 1,
