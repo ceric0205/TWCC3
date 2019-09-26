@@ -1,6 +1,6 @@
 {
-  "deceive": 1568883467,
   "res": 0,
+  "deceive": 1569488342,
   "vignette": [
     {
       "cid": 7015,
@@ -35,40 +35,40 @@
       "v_category": "favorite"
     },
     {
-      "cid": 282,
+      "cid": 13201,
       "v_motionid": 2,
-      "bg": 2,
-      "memo": "這就是魔法的精髓",
-      "start": 1522918800,
-      "end": 1569477600,
+      "bg": 111,
+      "memo": "奧義・斬空劍！！",
+      "start": 1549519200,
+      "end": 1570082400,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
-        "gacha_id": 2
+        "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
-      "max_rank": 260,
+      "max_rank": 270,
       "v_category": "gacha",
       "event_area_name": null
     },
     {
-      "cid": 4203,
-      "v_motionid": 0,
-      "bg": 21,
-      "memo": "開幕――『沙之薔薇』！",
+      "cid": 13204,
+      "v_motionid": 2,
+      "bg": 111,
+      "memo": "你的弱點――是這裡！",
       "start": 1522918800,
-      "end": 1569477600,
-      "link": "unity:GoSpecifiedArea",
+      "end": 1570082400,
+      "link": "unity:GoLegendArea",
       "param": {
-        "area_id": 36,
+        "area_id": 202,
         "place_id": 1
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 12
+      "v_category": "legend",
+      "event_area_name": 201
     },
     {
       "cid": 3,
