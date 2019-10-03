@@ -145,7 +145,49 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
+        "cover": {
+          "cover_id": 29,
+          "is_mop_up": true,
+          "name": "魔女與狐狸與偉大的南瓜之王！",
+          "area_id": 1031,
+          "dist_start": 1569910312,
+          "event_start": 1569910312,
+          "main_start": 1570608000,
+          "event_end": 1571292000,
+          "dist_end": 1571292000,
+          "bgm": "BGM_FIELD_MOPUP_01",
+          "point_list": {
+            "point1": {
+              "name": "吸血糖果",
+              "icon": "Item_MopUp_06_A",
+              "target_enemy_id": "335628",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335629",
+              "rare_target_point_val": "80"
+            },
+            "point2": {
+              "name": "南瓜餅乾",
+              "icon": "Item_MopUp_06_B",
+              "target_enemy_id": "335628",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335629",
+              "rare_target_point_val": "80"
+            }
+          },
+          "info_list": [
+            "Tutorial_MopUp_06_01",
+            "Tutorial_MopUp_06_02",
+            "Tutorial_MopUp_06_03",
+            "Tutorial_MopUp_06_04"
+          ],
+          "rush": {
+            "rate": 0.15,
+            "validcnt": 1,
+            "text": "目標大量出現！",
+            "bgm": 13
+          },
+          "reward_cid": 314
+        },
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -163,14 +205,14 @@
     }
   ],
   "mVer": {
-    "charainfo": 1569485107,
-    "weaponlist": 1567654640,
+    "charainfo": 1569574442,
+    "weaponlist": 1569574440,
     "skilllist": 1568876107,
     "worldinfo": 1557733248,
     "episodeinfo": 1566460524,
-    "questdigest": 1569485112,
+    "questdigest": 1570087072,
     "itemlist": 1568283466,
-    "booklist": 1568878028,
+    "booklist": 1570076104,
     "motionlist": 1557733209,
     "missionlist": 1568003859,
     "repeatmissionlist": 1513670320,
@@ -192,12 +234,12 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1569478295,
+    "vignette": 1570074759,
     "spdrama": 1557733209,
-    "gachainfo": 1569307782,
+    "gachainfo": 1570001749,
     "questtree": 1568686303,
-    "eventareainfo": 1569307779,
-    "coverinfo": 1567651413,
+    "eventareainfo": 1569922166,
+    "coverinfo": 1569910334,
     "towerinfo": 1569397473,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1557733209,
@@ -206,9 +248,9 @@
     "heroicskilllist": 1557733209,
     "soundExData": 1516261863,
     "medalinfo": 1564122377,
-    "eventPortal": 1569398105,
+    "eventPortal": 1570075349,
     "spquestinfo": 1557730699,
     "reload": 1500271199,
-    "servertime": 1569494955
+    "servertime": 1570101512
   }
 }
