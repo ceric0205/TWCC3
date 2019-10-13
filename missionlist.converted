@@ -1,6 +1,6 @@
 {
+  "deceive": 1570613328,
   "res": 0,
-  "deceive": 1568288234,
   "missionlist": [
     {
       "id": 1,
@@ -6019,214 +6019,166 @@
       "help": "還是有失敗的時候呢…"
     },
     {
-      "id": 1896,
+      "id": 1887,
       "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
       "quest_id": [
-        302414
+        222301
       ],
-      "title": "抵達「鎮魂平原」",
-      "sub_id": "Event 001",
-      "max_num": 1,
+      "title": "進行傳承篇「學生傳Ⅰ」",
+      "sub_id": "Event001",
+      "max_num": 4,
       "reward": {
-        "type": "chara_rf",
-        "id": "90904",
+        "type": "weapon_ev",
+        "id": "85044",
         "val": "1"
       },
-      "help": "抵達踏破活動的「鎮魂平原」！"
+      "help": "通過傳承篇「魔法兵團學生傳Ⅰ」第1話"
     },
     {
-      "id": 1897,
+      "id": 1888,
       "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
       "quest_id": [
-        302418
+        222304
       ],
-      "title": "抵達「第二個墓地」",
-      "sub_id": "Event 002",
-      "max_num": 1,
+      "title": "見證傳承篇「學生傳Ⅰ」的結局",
+      "sub_id": "Event002",
+      "max_num": 3,
       "reward": {
-        "type": "chara_rf",
-        "id": "90905",
+        "type": "stone",
+        "id": null,
         "val": "1"
       },
-      "help": "抵達踏破活動的「第二個墓地」！"
+      "help": "通過傳承篇「魔法兵團學生傳Ⅰ」最終話"
     },
     {
-      "id": 1898,
+      "id": 1889,
       "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
       "quest_id": [
-        302424
+        222305
       ],
-      "title": "抵達「最後的墓地」",
-      "sub_id": "Event 003",
+      "title": "用<魔>類型武器給予最後一擊！1",
+      "sub_id": "Event003",
       "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96281",
+        "val": "1"
+      },
+      "help": "在關卡「魔法學園大亂鬥」\\n用＜魔＞武器給予最後一擊！"
+    },
+    {
+      "id": 1890,
+      "type": 1,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
+      "quest_id": [
+        222305
+      ],
+      "title": "用<魔>類型武器給予最後一擊！2",
+      "sub_id": "Event004",
+      "max_num": 2,
       "reward": {
         "type": "item",
-        "id": "3",
+        "id": "2007",
         "val": "1"
       },
-      "help": "抵達踏破活動的「最後的墓地」！"
+      "help": "在關卡「魔法學園大亂鬥」\\n用＜魔＞武器給予最後一擊2次！"
     },
     {
-      "id": 1899,
+      "id": 1891,
       "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
       "quest_id": [
-        302451,
-        302452,
-        302453,
-        302455,
-        302456
+        222305
       ],
-      "title": "打倒幽靈合計100體",
-      "sub_id": "Event 004",
-      "max_num": 100,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26000",
-        "val": "1"
-      },
-      "help": "在踏破活動的自由任務打倒幽靈！\\n【EX】及前置任務不會計入喔"
-    },
-    {
-      "id": 1900,
-      "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
-      "quest_id": [
-        302451,
-        302452,
-        302453,
-        302455,
-        302456
-      ],
-      "title": "打倒幽靈合計150體",
-      "sub_id": "Event 005",
-      "max_num": 150,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85779",
-        "val": "1"
-      },
-      "help": "在踏破活動的自由任務打倒幽靈！\\n【EX】及前置任務不會計入喔"
-    },
-    {
-      "id": 1901,
-      "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
-      "quest_id": [
-        302451,
-        302452,
-        302453,
-        302455,
-        302456
-      ],
-      "title": "打倒幽靈合計250體",
-      "sub_id": "Event 006",
-      "max_num": 250,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85780",
-        "val": "1"
-      },
-      "help": "在踏破活動的自由任務打倒幽靈！\\n【EX】及前置任務不會計入喔"
-    },
-    {
-      "id": 1902,
-      "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
-      "quest_id": [
-        302457
-      ],
-      "title": "達成全戰鬥獎勵",
-      "sub_id": "Extra 001",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "1",
-        "val": "1"
-      },
-      "help": "在指定任務達成\\n全戰鬥獎勵"
-    },
-    {
-      "id": 1903,
-      "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
-      "quest_id": [
-        302458
-      ],
-      "title": "以＜斬＞類型武器給予最後一擊",
-      "sub_id": "Extra 002",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85779",
-        "val": "1"
-      },
-      "help": "在指定任務以\\n＜斬＞類型武器打倒最後的敵人！"
-    },
-    {
-      "id": 1904,
-      "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
-      "quest_id": [
-        302459
-      ],
-      "title": "以必殺技給予最後一擊",
-      "sub_id": "Extra 003",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85780",
-        "val": "1"
-      },
-      "help": "在指定任務以\\n以必殺技打倒最後的敵人！"
-    },
-    {
-      "id": 1905,
-      "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
-      "quest_id": [
-        302460
-      ],
-      "title": "使用騎士5次以上",
-      "sub_id": "Extra 004",
+      "title": "使用魔法師夥伴5次",
+      "sub_id": "Event005",
       "max_num": 5,
       "reward": {
         "type": "weapon_ev",
-        "id": "85777",
+        "id": "96268",
         "val": "1"
       },
-      "help": "在指定任務使用騎士5次以上！\\n以騎士5人挑戰任務一次就能達成喔！"
+      "help": "在關卡「魔法學園大亂鬥」使用魔法師夥伴5次\\n好友和替補隊伍都可列入計算。"
     },
     {
-      "id": 1906,
+      "id": 1892,
       "type": 1,
-      "start_time": 1542160800,
-      "end_time": 1568959199,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
       "quest_id": [
-        302461
+        222305
       ],
-      "title": "沒有接關就過關",
-      "sub_id": "Extra 005",
+      "title": "使用魔法師夥伴10次",
+      "sub_id": "Event006",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「魔法學園大亂鬥」使用魔法師夥伴10次\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 1893,
+      "type": 1,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
+      "quest_id": [
+        222305
+      ],
+      "title": "使用魔法師夥伴15次",
+      "sub_id": "Event007",
+      "max_num": 15,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「魔法學園大亂鬥」使用魔法師夥伴15次\\n好友和替補隊伍都可列入計算。"
+    },
+    {
+      "id": 1894,
+      "type": 1,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
+      "quest_id": [
+        222305
+      ],
+      "title": "用必殺技給予最後一擊！1",
+      "sub_id": "Event008",
       "max_num": 1,
       "reward": {
         "type": "weapon_ev",
-        "id": "85775",
+        "id": "96078",
         "val": "1"
       },
-      "help": "在指定任務\\n沒有接關就過關！"
+      "help": "在關卡「魔法學園大亂鬥」\\n以必殺技給予最後一擊！"
+    },
+    {
+      "id": 1895,
+      "type": 1,
+      "start_time": 1571292060,
+      "end_time": 1571896800,
+      "quest_id": [
+        222305
+      ],
+      "title": "用必殺技給予最後一擊！2",
+      "sub_id": "Event009",
+      "max_num": 2,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "在關卡「魔法學園大亂鬥」\\n以必殺技給予最後一擊2次！"
     },
     {
       "id": 2001,
@@ -7109,109 +7061,93 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 3089112,
+      "id": 30891210,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "用華麗的斬擊結束戰鬥吧！",
+      "title": "通關50次任務！",
       "sub_id": "Event 001",
-      "max_num": 10,
+      "max_num": 50,
       "reward": {
-        "type": "weapon_ev",
-        "id": 95883,
-        "val": "1"
+        "type": "item",
+        "id": "8",
+        "val": "5"
       },
-      "help": "通過任意關卡時\\n用＜斬＞類型的武器來給予最後一擊10次！"
+      "help": "通過50次任意關卡即可。"
     },
     {
-      "id": 3089113,
+      "id": 30891211,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "用猛烈的叩打結束戰鬥吧！",
+      "title": "通關100次任務！",
       "sub_id": "Event 002",
-      "max_num": 10,
+      "max_num": 100,
       "reward": {
-        "type": "weapon_ev",
-        "id": 96119,
-        "val": "1"
+        "type": "item",
+        "id": "8",
+        "val": "5"
       },
-      "help": "通過任意關卡時\\n用＜打＞類型的武器來給予最後一擊10次！"
+      "help": "通過100次任意關卡即可。"
     },
     {
-      "id": 3089114,
+      "id": 30891212,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "用迅速的突刺結束戰鬥吧！",
+      "title": "通關150次任務！",
       "sub_id": "Event 003",
-      "max_num": 10,
+      "max_num": 150,
       "reward": {
-        "type": "weapon_ev",
-        "id": 95882,
-        "val": "1"
+        "type": "item",
+        "id": "8",
+        "val": "5"
       },
-      "help": "通過任意關卡時\\n用＜突＞類型的武器來給予最後一擊10次！"
+      "help": "通過150次任意關卡即可。"
     },
     {
-      "id": 3089115,
+      "id": 30891213,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "用精準的一箭結束戰鬥吧！",
+      "title": "通關200次任務！",
       "sub_id": "Event 004",
-      "max_num": 10,
+      "max_num": 200,
       "reward": {
-        "type": "weapon_ev",
-        "id": 96108,
-        "val": "1"
+        "type": "item",
+        "id": "8",
+        "val": "5"
       },
-      "help": "通過任意關卡時\\n用＜弓＞類型的武器來給予最後一擊10次！"
+      "help": "通過200次任意關卡即可。"
     },
     {
-      "id": 3089116,
+      "id": 30891214,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "用絢爛的魔法結束戰鬥吧！",
+      "title": "盡情地武器鍊金吧！Again",
       "sub_id": "Event 005",
-      "max_num": 10,
+      "max_num": 50,
       "reward": {
         "type": "weapon_ev",
-        "id": 85091,
+        "id": 26235,
         "val": "1"
       },
-      "help": "通過任意關卡時\\n用＜魔＞類型的武器來給予最後一擊10次！"
+      "help": "利用＜武器鍊金＞功能達50次！"
     },
     {
-      "id": 3089117,
+      "id": 30891215,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "用神聖的攻勢結束戰鬥吧！",
+      "title": "用崩山的勁拳結束戰鬥吧！Part 2",
       "sub_id": "Event 006",
-      "max_num": 10,
-      "reward": {
-        "type": "weapon_ev",
-        "id": 26258,
-        "val": "1"
-      },
-      "help": "通過任意關卡時\\n用＜聖＞類型的武器來給予最後一擊10次！"
-    },
-    {
-      "id": 3089118,
-      "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
-      "quest_id": [],
-      "title": "用崩山的勁拳結束戰鬥吧！",
-      "sub_id": "Event 007",
       "max_num": 10,
       "reward": {
         "type": "weapon_ev",
@@ -7221,20 +7157,36 @@
       "help": "通過任意關卡時\\n用＜拳＞類型的武器來給予最後一擊10次！"
     },
     {
-      "id": 3089119,
+      "id": 30891216,
       "type": 1,
-      "start_time": 1567134000,
-      "end_time": 1568959200,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
       "quest_id": [],
-      "title": "盡情地武器鍊金吧！",
-      "sub_id": "Event 008",
-      "max_num": 50,
+      "title": "進行20次探索！",
+      "sub_id": "Event 007",
+      "max_num": 20,
       "reward": {
-        "type": "weapon_ev",
-        "id": 26235,
+        "type": "item",
+        "id": "32",
         "val": "1"
       },
-      "help": "利用＜武器鍊金＞功能達50次！"
+      "help": "派遣夥伴前往探索吧！\\n不論是3小時還是8小時都算1次哦！"
+    },
+    {
+      "id": 30891217,
+      "type": 1,
+      "start_time": 1571292060,
+      "end_time": 1573106400,
+      "quest_id": [],
+      "title": "進行40次探索！",
+      "sub_id": "Event 008",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "36",
+        "val": "1"
+      },
+      "help": "派遣夥伴前往探索吧！\\n不論是3小時還是8小時都算1次哦！"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
+  "deceive": 1570613324,
   "res": 0,
-  "deceive": 1570093081,
   "vignette": [
     {
       "cid": 7015,
@@ -35,21 +35,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 11224,
+      "cid": 4224,
       "v_motionid": 2,
-      "bg": 111,
-      "memo": "到夢中宰了你～！",
-      "start": 1549519200,
+      "bg": 21,
+      "memo": "聽我唱歌吧！",
+      "start": 1522918800,
       "end": 1571292000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
+        "type": "legend",
         "gacha_id": 1
       },
-      "priority": 50,
+      "priority": 35,
       "min_rank": 1,
-      "max_rank": 270,
-      "v_category": "gacha",
+      "max_rank": 260,
+      "v_category": "legend",
       "event_area_name": null
     },
     {
