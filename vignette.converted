@@ -1,5 +1,5 @@
 {
-  "deceive": 1570613324,
+  "deceive": 1571303621,
   "res": 0,
   "vignette": [
     {
@@ -35,39 +35,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4224,
+      "cid": 5275,
       "v_motionid": 2,
-      "bg": 21,
-      "memo": "聽我唱歌吧！",
+      "bg": 31,
+      "memo": "讓我們一起面對吧。",
       "start": 1522918800,
-      "end": 1571292000,
+      "end": 1571896800,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
-        "gacha_id": 1
+        "gacha_id": 2
       },
-      "priority": 35,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "legend",
-      "event_area_name": null
-    },
-    {
-      "cid": 318,
-      "v_motionid": 2,
-      "bg": 111,
-      "memo": "嚐嚐我這招～！",
-      "start": 1522918800,
-      "end": 1571292000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1031,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "mopup",
       "event_area_name": null
     },
     {

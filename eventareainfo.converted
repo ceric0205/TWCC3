@@ -1,6 +1,6 @@
 {
-  "deceive": 1570613311,
   "res": 0,
+  "deceive": 1571303605,
   "event_area_info": [
     {
       "id": 2,
@@ -70,6 +70,27 @@
         222206
       ],
       "cid": 6002,
+      "bgm": [
+        "BGM_FIELD_PAST"
+      ]
+    },
+    {
+      "id": 502,
+      "bg": 6010,
+      "priority": 9,
+      "area_id": 206,
+      "start": 1541728800,
+      "end": -1,
+      "title": "魔法兵團學生傳Ⅰ",
+      "url": "",
+      "quest_list": [
+        222301,
+        222302,
+        222303,
+        222304,
+        222305
+      ],
+      "cid": 2010,
       "bgm": [
         "BGM_FIELD_PAST"
       ]

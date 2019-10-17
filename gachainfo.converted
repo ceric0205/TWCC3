@@ -1,6 +1,6 @@
 {
-  "deceive": 1570613339,
   "res": 0,
+  "deceive": 1571303622,
   "gacha_info": {
     "fes": {
       "ring": [
@@ -20,27 +20,27 @@
           "end": 1475247599
         }
       ],
-      "ticket": [
-        {
-          "gacha_id": 1,
-          "start": 1518674400,
-          "end": 1565848800
-        }
-      ],
       "legend_fes": [
         {
           "gacha_id": 1,
           "start": 1522918800,
-          "end": 1522918800,
-          "icon": "190926_l",
+          "end": 1571896800,
+          "icon": "191017_l2",
           "priority": 1
         },
         {
           "gacha_id": 2,
           "start": 1549519200,
-          "end": 1571292000,
-          "icon": "191010_l",
+          "end": 1571896800,
+          "icon": "191017_l",
           "priority": 1
+        }
+      ],
+      "ticket": [
+        {
+          "gacha_id": 1,
+          "start": 1518674400,
+          "end": 1573711200
         }
       ],
       "story_fes": [
@@ -56,14 +56,14 @@
         {
           "gacha_id": 1,
           "start": 1522918800,
-          "end": 1571292000,
-          "icon": "191003_e",
+          "end": 1571896800,
+          "icon": "191017_e",
           "priority": 1
         },
         {
           "gacha_id": 2,
           "start": 1549519200,
-          "end": 1571292000,
+          "end": 1549519200,
           "icon": "191009_e2",
           "priority": 5
         }

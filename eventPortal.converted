@@ -1,6 +1,6 @@
 {
-  "deceive": 1570613313,
   "res": 0,
+  "deceive": 1571303608,
   "event_portal": [
     {
       "_id": 0,
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=1151587"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=8012073"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=8147091"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=9525281"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=9251110"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=9513579"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=1165693"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=3748546"
             }
           ]
         }
@@ -101,9 +101,9 @@
           "banner": [
             {
               "start": 1535608800,
-              "end": 1570082399,
+              "end": 1571896799,
               "priority": 20,
-              "name": "BN_20190823_3.jpg",
+              "name": "BN_20191004_4.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -124,9 +124,9 @@
             },
             {
               "start": 1549519200,
-              "end": 1571291999,
+              "end": 1571896799,
               "priority": 20,
-              "name": "BN_20190917_3.jpg",
+              "name": "BN_20191004_1.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -150,8 +150,8 @@
           "img": [
             {
               "start": 1535608800,
-              "end": 1571291999,
-              "chara": "cha_2d_whole_04224",
+              "end": 1571896799,
+              "chara": "cha_2d_whole_02228",
               "bg_img": "TownBG_6009"
             },
             {
@@ -162,13 +162,13 @@
             }
           ],
           "url": "",
-          "end": 1571291999,
+          "end": 1571896799,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
-      "timestamp": "1570526987000"
+      "timestamp": "1571209413000"
     },
     {
       "_id": 4,
@@ -583,8 +583,8 @@
             },
             {
               "start": 1536026400,
-              "end": 1571291999,
-              "chara": "cha_2d_whole_08877",
+              "end": 1571896799,
+              "chara": "cha_2d_whole_08905",
               "bg_img": "TownBG_6009"
             }
           ],
@@ -592,13 +592,13 @@
           "banner": [
             {
               "start": 1535421600,
-              "end": 1571291999,
+              "end": 1571896799,
               "priority": 8,
-              "name": "BN_20191004_2.jpg",
+              "name": "BN_20191004_3.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "event",
-              "gacha_id": 2,
+              "gacha_id": 1,
               "info_url": ""
             },
             {
@@ -615,13 +615,13 @@
             },
             {
               "start": 1535421600,
-              "end": 1570082399,
+              "end": 1573711199,
               "priority": 10,
-              "name": "BN_20190917_2.jpg",
+              "name": "BN_20191015_2.jpg",
               "url": "",
               "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 2,
+              "gacha_type": "ticket",
+              "gacha_id": 1,
               "info_url": ""
             },
             {
@@ -711,7 +711,7 @@
             },
             {
               "start": 1541728800,
-              "end": 1570607999,
+              "end": -1,
               "clear_quest_id": 222304,
               "priority": 90,
               "name": "BN_20190925_4.jpg",
@@ -738,7 +738,7 @@
           "category": "past"
         }
       ],
-      "timestamp": "1570155734000"
+      "timestamp": "1571033540000"
     }
   ]
 }
