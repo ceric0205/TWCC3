@@ -145,49 +145,7 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 29,
-          "is_mop_up": true,
-          "name": "魔女與狐狸與偉大的南瓜之王！",
-          "area_id": 1031,
-          "dist_start": 1570600800,
-          "event_start": 1570600800,
-          "main_start": 1570600800,
-          "event_end": 1571292000,
-          "dist_end": 1571378400,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "吸血糖果",
-              "icon": "Item_MopUp_06_A",
-              "target_enemy_id": "335628",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335629",
-              "rare_target_point_val": "80"
-            },
-            "point2": {
-              "name": "南瓜餅乾",
-              "icon": "Item_MopUp_06_B",
-              "target_enemy_id": "335628",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335629",
-              "rare_target_point_val": "80"
-            }
-          },
-          "info_list": [
-            "Tutorial_MopUp_06_01",
-            "Tutorial_MopUp_06_02",
-            "Tutorial_MopUp_06_03",
-            "Tutorial_MopUp_06_04"
-          ],
-          "rush": {
-            "rate": 0.15,
-            "validcnt": 1,
-            "text": "目標大量出現！",
-            "bgm": 13
-          },
-          "reward_cid": 314
-        },
+        "cover": null,
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -205,12 +163,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1571303036,
-    "weaponlist": 1569574440,
-    "skilllist": 1568876107,
+    "charainfo": 1571901384,
+    "weaponlist": 1571888715,
+    "skilllist": 1571888717,
     "worldinfo": 1557733248,
     "episodeinfo": 1566460524,
-    "questdigest": 1570611545,
+    "questdigest": 1571892759,
     "itemlist": 1570525513,
     "booklist": 1570076104,
     "motionlist": 1557733209,
@@ -219,7 +177,7 @@
     "bossinfo": 1571303032,
     "battleinfo": 1557733209,
     "homelist": 1533099940,
-    "supporterskill": 1570602414,
+    "supporterskill": 1571650044,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
@@ -229,16 +187,16 @@
     "various": 1557733209,
     "eventplace": 1486504842,
     "eventbadge": 1557733209,
-    "denju": 1568024140,
-    "questroute": 1568686303,
+    "denju": 1571650042,
+    "questroute": 1571710624,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1571286075,
+    "vignette": 1571899210,
     "spdrama": 1557733209,
-    "gachainfo": 1571122875,
-    "questtree": 1568686303,
-    "eventareainfo": 1571033541,
+    "gachainfo": 1571914460,
+    "questtree": 1571710624,
+    "eventareainfo": 1571731159,
     "coverinfo": 1570605468,
     "towerinfo": 1569397473,
     "chropowerinfo": 1531709280,
@@ -248,9 +206,9 @@
     "heroicskilllist": 1557733209,
     "soundExData": 1516261863,
     "medalinfo": 1564122377,
-    "eventPortal": 1571209414,
+    "eventPortal": 1571898549,
     "spquestinfo": 1557730699,
     "reload": 1500271199,
-    "servertime": 1571329028
+    "servertime": 1571918892
   }
 }

@@ -1,6 +1,5 @@
 {
-  "deceive": 1571303621,
-  "res": 0,
+  "deceive": 1571914874,
   "vignette": [
     {
       "cid": 7015,
@@ -35,21 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 5275,
+      "cid": 13210,
       "v_motionid": 2,
-      "bg": 31,
-      "memo": "讓我們一起面對吧。",
-      "start": 1522918800,
-      "end": 1571896800,
+      "bg": 111,
+      "memo": "情勢所逼，要解放囉！",
+      "start": 1549519200,
+      "end": 1572501600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
-        "gacha_id": 2
+        "type": "event",
+        "gacha_id": 1
       },
-      "priority": 50,
+      "priority": 40,
       "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "legend",
+      "max_rank": 270,
+      "v_category": "gacha",
       "event_area_name": null
     },
     {
@@ -224,5 +223,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }

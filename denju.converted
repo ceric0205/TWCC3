@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1568288808,
+  "deceive": 1571914877,
   "denju": [
     {
       "denju_id": 2,
@@ -12909,9 +12909,9 @@
       "patternid5": 0,
       "patternid6": 0,
       "scost": 2,
-      "sname": "莊嚴之力",
-      "stext": "每隔一定時間隨機給予1體傷害。本攻擊會持續到15次。",
-      "timestamp": "1557733208221",
+      "sname": "解放之力",
+      "stext": "每隔一定時間對隨機單體敵人造成傷害。此攻擊最多持續15次。",
+      "timestamp": "1571650041000",
       "weaponChange": 1
     },
     {
