@@ -1,5 +1,5 @@
 {
-  "deceive": 1571914874,
+  "deceive": 1572516164,
   "vignette": [
     {
       "cid": 7015,
@@ -34,20 +34,38 @@
       "v_category": "favorite"
     },
     {
-      "cid": 13210,
+      "cid": 8919,
       "v_motionid": 2,
-      "bg": 111,
-      "memo": "情勢所逼，要解放囉！",
-      "start": 1549519200,
-      "end": 1572501600,
+      "bg": 5100,
+      "memo": "這就是精品滷肉飯！！",
+      "start": 1535608800,
+      "end": 1573711200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 8918,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "快使用珍珠之力啊啊啊啊",
+      "start": 1522918800,
+      "end": 1573711200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 40,
+      "priority": 10,
       "min_rank": 1,
-      "max_rank": 270,
+      "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": null
     },

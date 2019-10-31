@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1566464291,
+  "deceive": 1572516167,
   "episodeinfo": [
     {
       "type": 2,
@@ -20451,6 +20451,45 @@
           "name": "羈絆物語",
           "quest": [
             89161
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8917,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            89171
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8918,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            89181
+          ]
+        }
+      ],
+      "collabo": false
+    },
+    {
+      "type": 0,
+      "id": 8919,
+      "episode": [
+        {
+          "name": "羈絆物語",
+          "quest": [
+            89191
           ]
         }
       ],

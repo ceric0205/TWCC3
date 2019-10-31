@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1571914884,
+  "deceive": 1572516156,
   "weaponlist": [
     {
       "id": 1,
@@ -25966,6 +25966,51 @@
       "skill": 30891508,
       "type": 0,
       "equip_type": 5
+    },
+    {
+      "id": 95884,
+      "name": "好大大雞排",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 11,
+      "model": "weapon95884_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95885,
+      "name": "珍珠奶茶",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 12,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95885_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95886,
+      "name": "小碗滷肉飯",
+      "type_atk": 1,
+      "attackMax": 11,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 12,
+      "model": "weapon95886_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -40915,6 +40960,45 @@
       "profile": "",
       "rank_limit": 2,
       "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95884,
+      "id": 95884,
+      "name": "好大大雞排",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95885,
+      "id": 95885,
+      "name": "珍珠奶茶",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95886,
+      "id": 95886,
+      "name": "小碗滷肉飯",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
       "usable0": -1,
       "usable1": -1,
       "usable2": -1,

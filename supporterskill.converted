@@ -1,5 +1,5 @@
 {
-  "deceive": 1571914899,
+  "deceive": 1572516175,
   "res": 0,
   "supporterskill": [
     {
@@ -23682,6 +23682,56 @@
       "abi2": 0,
       "abi3": 0,
       "text": "◆暴擊發生率上升。\\n◆暴擊威力上升。"
+    },
+    {
+      "ability_id": 8917,
+      "name": "薄皮還脆皮",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 30891711,
+      "abi1": 0,
+      "abi2": 0,
+      "abi3": 0,
+      "text": "◆場上所屬是<旅人>的夥伴的攻擊力和防禦力上升。"
+    },
+    {
+      "ability_id": 8918,
+      "name": "黑糖珍珠之力",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 101003,
+      "abi1": 101010,
+      "abi3": 0,
+      "text": "◆戰鬥時，攻擊力和防禦力上升。"
+    },
+    {
+      "ability_id": 8919,
+      "name": "精心調製的滷汁",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 30891912,
+      "abi1": 0,
+      "abi2": 0,
+      "abi3": 0,
+      "text": "◆攻擊時根據造成的傷害量，恢復自身HP。"
     }
   ]
 }
