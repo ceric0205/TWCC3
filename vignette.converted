@@ -1,5 +1,5 @@
 {
-  "deceive": 1572516164,
+  "deceive": 1573117166,
   "vignette": [
     {
       "cid": 7015,
@@ -46,6 +46,24 @@
         "place_id": 0
       },
       "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 8917,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "不切才是王道！",
+      "start": 1535608800,
+      "end": 1573711200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 20,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "raid",
