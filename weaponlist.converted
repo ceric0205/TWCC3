@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "deceive": 1572516156,
+  "deceive": 1573721992,
   "weaponlist": [
     {
       "id": 1,
@@ -26011,6 +26011,51 @@
       "skill": 0,
       "type": 8,
       "equip_type": 5
+    },
+    {
+      "id": 95890,
+      "name": "美味過頭的衝擊肉",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 15,
+      "type_grd": 3,
+      "guardMax": 5,
+      "model": "weapon85613_body",
+      "rank": 3,
+      "skill": 30891711,
+      "type": 1,
+      "equip_type": 5
+    },
+    {
+      "id": 95891,
+      "name": "瑪那賦予者",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon85744_body",
+      "rank": 3,
+      "skill": 30891812,
+      "type": 3,
+      "equip_type": 5
+    },
+    {
+      "id": 95892,
+      "name": "爆裂魔法之杖",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 15,
+      "type_grd": 3,
+      "guardMax": 5,
+      "model": "weapon85656_body",
+      "rank": 3,
+      "skill": 30891913,
+      "type": 4,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -40999,6 +41044,45 @@
       "profile": "",
       "rank_limit": 2,
       "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95890,
+      "id": 95890,
+      "name": "美味過頭的衝擊肉",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95891,
+      "id": 95891,
+      "name": "瑪那賦予者",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 5,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95892,
+      "id": 95892,
+      "name": "爆裂魔法之杖",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 5,
       "usable0": -1,
       "usable1": -1,
       "usable2": -1,

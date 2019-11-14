@@ -1,5 +1,5 @@
 {
-  "deceive": 1573117166,
+  "deceive": 1573721979,
   "vignette": [
     {
       "cid": 7015,
@@ -34,58 +34,40 @@
       "v_category": "favorite"
     },
     {
-      "cid": 8919,
+      "cid": 5211,
       "v_motionid": 2,
-      "bg": 5100,
-      "memo": "這就是精品滷肉飯！！",
-      "start": 1535608800,
-      "end": 1573711200,
+      "bg": 31,
+      "memo": "用不著你說……！！",
+      "start": 1522918800,
+      "end": 1574316000,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "legend",
+        "gacha_id": 2
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "legend",
+      "event_area_name": null
+    },
+    {
+      "cid": 279,
+      "v_motionid": 2,
+      "bg": 6004,
+      "memo": "給我讓開———！",
+      "start": 1522918800,
+      "end": 1574316000,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 200,
-        "place_id": 0
+        "area_id": 36,
+        "place_id": 1
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 8917,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "不切才是王道！",
-      "start": 1535608800,
-      "end": 1573711200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 20,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 8918,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "快使用珍珠之力啊啊啊啊",
-      "start": 1522918800,
-      "end": 1573711200,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 10,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": null
+      "v_category": "event_1",
+      "event_area_name": 18
     },
     {
       "cid": 3,

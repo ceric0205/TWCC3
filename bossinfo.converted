@@ -1,6 +1,6 @@
 {
+  "deceive": 1573721982,
   "res": 0,
-  "deceive": 1573117175,
   "bossinfo": {
     "bossskill": [
       {
@@ -105760,7 +105760,7 @@
         "skillid4": 0,
         "skillid5": 0,
         "skillid6": 0,
-        "sname": "魅惑箭",
+        "sname": "魅惑之箭",
         "stext": "不懂禮儀的人煩請退場。",
         "tid": 0,
         "voice": 2
