@@ -147,18 +147,18 @@
         },
         "cover": null,
         "raid": {
-          "raid_id": 123,
+          "raid_id": 124,
           "bg": 2000,
           "event_start": 1561964689,
-          "event_end": 1573797600,
-          "close": 1573711200,
-          "name": "《鎖鏈戰記ｘ食用系少女 雞排來襲》",
+          "event_end": 1575612000,
+          "close": 1575525600,
+          "name": "《魔境少女愛麗絲襲來》",
           "full_time": 130,
           "part_time": 90,
           "sp_cards": [
             {
               "cid": "8918",
-              "skill_id": "30891709",
+              "skill_id": "30892209",
               "lb_coin_rate_map": {
                 "limit_break_0": 0.5,
                 "limit_break_1": 0.85,
@@ -169,7 +169,7 @@
             },
             {
               "cid": "8919",
-              "skill_id": "30891709",
+              "skill_id": "30892209",
               "lb_coin_rate_map": {
                 "limit_break_0": 0.5,
                 "limit_break_1": 0.85,
@@ -187,19 +187,18 @@
           "anger_atk_up": 2,
           "anger_battle_time": 30,
           "invalid_chropower": false,
-          "main_start": 1572859562,
+          "main_start": 1574931600,
           "raid_area_quest": [
-            1000195,
-            1000196,
-            1000197,
-            1000198,
-            1000199,
-            1000200,
-            1000201,
-            1000202,
-            1000203
+            1000204,
+            1000205,
+            1000206,
+            1000207,
+            1000208,
+            1000209,
+            1000210,
+            1000211
           ],
-          "reward_cid": 8917
+          "reward_cid": 8922
         },
         "totalwar": null,
         "subjugation": [],
@@ -217,12 +216,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1573180289,
-    "weaponlist": 1573715684,
-    "skilllist": 1573446431,
+    "charainfo": 1574244917,
+    "weaponlist": 1574219969,
+    "skilllist": 1574325329,
     "worldinfo": 1557733248,
-    "episodeinfo": 1572505397,
-    "questdigest": 1573718456,
+    "episodeinfo": 1574219974,
+    "questdigest": 1574322756,
     "itemlist": 1570525513,
     "booklist": 1573529007,
     "motionlist": 1557733209,
@@ -231,7 +230,7 @@
     "bossinfo": 1573456527,
     "battleinfo": 1557733209,
     "homelist": 1533099940,
-    "supporterskill": 1573437922,
+    "supporterskill": 1574219969,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
@@ -246,11 +245,11 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1573705255,
+    "vignette": 1574310531,
     "spdrama": 1557733209,
-    "gachainfo": 1573628228,
+    "gachainfo": 1574217328,
     "questtree": 1571710624,
-    "eventareainfo": 1573528351,
+    "eventareainfo": 1574328661,
     "coverinfo": 1570605468,
     "towerinfo": 1569397473,
     "chropowerinfo": 1531709280,
@@ -260,9 +259,9 @@
     "heroicskilllist": 1557733209,
     "soundExData": 1516261863,
     "medalinfo": 1564122377,
-    "eventPortal": 1573631097,
+    "eventPortal": 1574329009,
     "spquestinfo": 1557730699,
     "reload": 1500271199,
-    "servertime": 1573730411
+    "servertime": 1574336257
   }
 }

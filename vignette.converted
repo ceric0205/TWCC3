@@ -1,5 +1,6 @@
 {
-  "deceive": 1573721979,
+  "deceive": 1574329460,
+  "res": 0,
   "vignette": [
     {
       "cid": 7015,
@@ -34,40 +35,40 @@
       "v_category": "favorite"
     },
     {
-      "cid": 5211,
+      "cid": 8921,
       "v_motionid": 2,
-      "bg": 31,
-      "memo": "用不著你說……！！",
-      "start": 1522918800,
-      "end": 1574316000,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "legend",
-        "gacha_id": 2
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "legend",
-      "event_area_name": null
-    },
-    {
-      "cid": 279,
-      "v_motionid": 2,
-      "bg": 6004,
-      "memo": "給我讓開———！",
-      "start": 1522918800,
-      "end": 1574316000,
+      "bg": 5100,
+      "memo": "這就是賜予我的力量",
+      "start": 1535608800,
+      "end": 1575525600,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 36,
-        "place_id": 1
+        "area_id": 200,
+        "place_id": 0
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 18
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 8920,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "這就是最後的希望",
+      "start": 1522918800,
+      "end": 1575525600,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 10,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
     },
     {
       "cid": 3,
@@ -241,6 +242,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "deceive": 1573722002,
+  "deceive": 1574329487,
   "res": 0,
   "supporterskill": [
     {
@@ -23732,6 +23732,54 @@
       "abi2": 0,
       "abi3": 0,
       "text": "◆攻擊時根據造成的傷害量，恢復自身HP。"
+    },
+    {
+      "ability_id": 8920,
+      "name": "箱中的希望",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 101002,
+      "abi1": 110006,
+      "abi3": 0,
+      "text": "◆戰鬥時，攻擊力上升。\\n◆不會陷入封印狀態。"
+    },
+    {
+      "ability_id": 8921,
+      "name": "天使的祝福",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 115001,
+      "abi1": 106003,
+      "abi3": 0,
+      "text": "◆以持有1顆法珠的狀態下開始戰鬥。\\n◆必殺技威力上升。"
+    },
+    {
+      "ability_id": 8922,
+      "name": "好喝的茶",
+      "ability": 2,
+      "param0": 0,
+      "param1": 0,
+      "param2": 0,
+      "param3": 0,
+      "param4": 0,
+      "param5": 0,
+      "param6": 0,
+      "abi0": 30892211,
+      "abi1": 0,
+      "abi3": 0,
+      "text": "◆場上所屬是<旅人>的夥伴的防禦力上升。"
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "res": 0,
-  "deceive": 1573721992,
+  "deceive": 1574329893,
   "weaponlist": [
     {
       "id": 1,
@@ -26056,6 +26055,51 @@
       "skill": 30891913,
       "type": 4,
       "equip_type": 5
+    },
+    {
+      "id": 95887,
+      "name": "希望之箱",
+      "type_atk": 1,
+      "attackMax": 12,
+      "type_cri": 2,
+      "criticalMax": 12,
+      "type_grd": 3,
+      "guardMax": 10,
+      "model": "weapon95887_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 4,
+      "equip_type": 5
+    },
+    {
+      "id": 95888,
+      "name": "大天使之杖",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 14,
+      "type_grd": 3,
+      "guardMax": 6,
+      "model": "weapon95888_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 4,
+      "equip_type": 5
+    },
+    {
+      "id": 95889,
+      "name": "三月兔",
+      "type_atk": 1,
+      "attackMax": 14,
+      "type_cri": 2,
+      "criticalMax": 8,
+      "type_grd": 3,
+      "guardMax": 12,
+      "model": "weapon95889_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 1,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -41088,6 +41132,45 @@
       "usable2": -1,
       "ring": -1,
       "material": 0
+    },
+    {
+      "evol_dst": 95887,
+      "id": 95887,
+      "name": "希望之箱",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95888,
+      "id": 95888,
+      "name": "大天使之杖",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95889,
+      "id": 95889,
+      "name": "三月兔",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
     }
   ],
   "reinforce": [
@@ -41391,5 +41474,6 @@
       "type": 7,
       "ring": -1
     }
-  ]
+  ],
+  "res": 0
 }
