@@ -157,7 +157,7 @@
           "part_time": 90,
           "sp_cards": [
             {
-              "cid": "8918",
+              "cid": "8921",
               "skill_id": "30892209",
               "lb_coin_rate_map": {
                 "limit_break_0": 0.5,
@@ -168,7 +168,7 @@
               }
             },
             {
-              "cid": "8919",
+              "cid": "8920",
               "skill_id": "30892209",
               "lb_coin_rate_map": {
                 "limit_break_0": 0.5,
@@ -187,7 +187,7 @@
           "anger_atk_up": 2,
           "anger_battle_time": 30,
           "invalid_chropower": false,
-          "main_start": 1574931600,
+          "main_start": 1574669684,
           "raid_area_quest": [
             1000204,
             1000205,
@@ -216,18 +216,18 @@
     }
   ],
   "mVer": {
-    "charainfo": 1574244917,
+    "charainfo": 1574933887,
     "weaponlist": 1574219969,
-    "skilllist": 1574325329,
+    "skilllist": 1574670293,
     "worldinfo": 1557733248,
     "episodeinfo": 1574219974,
-    "questdigest": 1574322756,
+    "questdigest": 1574924901,
     "itemlist": 1570525513,
     "booklist": 1573529007,
     "motionlist": 1557733209,
     "missionlist": 1573705033,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1573456527,
+    "bossinfo": 1574933883,
     "battleinfo": 1557733209,
     "homelist": 1533099940,
     "supporterskill": 1574219969,
@@ -240,18 +240,18 @@
     "various": 1557733209,
     "eventplace": 1486504842,
     "eventbadge": 1557733209,
-    "denju": 1573033100,
+    "denju": 1574933883,
     "questroute": 1571710624,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1544754882,
-    "vignette": 1574310531,
+    "vignette": 1574916383,
     "spdrama": 1557733209,
-    "gachainfo": 1574217328,
+    "gachainfo": 1574920435,
     "questtree": 1571710624,
     "eventareainfo": 1574328661,
     "coverinfo": 1570605468,
-    "towerinfo": 1569397473,
+    "towerinfo": 1574840417,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1557733209,
     "openseainfo": 1562063199,
@@ -259,9 +259,9 @@
     "heroicskilllist": 1557733209,
     "soundExData": 1516261863,
     "medalinfo": 1564122377,
-    "eventPortal": 1574329009,
+    "eventPortal": 1574916485,
     "spquestinfo": 1557730699,
     "reload": 1500271199,
-    "servertime": 1574336257
+    "servertime": 1574938388
   }
 }
