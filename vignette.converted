@@ -1,6 +1,6 @@
 {
+  "deceive": 1575545367,
   "res": 0,
-  "deceive": 1574934847,
   "vignette": [
     {
       "cid": 7015,
@@ -35,48 +35,30 @@
       "v_category": "favorite"
     },
     {
-      "cid": 8921,
+      "cid": 2207,
       "v_motionid": 2,
-      "bg": 5100,
-      "memo": "這就是賜予我的力量",
-      "start": 1535608800,
-      "end": 1575525600,
+      "bg": 11,
+      "memo": "把我的一切全都拿去～！",
+      "start": 1522918800,
+      "end": 1576130400,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 200,
-        "place_id": 0
+        "area_id": 36,
+        "place_id": 1
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
+      "v_category": "event_1",
+      "event_area_name": 3
     },
     {
-      "cid": 8922,
+      "cid": 2205,
       "v_motionid": 2,
-      "bg": 5100,
-      "memo": "今天的茶點是什麼呢？",
-      "start": 1535608800,
-      "end": 1575525600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 20,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 8920,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "這就是最後的希望",
+      "bg": 11,
+      "memo": "刻印呀…請賜我力量……",
       "start": 1522918800,
-      "end": 1575525600,
+      "end": 1576130400,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",

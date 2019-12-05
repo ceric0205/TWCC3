@@ -1,6 +1,6 @@
 {
+  "deceive": 1575545359,
   "res": 0,
-  "deceive": 1574934846,
   "event_portal": [
     {
       "_id": 0,
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=468287"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=4702835"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=283828"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=5485297"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=9335126"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=5127926"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=9608058"
+              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=7498823"
             }
           ]
         }
@@ -577,8 +577,8 @@
           "img": [
             {
               "start": 1536199200,
-              "end": 1565848799,
-              "chara": "cha_2d_whole_04294",
+              "end": 1576130399,
+              "chara": "cha_2d_whole_02205",
               "bg_img": "TownBG_6009"
             },
             {
@@ -603,14 +603,14 @@
             },
             {
               "start": 1549000800,
-              "end": 1574328659,
+              "end": 1576130399,
               "priority": 7,
-              "name": "BN_20191106_2.jpg",
+              "name": "BN_20191016_4.jpg",
               "url": "",
               "type": "EventArea",
               "place_id": 1,
               "area_id": 36,
-              "tab_id": 18,
+              "tab_id": 3,
               "info_url": ""
             },
             {
