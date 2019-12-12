@@ -1,6 +1,6 @@
 {
-  "deceive": 1575545367,
   "res": 0,
+  "deceive": 1576141123,
   "vignette": [
     {
       "cid": 7015,
@@ -35,12 +35,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 2207,
+      "cid": 325,
       "v_motionid": 2,
-      "bg": 11,
-      "memo": "把我的一切全都拿去～！",
+      "bg": 1,
+      "memo": "不懂禮儀的人煩請退場",
       "start": 1522918800,
-      "end": 1576130400,
+      "end": 1577340000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -50,15 +50,15 @@
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "event_1",
-      "event_area_name": 3
+      "event_area_name": 18
     },
     {
-      "cid": 2205,
+      "cid": 2298,
       "v_motionid": 2,
       "bg": 11,
-      "memo": "刻印呀…請賜我力量……",
+      "memo": "為你獻上耀眼的繁星……！",
       "start": 1522918800,
-      "end": 1576130400,
+      "end": 1577340000,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
