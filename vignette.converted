@@ -1,6 +1,5 @@
 {
-  "res": 0,
-  "deceive": 1576141123,
+  "deceive": 1576745970,
   "vignette": [
     {
       "cid": 7015,
@@ -35,6 +34,24 @@
       "v_category": "favorite"
     },
     {
+      "cid": 12227,
+      "v_motionid": 2,
+      "bg": 101,
+      "memo": "我不會漏聽任何情報",
+      "start": 1522918800,
+      "end": 1577340000,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "legend",
+        "gacha_id": 1
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "legend",
+      "event_area_name": null
+    },
+    {
       "cid": 325,
       "v_motionid": 2,
       "bg": 1,
@@ -51,24 +68,6 @@
       "max_rank": 260,
       "v_category": "event_1",
       "event_area_name": 18
-    },
-    {
-      "cid": 2298,
-      "v_motionid": 2,
-      "bg": 11,
-      "memo": "為你獻上耀眼的繁星……！",
-      "start": 1522918800,
-      "end": 1577340000,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 10,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": null
     },
     {
       "cid": 3,
@@ -242,5 +241,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }
