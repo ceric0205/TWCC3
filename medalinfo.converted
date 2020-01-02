@@ -1,7 +1,39 @@
 {
+  "deceive": 1577965326,
   "res": 0,
-  "deceive": 1577350733,
   "medal_data": [
+    {
+      "medal_id": 100,
+      "medal_name": "異世界音樂祭硬幣",
+      "cards_rate_list": [
+        {
+          "rate": 8,
+          "cid": 8923
+        },
+        {
+          "rate": 8,
+          "cid": 8924
+        },
+        {
+          "rate": 2,
+          "cid": 8925
+        },
+        {
+          "rate": 2,
+          "cid": 8918
+        },
+        {
+          "rate": 2,
+          "cid": 8919
+        }
+      ],
+      "event_start": 1544061600,
+      "event_end": 1579154400,
+      "dist_start": 1544061600,
+      "dist_end": 1579154399,
+      "url": "",
+      "url_after": ""
+    },
     {
       "medal_id": 2,
       "medal_name": "聖夜獎牌",

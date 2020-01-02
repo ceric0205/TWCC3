@@ -1,45 +1,14 @@
 {
-  "deceive": 1577350732,
+  "deceive": 1577965317,
+  "res": 0,
   "vignette": [
     {
-      "cid": 7015,
-      "v_motionid": 0,
-      "bg": 5010,
-      "memo": "探索終了！",
-      "start": 1479394800,
-      "end": 1577807999,
-      "link": "event_web",
-      "param": {
-        "url": ""
-      },
-      "priority": 1000,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "explorer"
-    },
-    {
-      "cid": 7015,
-      "v_motionid": 0,
-      "bg": 2002,
-      "memo": "",
-      "start": 1489021200,
-      "end": 1577807999,
-      "link": "event_web",
-      "param": {
-        "url": ""
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "favorite"
-    },
-    {
-      "cid": 4294,
+      "cid": 5256,
       "v_motionid": 2,
-      "bg": 21,
-      "memo": "願此成為不動的和平根基！",
+      "bg": 31,
+      "memo": "喝酒就是要被灌到飽！",
       "start": 1522918800,
-      "end": 1577944800,
+      "end": 1578549600,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
@@ -52,12 +21,12 @@
       "event_area_name": null
     },
     {
-      "cid": 12213,
+      "cid": 8923,
       "v_motionid": 2,
-      "bg": 101,
-      "memo": "大家和睦相處吧",
+      "bg": 2002,
+      "memo": "雞排都加上香菜！",
       "start": 1522918800,
-      "end": 1577944800,
+      "end": 1578556800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -66,26 +35,8 @@
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "event_2",
-      "event_area_name": 21
-    },
-    {
-      "cid": 3,
-      "v_motionid": 0,
-      "bg": 2003,
-      "memo": "每日任務是鍛鍊隊伍的好機會！",
-      "start": 1481763600,
-      "end": 1577807999,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 0,
-      "min_rank": 1,
-      "max_rank": 250,
       "v_category": "event_1",
-      "event_area_name": 2
+      "event_area_name": 18
     }
   ],
   "vignette_motion": [
@@ -241,6 +192,5 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ],
-  "res": 0
+  ]
 }
