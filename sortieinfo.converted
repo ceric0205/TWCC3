@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "device": 1577965329,
+  "device": 1578623801,
   "sortie_info": [
     {
       "sortie_id": 3,
@@ -621,6 +621,36 @@
             {
               "sp_type": 3,
               "sp_id": 3,
+              "sp_rate": 160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortie_id": 16,
+      "start_time": 1579104000,
+      "end_time": 1580486400,
+      "reward_cid": 285,
+      "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
+      "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
+      "serif_normal": "對敵軍造成這種程度的損害應該足夠了！好了，一同慶祝勝利吧！！",
+      "serif_entry": "好了各位，準備上吧！讓我等取得勝利吧！",
+      "stamina": 0,
+      "theme_list": [
+        {
+          "enemy_texture": 302002,
+          "bg": 137,
+          "serif": "旅人與鐵煙大陸的夥伴們會大顯身手的 。 \\n這次的戰鬥也要靠他們的力量，\\n取得勝利阿",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 3,
+              "sp_rate": 160
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 17,
               "sp_rate": 160
             }
           ]

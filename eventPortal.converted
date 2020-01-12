@@ -1,777 +1,95 @@
 {
   "res": 0,
-  "deceive": 1577965306,
-  "event_portal": [
-    {
-      "_id": 0,
-      "events": [
+  "deceive": 1578623802,
+  "gacha_info": {
+    "fes": {
+      "ring": [
         {
-          "banner": [
-            {
-              "start": 1535594400,
-              "end": 1535594399,
-              "priority": 0,
-              "name": "WeeklyQuest.jpg",
-              "url": "",
-              "type": "CollaboArea",
-              "place_id": 1,
-              "area_id": 201,
-              "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=8181039"
-            },
-            {
-              "start": 1535594400,
-              "end": 1535594399,
-              "priority": 1,
-              "name": "180821_P3Fes_02.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "story",
-              "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=5194314"
-            }
-          ],
-          "icon": "Portal_Icon_Collabo_03",
-          "img": [
-            {
-              "start": 1535594400,
-              "end": 1535594399,
-              "chara": "cha_2d_whole_08257"
-            }
-          ],
-          "url": "",
-          "end": 1535594399,
-          "start": 1535594400,
-          "priority": 20,
-          "category": "collabo_1"
-        }
-      ],
-      "timestamp": "1545884315000"
-    },
-    {
-      "_id": 1,
-      "events": [
-        {
-          "category": "collabo_2",
-          "priority": 11,
-          "start": 1535162400,
-          "end": 1535594399,
-          "url": "",
-          "img": [
-            {
-              "start": 1535162400,
-              "end": 1535594399,
-              "chara": "cha_2d_whole_08219"
-            }
-          ],
-          "icon": "Portal_Icon_Collabo_02",
-          "banner": [
-            {
-              "start": 1535162400,
-              "end": 1535594399,
-              "priority": 0,
-              "name": "180821_P3Fes_02.jpg",
-              "url": "",
-              "type": "CollaboArea",
-              "place_id": 1,
-              "area_id": 201,
-              "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=7425156"
-            },
-            {
-              "start": 1535162400,
-              "end": 1545897428,
-              "priority": 1,
-              "name": "180821_P3Fes_02.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=4758812"
-            }
-          ]
-        }
-      ],
-      "timestamp": "1545808811000"
-    },
-    {
-      "_id": 2,
-      "events": [
-        {
-          "banner": [
-            {
-              "start": 1535608800,
-              "end": 1577339999,
-              "priority": 20,
-              "name": "BN_20191217_2.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "legend",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1535608800,
-              "end": 1577339999,
-              "priority": 10,
-              "name": "BN_20191217_3.jpg",
-              "url": "",
-              "type": "Legend1Area",
-              "place_id": 1,
-              "area_id": 202,
-              "tab_id": 201,
-              "info_url": ""
-            },
-            {
-              "start": 1549519200,
-              "end": 1578549599,
-              "priority": 19,
-              "name": "BN_20191230_3.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "legend",
-              "gacha_id": 2,
-              "info_url": ""
-            },
-            {
-              "start": 1549519200,
-              "end": 1549519199,
-              "priority": 10,
-              "name": "BN_20190124_2.jpg",
-              "url": "",
-              "type": "Legend1Area",
-              "place_id": 1,
-              "area_id": 203,
-              "tab_id": 301,
-              "info_url": ""
-            },
-            {
-              "start": 1549519200,
-              "end": 1577944799,
-              "priority": 17,
-              "name": "BN_20191111_4.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_Legend_00",
-          "img": [
-            {
-              "start": 1535608800,
-              "end": 1535608799,
-              "chara": "cha_2d_whole_12227",
-              "bg_img": "TownBG_6009"
-            },
-            {
-              "start": 1549519200,
-              "end": 1578549599,
-              "chara": "cha_2d_whole_05256",
-              "bg_img": "TownBG_6009"
-            }
-          ],
-          "url": "",
-          "end": 1578549599,
-          "start": 1535608800,
-          "priority": 15,
-          "category": "legend"
-        }
-      ],
-      "timestamp": "1577950644000"
-    },
-    {
-      "_id": 4,
-      "events": [
-        {
-          "banner": [
-            {
-              "start": 1567267200,
-              "end": 1609340399,
-              "priority": 2,
-              "name": "sortie.jpg",
-              "url": "",
-              "type": "Sortie",
-              "info_url": ""
-            },
-            {
-              "start": 1564588800,
-              "end": 1567267199,
-              "priority": 1,
-              "name": "BN_20190725_1.jpg",
-              "url": "",
-              "type": "Sortie",
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_Sortie_00",
-          "img": [
-            {
-              "start": 1575129600,
-              "end": 1577807999,
-              "chara": "cha_2d_whole_00237"
-            },
-            {
-              "start": 1577808000,
-              "end": 1609340399,
-              "chara": "cha_2d_whole_04238"
-            }
-          ],
-          "url": "",
-          "end": 1609340399,
-          "start": 1533913200,
-          "priority": 0,
-          "category": "sortie"
-        }
-      ],
-      "timestamp": "1577341624000"
-    },
-    {
-      "_id": 6,
-      "events": [
-        {
-          "category": "week",
-          "priority": 0,
-          "start": 1532066400,
-          "end": 1609340399,
-          "url": "",
-          "img": [
-            {
-              "start": 1532066400,
-              "end": 1609340399,
-              "chara": "cha_2d_whole_00003",
-              "text": "每日任務是鍛練隊伍\\n的大好機會！"
-            }
-          ],
-          "icon": "Portal_Icon_Weekly_",
-          "banner": [
-            {
-              "start": 1532066400,
-              "end": -1,
-              "priority": 0,
-              "name": "WeeklyQuest.jpg",
-              "url": "",
-              "type": "WeekArea",
-              "place_id": 1,
-              "area_id": 204,
-              "tab_id": 2,
-              "info_url": ""
-            }
-          ]
-        }
-      ],
-      "timestamp": "1545450555000"
-    },
-    {
-      "_id": 3,
-      "events": [
-        {
-          "kind": "guild",
-          "banner": [
-            {
-              "start": 1556812800,
-              "end": 1557417599,
-              "priority": 0,
-              "name": "BN_20190417_3_1.jpg",
-              "url": "",
-              "type": "TotalWar",
-              "info_url": ""
-            },
-            {
-              "start": 1557417600,
-              "end": 1558022399,
-              "priority": 0,
-              "name": "BN_20190417_3_2.jpg",
-              "url": "",
-              "type": "TotalWar",
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_Totalwar_00",
-          "img": [
-            {
-              "start": 1556812800,
-              "end": 1558022399,
-              "chara": "cha_2d_whole_06266"
-            }
-          ],
-          "url": "",
-          "end": 1558022399,
-          "start": 1556812800,
-          "priority": 0,
-          "category": "game"
+          "gacha_id": 1,
+          "start": 1477926000,
+          "end": 1483196399
         },
         {
-          "category": "game",
-          "priority": 15,
+          "gacha_id": 2,
+          "start": 1506528000,
+          "end": 1743433199
+        },
+        {
+          "gacha_id": 3,
+          "start": 1469977200,
+          "end": 1475247599
+        }
+      ],
+      "ticket": [
+        {
+          "gacha_id": 1,
+          "start": 1518674400,
+          "end": 1578549600
+        }
+      ],
+      "legend_fes": [
+        {
+          "gacha_id": 1,
           "start": 1549519200,
-          "end": 1568872799,
-          "url": "",
-          "img": [
-            {
-              "start": 1549519200,
-              "end": 1568872799,
-              "chara": "cha_2d_whole_01252"
-            }
-          ],
-          "icon": "Portal_Icon_Touha_00",
-          "banner": [
-            {
-              "start": 1549519200,
-              "end": 1568872799,
-              "priority": 10,
-              "name": "BN_20190813_2.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1549519200,
-              "end": 1568872799,
-              "priority": 7,
-              "name": "BN_20190813_1.jpg",
-              "url": "",
-              "type": "CompMapEvent",
-              "info_url": ""
-            },
-            {
-              "start": 1550124000,
-              "end": 1560405599,
-              "priority": 8,
-              "name": "BN_20190507_2.jpg",
-              "url": "",
-              "type": "CompMapEvent",
-              "info_url": ""
-            },
-            {
-              "start": 1548950400,
-              "end": 1559800799,
-              "priority": 7,
-              "name": "BN_20190529_3.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 4,
-              "info_url": ""
-            },
-            {
-              "start": 1559793170,
-              "end": 1560405599,
-              "priority": 9,
-              "name": "BN_20190507_3.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 2,
-              "info_url": ""
-            }
-          ],
-          "kind": "cover"
+          "end": 1549519200,
+          "icon": "raidFesBtn_12227",
+          "priority": 1
         },
         {
-          "kind": "raid",
-          "banner": [
-            {
-              "start": 1536199200,
-              "end": 1575525599,
-              "priority": 10,
-              "name": "BN_201911_1.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1536372000,
-              "end": 1575525599,
-              "priority": 9,
-              "name": "BN_201911_3.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 2,
-              "info_url": ""
-            },
-            {
-              "start": 1548950400,
-              "end": 1548950399,
-              "priority": 8,
-              "name": "BN_201911_2.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 4,
-              "info_url": ""
-            },
-            {
-              "start": 1536199200,
-              "end": 1575525599,
-              "priority": 8,
-              "name": "BN_201911_2.jpg",
-              "url": "",
-              "type": "RaidBoss",
-              "info_url": ""
-            },
-            {
-              "start": 1562642018,
-              "end": 1575525599,
-              "priority": 12,
-              "name": "BN_20191127_3.jpg",
-              "url": "",
-              "type": "RaidBoss",
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_Raid_00",
-          "img": [
-            {
-              "start": 1536199200,
-              "end": 1563429599,
-              "chara": "cha_2d_whole_08916"
-            }
-          ],
-          "url": "",
-          "end": 1575525599,
-          "start": 1536199200,
-          "priority": 15,
-          "category": "game"
-        },
-        {
-          "kind": "mopup",
-          "banner": [
-            {
-              "start": 1540260000,
-              "end": 1571291999,
-              "priority": 10,
-              "name": "BN_20190912_2.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1540346400,
-              "end": 1570600799,
-              "priority": 9,
-              "name": "BN_20190912_4.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 2,
-              "info_url": ""
-            },
-            {
-              "start": 1570600800,
-              "end": 1571291999,
-              "priority": 8,
-              "name": "BN_20190912_1.jpg",
-              "url": "",
-              "type": "CompMapEvent",
-              "info_url": ""
-            },
-            {
-              "start": 1548950400,
-              "end": 1548950399,
-              "priority": 8,
-              "name": "BN_20190313_2.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 4,
-              "info_url": ""
-            },
-            {
-              "start": 1540260000,
-              "end": 1571291999,
-              "priority": 7,
-              "name": "BN_20190912_3.jpg",
-              "url": "",
-              "type": "CompMapEvent",
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_Mopup_00",
-          "img": [
-            {
-              "start": 1540260000,
-              "end": 1571291999,
-              "chara": "cha_2d_whole_11224",
-              "text": ""
-            }
-          ],
-          "url": "",
-          "end": 1540259999,
-          "start": 1540260000,
-          "priority": 10,
-          "category": "game"
+          "gacha_id": 2,
+          "start": 1549519200,
+          "end": 1578540617,
+          "icon": "FesBtn_5256",
+          "priority": 1
         }
       ],
-      "timestamp": "1574916484000"
+      "story_fes": [
+        {
+          "gacha_id": 1,
+          "start": 1522918800,
+          "end": 1579154400,
+          "icon": "FesBtn_8295",
+          "priority": 3
+        }
+      ],
+      "event_fes": [
+        {
+          "gacha_id": 1,
+          "start": 1522918800,
+          "end": 1579154400,
+          "icon": "FesBtn_8923",
+          "priority": 1
+        },
+        {
+          "gacha_id": 2,
+          "start": 1549519200,
+          "end": 1579154400,
+          "icon": "FesBtn_8919",
+          "priority": 5
+        }
+      ]
     },
-    {
-      "_id": 5,
-      "events": [
-        {
-          "banner": [
-            {
-              "start": 1532397600,
-              "end": 1532397599,
-              "priority": 0,
-              "name": "180821_P3Fes_02.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 99,
-              "info_url": ""
-            },
-            {
-              "start": 1535608800,
-              "end": 1566453599,
-              "priority": 2,
-              "name": "BN_20190801_4.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 15,
-              "info_url": ""
-            },
-            {
-              "start": 1535608800,
-              "end": 1565848799,
-              "priority": 1,
-              "name": "BN_20190718_2.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 6,
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_5th_00",
-          "img": [
-            {
-              "start": 1532397600,
-              "end": 1569477599,
-              "chara": "cha_2d_whole_04203",
-              "bg_img": "TownBG_6009"
-            },
-            {
-              "start": 1535608800,
-              "end": 1536199199,
-              "chara": "cha_2d_whole_01045",
-              "bg_img": "TownBG_6009"
-            }
-          ],
-          "url": "",
-          "end": 1566453599,
-          "start": 1532397600,
-          "priority": 10,
-          "category": "event_area"
-        },
-        {
-          "category": "event_area",
-          "priority": 1,
-          "start": 1536199200,
-          "end": 1609340399,
-          "url": "",
-          "img": [
-            {
-              "start": 1536199200,
-              "end": 1577944799,
-              "chara": "cha_2d_whole_13207",
-              "bg_img": "TownBG_6009"
-            },
-            {
-              "start": 1536026400,
-              "end": 1572501599,
-              "chara": "cha_2d_whole_13210",
-              "bg_img": "TownBG_6009"
-            }
-          ],
-          "icon": "Portal_Icon_Event_00",
-          "banner": [
-            {
-              "start": 1535421600,
-              "end": 1579154399,
-              "priority": 12,
-              "name": "BN_20191230_4.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1549000800,
-              "end": 1579154399,
-              "priority": 11,
-              "name": "BN_20191230_5.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 18,
-              "info_url": ""
-            },
-            {
-              "start": 1535421600,
-              "end": 1579154399,
-              "priority": 10,
-              "name": "BN_20191230_1.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "event",
-              "gacha_id": 2,
-              "info_url": ""
-            },
-            {
-              "start": 1535421600,
-              "end": 1576735199,
-              "priority": 8,
-              "name": "BN_20191203_2.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "story",
-              "gacha_id": 1,
-              "info_url": ""
-            },
-            {
-              "start": 1572105600,
-              "end": 1577944799,
-              "priority": 9,
-              "name": "BN_20191203_4.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 23,
-              "info_url": ""
-            },
-            {
-              "start": 1536199200,
-              "end": 1536199199,
-              "priority": 10,
-              "name": "BN_20191111_2.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 18,
-              "info_url": ""
-            },
-            {
-              "start": 1551333600,
-              "end": 1551333599,
-              "priority": 8,
-              "name": "BN_201905_2.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 3,
-              "info_url": ""
-            },
-            {
-              "start": 1535421600,
-              "end": 1578549599,
-              "priority": 3,
-              "name": "BN_20191203_1.jpg",
-              "url": "",
-              "type": "PremiumGacha",
-              "gacha_type": "ticket",
-              "gacha_id": 1,
-              "info_url": ""
-            }
-          ]
-        }
-      ],
-      "timestamp": "1577345027000"
-    },
-    {
-      "_id": 7,
-      "events": [
-        {
-          "banner": [
-            {
-              "start": 1538028000,
-              "end": -1,
-              "clear_quest_id": 222205,
-              "priority": 100,
-              "name": "BN_20190619_2.jpg",
-              "url": "",
-              "type": "PastArea",
-              "place_id": 1,
-              "area_id": 206,
-              "tab_id": 501,
-              "info_url": ""
-            },
-            {
-              "start": 1543456800,
-              "end": -1,
-              "clear_quest_id": 222405,
-              "priority": 80,
-              "name": "BN_20190724_6.jpg",
-              "url": "",
-              "type": "PastArea",
-              "place_id": 1,
-              "area_id": 206,
-              "tab_id": 503,
-              "info_url": ""
-            },
-            {
-              "start": 1546048800,
-              "end": -1,
-              "clear_quest_id": 222511,
-              "priority": 70,
-              "name": "BN_20190823_6.jpg",
-              "url": "",
-              "type": "PastArea",
-              "place_id": 1,
-              "area_id": 206,
-              "tab_id": 504,
-              "info_url": ""
-            },
-            {
-              "start": 1541728800,
-              "end": -1,
-              "clear_quest_id": 222304,
-              "priority": 90,
-              "name": "BN_20190925_4.jpg",
-              "url": "",
-              "type": "PastArea",
-              "place_id": 1,
-              "area_id": 206,
-              "tab_id": 502,
-              "info_url": ""
-            }
-          ],
-          "icon": "Portal_Icon_PastStory_00",
-          "img": [
-            {
-              "start": 1538028000,
-              "end": 1600610399,
-              "chara": "cha_2d_whole_13201"
-            }
-          ],
-          "url": "",
-          "end": 1600610399,
-          "start": 1538028000,
-          "priority": 5,
-          "category": "past"
-        }
-      ],
-      "timestamp": "1571033540000"
-    }
-  ]
+    "v3_rare_gacha": [
+      {
+        "gacha_id": 31,
+        "quest_id": 210101
+      },
+      {
+        "gacha_id": 32,
+        "quest_id": 332044
+      },
+      {
+        "gacha_id": 33,
+        "quest_id": 333033
+      },
+      {
+        "gacha_id": 34,
+        "quest_id": 334024
+      },
+      {
+        "gacha_id": 35,
+        "quest_id": 335043
+      }
+    ]
+  }
 }

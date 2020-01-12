@@ -1,6 +1,5 @@
 {
-  "deceive": 1577965313,
-  "res": 0,
+  "deceive": 1578623793,
   "weaponlist": [
     {
       "id": 1,
@@ -26146,21 +26145,6 @@
       "skill": 0,
       "type": 8,
       "equip_type": 5
-    },
-    {
-      "id": 95896,
-      "name": "轉轉鼓棒（左）",
-      "type_atk": 1,
-      "attackMax": 15,
-      "type_cri": 2,
-      "criticalMax": 10,
-      "type_grd": 3,
-      "guardMax": 10,
-      "model": "weapon95895_body",
-      "rank": 3,
-      "skill": 0,
-      "type": 8,
-      "equip_type": 5
     }
   ],
   "evolve": [
@@ -41574,5 +41558,6 @@
       "type": 7,
       "ring": -1
     }
-  ]
+  ],
+  "res": 0
 }

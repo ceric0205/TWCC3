@@ -1,32 +1,14 @@
 {
-  "deceive": 1577965317,
+  "deceive": 1578624208,
   "res": 0,
   "vignette": [
-    {
-      "cid": 5256,
-      "v_motionid": 2,
-      "bg": 31,
-      "memo": "喝酒就是要被灌到飽！",
-      "start": 1522918800,
-      "end": 1578549600,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "legend",
-        "gacha_id": 2
-      },
-      "priority": 50,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "legend",
-      "event_area_name": null
-    },
     {
       "cid": 8923,
       "v_motionid": 2,
       "bg": 2002,
       "memo": "雞排都加上香菜！",
       "start": 1522918800,
-      "end": 1578556800,
+      "end": 1579154400,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
