@@ -1,24 +1,23 @@
 {
-  "deceive": 1578624208,
-  "res": 0,
+  "deceive": 1579165749,
   "vignette": [
     {
-      "cid": 8923,
+      "cid": 12229,
       "v_motionid": 2,
-      "bg": 2002,
-      "memo": "雞排都加上香菜！",
+      "bg": 101,
+      "memo": "仔細瞧瞧？很迷人吧？",
       "start": 1522918800,
-      "end": 1579154400,
-      "link": "unity:GoSpecifiedArea",
+      "end": 1580364000,
+      "link": "unity:GoGacha",
       "param": {
-        "area_id": 36,
-        "place_id": 1
+        "type": "event",
+        "gacha_id": 1
       },
-      "priority": 30,
+      "priority": 10,
       "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 18
+      "max_rank": 250,
+      "v_category": "gacha",
+      "event_area_name": null
     }
   ],
   "vignette_motion": [
@@ -174,5 +173,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }
