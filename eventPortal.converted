@@ -1,6 +1,6 @@
 {
+  "deceive": 1579510710,
   "res": 0,
-  "deceive": 1579165741,
   "event_portal": [
     {
       "_id": 0,
@@ -17,7 +17,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 103,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_package.html?v=9914337"
+              "info_url": "/web/event/180821_P3_package.html?v=7825350"
             },
             {
               "start": 1535594400,
@@ -28,7 +28,7 @@
               "type": "PremiumGacha",
               "gacha_type": "story",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180821_P3_Fes.html?v=1151788"
+              "info_url": "/web/event/180821_P3_Fes.html?v=3857176"
             }
           ],
           "icon": "Portal_Icon_Collabo_03",
@@ -76,7 +76,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=6035886"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=4470238"
             },
             {
               "start": 1535162400,
@@ -87,7 +87,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "http://xxx.xxx.xxx.xxx/event/180825_P5_ReFes.html?v=5987161"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=1583065"
             }
           ]
         }
@@ -594,8 +594,8 @@
             },
             {
               "start": 1536026400,
-              "end": 1572501599,
-              "chara": "cha_2d_whole_13210",
+              "end": 1580363999,
+              "chara": "cha_2d_whole_12229",
               "bg_img": "TownBG_6009"
             }
           ],
@@ -696,7 +696,7 @@
           ]
         }
       ],
-      "timestamp": "1578541792000"
+      "timestamp": "1579495712000"
     },
     {
       "_id": 7,

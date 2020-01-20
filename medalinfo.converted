@@ -1,34 +1,5 @@
 {
+  "deceive": 1579510729,
   "res": 0,
-  "deceive": 1579165761,
-  "medal_data": [
-    {
-      "medal_id": 2,
-      "medal_name": "聖夜獎牌",
-      "cards_rate_list": [
-        {
-          "rate": 6,
-          "cid": 2298
-        },
-        {
-          "rate": 6,
-          "cid": 325
-        },
-        {
-          "rate": 2.5,
-          "cid": 1266
-        },
-        {
-          "rate": 2.5,
-          "cid": 296
-        }
-      ],
-      "event_start": 1579154400,
-      "event_end": 1579154400,
-      "dist_start": 1579154400,
-      "dist_end": 1579276799,
-      "url": "",
-      "url_after": ""
-    }
-  ]
+  "medal_data": []
 }
