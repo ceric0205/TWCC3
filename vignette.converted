@@ -1,6 +1,5 @@
 {
-  "res": 0,
-  "deceive": 1579510717,
+  "deceive": 1579689381,
   "vignette": [
     {
       "cid": 7015,
@@ -35,21 +34,39 @@
       "v_category": "favorite"
     },
     {
-      "cid": 12229,
-      "v_motionid": 2,
+      "cid": 11219,
+      "v_motionid": 0,
       "bg": 101,
-      "memo": "仔細瞧瞧？很迷人吧？",
+      "memo": "被我的憤怒燒灼身軀吧！",
+      "start": 1522918800,
+      "end": 1580364000,
+      "link": "unity:GoLegendArea",
+      "param": {
+        "area_id": 202,
+        "place_id": 1
+      },
+      "priority": 40,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "legend",
+      "event_area_name": 201
+    },
+    {
+      "cid": 278,
+      "v_motionid": 2,
+      "bg": 2,
+      "memo": "這樣也很緊張刺激對吧？",
       "start": 1522918800,
       "end": 1580364000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
+        "type": "legend",
         "gacha_id": 1
       },
-      "priority": 10,
+      "priority": 30,
       "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
+      "max_rank": 260,
+      "v_category": "legend",
       "event_area_name": null
     },
     {
@@ -224,5 +241,6 @@
       "voice_05": "S",
       "voice_06": "H"
     }
-  ]
+  ],
+  "res": 0
 }

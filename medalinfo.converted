@@ -1,5 +1,47 @@
 {
-  "deceive": 1579510729,
   "res": 0,
-  "medal_data": []
+  "deceive": 1579689960,
+  "medal_data": [
+    {
+      "medal_id": 3,
+      "medal_name": "繪馬",
+      "cards_rate_list": [
+        {
+          "cid": 12033,
+          "rate": 2
+        },
+        {
+          "cid": 12213,
+          "rate": 2
+        },
+        {
+          "cid": 12016,
+          "rate": 2
+        },
+        {
+          "cid": 12017,
+          "rate": 2
+        },
+        {
+          "rate": 6,
+          "cid": 12216
+        },
+        {
+          "rate": 6,
+          "cid": 12217
+        },
+        {
+          "rate": 6,
+          "cid": 12229
+        }
+      ],
+      "event_start": 1579670042,
+      "event_end": 1580364000,
+      "dist_start": 1579670042,
+      "dist_end": 1580450399,
+      "url": "",
+      "url_after": "",
+      "append_setting_list": []
+    }
+  ]
 }
