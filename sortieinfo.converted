@@ -1,6 +1,6 @@
 {
   "res": 0,
-  "device": 1579689960,
+  "device": 1580375160,
   "sortie_info": [
     {
       "sortie_id": 3,
@@ -651,6 +651,36 @@
             {
               "sp_type": 3,
               "sp_id": 17,
+              "sp_rate": 160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortie_id": 22,
+      "start_time": 1580486400,
+      "end_time": 1582992000,
+      "reward_cid": 5271,
+      "serif_high": "敵人已潰不成軍！讓我等凱旋而歸吧！！",
+      "serif_low": "深追為大忌！各位，撤軍！！",
+      "serif_normal": "已經充分重傷敵軍！來吧，一同慶祝勝利！！",
+      "serif_entry": "好了各位，準備上吧！為我等的勝利！",
+      "stamina": 0,
+      "theme_list": [
+        {
+          "enemy_texture": 302001,
+          "bg": 135,
+          "serif": "副都和賢者之塔的同伴們一定會很活躍喔。 \\n這次的戰鬥也要靠他們的力量， \\n取得勝利阿",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 4,
+              "sp_rate": 160
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 6,
               "sp_rate": 160
             }
           ]
