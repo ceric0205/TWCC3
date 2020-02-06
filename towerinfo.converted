@@ -1,6 +1,5 @@
 {
-  "deceive": 1580375171,
-  "res": 0,
+  "deceive": 1580982598,
   "tower": [
     {
       "tower_id": 1,
@@ -18202,5 +18201,6 @@
     "recover_ticket_use_stone": 5,
     "tower_play_border_lv": 100,
     "tower_ticket_limit_time": 7200
-  }
+  },
+  "res": 0
 }
