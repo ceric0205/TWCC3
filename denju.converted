@@ -1,5 +1,5 @@
 {
-  "deceive": 1580982577,
+  "deceive": 1581586788,
   "denju": [
     {
       "denju_id": 2,
@@ -14220,7 +14220,7 @@
     },
     {
       "denju_id": 8905,
-      "patternid0": 89050,
+      "patternid0": 89052,
       "patternid1": 0,
       "patternid2": 0,
       "patternid3": 0,
@@ -14228,9 +14228,9 @@
       "patternid5": 0,
       "patternid6": 0,
       "scost": 1,
-      "sname": "粉絲領域",
-      "stext": "【地形變化】地形會在一定時間內變成異空間。",
-      "timestamp": "1579513245000",
+      "sname": "義勇軍有多棒你知道嗎？",
+      "stext": "向空中射出20支箭，給予隨機敵人和其周圍極小傷害，並破壞盾牌。",
+      "timestamp": "1581413199000",
       "weaponChange": 1
     },
     {
