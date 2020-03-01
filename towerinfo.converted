@@ -1,5 +1,5 @@
 {
-  "deceive": 1582189269,
+  "deceive": 1582794545,
   "tower": [
     {
       "tower_id": 1,
@@ -4089,6 +4089,285 @@
                 "home": [
                   4,
                   3
+                ],
+                "compare": "over",
+                "border": 6
+              }
+            }
+          ]
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 300
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 500
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 3500
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 4500
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 5000
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 5500
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 6000
+        }
+      ]
+    },
+    {
+      "tower_id": 23,
+      "start": 1583035200,
+      "end": 1585713600,
+      "free": 1583035200,
+      "close": 1583640000,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 115
+        },
+        {
+          "floor": "2",
+          "floor_id": 17
+        },
+        {
+          "floor": "3",
+          "floor_id": 116
+        },
+        {
+          "floor": "4",
+          "floor_id": 19
+        },
+        {
+          "floor": "5",
+          "floor_id": 117
+        },
+        {
+          "floor": "6",
+          "floor_id": 21
+        },
+        {
+          "floor": "7",
+          "floor_id": 118
+        },
+        {
+          "floor": "8",
+          "floor_id": 23
+        },
+        {
+          "floor": "9",
+          "floor_id": 119
+        },
+        {
+          "floor": "10",
+          "floor_id": 25
+        }
+      ],
+      "ex_floor_list": [
+        {
+          "floor": "1",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "2",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "3",
+          "floor_id": 101,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 1
+              }
+            }
+          ]
+        },
+        {
+          "floor": "4",
+          "floor_id": 102,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 2
+              }
+            }
+          ]
+        },
+        {
+          "floor": "5",
+          "floor_id": 103,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 3
+              }
+            }
+          ]
+        },
+        {
+          "floor": "6",
+          "floor_id": 104,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 4
+              }
+            }
+          ]
+        },
+        {
+          "floor": "7",
+          "floor_id": 105,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 5
+              }
+            }
+          ]
+        },
+        {
+          "floor": "8",
+          "floor_id": 106,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 5
+              }
+            }
+          ]
+        },
+        {
+          "floor": "9",
+          "floor_id": 107,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
+                ],
+                "compare": "over",
+                "border": 6
+              }
+            }
+          ]
+        },
+        {
+          "floor": "10",
+          "floor_id": 108,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  6,
+                  7,
+                  17
                 ],
                 "compare": "over",
                 "border": 6
