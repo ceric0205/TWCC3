@@ -146,7 +146,58 @@
           "review": 1
         },
         "cover": null,
-        "raid": null,
+        "raid": {
+          "raid_id": 35,
+          "bg": 2000,
+          "event_start": 1583223203,
+          "event_end": 1584684000,
+          "close": 1584597600,
+          "name": "賽兒來襲",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "7600",
+              "skill_id": "30062",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 0.85,
+                "limit_break_2": 1.2,
+                "limit_break_3": 1.55,
+                "limit_break_4": 1.9
+              }
+            },
+            {
+              "cid": "7601",
+              "skill_id": "30062",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 0.85,
+                "limit_break_2": 1.2,
+                "limit_break_3": 1.55,
+                "limit_break_4": 1.9
+              }
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false,
+          "main_start": 1584000000,
+          "raid_area_quest": [
+            263601,
+            263602,
+            263603,
+            263606,
+            263604,
+            263605
+          ],
+          "reward_cid": 7599
+        },
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -163,12 +214,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1581908826,
+    "charainfo": 1583116442,
     "weaponlist": 1579247302,
-    "skilllist": 1581908825,
+    "skilllist": 1583315408,
     "worldinfo": 1578388117,
     "episodeinfo": 1578388085,
-    "questdigest": 1582597584,
+    "questdigest": 1583401945,
     "itemlist": 1578478775,
     "booklist": 1582181325,
     "motionlist": 1578388078,
@@ -192,11 +243,11 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1578388078,
-    "vignette": 1582616744,
+    "vignette": 1583388475,
     "spdrama": 1578388078,
-    "gachainfo": 1582613786,
+    "gachainfo": 1583381573,
     "questtree": 1575342624,
-    "eventareainfo": 1582615899,
+    "eventareainfo": 1583382339,
     "coverinfo": 1581574136,
     "towerinfo": 1582617692,
     "chropowerinfo": 1531709280,
@@ -206,11 +257,11 @@
     "heroicskilllist": 1579685834,
     "soundExData": 1516261863,
     "medalinfo": 1582008794,
-    "eventPortal": 1582624994,
+    "eventPortal": 1583382178,
     "spquestinfo": 1562226173,
     "buffinfo": 1563439829,
     "totalfavor": 1552316401,
     "reload": 1500271199,
-    "servertime": 1583069104
+    "servertime": 1583412793
   }
 }
