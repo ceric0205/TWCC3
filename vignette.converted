@@ -1,5 +1,5 @@
 {
-  "deceive": 1583404010,
+  "deceive": 1584608262,
   "vignette": [
     {
       "cid": 7015,
@@ -34,57 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 3222,
-      "v_motionid": 2,
-      "bg": 12,
-      "memo": "嘻～嘻、嘻，還不賴！",
+      "cid": 6222,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "真礙眼……去死！",
       "start": 1522918800,
-      "end": 1583992800,
+      "end": 1585202400,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
-        "gacha_id": 1
+        "gacha_id": 2
       },
-      "priority": 30,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "legend",
-      "event_area_name": null
-    },
-    {
-      "cid": 7600,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "測一下幾秒才會死",
-      "start": 1535608800,
-      "end": 1584597600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 7601,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "這光輝，堅硬……銳利！！",
-      "start": 1535608800,
-      "end": 1584597600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 20,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
       "event_area_name": null
     },
     {
