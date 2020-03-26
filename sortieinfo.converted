@@ -1,5 +1,5 @@
 {
-  "device": 1584608278,
+  "device": 1585214672,
   "sortie_info": [
     {
       "sortie_id": 3,
@@ -770,6 +770,36 @@
             {
               "sp_type": 3,
               "sp_id": 12,
+              "sp_rate": 160
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sortie_id": 18,
+      "start_time": 1585670400,
+      "end_time": 1586966400,
+      "reward_cid": 5271,
+      "serif_high": "敵人已潰不成軍！讓我等凱旋而歸吧！！",
+      "serif_low": "深追為大忌！各位，撤軍！！",
+      "serif_normal": "已經充分重傷敵軍！來吧，一同慶祝勝利！！",
+      "serif_entry": "好了各位，準備上吧！為我等的勝利！",
+      "stamina": 0,
+      "theme_list": [
+        {
+          "enemy_texture": 302001,
+          "bg": 135,
+          "serif": "旅人和義勇軍的同伴們一定會很活躍喔 \\n這次的戰鬥也要靠他們的力量， \\n取得勝利阿",
+          "sp_list": [
+            {
+              "sp_type": 3,
+              "sp_id": 1,
+              "sp_rate": 160
+            },
+            {
+              "sp_type": 3,
+              "sp_id": 3,
               "sp_rate": 160
             }
           ]

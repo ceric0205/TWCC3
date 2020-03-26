@@ -1,5 +1,5 @@
 {
-  "deceive": 1584608262,
+  "deceive": 1585214658,
   "vignette": [
     {
       "cid": 7015,
@@ -34,21 +34,57 @@
       "v_category": "favorite"
     },
     {
-      "cid": 6222,
-      "v_motionid": 0,
-      "bg": 41,
-      "memo": "真礙眼……去死！",
-      "start": 1522918800,
-      "end": 1585202400,
-      "link": "unity:GoGacha",
+      "cid": 7642,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "你這是妨害公務",
+      "start": 1535608800,
+      "end": 1586412000,
+      "link": "unity:GoSpecifiedArea",
       "param": {
-        "type": "legend",
-        "gacha_id": 2
+        "area_id": 200,
+        "place_id": 0
       },
-      "priority": 50,
+      "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "legend",
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 7641,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "看來你需要整備唷？",
+      "start": 1585724400,
+      "end": 1586412000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 20,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 12224,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "我要振翅高飛",
+      "start": 1522918800,
+      "end": 1586412000,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "event",
+        "gacha_id": 1
+      },
+      "priority": 10,
+      "min_rank": 1,
+      "max_rank": 250,
+      "v_category": "gacha",
       "event_area_name": null
     },
     {
