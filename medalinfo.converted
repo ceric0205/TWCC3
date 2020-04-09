@@ -1,5 +1,31 @@
 {
-  "deceive": 1584009963,
-  "medal_data": [],
+  "deceive": 1586422787,
+  "medal_data": [
+    {
+      "medal_id": 5,
+      "medal_name": "雪獎牌",
+      "cards_rate_list": [
+        {
+          "rate": 2,
+          "cid": 9224
+        },
+        {
+          "cid": 6302,
+          "rate": 8
+        },
+        {
+          "cid": 9231,
+          "rate": 8
+        }
+      ],
+      "event_start": 1586232738,
+      "event_end": 1587614400,
+      "dist_start": 1586232738,
+      "dist_end": 1587621599,
+      "url": "",
+      "url_after": "",
+      "append_setting_list": []
+    }
+  ],
   "res": 0
 }

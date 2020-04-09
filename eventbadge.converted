@@ -1,5 +1,12 @@
 {
-  "res": 0,
-  "deceive": 1579510706,
-  "event_badge": []
+  "deceive": 1586422759,
+  "event_badge": [
+    {
+      "position": 203,
+      "start": 1550714400,
+      "end": 1587621600,
+      "text": "NEW!!"
+    }
+  ],
+  "res": 0
 }
