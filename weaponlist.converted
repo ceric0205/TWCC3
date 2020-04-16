@@ -1,5 +1,5 @@
 {
-  "deceive": 1584009950,
+  "deceive": 1587029039,
   "weaponlist": [
     {
       "id": 1,
@@ -23238,7 +23238,7 @@
     },
     {
       "id": 85828,
-      "name": "初始薙刀・SEGA",
+      "name": "初始之薙刀・SEGA",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -23253,7 +23253,7 @@
     },
     {
       "id": 85829,
-      "name": "高飛球棒・SEGA",
+      "name": "飛高高球棒・SEGA",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -23268,7 +23268,7 @@
     },
     {
       "id": 85830,
-      "name": "OPA-OPA之弓・SEGA",
+      "name": "歐帕歐帕之弓・SEGA",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -23283,7 +23283,7 @@
     },
     {
       "id": 85831,
-      "name": "ZILLION之弓・SEGA",
+      "name": "無限數矢・SEGA",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -23343,7 +23343,7 @@
     },
     {
       "id": 85835,
-      "name": "16-BIT小魔杖・SEGA",
+      "name": "16-BIT魔杖迷你版・SEGA",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -23358,7 +23358,7 @@
     },
     {
       "id": 85836,
-      "name": "Twin Stick・SEGA",
+      "name": "雙棒・SEGA",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -23373,7 +23373,7 @@
     },
     {
       "id": 85837,
-      "name": "Skeleton Stick・SEGA",
+      "name": "骨棒・SEGA",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -23403,7 +23403,7 @@
     },
     {
       "id": 85839,
-      "name": "DC之劍・SEGA",
+      "name": "夢之刃・SEGA",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -23418,7 +23418,7 @@
     },
     {
       "id": 85840,
-      "name": "暗香疎影",
+      "name": "暗香疏影",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -23433,7 +23433,7 @@
     },
     {
       "id": 85841,
-      "name": "千紫万紅",
+      "name": "千紫萬紅",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -38331,7 +38331,7 @@
     {
       "evol_dst": 85828,
       "id": 85828,
-      "name": "初始薙刀・SEGA",
+      "name": "初始之薙刀・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38347,7 +38347,7 @@
     {
       "evol_dst": 85829,
       "id": 85829,
-      "name": "高飛球棒・SEGA",
+      "name": "飛高高球棒・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38363,7 +38363,7 @@
     {
       "evol_dst": 85830,
       "id": 85830,
-      "name": "OPA-OPA之弓・SEGA",
+      "name": "歐帕歐帕之弓・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38379,7 +38379,7 @@
     {
       "evol_dst": 85831,
       "id": 85831,
-      "name": "ZILLION之弓・SEGA",
+      "name": "無限數矢・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38443,7 +38443,7 @@
     {
       "evol_dst": 85835,
       "id": 85835,
-      "name": "16-BIT小魔杖・SEGA",
+      "name": "16-BIT魔杖迷你版・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38459,7 +38459,7 @@
     {
       "evol_dst": 85836,
       "id": 85836,
-      "name": "Twin Stick・SEGA",
+      "name": "雙棒・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38475,7 +38475,7 @@
     {
       "evol_dst": 85837,
       "id": 85837,
-      "name": "Skeleton Stick・SEGA",
+      "name": "骨棒・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38507,7 +38507,7 @@
     {
       "evol_dst": 85839,
       "id": 85839,
-      "name": "DC之劍・SEGA",
+      "name": "夢之刃・SEGA",
       "profile": "セガフェス武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38523,7 +38523,7 @@
     {
       "evol_dst": 85840,
       "id": 85840,
-      "name": "暗香疎影",
+      "name": "暗香疏影",
       "profile": "",
       "rank_limit": 2,
       "rarity": 5,
@@ -38536,7 +38536,7 @@
     {
       "evol_dst": 85841,
       "id": 85841,
-      "name": "千紫万紅",
+      "name": "千紫萬紅",
       "profile": "",
       "rank_limit": 2,
       "rarity": 5,

@@ -1,5 +1,5 @@
 {
-  "deceive": 1586422776,
+  "deceive": 1587029031,
   "vignette": [
     {
       "cid": 7015,
@@ -34,6 +34,24 @@
       "v_category": "favorite"
     },
     {
+      "cid": 7638,
+      "v_motionid": 0,
+      "bg": 61,
+      "memo": "全力配合我！",
+      "start": 1522918800,
+      "end": 1587621600,
+      "link": "unity:GoGacha",
+      "param": {
+        "type": "legend",
+        "gacha_id": 2
+      },
+      "priority": 50,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "legend",
+      "event_area_name": null
+    },
+    {
       "cid": 6302,
       "v_motionid": 2,
       "bg": 41,
@@ -50,24 +68,6 @@
       "max_rank": 260,
       "v_category": "event_1",
       "event_area_name": 27
-    },
-    {
-      "cid": 9231,
-      "v_motionid": 2,
-      "bg": 41,
-      "memo": "下大雪我照樣會努力唷～！",
-      "start": 1522918800,
-      "end": 1587621600,
-      "link": "unity:GoGacha",
-      "param": {
-        "type": "event",
-        "gacha_id": 1
-      },
-      "priority": 10,
-      "min_rank": 1,
-      "max_rank": 250,
-      "v_category": "gacha",
-      "event_area_name": null
     },
     {
       "cid": 3,
