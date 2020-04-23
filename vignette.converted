@@ -1,5 +1,5 @@
 {
-  "deceive": 1587029031,
+  "deceive": 1587634684,
   "vignette": [
     {
       "cid": 7015,
@@ -34,12 +34,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7638,
-      "v_motionid": 0,
-      "bg": 61,
-      "memo": "全力配合我！",
+      "cid": 9223,
+      "v_motionid": 2,
+      "bg": 71,
+      "memo": "別碰我！",
       "start": 1522918800,
-      "end": 1587621600,
+      "end": 1588226400,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
@@ -50,24 +50,6 @@
       "max_rank": 260,
       "v_category": "legend",
       "event_area_name": null
-    },
-    {
-      "cid": 6302,
-      "v_motionid": 2,
-      "bg": 41,
-      "memo": "今天的妖氣，有點甜……！",
-      "start": 1522918800,
-      "end": 1587621600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 20,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 27
     },
     {
       "cid": 3,
