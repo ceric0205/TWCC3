@@ -1,5 +1,5 @@
 {
-  "deceive": 1588237165,
+  "deceive": 1588842078,
   "vignette": [
     {
       "cid": 7015,
@@ -34,16 +34,16 @@
       "v_category": "favorite"
     },
     {
-      "cid": 12227,
+      "cid": 4296,
       "v_motionid": 2,
-      "bg": 101,
-      "memo": "我不會漏聽任何情報",
+      "bg": 21,
+      "memo": "全是為了……陛下的理想！",
       "start": 1522918800,
-      "end": 1588831200,
+      "end": 1589436000,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
-        "gacha_id": 2
+        "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
