@@ -1,39 +1,5 @@
 {
-  "deceive": 1588237187,
-  "medal_data": [
-    {
-      "medal_id": 6,
-      "medal_name": "櫻獎牌",
-      "cards_rate_list": [
-        {
-          "cid": 2257,
-          "rate": 2
-        },
-        {
-          "cid": 9222,
-          "rate": 2
-        },
-        {
-          "rate": 8,
-          "cid": 2300
-        },
-        {
-          "rate": 8,
-          "cid": 9232
-        },
-        {
-          "rate": 2,
-          "cid": 7227
-        }
-      ],
-      "event_start": 1555034400,
-      "event_end": 1589428800,
-      "dist_start": 1555034400,
-      "dist_end": 1589435999,
-      "url": "",
-      "url_after": "",
-      "append_setting_list": []
-    }
-  ],
+  "deceive": 1589446692,
+  "medal_data": [],
   "res": 0
 }

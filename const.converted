@@ -145,7 +145,49 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": null,
+        "cover": {
+          "cover_id": 32,
+          "is_mop_up": true,
+          "name": "仰天怪奇！魔海大狩獵戰",
+          "area_id": 1034,
+          "dist_start": 1557280800,
+          "event_start": 1557280800,
+          "main_start": 1590048000,
+          "event_end": 1590638400,
+          "dist_end": 1590645600,
+          "bgm": "BGM_FIELD_MOPUP_01",
+          "point_list": {
+            "point1": {
+              "name": "サハギンの鱗",
+              "icon": "Item_MopUp_07_A",
+              "target_enemy_id": "335742",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335743",
+              "rare_target_point_val": "80"
+            },
+            "point2": {
+              "name": "クリオーネの羽",
+              "icon": "Item_MopUp_07_B",
+              "target_enemy_id": "335742",
+              "target_point_val": "20",
+              "rare_target_enemy_id": "335743",
+              "rare_target_point_val": "80"
+            }
+          },
+          "info_list": [
+            "Tutorial_MopUp_07_01",
+            "Tutorial_MopUp_07_02",
+            "Tutorial_MopUp_07_03",
+            "Tutorial_MopUp_07_04"
+          ],
+          "rush": {
+            "rate": 0.15,
+            "validcnt": 1,
+            "text": "目標大量出現！",
+            "bgm": 13
+          },
+          "reward_cid": 7223
+        },
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -163,18 +205,18 @@
     }
   ],
   "mVer": {
-    "charainfo": 1588574927,
-    "weaponlist": 1586510036,
-    "skilllist": 1588574926,
-    "worldinfo": 1578388117,
+    "charainfo": 1589164378,
+    "weaponlist": 1588918349,
+    "skilllist": 1589164377,
+    "worldinfo": 1589424671,
     "episodeinfo": 1578388085,
-    "questdigest": 1588841541,
+    "questdigest": 1589439614,
     "itemlist": 1578478775,
     "booklist": 1587540688,
     "motionlist": 1578388078,
     "missionlist": 1582007636,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1588574922,
+    "bossinfo": 1589164373,
     "battleinfo": 1578388078,
     "homelist": 1578638337,
     "supporterskill": 1588574924,
@@ -192,12 +234,12 @@
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1578388078,
-    "vignette": 1588831867,
+    "vignette": 1589357061,
     "spdrama": 1578388078,
-    "gachainfo": 1588736661,
+    "gachainfo": 1589256620,
     "questtree": 1588564554,
     "eventareainfo": 1588736658,
-    "coverinfo": 1581574136,
+    "coverinfo": 1589365518,
     "towerinfo": 1588132398,
     "chropowerinfo": 1531709280,
     "sortieinfo": 1578563276,
@@ -205,12 +247,12 @@
     "speedruninfo": 1516759116,
     "heroicskilllist": 1579685834,
     "soundExData": 1516261863,
-    "medalinfo": 1587952909,
-    "eventPortal": 1588736658,
+    "medalinfo": 1,
+    "eventPortal": 1589272572,
     "spquestinfo": 1562226173,
     "buffinfo": 1563439829,
     "totalfavor": 1552316401,
     "reload": 1500271199,
-    "servertime": 1588851791
+    "servertime": 1589457658
   }
 }

@@ -1,5 +1,5 @@
 {
-  "deceive": 1587029039,
+  "deceive": 1589446682,
   "weaponlist": [
     {
       "id": 1,
@@ -23808,7 +23808,7 @@
     },
     {
       "id": 85867,
-      "name": "灼朱焔獅子",
+      "name": "灼朱焰獅子",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -23943,7 +23943,7 @@
     },
     {
       "id": 85876,
-      "name": "灼朱焔獅子・真",
+      "name": "灼朱焰獅子・真",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -38812,7 +38812,7 @@
     {
       "evol_dst": 85867,
       "id": 85867,
-      "name": "灼朱焔獅子",
+      "name": "灼朱焰獅子",
       "profile": "ヒトリVer1専用武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38890,7 +38890,7 @@
     {
       "evol_dst": 85876,
       "id": 85876,
-      "name": "灼朱焔獅子・真",
+      "name": "灼朱焰獅子・真",
       "profile": "ヒトリVer1専用武器",
       "rank_limit": 2,
       "rarity": 5,
