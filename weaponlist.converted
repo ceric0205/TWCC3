@@ -1,5 +1,5 @@
 {
-  "deceive": 1589446682,
+  "deceive": 1590055791,
   "weaponlist": [
     {
       "id": 1,
@@ -23718,7 +23718,7 @@
     },
     {
       "id": 85861,
-      "name": "黒槍・羽羅梨螺",
+      "name": "黑槍・羽羅梨螺",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -23748,7 +23748,7 @@
     },
     {
       "id": 85863,
-      "name": "魔霧銃",
+      "name": "魔霧",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -38747,7 +38747,7 @@
     {
       "evol_dst": 85861,
       "id": 85861,
-      "name": "黒槍・羽羅梨螺",
+      "name": "黑槍・羽羅梨螺",
       "profile": "大海大狩猟",
       "rank_limit": 2,
       "rarity": 5,
@@ -38773,7 +38773,7 @@
     {
       "evol_dst": 85863,
       "id": 85863,
-      "name": "魔霧銃",
+      "name": "魔霧",
       "profile": "大海大狩猟",
       "rank_limit": 2,
       "rarity": 5,
