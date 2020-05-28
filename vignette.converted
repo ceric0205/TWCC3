@@ -1,5 +1,5 @@
 {
-  "deceive": 1590055792,
+  "deceive": 1590657672,
   "vignette": [
     {
       "cid": 7015,
@@ -34,12 +34,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7228,
-      "v_motionid": 2,
-      "bg": 61,
-      "memo": "想逃離我的魚叉門兒都沒有！",
+      "cid": 2302,
+      "v_motionid": 1,
+      "bg": 11,
+      "memo": "接下來就拿你做實驗！！",
       "start": 1522918800,
-      "end": 1590645600,
+      "end": 1591855200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -48,26 +48,26 @@
       "priority": 40,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "mopup",
+      "v_category": "gacha",
       "event_area_name": null
     },
     {
-      "cid": 7230,
-      "v_motionid": 2,
-      "bg": 61,
-      "memo": "隨時歡迎各位♪",
+      "cid": 2303,
+      "v_motionid": 1,
+      "bg": 11,
+      "memo": "逼得我不出手都不行呢。",
       "start": 1522918800,
-      "end": 1590645600,
+      "end": 1591855200,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 1034,
-        "place_id": 0
+        "area_id": 206,
+        "place_id": 1
       },
-      "priority": 30,
+      "priority": 20,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "mopup",
-      "event_area_name": null
+      "v_category": "event_1",
+      "event_area_name": 502
     },
     {
       "cid": 3,

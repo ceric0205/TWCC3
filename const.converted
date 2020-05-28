@@ -145,70 +145,9 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 32,
-          "is_mop_up": true,
-          "name": "仰天怪奇！魔海大狩獵戰",
-          "area_id": 1034,
-          "dist_start": 1589436000,
-          "event_start": 1589436000,
-          "main_start": 1590040800,
-          "event_end": 1590638400,
-          "dist_end": 1590645600,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "沙華魚人鱗片",
-              "icon": "Item_MopUp_07_A",
-              "target_enemy_id": "335742",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335743",
-              "rare_target_point_val": "80"
-            },
-            "point2": {
-              "name": "克莉歐聶羽翼",
-              "icon": "Item_MopUp_07_B",
-              "target_enemy_id": "335742",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335743",
-              "rare_target_point_val": "80"
-            }
-          },
-          "info_list": [
-            "Tutorial_MopUp_07_01",
-            "Tutorial_MopUp_07_02",
-            "Tutorial_MopUp_07_03",
-            "Tutorial_MopUp_07_04"
-          ],
-          "rush": {
-            "rate": 0.15,
-            "validcnt": 1,
-            "text": "目標大量出現！",
-            "bgm": 13
-          },
-          "reward_cid": 7223
-        },
+        "cover": null,
         "raid": null,
-        "totalwar": {
-          "totalwar_id": 31,
-          "event_start": 1589472000,
-          "close": 1590076800,
-          "event_end": 1590076800,
-          "token_cnt_per_request": 100,
-          "banner_image": "2005014_Totalwar_top",
-          "special_reward_icon": "special_reward_icon06266",
-          "start_cnt": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "close_interval": 10,
-          "first_border_ap": 10,
-          "event_days": 8,
-          "rest_border_ap": 30,
-          "reward_cid": 6266
-        },
+        "totalwar": null,
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -224,21 +163,21 @@
     }
   ],
   "mVer": {
-    "charainfo": 1589854056,
+    "charainfo": 1590648462,
     "weaponlist": 1589787036,
-    "skilllist": 1589787038,
+    "skilllist": 1590648461,
     "worldinfo": 1589424671,
     "episodeinfo": 1578388085,
-    "questdigest": 1590055257,
+    "questdigest": 1590648466,
     "itemlist": 1578478775,
     "booklist": 1587540688,
     "motionlist": 1578388078,
-    "missionlist": 1582007636,
+    "missionlist": 1590649199,
     "repeatmissionlist": 1513670320,
-    "bossinfo": 1589787034,
+    "bossinfo": 1590379938,
     "battleinfo": 1578388078,
     "homelist": 1578638337,
-    "supporterskill": 1588574924,
+    "supporterskill": 1590379940,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1453707665,
     "explorerlocation": 1526610326,
@@ -248,16 +187,16 @@
     "various": 1557733209,
     "eventplace": 1486504842,
     "eventbadge": 1586235910,
-    "denju": 1588574922,
+    "denju": 1590379938,
     "questroute": 1589854051,
     "enemyinfo": 1513670319,
     "casinoinfo": 1475140000,
     "uzuinfo": 1578388078,
-    "vignette": 1589957416,
+    "vignette": 1590647601,
     "spdrama": 1578388078,
-    "gachainfo": 1589872191,
+    "gachainfo": 1590554968,
     "questtree": 1589854051,
-    "eventareainfo": 1589872188,
+    "eventareainfo": 1590553913,
     "coverinfo": 1589968994,
     "towerinfo": 1588132398,
     "chropowerinfo": 1531709280,
@@ -266,12 +205,12 @@
     "speedruninfo": 1516759116,
     "heroicskilllist": 1589945919,
     "soundExData": 1516261863,
-    "medalinfo": 1,
-    "eventPortal": 1589962938,
+    "medalinfo": 1590565156,
+    "eventPortal": 1590563975,
     "spquestinfo": 1562226173,
     "buffinfo": 1563439829,
     "totalfavor": 1552316401,
     "reload": 1500271199,
-    "servertime": 1590067492
+    "servertime": 1590667981
   }
 }
