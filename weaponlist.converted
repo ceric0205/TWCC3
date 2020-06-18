@@ -1,5 +1,5 @@
 {
-  "deceive": 1590055791,
+  "deceive": 1592478544,
   "weaponlist": [
     {
       "id": 1,
@@ -24033,7 +24033,7 @@
     },
     {
       "id": 85882,
-      "name": "6周年紀念錘",
+      "name": "六週年",
       "type_atk": 1,
       "attackMax": 16,
       "type_cri": 2,
@@ -24123,7 +24123,7 @@
     },
     {
       "id": 85890,
-      "name": "新・黑曜石之爪",
+      "name": "Neo・黑曜石",
       "type_atk": 1,
       "attackMax": 11,
       "type_cri": 2,
@@ -38949,7 +38949,7 @@
       "evol_dst": 85882,
       "id": 85882,
       "name": "6周年紀念錘",
-      "profile": "6周年記念武器",
+      "profile": "六週年",
       "rank_limit": 2,
       "rarity": 5,
       "usable0": -1,
@@ -38961,7 +38961,7 @@
     {
       "evol_dst": 85890,
       "id": 85890,
-      "name": "新・黑曜石之爪",
+      "name": "Neo・黑曜石",
       "profile": "復刻踏破報酬武器",
       "rank_limit": 2,
       "rarity": 5,

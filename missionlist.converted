@@ -1,5 +1,5 @@
 {
-  "deceive": 1591261089,
+  "deceive": 1592479087,
   "missionlist": [
     {
       "id": 1,
@@ -6898,662 +6898,444 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 4021,
+      "id": 4074,
       "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
       "quest_id": [
-        222321
+        302612
       ],
       "tab_id": 1,
-      "title": "進行傳承篇「學生傳Ⅲ」！",
-      "sub_id": "Medal 01",
-      "max_num": 4,
+      "title": "抵達「第一防衛據點」",
+      "sub_id": "Event 01",
+      "max_num": 1,
       "reward": {
         "type": "stone",
         "id": null,
         "val": "1"
       },
-      "help": "通過傳承篇「魔法兵團學生傳Ⅲ」第1話！"
+      "help": "抵達踏破型活動的「第一防衛據點」！"
     },
     {
-      "id": 4022,
+      "id": 4075,
       "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
       "quest_id": [
-        222326
+        302614
       ],
       "tab_id": 1,
-      "title": "見證傳承篇「學生傳Ⅲ」的結局！",
-      "sub_id": "Medal 02",
-      "max_num": 4,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "96281",
-        "val": "1"
-      },
-      "help": "通過傳承篇「魔法兵團學生傳Ⅲ」最終話！"
-    },
-    {
-      "id": 4023,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜魔＞類型武器給予最後一擊2次！",
-      "sub_id": "Medal 03",
-      "max_num": 2,
-      "reward": {
-        "type": "weapon_rf",
-        "id": "93010",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜魔＞類型武器打倒最後的敵人2次！"
-    },
-    {
-      "id": 4024,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜魔＞類型武器給予最後一擊4次！",
-      "sub_id": "Medal 04",
-      "max_num": 4,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85237",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜魔＞類型武器打倒最後的敵人4次！"
-    },
-    {
-      "id": 4025,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜魔＞類型武器給予最後一擊6次！",
-      "sub_id": "Medal 05",
-      "max_num": 6,
-      "reward": {
-        "type": "weapon_rf",
-        "id": "93010",
-        "val": "3"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜魔＞類型武器打倒最後的敵人6次！"
-    },
-    {
-      "id": 4026,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜魔＞類型武器給予最後一擊8次！",
-      "sub_id": "Medal 06",
-      "max_num": 8,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85044",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜魔＞類型武器打倒最後的敵人8次！"
-    },
-    {
-      "id": 4027,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜魔＞類型武器給予最後一擊10次！",
-      "sub_id": "Medal 07",
-      "max_num": 10,
-      "reward": {
-        "type": "weapon_rf",
-        "id": "93010",
-        "val": "5"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜魔＞類型武器打倒最後的敵人10次！"
-    },
-    {
-      "id": 4028,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜斬＞類型武器給予最後一擊2次！",
-      "sub_id": "Medal 08",
-      "max_num": 2,
-      "reward": {
-        "type": "weapon_rf",
-        "id": "93006",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜斬＞類型武器打倒最後的敵人2次！"
-    },
-    {
-      "id": 4029,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜斬＞類型武器給予最後一擊4次！",
-      "sub_id": "Medal 09",
-      "max_num": 4,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85380",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜斬＞類型武器打倒最後的敵人4次！"
-    },
-    {
-      "id": 4030,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜斬＞類型武器給予最後一擊6次！",
-      "sub_id": "Medal 10",
-      "max_num": 6,
-      "reward": {
-        "type": "weapon_rf",
-        "id": "93006",
-        "val": "3"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜斬＞類型武器打倒最後的敵人6次！"
-    },
-    {
-      "id": 4031,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜斬＞類型武器給予最後一擊8次！",
-      "sub_id": "Medal 11",
-      "max_num": 8,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85705",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜斬＞類型武器打倒最後的敵人8次！"
-    },
-    {
-      "id": 4032,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "以＜斬＞類型武器給予最後一擊10次！",
-      "sub_id": "Medal 12",
-      "max_num": 10,
-      "reward": {
-        "type": "weapon_rf",
-        "id": "93006",
-        "val": "5"
-      },
-      "help": "在會消耗AP的任務中，\\n 以＜斬＞類型武器打倒最後的敵人10次！"
-    },
-    {
-      "id": 4033,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "在任務中使用魔法師20次吧！",
-      "sub_id": "Medal 13",
-      "max_num": 20,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "50"
-      },
-      "help": "在會消耗AP的任務中使用魔法師20次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4034,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "在任務中使用魔法師40次吧！",
-      "sub_id": "Medal 14",
-      "max_num": 40,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "3"
-      },
-      "help": "在會消耗AP的任務中使用魔法師40次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4035,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師60次！",
-      "sub_id": "Medal 15",
-      "max_num": 60,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90903",
-        "val": "3"
-      },
-      "help": "在會消耗AP的任務中使用魔法師60次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4036,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師80次！",
-      "sub_id": "Medal 16",
-      "max_num": 80,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "50"
-      },
-      "help": "在會消耗AP的任務中使用魔法師80次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4037,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師100次！",
-      "sub_id": "Medal 17",
-      "max_num": 100,
+      "title": "抵達「第二防衛據點」",
+      "sub_id": "Event 02",
+      "max_num": 1,
       "reward": {
         "type": "chara_rf",
         "id": "90904",
         "val": "1"
       },
-      "help": "在會消耗AP的任務中使用魔法師100次。\\n 幫手及替補隊伍也會列入計算喔！"
+      "help": "抵達踏破型活動的「第二防衛據點」！"
     },
     {
-      "id": 4038,
+      "id": 4076,
       "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302618
+      ],
       "tab_id": 1,
-      "title": "使用魔法師120次！",
-      "sub_id": "Medal 18",
-      "max_num": 120,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中使用魔法師120次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4039,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師140次！",
-      "sub_id": "Medal 19",
-      "max_num": 140,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "100"
-      },
-      "help": "在會消耗AP的任務中使用魔法師140次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4040,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師160次！",
-      "sub_id": "Medal 20",
-      "max_num": 160,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "5"
-      },
-      "help": "在會消耗AP的任務中使用魔法師160次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4041,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師180次！",
-      "sub_id": "Medal 21",
-      "max_num": 180,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90903",
-        "val": "5"
-      },
-      "help": "在會消耗AP的任務中使用魔法師180次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4042,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師200次！",
-      "sub_id": "Medal 22",
-      "max_num": 200,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "100"
-      },
-      "help": "在會消耗AP的任務中使用魔法師200次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4043,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師220次！",
-      "sub_id": "Medal 23",
-      "max_num": 220,
+      "title": "抵達「第三防衛據點」",
+      "sub_id": "Event 03",
+      "max_num": 1,
       "reward": {
         "type": "chara_rf",
         "id": "90905",
         "val": "1"
       },
-      "help": "在會消耗AP的任務中使用魔法師220次。\\n 幫手及替補隊伍也會列入計算喔！"
+      "help": "抵達踏破型活動的「第三防衛據點」！"
     },
     {
-      "id": 4044,
+      "id": 4077,
       "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師240次！",
-      "sub_id": "Medal 24",
-      "max_num": 240,
-      "reward": {
-        "type": "item",
-        "id": "1",
-        "val": "3"
-      },
-      "help": "在會消耗AP的任務中使用魔法師240次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4045,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師260次！",
-      "sub_id": "Medal 25",
-      "max_num": 260,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "1"
-      },
-      "help": "在會消耗AP的任務中使用魔法師260次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4046,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師280次！",
-      "sub_id": "Medal 26",
-      "max_num": 280,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "200"
-      },
-      "help": "在會消耗AP的任務中使用魔法師280次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4047,
-      "type": 1,
-      "start_time": 1557813600,
-      "end_time": 1591855200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用魔法師300次！",
-      "sub_id": "Medal 27",
-      "max_num": 300,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "2"
-      },
-      "help": "在會消耗AP的任務中使用魔法師300次。\\n 幫手及替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4052,
-      "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
       "quest_id": [
-        335401,
-        335402,
-        335403
+        302624
       ],
-      "tab_id": 2,
-      "title": "使用傳授必殺技吧1",
-      "sub_id": "Event 01",
-      "max_num": 5,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "3"
-      },
-      "help": "在天津篇第11章的任務中，\\n使用傳授必殺技5次以上"
-    },
-    {
-      "id": 4053,
-      "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
-      "quest_id": [
-        335411,
-        335412,
-        335413,
-        335414
-      ],
-      "tab_id": 2,
-      "title": "使用傳授必殺技2",
-      "sub_id": "Event 02",
-      "max_num": 5,
-      "reward": {
-        "type": "item",
-        "id": "1",
-        "val": "1"
-      },
-      "help": "在天津篇第11章的任務中，\\n使用傳授必殺技5次以上"
-    },
-    {
-      "id": 4054,
-      "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
-      "quest_id": [
-        335421,
-        335422,
-        335423,
-        335424
-      ],
-      "tab_id": 2,
-      "title": "使用傳授必殺技3",
-      "sub_id": "Event 03",
-      "max_num": 5,
-      "reward": {
-        "type": "item",
-        "id": "2007",
-        "val": "1"
-      },
-      "help": "在天津篇第11章的任務中，\\n使用傳授必殺技5次以上"
-    },
-    {
-      "id": 4055,
-      "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
-      "quest_id": [
-        335431,
-        335432,
-        335433,
-        335434
-      ],
-      "tab_id": 2,
-      "title": "使用傳授必殺技4",
+      "tab_id": 1,
+      "title": "抵達「第四防衛據點」",
       "sub_id": "Event 04",
-      "max_num": 5,
+      "max_num": 1,
       "reward": {
         "type": "item",
-        "id": "2007",
+        "id": "3",
         "val": "1"
       },
-      "help": "在天津篇第11章的任務中，\\n使用傳授必殺技5次以上"
+      "help": "抵達踏破型活動的「第四防衛據點」！"
     },
     {
-      "id": 4056,
+      "id": 4078,
       "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
       "quest_id": [
-        335411,
-        335412,
-        335413,
-        335414,
-        335431,
-        335432,
-        335433,
-        335434
+        302626
       ],
-      "tab_id": 2,
-      "title": "以＜拳＞武器收場吧",
+      "tab_id": 1,
+      "title": "抵達「湖都」",
       "sub_id": "Event 05",
-      "max_num": 3,
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "抵達踏破型活動的「湖都」！"
+    },
+    {
+      "id": 4079,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302658
+      ],
+      "tab_id": 1,
+      "title": "以＜斬＞武器給予最後一擊",
+      "sub_id": "Event 06",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85868",
+        "val": "1"
+      },
+      "help": "在指定任務以\\n＜斬＞武器打倒敵人！"
+    },
+    {
+      "id": 4080,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302658
+      ],
+      "tab_id": 1,
+      "title": "達成全戰鬥獎勵",
+      "sub_id": "Event 07",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85869",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n達成全戰鬥獎勵吧"
+    },
+    {
+      "id": 4081,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302659
+      ],
+      "tab_id": 1,
+      "title": "以＜突＞武器給予最後一擊",
+      "sub_id": "Event 08",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "在指定任務以\\n＜突＞武器打倒敵人！"
+    },
+    {
+      "id": 4082,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302659
+      ],
+      "tab_id": 1,
+      "title": "不曾接關通過任務",
+      "sub_id": "Event 09",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "不曾接關通過指定任務"
+    },
+    {
+      "id": 4083,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體1",
+      "sub_id": "Event 10",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "100000"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計100隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4084,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體2",
+      "sub_id": "Event 11",
+      "max_num": 250,
       "reward": {
         "type": "chara_rf",
-        "id": "90022",
+        "id": "90904",
         "val": "1"
       },
-      "help": "在天津篇第11章的任務中，\\n以＜拳＞武器打倒最後的敵人3次"
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計250隻！\\n【EX】及序章不會計入喔"
     },
     {
-      "id": 4057,
+      "id": 4085,
       "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
       "quest_id": [
-        335401,
-        335402,
-        335403,
-        335421,
-        335422,
-        335423,
-        335424
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
       ],
-      "tab_id": 2,
-      "title": "以＜斬＞武器收場吧",
-      "sub_id": "Event 06",
-      "max_num": 3,
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體3",
+      "sub_id": "Event 12",
+      "max_num": 500,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90905",
+        "val": "1"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計500隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4086,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體4",
+      "sub_id": "Event 13",
+      "max_num": 750,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計750隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4087,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體5",
+      "sub_id": "Event 14",
+      "max_num": 1000,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26000",
+        "val": "1"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計1000隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4088,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體6",
+      "sub_id": "Event 15",
+      "max_num": 1300,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26002",
+        "val": "1"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計1300隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4089,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體7",
+      "sub_id": "Event 16",
+      "max_num": 1600,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85869",
+        "val": "1"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計1600隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4090,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [
+        302651,
+        302652,
+        302654,
+        302656,
+        302657
+      ],
+      "tab_id": 1,
+      "title": "打倒黃金尖兵・飛翔體8",
+      "sub_id": "Event 17",
+      "max_num": 2000,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85868",
+        "val": "1"
+      },
+      "help": "在指定任務中打倒\\n黃金尖兵・飛翔體合計2000隻！\\n【EX】及序章不會計入喔"
+    },
+    {
+      "id": 4091,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用戰士100次",
+      "sub_id": "Event 18",
+      "max_num": 100,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "100000"
+      },
+      "help": "將戰士編入隊伍戰鬥吧！幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都OK！"
+    },
+    {
+      "id": 4092,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用戰士200次",
+      "sub_id": "Event 19",
+      "max_num": 200,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90010",
+        "val": "1"
+      },
+      "help": "將戰士編入隊伍戰鬥吧！幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都OK！"
+    },
+    {
+      "id": 4093,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用戰士300次",
+      "sub_id": "Event 20",
+      "max_num": 300,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90015",
+        "val": "1"
+      },
+      "help": "將戰士編入隊伍戰鬥吧！幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都OK！"
+    },
+    {
+      "id": 4094,
+      "type": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用戰士400次",
+      "sub_id": "Event 21",
+      "max_num": 400,
       "reward": {
         "type": "chara_rf",
         "id": "90020",
         "val": "1"
       },
-      "help": "在天津篇第11章的任務中，\\n以＜斬＞武器打倒最後的敵人3次"
+      "help": "將戰士編入隊伍戰鬥吧！幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都OK！"
     },
     {
-      "id": 4058,
+      "id": 4095,
       "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
-      "quest_id": [
-        335353
-      ],
-      "tab_id": 2,
-      "title": "通過天津篇第9章",
-      "sub_id": "Event 07",
-      "max_num": 1,
+      "start_time": 1559786400,
+      "end_time": 1593064800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用戰士500次",
+      "sub_id": "Event 22",
+      "max_num": 500,
       "reward": {
         "type": "item",
-        "id": "2001",
-        "val": "5"
-      },
-      "help": "通過天津篇第9章5-3「劇情（後）」"
-    },
-    {
-      "id": 4059,
-      "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
-      "quest_id": [
-        335393
-      ],
-      "tab_id": 2,
-      "title": "通過天津篇第10章",
-      "sub_id": "Event 08",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "1007",
+        "id": "1",
         "val": "1"
       },
-      "help": "通過天津篇第10章4-3「白銀」"
-    },
-    {
-      "id": 4060,
-      "type": 1,
-      "start_time": 1558663200,
-      "end_time": 1591250400,
-      "quest_id": [
-        335434
-      ],
-      "tab_id": 2,
-      "title": "通過天津篇第11章",
-      "sub_id": "Event 09",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "1035",
-        "val": "1"
-      },
-      "help": "通過天津篇第11章4-4「火盜」"
+      "help": "將戰士編入隊伍戰鬥吧！幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都OK！"
     },
     {
       "id": 4126,

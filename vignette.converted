@@ -1,5 +1,5 @@
 {
-  "deceive": 1591865894,
+  "deceive": 1592478535,
   "vignette": [
     {
       "cid": 7015,
@@ -52,21 +52,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 1216,
+      "cid": 4290,
       "v_motionid": 1,
-      "bg": 3,
-      "memo": "為了這個國家！",
+      "bg": 5221,
+      "memo": "低鳴雙劍，化為劍舞！",
       "start": 1522918800,
       "end": 1592978400,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
-        "gacha_id": 2
+        "type": "event",
+        "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "legend",
+      "v_category": "gacha",
       "event_area_name": null
     },
     {
