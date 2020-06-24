@@ -1,5 +1,76 @@
 {
-  "deceive": 1591865910,
-  "medal_data": [],
+  "deceive": 1592992493,
+  "medal_data": [
+    {
+      "medal_id": 8,
+      "medal_name": "尤莉安娜傳獎牌",
+      "cards_rate_list": [
+        {
+          "cid": 1216,
+          "rate": 2
+        },
+        {
+          "cid": 1268,
+          "rate": 2
+        },
+        {
+          "cid": 1275,
+          "rate": 2
+        },
+        {
+          "rate": 8,
+          "cid": 1277
+        },
+        {
+          "rate": 8,
+          "cid": 1279
+        },
+        {
+          "rate": 2,
+          "cid": 1278
+        }
+      ],
+      "event_start": 1560996000,
+      "event_end": 1594267200,
+      "dist_start": 1560996000,
+      "dist_end": 1594274399,
+      "url": "",
+      "url_after": "",
+      "append_setting_list": [
+        {
+          "quest_id": 222601,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 222602,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 222603,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 222604,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 222605,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 222606,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 222607,
+          "add_medal": 200
+        },
+        {
+          "quest_id": 266201,
+          "add_medal": 300
+        }
+      ]
+    }
+  ],
   "res": 0
 }
