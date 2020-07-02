@@ -1,29 +1,5 @@
 {
-  "deceive": 1591865906,
-  "cover_info": [
-    {
-      "cover_id": 33,
-      "sp_cards": [
-        {
-          "cid": "4217",
-          "skillid": 38000001
-        },
-        {
-          "cid": "4218",
-          "skillid": 38000001
-        },
-        {
-          "cid": "4256",
-          "skillid": 38000002,
-          "pointid": 0
-        },
-        {
-          "cid": "4290",
-          "skillid": 38000002,
-          "pointid": 0
-        }
-      ]
-    }
-  ],
+  "deceive": 1593685894,
+  "cover_info": [],
   "res": 0
 }

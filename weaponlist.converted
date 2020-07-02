@@ -1,5 +1,5 @@
 {
-  "deceive": 1592478544,
+  "deceive": 1593685878,
   "weaponlist": [
     {
       "id": 1,
@@ -19263,7 +19263,7 @@
     },
     {
       "id": 85549,
-      "name": "四周年紀念大劍",
+      "name": "肆週年",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -23988,7 +23988,7 @@
     },
     {
       "id": 85879,
-      "name": "深淵木槌",
+      "name": "深淵的木槌",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -35709,7 +35709,7 @@
     {
       "evol_dst": 85549,
       "id": 85549,
-      "name": "四周年紀念大劍",
+      "name": "肆週年",
       "profile": "4周年お祝い武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -38919,7 +38919,7 @@
     {
       "evol_dst": 85879,
       "id": 85879,
-      "name": "深淵木槌",
+      "name": "深淵的木槌",
       "profile": "レイド用",
       "rank_limit": 2,
       "rarity": 5,
@@ -38948,7 +38948,7 @@
     {
       "evol_dst": 85882,
       "id": 85882,
-      "name": "6周年紀念錘",
+      "name": "六週年",
       "profile": "六週年",
       "rank_limit": 2,
       "rarity": 5,

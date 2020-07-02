@@ -1,6 +1,5 @@
 {
-  "deceive": 1579510717,
-  "res": 0,
+  "deceive": 1593685870,
   "motionlist": [
     {
       "_appear": "damage02",
@@ -8010,5 +8009,6 @@
       "_walkWarn": "fighter_walk_tired01",
       "_win": "win_hero01"
     }
-  ]
+  ],
+  "res": 0
 }

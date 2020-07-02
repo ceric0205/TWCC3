@@ -1,6 +1,5 @@
 {
-  "res": 0,
-  "deceive": 1579510706,
+  "deceive": 1593685866,
   "battle_bg": [
     {
       "id": 1,
@@ -658,5 +657,6 @@
       "effect_l": "",
       "change_flag": 0
     }
-  ]
+  ],
+  "res": 0
 }
