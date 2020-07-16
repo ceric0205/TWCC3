@@ -1,5 +1,5 @@
 {
-  "deceive": 1593685871,
+  "deceive": 1594889896,
   "vignette": [
     {
       "cid": 7015,
@@ -34,30 +34,30 @@
       "v_category": "favorite"
     },
     {
-      "cid": 1277,
+      "cid": 278,
       "v_motionid": 1,
-      "bg": 3,
-      "memo": "鏘鏘～",
+      "bg": 2,
+      "memo": "像這樣的也很緊張刺激對吧？",
       "start": 1522918800,
-      "end": 1594274400,
+      "end": 1595484000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 1
+        "type": "legend",
+        "gacha_id": 2
       },
-      "priority": 40,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "gacha",
+      "v_category": "legend",
       "event_area_name": null
     },
     {
-      "cid": 1279,
+      "cid": 328,
       "v_motionid": 0,
-      "bg": 3,
-      "memo": "無論是韋恩或戴納帝……我都不能輸！",
+      "bg": 2,
+      "memo": "對不起，請原諒我！",
       "start": 1522918800,
-      "end": 1594267200,
+      "end": 1596088800,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 206,
@@ -67,7 +67,7 @@
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "event_1",
-      "event_area_name": 505
+      "event_area_name": 506
     },
     {
       "cid": 3,
