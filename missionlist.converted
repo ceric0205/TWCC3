@@ -1,5 +1,5 @@
 {
-  "deceive": 1593686564,
+  "deceive": 1595501882,
   "missionlist": [
     {
       "id": 1,
@@ -6898,479 +6898,235 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 4126,
+      "id": 4151,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
       "quest_id": [
-        331011
+        332414
       ],
-      "tab_id": 1,
-      "title": "開始進行赫利歐斯篇！",
-      "sub_id": "Main 01",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "73",
-        "val": "1"
-      },
-      "help": "通過赫利歐斯篇第1章1-1「王都少年」！"
-    },
-    {
-      "id": 4127,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        332011
-      ],
-      "tab_id": 1,
-      "title": "開始進行愛麗婕篇！",
-      "sub_id": "Main 02",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "2002",
-        "val": "1"
-      },
-      "help": "通過愛麗婕篇第1章1-1「魔法學園普通科」！"
-    },
-    {
-      "id": 4128,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        335011
-      ],
-      "tab_id": 1,
-      "title": "開始進行天津篇！",
-      "sub_id": "Main 03",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "6001",
-        "val": "1"
-      },
-      "help": "通過天津篇第1章1-1「發端」！"
-    },
-    {
-      "id": 4129,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        333011
-      ],
-      "tab_id": 1,
-      "title": "開始進行艾夏露篇！",
-      "sub_id": "Main 04",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "4001",
-        "val": "1"
-      },
-      "help": "通過艾夏露篇第1章1-1「初始之歌」！"
-    },
-    {
-      "id": 4130,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        334011
-      ],
-      "tab_id": 1,
-      "title": "開始進行瑟蕾斯蒂篇！",
-      "sub_id": "Main 05",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "5001",
-        "val": "1"
-      },
-      "help": "通過瑟蕾斯蒂篇第1章1-1「精靈島的瑟蕾斯蒂」！"
-    },
-    {
-      "id": 4131,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        331093
-      ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第2章！",
-      "sub_id": "Main 06",
+      "tab_id": 2,
+      "title": "通過愛麗婕篇第11章1話！",
+      "sub_id": "Story 01",
       "max_num": 1,
       "reward": {
         "type": "item",
-        "id": "1031",
-        "val": "1"
+        "id": "2001",
+        "val": "5"
       },
-      "help": "通過赫利歐斯篇第2章5-3「昔日的聖人們」！"
+      "help": "目標是「1-4　究極刻印者」喔！\\n究極嗎……如果能成為夥伴就再好不過……"
     },
     {
-      "id": 4132,
+      "id": 4152,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
       "quest_id": [
-        332094
+        332425
       ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第2章！",
-      "sub_id": "Main 07",
+      "tab_id": 2,
+      "title": "通過愛麗婕篇第11章2話！",
+      "sub_id": "Story 02",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90022",
+        "val": "1"
+      },
+      "help": "目標是「2-5　拒絕」喔！\\n我是隨時都歡迎啦！"
+    },
+    {
+      "id": 4153,
+      "type": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [
+        332434
+      ],
+      "tab_id": 2,
+      "title": "通過愛麗婕篇第11章3話！",
+      "sub_id": "Story 03",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "2007",
+        "val": "1"
+      },
+      "help": "目標是「3-4　學園內大混亂！」喔！\\n嘎啊啊！　這次又哪招—！？"
+    },
+    {
+      "id": 4154,
+      "type": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [
+        332444
+      ],
+      "tab_id": 2,
+      "title": "通過愛麗婕篇第11章4話！",
+      "sub_id": "Story 04",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "1"
+      },
+      "help": "目標是「4-4　使者大人？」喔！\\n好像不是負責跑腿的……"
+    },
+    {
+      "id": 4155,
+      "type": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [
+        332454
+      ],
+      "tab_id": 2,
+      "title": "通過愛麗婕篇第11章5話！",
+      "sub_id": "Story 05",
       "max_num": 1,
       "reward": {
         "type": "item",
         "id": "1032",
         "val": "1"
       },
-      "help": "通過愛麗婕篇第2章5-4「歡迎來到弗羅思！」！"
+      "help": "目標是「5-4　白薩爾達」喔！\\n唔哇！薩爾達是人類？啊、跟白之異形是有什麼關聯嗎？"
     },
     {
-      "id": 4133,
+      "id": 4156,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        335104
-      ],
-      "tab_id": 1,
-      "title": "通過天津篇第2章！",
-      "sub_id": "Main 08",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形100隻！",
+      "sub_id": "Hunt 01",
+      "max_num": 100,
       "reward": {
         "type": "item",
-        "id": "1035",
-        "val": "1"
+        "id": "16",
+        "val": "3"
       },
-      "help": "通過天津篇第2章5-4「轉向」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
-      "id": 4134,
+      "id": 4157,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        333104
-      ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第2章！",
-      "sub_id": "Main 09",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形200隻！",
+      "sub_id": "Hunt 02",
+      "max_num": 200,
       "reward": {
         "type": "item",
-        "id": "1033",
-        "val": "1"
+        "id": "11",
+        "val": "5000"
       },
-      "help": "通過艾夏露篇第2章5-4「曉天之門」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
-      "id": 4135,
+      "id": 4158,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        334105
-      ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第2章！",
-      "sub_id": "Main 10",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形300隻！",
+      "sub_id": "Hunt 03",
+      "max_num": 300,
       "reward": {
         "type": "item",
-        "id": "1034",
+        "id": "1",
         "val": "1"
       },
-      "help": "通過瑟蕾斯蒂篇第2章5-5「仇恨的前方」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
-      "id": 4136,
+      "id": 4159,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        331223
-      ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第5章！",
-      "sub_id": "Main 11",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "38",
-        "val": "1"
-      },
-      "help": "通過赫利歐斯篇第5章4-3「光明」！"
-    },
-    {
-      "id": 4137,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        332225
-      ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第5章！",
-      "sub_id": "Main 12",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "2019",
-        "val": "1"
-      },
-      "help": "通過愛麗婕篇第5章4-5「艾斯緹菈」！"
-    },
-    {
-      "id": 4138,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        335225
-      ],
-      "tab_id": 1,
-      "title": "通過天津篇第5章！",
-      "sub_id": "Main 13",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "6041",
-        "val": "1"
-      },
-      "help": "通過天津篇第5章4-5「明月」！"
-    },
-    {
-      "id": 4139,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        333283
-      ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第5章！",
-      "sub_id": "Main 14",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "4004",
-        "val": "1"
-      },
-      "help": "通過艾夏露篇第5章6-3「祭典結束後」！"
-    },
-    {
-      "id": 4140,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        334234
-      ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第5章！",
-      "sub_id": "Main 15",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "5007",
-        "val": "1"
-      },
-      "help": "通過瑟蕾斯蒂篇第5章4-4「作為家人」！"
-    },
-    {
-      "id": 4141,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        331403
-      ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第8章！",
-      "sub_id": "Main 16",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形400隻！",
+      "sub_id": "Hunt 04",
+      "max_num": 400,
       "reward": {
         "type": "item",
-        "id": "1031",
+        "id": "2007",
         "val": "1"
       },
-      "help": "通過赫利歐斯篇第8章4-3「不可能的分水嶺」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
-      "id": 4142,
+      "id": 4160,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        332325
-      ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第8章！",
-      "sub_id": "Main 17",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形500隻！",
+      "sub_id": "Hunt 05",
+      "max_num": 500,
       "reward": {
         "type": "item",
-        "id": "1032",
+        "id": "3",
         "val": "1"
       },
-      "help": "通過愛麗婕篇第8章5-5「被奪走的刻印者」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
-      "id": 4143,
+      "id": 4161,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        335304
-      ],
-      "tab_id": 1,
-      "title": "通過天津篇第8章！",
-      "sub_id": "Main 18",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形600隻！",
+      "sub_id": "Hunt 06",
+      "max_num": 600,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90022",
+        "val": "1"
+      },
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
+    },
+    {
+      "id": 4162,
+      "type": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形700隻！",
+      "sub_id": "Hunt 07",
+      "max_num": 700,
       "reward": {
         "type": "item",
-        "id": "1035",
+        "id": "1",
         "val": "1"
       },
-      "help": "通過天津篇第8章4-4「妖國」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
-      "id": 4144,
+      "id": 4163,
       "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        333394
-      ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第8章！",
-      "sub_id": "Main 19",
-      "max_num": 1,
+      "start_time": 1562810400,
+      "end_time": 1596088800,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "打倒白之異形800隻！",
+      "sub_id": "Hunt 08",
+      "max_num": 800,
       "reward": {
         "type": "item",
-        "id": "1033",
+        "id": "1003",
         "val": "1"
       },
-      "help": "通過艾夏露篇第8章6-4「畢雅爾加」！"
-    },
-    {
-      "id": 4145,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        334314
-      ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第8章！",
-      "sub_id": "Main 20",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "1034",
-        "val": "1"
-      },
-      "help": "通過瑟蕾斯蒂篇第8章4-4「該離巢了，我的孩子」！"
-    },
-    {
-      "id": 4146,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        331845
-      ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第10章！",
-      "sub_id": "Main 21",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "247",
-        "val": "1"
-      },
-      "help": "通過赫利歐斯篇第10章4-5「化為一把劍」！"
-    },
-    {
-      "id": 4147,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        332404
-      ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第10章！",
-      "sub_id": "Main 22",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "2212",
-        "val": "1"
-      },
-      "help": "通過愛麗婕篇第10章4-4「薩爾達」！"
-    },
-    {
-      "id": 4148,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        335393
-      ],
-      "tab_id": 1,
-      "title": "通過天津篇第10章！",
-      "sub_id": "Main 23",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "6251",
-        "val": "1"
-      },
-      "help": "通過天津篇第10章4-3「白銀」！"
-    },
-    {
-      "id": 4149,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        333505
-      ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第10章！",
-      "sub_id": "Main 24",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "4223",
-        "val": "1"
-      },
-      "help": "通過艾夏露篇第10章6-5「邁向黎明」！"
-    },
-    {
-      "id": 4150,
-      "type": 1,
-      "start_time": 1560996000,
-      "end_time": 1593619199,
-      "quest_id": [
-        334403
-      ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第10章！",
-      "sub_id": "Main 25",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "5229",
-        "val": "1"
-      },
-      "help": "通過瑟蕾斯蒂篇第10章5-3「重新開始」！"
+      "help": "消滅大量出現的白之異形！\\n魔法學園好像聚集了特別多，為何會這樣？"
     },
     {
       "id": 4164,
@@ -7541,234 +7297,6 @@
         "val": "1"
       },
       "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK哦"
-    },
-    {
-      "id": 4184,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "通過「超賢者的超複製」3次吧",
-      "sub_id": "Event01",
-      "max_num": 3,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90905",
-        "val": "1"
-      },
-      "help": "接關也OK哦"
-    },
-    {
-      "id": 4185,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "通過「超賢者的超複製」5次吧",
-      "sub_id": "Event02",
-      "max_num": 5,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85882",
-        "val": "1"
-      },
-      "help": "接關也OK哦"
-    },
-    {
-      "id": 4186,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "以＜魔＞武器收尾吧1",
-      "sub_id": "Event03",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90022",
-        "val": "1"
-      },
-      "help": "在「超賢者的超複製」以\\n＜魔＞武器打倒最後的敵人1次！"
-    },
-    {
-      "id": 4187,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "以＜魔＞武器收尾吧2",
-      "sub_id": "Event04",
-      "max_num": 3,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "96214",
-        "val": "1"
-      },
-      "help": "在「超賢者的超複製」以\\n＜魔＞武器打倒最後的敵人3次！"
-    },
-    {
-      "id": 4188,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "以必殺技收尾吧1",
-      "sub_id": "Event05",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "3",
-        "val": "1"
-      },
-      "help": "在「超賢者的超複製」以\\n必殺技打倒最後的敵人1次！"
-    },
-    {
-      "id": 4189,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "以必殺技收尾吧2",
-      "sub_id": "Event06",
-      "max_num": 3,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85012",
-        "val": "1"
-      },
-      "help": "在「超賢者的超複製」以\\n必殺技打倒最後的敵人3次！"
-    },
-    {
-      "id": 4190,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267011
-      ],
-      "tab_id": 2,
-      "title": "達成全戰鬥獎勵1",
-      "sub_id": "Event07",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "7516",
-        "val": "1"
-      },
-      "help": "在「超賢者的超複製」\\n達成全戰鬥獎勵1次"
-    },
-    {
-      "id": 4191,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267012
-      ],
-      "tab_id": 2,
-      "title": "以＜魔＞武器收尾吧3",
-      "sub_id": "Event08",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85283",
-        "val": "1"
-      },
-      "help": "在「【高難度】超賢者的超複製」以\\n＜魔＞武器打倒最後的敵人1次！"
-    },
-    {
-      "id": 4192,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267012
-      ],
-      "tab_id": 2,
-      "title": "以＜魔＞武器收尾吧4",
-      "sub_id": "Event09",
-      "max_num": 3,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85549",
-        "val": "1"
-      },
-      "help": "在「【高難度】超賢者的超複製」以\\n＜魔＞武器打倒最後的敵人3次！"
-    },
-    {
-      "id": 4193,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267012
-      ],
-      "tab_id": 2,
-      "title": "以必殺技收尾吧3",
-      "sub_id": "Event10",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85746",
-        "val": "1"
-      },
-      "help": "在「【高難度】超賢者的超複製」以\\n必殺技打倒最後的敵人1次！"
-    },
-    {
-      "id": 4194,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267012
-      ],
-      "tab_id": 2,
-      "title": "以必殺技收尾吧4",
-      "sub_id": "Event11",
-      "max_num": 3,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85882",
-        "val": "1"
-      },
-      "help": "在「【高難度】超賢者的超複製」以\\n必殺技打倒最後的敵人3次！"
-    },
-    {
-      "id": 4195,
-      "type": 1,
-      "start_time": 1564034400,
-      "end_time": 1594879199,
-      "quest_id": [
-        267012
-      ],
-      "tab_id": 2,
-      "title": "達成全戰鬥獎勵2",
-      "sub_id": "Event12",
-      "max_num": 1,
-      "reward": {
-        "type": "card",
-        "id": "7516",
-        "val": "1"
-      },
-      "help": "在「【高難度】超賢者的超複製」\\n達成全戰鬥獎勵1次"
     }
   ],
   "res": 0
