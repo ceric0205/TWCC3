@@ -1,5 +1,5 @@
 {
-  "deceive": 1595501883,
+  "deceive": 1596099498,
   "vignette": [
     {
       "cid": 7015,
@@ -34,40 +34,40 @@
       "v_category": "favorite"
     },
     {
-      "cid": 323,
-      "v_motionid": 0,
-      "bg": 2,
-      "memo": "我搶第一～！",
+      "cid": 4224,
+      "v_motionid": 2,
+      "bg": 21,
+      "memo": "聽我唱歌吧！",
       "start": 1522918800,
-      "end": 1596088800,
+      "end": 1596693600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 1
+        "type": "legend",
+        "gacha_id": 2
       },
-      "priority": 50,
+      "priority": 35,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "gacha",
+      "v_category": "legend",
       "event_area_name": null
     },
     {
-      "cid": 328,
+      "cid": 7654,
       "v_motionid": 0,
-      "bg": 2,
-      "memo": "對不起，請原諒我！",
-      "start": 1522918800,
-      "end": 1596088800,
+      "bg": 5100,
+      "memo": "是對是錯由我決定！",
+      "start": 1585724400,
+      "end": 1597284000,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 206,
-        "place_id": 1
+        "area_id": 200,
+        "place_id": 0
       },
       "priority": 20,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 506
+      "v_category": "raid",
+      "event_area_name": null
     },
     {
       "cid": 3,
