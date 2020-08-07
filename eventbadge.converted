@@ -1,5 +1,18 @@
 {
-  "deceive": 1593685866,
-  "event_badge": [],
+  "deceive": 1596765386,
+  "event_badge": [
+    {
+      "position": 1,
+      "start": 1580522400,
+      "end": 1597284000,
+      "text": "大成功UP"
+    },
+    {
+      "position": 102,
+      "start": 1580522400,
+      "end": 1597284000,
+      "text": "大成功UP"
+    }
+  ],
   "res": 0
 }
