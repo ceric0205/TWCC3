@@ -1,5 +1,5 @@
 {
-  "deceive": 1593685866,
+  "deceive": 1597316101,
   "battle_bg": [
     {
       "id": 1,
@@ -469,6 +469,14 @@
       "id": 145,
       "flag": 4096,
       "bg_name": "荒地",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 146,
+      "flag": 266240,
+      "bg_name": "城中",
       "effect_s": "",
       "effect_l": "",
       "change_flag": 0

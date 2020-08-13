@@ -1,5 +1,5 @@
 {
-  "deceive": 1596763716,
+  "deceive": 1597316100,
   "uzu": [
     {
       "uzu_id": 1,
@@ -11644,6 +11644,68 @@
           }
         }
       ]
+    },
+    {
+      "uzu_id": 8,
+      "name": "打釘截鐵之渦",
+      "boss_id": 7658,
+      "boss_border": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        30,
+        30,
+        30,
+        30
+      ],
+      "reward_map": [
+        {
+          "reward_list": [
+            {
+              "type": "chara_rf",
+              "id": 90905,
+              "val": 1,
+              "border": 10000
+            },
+            {
+              "type": "stone",
+              "id": 0,
+              "val": 1,
+              "border": 20000
+            },
+            {
+              "type": "chara_rf",
+              "id": 90905,
+              "val": 1,
+              "border": 30000
+            },
+            {
+              "type": "stone",
+              "id": 0,
+              "val": 1,
+              "border": 40000
+            },
+            {
+              "type": "item",
+              "id": 34,
+              "val": 1,
+              "border": 50000
+            }
+          ]
+        }
+      ],
+      "release_chara_ids": [
+        7564,
+        7610,
+        7630,
+        7634,
+        7643,
+        7652,
+        7644
+      ],
+      "schedule": []
     }
   ],
   "stage": [
@@ -14162,6 +14224,288 @@
           },
           "eneset": [
             7101001
+          ]
+        }
+      ]
+    },
+    {
+      "stage_id": 10,
+      "use_key": 1,
+      "stage_list": [
+        {
+          "stage": 12,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "打釘截鐵之渦≪深奧≫　地獄級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 50,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 150,
+          "df_icon": 3,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7102012
+          ]
+        },
+        {
+          "stage": 11,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "打釘截鐵之渦≪深奧≫　超上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 40,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 130,
+          "df_icon": 2,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7102011
+          ]
+        },
+        {
+          "stage": 10,
+          "cleared_lv": 9,
+          "lv": 10,
+          "title": "打釘截鐵之渦≪深奧≫　上級",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 38,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 120,
+          "df_icon": 1,
+          "bt_mana": 2,
+          "boss_flag": 1,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 5
+          },
+          "eneset": [
+            7102010
+          ]
+        },
+        {
+          "stage": 9,
+          "cleared_lv": 8,
+          "lv": 9,
+          "title": "打釘截鐵之渦≪深奧≫9",
+          "battle_point": 100,
+          "home_rate": 540,
+          "strength": 110,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 110,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102009
+          ]
+        },
+        {
+          "stage": 8,
+          "cleared_lv": 7,
+          "lv": 8,
+          "title": "打釘截鐵之渦≪深奧≫8",
+          "battle_point": 100,
+          "home_rate": 510,
+          "strength": 100,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 105,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102008
+          ]
+        },
+        {
+          "stage": 7,
+          "cleared_lv": 6,
+          "lv": 7,
+          "title": "打釘截鐵之渦≪深奧≫7",
+          "battle_point": 100,
+          "home_rate": 480,
+          "strength": 85,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 100,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102007
+          ]
+        },
+        {
+          "stage": 6,
+          "cleared_lv": 5,
+          "lv": 6,
+          "title": "打釘截鐵之渦≪深奧≫6",
+          "battle_point": 100,
+          "home_rate": 450,
+          "strength": 70,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 95,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102006
+          ]
+        },
+        {
+          "stage": 5,
+          "cleared_lv": 4,
+          "lv": 5,
+          "title": "打釘截鐵之渦≪深奧≫5",
+          "battle_point": 100,
+          "home_rate": 420,
+          "strength": 55,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 90,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102005
+          ]
+        },
+        {
+          "stage": 4,
+          "cleared_lv": 3,
+          "lv": 4,
+          "title": "打釘截鐵之渦≪深奧≫4",
+          "battle_point": 100,
+          "home_rate": 390,
+          "strength": 40,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 85,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102004
+          ]
+        },
+        {
+          "stage": 3,
+          "cleared_lv": 2,
+          "lv": 3,
+          "title": "打釘截鐵之渦≪深奧≫3",
+          "battle_point": 100,
+          "home_rate": 360,
+          "strength": 36,
+          "bg": 130,
+          "bgm": 12,
+          "difficulty": 80,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102003
+          ]
+        },
+        {
+          "stage": 2,
+          "cleared_lv": 1,
+          "lv": 2,
+          "title": "打釘截鐵之渦≪深奧≫2",
+          "battle_point": 100,
+          "home_rate": 330,
+          "strength": 28,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 70,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102002
+          ]
+        },
+        {
+          "stage": 1,
+          "cleared_lv": 0,
+          "lv": 1,
+          "title": "打釘截鐵之渦≪深奧≫1",
+          "battle_point": 100,
+          "home_rate": 300,
+          "strength": 25,
+          "bg": 130,
+          "bgm": 11,
+          "difficulty": 50,
+          "df_icon": 0,
+          "bt_mana": 2,
+          "boss_flag": 0,
+          "reward": {
+            "type": "item",
+            "id": 34,
+            "val": 1
+          },
+          "eneset": [
+            7102001
           ]
         }
       ]

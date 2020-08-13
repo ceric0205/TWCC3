@@ -1,5 +1,5 @@
 {
-  "deceive": 1595501881,
+  "deceive": 1597316110,
   "quest_tree": [
     {
       "accompany_hero": "0",
@@ -1601,33 +1601,6 @@
       "accompany_hero": "0",
       "area_id": 1,
       "boss": 0,
-      "cell": 14,
-      "destiny": 0,
-      "develop_only": 0,
-      "episode": 3,
-      "gathering": 0,
-      "hero_id": 1,
-      "icon": 2011,
-      "pub": 0,
-      "quest_ary": [
-        331121,
-        331122,
-        331123,
-        331124
-      ],
-      "size": 0,
-      "story": 3,
-      "summary": "從三賢者口中所述說的白劍調查結果。那可說是超乎赫利歐斯理解範圍的『真相的片段』……",
-      "timestamp": "1519278842000",
-      "title": "真相的片段",
-      "treasure": 0,
-      "update_time": 20180222,
-      "x_hero_ary": 0
-    },
-    {
-      "accompany_hero": "0",
-      "area_id": 1,
-      "boss": 0,
       "cell": 15,
       "destiny": 0,
       "develop_only": 0,
@@ -1736,6 +1709,33 @@
         1,
         2
       ]
+    },
+    {
+      "accompany_hero": "0",
+      "area_id": 1,
+      "boss": 0,
+      "cell": 14,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "gathering": 0,
+      "hero_id": 1,
+      "icon": 2011,
+      "pub": 0,
+      "quest_ary": [
+        331121,
+        331122,
+        331123,
+        331124
+      ],
+      "size": 0,
+      "story": 3,
+      "summary": "從三賢者口中所述說的白劍調查結果。那可說是超乎赫利歐斯理解範圍的『真相的片段』……",
+      "timestamp": "1519278842000",
+      "title": "真相的片段",
+      "treasure": 0,
+      "update_time": 20180222,
+      "x_hero_ary": 0
     },
     {
       "accompany_hero": "0",

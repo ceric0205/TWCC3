@@ -1,0 +1,278 @@
+{
+  "deceive": 1597316101,
+  "rune_info": [
+    {
+      "id": 100001,
+      "ability_id": 60030001,
+      "name": "近距離攻擊",
+      "s_name": "近攻",
+      "grade": 1,
+      "type": 1
+    },
+    {
+      "id": 200001,
+      "ability_id": 60030002,
+      "name": "近距離攻擊",
+      "s_name": "近攻",
+      "grade": 2,
+      "type": 1
+    },
+    {
+      "id": 300001,
+      "ability_id": 60030003,
+      "name": "近距離攻擊",
+      "s_name": "近攻",
+      "grade": 3,
+      "type": 1
+    },
+    {
+      "id": 400001,
+      "ability_id": 60030004,
+      "name": "近距離攻擊",
+      "s_name": "近攻",
+      "grade": 4,
+      "type": 1
+    },
+    {
+      "id": 100002,
+      "ability_id": 60040001,
+      "name": "遠距離攻擊",
+      "s_name": "遠攻",
+      "grade": 1,
+      "type": 1
+    },
+    {
+      "id": 200002,
+      "ability_id": 60040002,
+      "name": "遠距離攻擊",
+      "s_name": "遠攻",
+      "grade": 2,
+      "type": 1
+    },
+    {
+      "id": 300002,
+      "ability_id": 60040003,
+      "name": "遠距離攻擊",
+      "s_name": "遠攻",
+      "grade": 3,
+      "type": 1
+    },
+    {
+      "id": 400002,
+      "ability_id": 60040004,
+      "name": "遠距離攻擊",
+      "s_name": "遠攻",
+      "grade": 4,
+      "type": 1
+    },
+    {
+      "id": 100003,
+      "ability_id": 60010001,
+      "name": "HP增加",
+      "s_name": "HP",
+      "grade": 1,
+      "type": 2
+    },
+    {
+      "id": 200003,
+      "ability_id": 60010002,
+      "name": "HP增加",
+      "s_name": "HP",
+      "grade": 2,
+      "type": 2
+    },
+    {
+      "id": 300003,
+      "ability_id": 60010003,
+      "name": "HP增加",
+      "s_name": "HP",
+      "grade": 3,
+      "type": 2
+    },
+    {
+      "id": 400003,
+      "ability_id": 60010004,
+      "name": "HP增加",
+      "s_name": "HP",
+      "grade": 4,
+      "type": 2
+    },
+    {
+      "id": 100004,
+      "ability_id": 60020001,
+      "name": "自然治癒",
+      "s_name": "治癒",
+      "grade": 1,
+      "type": 2
+    },
+    {
+      "id": 200004,
+      "ability_id": 60020002,
+      "name": "自然治癒",
+      "s_name": "治癒",
+      "grade": 2,
+      "type": 2
+    },
+    {
+      "id": 300004,
+      "ability_id": 60020003,
+      "name": "自然治癒",
+      "s_name": "治癒",
+      "grade": 3,
+      "type": 2
+    },
+    {
+      "id": 400004,
+      "ability_id": 60020004,
+      "name": "自然治癒",
+      "s_name": "治癒",
+      "grade": 4,
+      "type": 2
+    },
+    {
+      "id": 100005,
+      "ability_id": 60060001,
+      "name": "暴擊威力",
+      "s_name": "暴擊威力",
+      "grade": 1,
+      "type": 3
+    },
+    {
+      "id": 200005,
+      "ability_id": 60060002,
+      "name": "暴擊威力",
+      "s_name": "暴擊威力",
+      "grade": 2,
+      "type": 3
+    },
+    {
+      "id": 300005,
+      "ability_id": 60060003,
+      "name": "暴擊威力",
+      "s_name": "暴擊威力",
+      "grade": 3,
+      "type": 3
+    },
+    {
+      "id": 400005,
+      "ability_id": 60060004,
+      "name": "暴擊威力",
+      "s_name": "暴擊威力",
+      "grade": 4,
+      "type": 3
+    },
+    {
+      "id": 100006,
+      "ability_id": 60050001,
+      "name": "暴擊發生率",
+      "s_name": "暴擊率",
+      "grade": 1,
+      "type": 3
+    },
+    {
+      "id": 200006,
+      "ability_id": 60050002,
+      "name": "暴擊發生率",
+      "s_name": "暴擊率",
+      "grade": 2,
+      "type": 3
+    },
+    {
+      "id": 300006,
+      "ability_id": 60050003,
+      "name": "暴擊發生率",
+      "s_name": "暴擊率",
+      "grade": 3,
+      "type": 3
+    },
+    {
+      "id": 400006,
+      "ability_id": 60050004,
+      "name": "暴擊發生率",
+      "s_name": "暴擊率",
+      "grade": 4,
+      "type": 3
+    },
+    {
+      "id": 100007,
+      "ability_id": 60070001,
+      "name": "恢復量",
+      "s_name": "恢復量",
+      "grade": 1,
+      "type": 4
+    },
+    {
+      "id": 200007,
+      "ability_id": 60070002,
+      "name": "恢復量",
+      "s_name": "恢復量",
+      "grade": 2,
+      "type": 4
+    },
+    {
+      "id": 300007,
+      "ability_id": 60070003,
+      "name": "恢復量",
+      "s_name": "恢復量",
+      "grade": 3,
+      "type": 4
+    },
+    {
+      "id": 400007,
+      "ability_id": 60070004,
+      "name": "恢復量",
+      "s_name": "恢復量",
+      "grade": 4,
+      "type": 4
+    },
+    {
+      "id": 100008,
+      "ability_id": 60080001,
+      "name": "恢復範圍",
+      "s_name": "恢復範圍",
+      "grade": 1,
+      "type": 4
+    },
+    {
+      "id": 200008,
+      "ability_id": 60080002,
+      "name": "恢復範圍",
+      "s_name": "恢復範圍",
+      "grade": 2,
+      "type": 4
+    },
+    {
+      "id": 300008,
+      "ability_id": 60080003,
+      "name": "恢復範圍",
+      "s_name": "恢復範圍",
+      "grade": 3,
+      "type": 4
+    },
+    {
+      "id": 400008,
+      "ability_id": 60080004,
+      "name": "恢復範圍",
+      "s_name": "恢復範圍",
+      "grade": 4,
+      "type": 4
+    },
+    {
+      "id": 100009,
+      "ability_id": 60090001,
+      "name": "火屬性",
+      "s_name": "火屬性",
+      "grade": -1,
+      "type": 5
+    },
+    {
+      "id": 100010,
+      "ability_id": 60090002,
+      "name": "冰屬性",
+      "s_name": "冰屬性",
+      "grade": -1,
+      "type": 5
+    }
+  ],
+  "res": 0
+}

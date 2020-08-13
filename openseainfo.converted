@@ -1,12 +1,12 @@
 {
-  "deceive": 1596765386,
+  "deceive": 1597316101,
   "open_sea_info": [
     {
       "id": 1,
       "bg": 205,
       "priority": 10,
       "title": "黎明大海",
-      "url": "",
+      "url": "/web/event/171226_kizuna_new_capter.html?v=7744211",
       "quest_list": [
         70431,
         72151,
@@ -23,7 +23,9 @@
         72121,
         72231,
         72301,
-        72111
+        72111,
+        42081,
+        52951
       ],
       "bgm_intro": [
         ""
@@ -34,7 +36,7 @@
       "bg": 206,
       "priority": 6,
       "title": "獸人大陸",
-      "url": "",
+      "url": "/web/event/171010_kizuna_new_capter.html?v=7744211",
       "quest_list": [
         221701,
         221702,
@@ -54,7 +56,9 @@
         92141,
         92231,
         92181,
-        92321
+        92321,
+        92171,
+        90401
       ],
       "bgm_intro": [
         ""
@@ -65,7 +69,7 @@
       "bg": 217,
       "priority": 7,
       "title": "罪之大陸",
-      "url": "",
+      "url": "/web/event/171024_kizuna_new_capter.html?v=7744211",
       "quest_list": [
         221801,
         221802,
@@ -84,7 +88,9 @@
         112201,
         112121,
         112191,
-        112231
+        112231,
+        112261,
+        112251
       ],
       "bgm_intro": [
         ""
@@ -95,7 +101,7 @@
       "bg": 220,
       "priority": 9,
       "title": "薄命大陸",
-      "url": "",
+      "url": "/web/event/171121_kizuna_new_capter.html?v=7744211",
       "quest_list": [
         102011,
         221901,
@@ -119,7 +125,7 @@
       "bg": 224,
       "priority": 8,
       "title": "鐵煙大陸",
-      "url": "",
+      "url": "/web/event/171109_kizuna_new_capter.html?v=7744211",
       "quest_list": [
         122191,
         222001,
@@ -151,7 +157,7 @@
       "bg": 277,
       "priority": 1,
       "title": "？？？",
-      "url": "",
+      "url": "/web/event/171226_return_new_capter.html?v=7744211",
       "quest_list": [
         222101,
         222102,

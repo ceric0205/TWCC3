@@ -1,5 +1,5 @@
 {
-  "deceive": 1596763749,
+  "deceive": 1597316135,
   "tower": [
     {
       "tower_id": 1,
@@ -5516,7 +5516,7 @@
       "start": 1596254400,
       "end": 1598932800,
       "free": 1596254400,
-      "close": 1596772800,
+      "close": 1597377600,
       "floor_list": [
         {
           "floor": "1",
@@ -5792,6 +5792,1780 @@
     }
   ],
   "stage": [
+    {
+      "floor_id": 157,
+      "floor_reward": {
+        "type": "weapon_ev",
+        "id": 85911,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 50,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 150,
+          "eneset_id": 3320101,
+          "icon": "cha_2d_icon_07526",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士，",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 50,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 150,
+          "eneset_id": 3320102,
+          "icon": "cha_2d_icon_00201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為白之異形。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 6
+        },
+        {
+          "title": "第3戰",
+          "strength": 52,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 155,
+          "eneset_id": 3320103,
+          "icon": "cha_2d_icon_00211",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為人類。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 7
+        },
+        {
+          "title": "第4戰",
+          "strength": 55,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 160,
+          "eneset_id": 3320104,
+          "icon": "cha_2d_icon_07206_tower",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 8,
+            "idx": 0
+          },
+          "enemy_info": "編年史之塔最終戰，全力挑戰並把握勝利吧。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 8
+        }
+      ]
+    },
+    {
+      "floor_id": 149,
+      "floor_reward": {
+        "type": "weapon_ev",
+        "id": 85910,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 50,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 150,
+          "eneset_id": 3320101,
+          "icon": "cha_2d_icon_07526",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "黒の兵士が主に登場する。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 50,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 150,
+          "eneset_id": 3320102,
+          "icon": "cha_2d_icon_00201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "白き異形が主に登場する。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 6
+        },
+        {
+          "title": "第3戦",
+          "strength": 52,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 155,
+          "eneset_id": 3320103,
+          "icon": "cha_2d_icon_00211",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "人間が主に登場する。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 7
+        },
+        {
+          "title": "第4戦",
+          "strength": 55,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 160,
+          "eneset_id": 3320104,
+          "icon": "cha_2d_icon_07206_tower",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 8,
+            "idx": 0
+          },
+          "enemy_info": "年代記の塔最終戦。全力で挑んで勝利を掴もう。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "ヘリオス,80908,ヘリオス（剣なし、ノーマル）\r",
+              "ヘリオス,80910,ヘリオス（剣なし、悲しみ）_80908\r",
+              "アリーチェ,80921,アリーチェ（悲しい）_2201\r",
+              "エシャル,4201,エシャル_80963\r",
+              "セレステ,81012,セレステ（武器なし）\r",
+              "アマツ,6201,アマツ\r",
+              "フィーナ,80592,フィーナｖ３（笑顔２）\r",
+              "ピリカ,59014,ピリカｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "赫利歐斯,80910,連、連凱恩他們都被打倒了……！？,R,0,\r",
+                "愛麗婕,80921,我們明明為了獲勝<br>都進行那麼多特訓了～,L,0,\r",
+                "瑟蕾斯蒂,81012,進行那麼多特訓了～,L,0,\r",
+                "艾夏露,4201,嘿嘿嘿，跟大家一起特訓其實滿開心的！,R,0,\r",
+                "天津,6201,不過那程度的特訓<br>似乎還是對你們不管用啊……,L,0,\r",
+                "赫利歐斯,80908,真希望有一天我也能<br>看到你們見到的景色。,R,0,\r",
+                "赫利歐斯,80908,shake_v,R,0,\r",
+                "赫利歐斯,80908,我會更努力的！,R,0,\r",
+                "MulCharaOut,0,,R,0,\r",
+                "wait,0,0.5,R,0,\r",
+                "菲娜,80592,好了――歡迎來到塔頂，<br>這是只為你開放的特別景色。,R,0,\r",
+                "比利卡,59014,你可要好好欣賞喔！,L,0,\r",
+                "MulCharaOut,0,,R,0,\r",
+                "wait,0,0.5,R,0,\r",
+                "null,0,恭喜你們稱霸全部10個樓層，<br>現在歷史正寫下新的一頁。,C,0,\r",
+                "null,0,你所成就的豐功偉業，<br>一定能流傳到後世吧……,C,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 8
+        }
+      ]
+    },
+    {
+      "floor_id": 151,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 12,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 75,
+          "eneset_id": 3320041,
+          "icon": "cha_2d_icon_04224",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 2
+          },
+          "enemy_info": "主要登場敵人為蜥蜴戰士及弓箭手。蜥蜴人對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 50
+          },
+          "point_list": [],
+          "wave": 3
+        },
+        {
+          "title": "第2戰",
+          "strength": 14,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 85,
+          "eneset_id": 3320042,
+          "icon": "cha_2d_icon_04294",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 4
+          },
+          "enemy_info": "主要登場敵人為火精靈及人偶，須注意人偶的緩速攻擊，火精靈及人偶對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 50
+          },
+          "point_list": [],
+          "wave": 5
+        }
+      ]
+    },
+    {
+      "floor_id": 147,
+      "floor_reward": {
+        "type": "item",
+        "id": 13,
+        "val": 100
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 40,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 120,
+          "eneset_id": 3320081,
+          "icon": "cha_2d_icon_07212",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 4
+          },
+          "enemy_info": "主要登場敵人為螃蟹怪及水母怪，螃蟹怪對物理攻擊耐性較高，水母怪則對魔法攻擊耐性較高。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 40,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 120,
+          "eneset_id": 3320082,
+          "icon": "cha_2d_icon_09223",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為獸人及山豬，山豬帶有多重防護罩，因此連續攻擊較能發揮效果。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 3
+        },
+        {
+          "title": "第3戰",
+          "strength": 45,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 130,
+          "eneset_id": 3320083,
+          "icon": "cha_2d_icon_11216",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為人類及監獄蜘蛛，需特別注意監獄蜘蛛的衰弱攻擊，監獄蜘蛛對打／拳武器耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "リーア,11216,リーアｖ２\r",
+              "バルトロ,7211,バルトロｖ２\r",
+              "ミラ,7212,ミラｖ２\r",
+              "キララネ,9223,キララネｖ２\r",
+              "ホルスト,11220,ホルストｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "莉亞,11216,蜜拉、巴爾托羅、奇拉拉涅和霍爾斯特<br>明明都很強的……,R,0,\r",
+                "莉亞,11216,但你卻比他們更強對吧？,R,0,\r",
+                "巴爾托羅,7211,真是的，竟然能躲過我愛銃的攻擊<br>和蜜拉的高速射擊擊敗我們。,L,0,\r",
+                "蜜拉,7212,你們……還真是不得了的傢伙們啊。,R,0,\r",
+                "奇拉拉涅,9223,雖然只有真正的強者才能踏上這座塔頂，<br>但如果是你的話說不定就能辦到。,L,0,\r",
+                "霍爾斯特,11220,不，我想你們一定會辦到的，<br>就憑你那強韌的意志和實力。,R,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 4
+        }
+      ]
+    },
+    {
+      "floor_id": 155,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 3
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 40,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 120,
+          "eneset_id": 3320081,
+          "icon": "cha_2d_icon_07212",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 4
+          },
+          "enemy_info": "主要登場敵人為螃蟹怪及水母怪，螃蟹怪對物理攻擊耐性較高，水母怪則對魔法攻擊耐性較高。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 150
+          },
+          "point_list": [],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 40,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 120,
+          "eneset_id": 3320082,
+          "icon": "cha_2d_icon_09223",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為獸人及山豬，山豬帶有多重防護罩，因此連續攻擊較能發揮效果。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 150
+          },
+          "point_list": [],
+          "wave": 3
+        },
+        {
+          "title": "第3戰",
+          "strength": 45,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 130,
+          "eneset_id": 3320083,
+          "icon": "cha_2d_icon_11216",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為人類及監獄蜘蛛，需特別注意監獄蜘蛛的衰弱攻擊，監獄蜘蛛對打／拳武器耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 150
+          },
+          "point_list": [],
+          "wave": 4
+        }
+      ]
+    },
+    {
+      "floor_id": 148,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 48,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 140,
+          "eneset_id": 3320091,
+          "icon": "cha_2d_icon_10032",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為薄命之民及刀刃鳥，刀刃鳥對刺類型武器耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 48,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 140,
+          "eneset_id": 3320092,
+          "icon": "cha_2d_icon_12213",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為人類及機械，機械對弓／銃／狙類型武器耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第3戰",
+          "strength": 50,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 150,
+          "eneset_id": 3320093,
+          "icon": "cha_2d_icon_13201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "リヴェラ,13201,リヴェラｖ２\r",
+              "リン,10032,リン\r",
+              "フェーベ,12224,フェーベｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "莉貝菈,13201,――竟然輸了啊。,R,0,\r",
+                "琳,10032,真是千鈞一髮的對決……<br>他為什麼能像這樣戰鬥啊？,L,0,\r",
+                "莉貝菈,13201,因為他累積經驗、磨練感官，<br>每一刻都賭上所有而戰吧……,R,0,\r",
+                "莉貝菈,13201,這是能展現你理念的一戰，<br>塔頂眼看就要到了――,R,0,\r",
+                "菲貝,12224,我相信你們一定能平安抵達，<br>而且能翱翔到任何地方！,L,0,\r",
+                "菲貝,12224,shake_v,L,0,\r",
+                "菲貝,12224,所以要加油喔！"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 7
+        }
+      ]
+    },
+    {
+      "floor_id": 156,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 3
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 48,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 140,
+          "eneset_id": 3320091,
+          "icon": "cha_2d_icon_10032",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為薄命之民及刀刃鳥，刀刃鳥對刺類型武器耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 200
+          },
+          "point_list": [],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 48,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 140,
+          "eneset_id": 3320092,
+          "icon": "cha_2d_icon_12213",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為人類及機械，機械對弓／銃／狙類型武器耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 200
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第3戰",
+          "strength": 50,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 150,
+          "eneset_id": 3320093,
+          "icon": "cha_2d_icon_13201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 200
+          },
+          "point_list": [],
+          "wave": 7
+        }
+      ]
+    },
+    {
+      "floor_id": 140,
+      "floor_reward": {
+        "type": "item",
+        "id": 2001,
+        "val": 10
+      },
+      "quest_list": [
+        {
+          "title": "第1戰",
+          "strength": 2,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 15,
+          "eneset_id": 3320011,
+          "icon": "cha_2d_icon_00003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為骷髏兵戰士及魔法師。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "シルヴァ,3,シルヴァ\r",
+              "セリーヌ,2,セリーヌ\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "席爾瓦,3,我說你們……還是一樣了不起啊，<br>竟然能像這樣接二連三的擊退我們……,R,0,\r",
+                "塞莉蓮,2,真厲害呢。看你們的戰法……<br>應該經過非常深厚的鑽研吧。,L,0,\r",
+                "席爾瓦,3,不過……下次我們絕對不會輸的！<br>讓你們見識戰士公會的志氣！,R,0,\r",
+                "塞莉蓮,2,如果還有機會希望還能跟你們交手，<br>在跟你們交戰時……,L,0,\r",
+                "塞莉蓮,2,能夠忘記立場以一名戰士身分<br>奮戰……實在讓人相當的開心。,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 3
+        }
+      ]
+    },
+    {
+      "floor_id": 141,
+      "floor_reward": {
+        "type": "item",
+        "id": 2007,
+        "val": 3
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 3,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 30,
+          "eneset_id": 3320021,
+          "icon": "cha_2d_icon_00224",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為人類戰士及騎士。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "リリス,1213,リリスｖ２\r",
+              "テレサ,224,テレサｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "莉莉絲,1213,……真是太了不起了，<br>明明擁有如此強大的力量……,R,0,\r",
+                "莉莉絲,1213,卻還是無私行善的高潔靈魂，<br>依然維持著原本的光輝在你體內燃燒著。,R,0,\r",
+                "泰蕾莎,224,是啊……<br>這樣應該能提名為劍聖候補了吧？,L,0,\r",
+                "泰蕾莎,224,shake_v,L,0,\r",
+                "泰蕾莎,224,就連那愛因斯羅特，如果有了像你這樣的好敵手，<br>應該也會變得更有幹勁吧♪,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 3
+        }
+      ]
+    },
+    {
+      "floor_id": 144,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 20,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 95,
+          "eneset_id": 3320051,
+          "icon": "cha_2d_icon_05276",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為樹妖，樹妖對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 25,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 100,
+          "eneset_id": 3320052,
+          "icon": "cha_2d_icon_05275",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為樹妖，注意地形變化，樹妖對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "ビエンタ,5227,ビエンタｖ３\r",
+              "バリエナ,5211,バリエナｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "琵恩塔,5227,連老爸都被幹掉了嗎，<br>看來這不是僥倖，你們的實力是貨真價實的。,R,0,\r",
+                "芭里安娜,5211,沒想到在人族短暫的生涯中，<br>竟能累積如此雄厚的實力……,L,0,\r",
+                "芭里安娜,5211,你應該經過了非常嚴苛的修練吧。,L,0,\r",
+                "芭里安娜,5211,如果是你的話，應該就能和<br>接下來出現的強敵們一戰吧。,L,0,\r",
+                "琵恩塔,5227,加油啊！<br>我們也會在背後為你們加油的！,R,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 5
+        }
+      ]
+    },
+    {
+      "floor_id": 145,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 30,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 105,
+          "eneset_id": 3320061,
+          "icon": "cha_2d_icon_06251",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為鬼族，鬼族對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 30,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 105,
+          "eneset_id": 3320062,
+          "icon": "cha_2d_icon_06280",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為鬼族，鬼族對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第3戰",
+          "strength": 35,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 110,
+          "eneset_id": 3320063,
+          "icon": "cha_2d_icon_06222",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為鬼族。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "ズイハ,6290,ズイハｖ２\r",
+              "ミシマ,6251,ミシマｖ２\r",
+              "ツル姫,6280,ツル姫ｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "鶴姬,6280,真沒想到你們連<br>修札和良次都能打倒！,R,0,\r",
+                "鶴姬,6280,shake_h,R,0,\r",
+                "鶴姬,6280,呵呵，如果這是大宰御前比武，<br>雇用你們的領地可就出人頭地啦！,R,0,\r",
+                "瑞羽,6290,真想得到你們的力量，無論得用什麼手段……,L,0,\r",
+                "三島,6251,哈哈哈！<br>你們還是趁沒被毒蜘蛛抓到前先走吧。,R,0,\r",
+                "三島,6251,真是漂亮的戰鬥！<br>就像這樣完成自己的野心吧！,R,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 6
+        }
+      ]
+    },
+    {
+      "floor_id": 146,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 35,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 110,
+          "eneset_id": 3320071,
+          "icon": "cha_2d_icon_07507",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士，黑之兵士對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 35,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 110,
+          "eneset_id": 3320072,
+          "icon": "cha_2d_icon_07508",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士，黑之兵士對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第3戰",
+          "strength": 40,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 120,
+          "eneset_id": 3320073,
+          "icon": "cha_2d_icon_07108",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "エイレヌス,7507,エイレヌス\r",
+              "黒騎士,7508,黒騎士\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "艾雷努斯,7507,唉～大家狀況明明都很好，<br>但還是被你打敗啦。,L,0,\r",
+                "黑騎士,7508,……去吧。,R,0,\r",
+                "艾雷努斯,7507,是啊，你們就去被上面的傢伙們<br>好好折磨一頓吧。,L,0,\r",
+                "艾雷努斯,7507,然後如果絕望的話就再回來吧，<br>我會讓你們墮入黑暗解放一切的♪,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 6
+        }
+      ]
+    },
+    {
+      "floor_id": 153,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 2
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 30,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 105,
+          "eneset_id": 3320061,
+          "icon": "cha_2d_icon_06251",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為鬼族，鬼族對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 30,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 105,
+          "eneset_id": 3320062,
+          "icon": "cha_2d_icon_06280",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為鬼族，鬼族對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第3戰",
+          "strength": 35,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 110,
+          "eneset_id": 3320063,
+          "icon": "cha_2d_icon_06222",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為鬼族。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 6
+        }
+      ]
+    },
+    {
+      "floor_id": 154,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 2
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 35,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 110,
+          "eneset_id": 3320071,
+          "icon": "cha_2d_icon_07507",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士，黑之兵士對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 125
+          },
+          "point_list": [],
+          "wave": 5
+        },
+        {
+          "title": "第2戰",
+          "strength": 35,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 110,
+          "eneset_id": 3320072,
+          "icon": "cha_2d_icon_07508",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士，黑之兵士對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 125
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第3戰",
+          "strength": 40,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 120,
+          "eneset_id": 3320073,
+          "icon": "cha_2d_icon_07108",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為黑之兵士。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 125
+          },
+          "point_list": [],
+          "wave": 6
+        }
+      ]
+    },
+    {
+      "floor_id": 152,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 2
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 20,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 95,
+          "eneset_id": 3320051,
+          "icon": "cha_2d_icon_05276",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為樹妖，樹妖對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 75
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 25,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 100,
+          "eneset_id": 3320052,
+          "icon": "cha_2d_icon_05275",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為樹妖，注意地形變化，樹妖對炎屬性攻擊耐性較低。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 75
+          },
+          "point_list": [],
+          "wave": 5
+        }
+      ]
+    },
+    {
+      "floor_id": 142,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 7,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 50,
+          "eneset_id": 3320031,
+          "icon": "cha_2d_icon_02003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為魔像，魔像對物理攻擊抵抗力極佳。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 10,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 65,
+          "eneset_id": 3320032,
+          "icon": "cha_2d_icon_03222",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為土妖精戰士及弓箭手。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "メルティオール,2002,メルティオール\r",
+              "ディルマ,2001,ディルマ\r",
+              "ファティマ,2003,ファティマ\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "梅魯提歐魯,2002,沒想到繼我們之後，<br>連迷宮山脈的族長們都被你們擊退啦！,R,0,\r",
+                "梅魯提歐魯,2002,shake_v,R,0,\r",
+                "梅魯提歐魯,2002,你們身上到底蘊藏了什麼秘密呢？<br>好，就讓我來仔細的調查你們的身體――,R,0,\r",
+                "蒂爾瑪,2001,快住手。,L,0,\r",
+                "法帝瑪,2003,給我閉嘴。,L,0,\r",
+                "se,0,SE_MAGIC_SHOT_01,C,0,\r",
+                "atk,0,magic1,R,0,\r",
+                "wait,0,0.5,R,0,\r",
+                "se,0,SE_MAGIC_HIT_01,R,0,\r",
+                "atk,0,strike,R,0,\r",
+                "wait,0,0.1,L,0,\r",
+                "梅魯提歐魯,2002,fast_slide_r,R,0,\r",
+                "梅魯提歐魯,2002,out,R,0,\r",
+                "wait,0,0.3,L,0,\r",
+                "梅魯提歐魯,2002,hide,C,0,\r",
+                "梅魯提歐魯,2002,……………！！,C,0,\r",
+                "蒂爾瑪,2001,你們的生命光輝，<br>應該能夠成為驅除覆蓋世界黑暗的光輝吧。,R,0,\r",
+                "法帝瑪,2003,你們就好好磨練自己，<br>別讓這光芒消散了。,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 4
+        }
+      ]
+    },
+    {
+      "floor_id": 150,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 7,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 50,
+          "eneset_id": 3320031,
+          "icon": "cha_2d_icon_02003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "主要登場敵人為魔像，魔像對物理攻擊抵抗力極佳。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 25
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 10,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 65,
+          "eneset_id": 3320032,
+          "icon": "cha_2d_icon_03222",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要登場敵人為土妖精戰士及弓箭手。",
+          "reward": {
+            "type": "item",
+            "id": 20,
+            "val": 25
+          },
+          "point_list": [],
+          "wave": 4
+        }
+      ]
+    },
+    {
+      "floor_id": 143,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 12,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 75,
+          "eneset_id": 3320041,
+          "icon": "cha_2d_icon_04224",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 2
+          },
+          "enemy_info": "主要登場敵人為蜥蜴戰士及弓箭手。蜥蜴人對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 3
+        },
+        {
+          "title": "第2戰",
+          "strength": 14,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 85,
+          "eneset_id": 3320042,
+          "icon": "cha_2d_icon_04294",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 4
+          },
+          "enemy_info": "主要登場敵人為火精靈及人偶，須注意人偶的緩速攻擊，火精靈及人偶對冰屬性攻擊耐性較低。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 20,
+              "rate": 70
+            },
+            {
+              "point": 100,
+              "rate": 25
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "アシュリナ,4294,アシュリナｖ２\r",
+              "ファラ,4296,ファラｖ２\r",
+              "ムジカ,4224,ムジカｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "亞瑟莉娜,4294,原來如此，你們厲害的不是只有戰鬥力，<br>還有過人的戰術判斷嗎――,R,0,\r",
+                "法菈,4296,雖然身為主宰湖都軍部的負責人，<br>實在是非常想要像你這樣的人才……,L,0,\r",
+                "亞瑟莉娜,4294,不過，你並不是會一直<br>駐足於同一個國家的人吧。,R,0,\r",
+                "穆西卡,4224,……既然這樣，現在就由我來<br>演唱讚揚勇者勝利的讚歌吧。,C,0,\r",
+                "穆西卡,4224,為了讓在荒野中行進的人<br>也能抱持自信前進――,C,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 5
+        }
+      ]
+    },
     {
       "floor_id": 1,
       "floor_reward": {
@@ -6134,60 +7908,6 @@
             }
           ],
           "wave": 6
-        }
-      ]
-    },
-    {
-      "floor_id": 27,
-      "floor_reward": {
-        "type": "item",
-        "id": 1031,
-        "val": 1
-      },
-      "quest_list": [
-        {
-          "title": "第1戰",
-          "strength": 3,
-          "bg": 144,
-          "bgm": 16,
-          "difficulty": 30,
-          "eneset_id": 3510041,
-          "icon": "cha_2d_icon_04224",
-          "bt_mana": 2,
-          "drop_target": {
-            "wave": 4,
-            "idx": 0
-          },
-          "enemy_info": "主要出場的是蜥蜴人騎士與弓手。打倒彩虹布偶可以獲得法珠。全敵人弱點是冰屬性攻擊。",
-          "reward": {
-            "type": "item",
-            "id": 1001,
-            "val": 1
-          },
-          "point_list": [],
-          "wave": 4
-        },
-        {
-          "title": "第2戰",
-          "strength": 5,
-          "bg": 144,
-          "bgm": 16,
-          "difficulty": 40,
-          "eneset_id": 3510042,
-          "icon": "cha_2d_icon_04001",
-          "bt_mana": 2,
-          "drop_target": {
-            "wave": 5,
-            "idx": 0
-          },
-          "enemy_info": "主要出場的是哥布林戰士與魔法師。",
-          "reward": {
-            "type": "item",
-            "id": 39,
-            "val": 2
-          },
-          "point_list": [],
-          "wave": 5
         }
       ]
     },
@@ -7342,6 +9062,60 @@
       ]
     },
     {
+      "floor_id": 26,
+      "floor_reward": {
+        "type": "item",
+        "id": 1034,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戰",
+          "strength": 2,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 20,
+          "eneset_id": 3510031,
+          "icon": "cha_2d_icon_02003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要出場的是布偶與鬼魂。要注意布偶的毒攻擊。打倒彩虹布偶可以獲得法珠。",
+          "reward": {
+            "type": "item",
+            "id": 1006,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 2.5,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 25,
+          "eneset_id": 3510032,
+          "icon": "cha_2d_icon_03002",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要出場的是土妖精戰士與弓手",
+          "reward": {
+            "type": "item",
+            "id": 39,
+            "val": 2
+          },
+          "point_list": [],
+          "wave": 5
+        }
+      ]
+    },
+    {
       "floor_id": 14,
       "floor_reward": {
         "type": "item",
@@ -7873,60 +9647,6 @@
               1
             ]
           },
-          "wave": 5
-        }
-      ]
-    },
-    {
-      "floor_id": 26,
-      "floor_reward": {
-        "type": "item",
-        "id": 1034,
-        "val": 1
-      },
-      "quest_list": [
-        {
-          "title": "第1戰",
-          "strength": 2,
-          "bg": 144,
-          "bgm": 16,
-          "difficulty": 20,
-          "eneset_id": 3510031,
-          "icon": "cha_2d_icon_02003",
-          "bt_mana": 2,
-          "drop_target": {
-            "wave": 4,
-            "idx": 0
-          },
-          "enemy_info": "主要出場的是布偶與鬼魂。要注意布偶的毒攻擊。打倒彩虹布偶可以獲得法珠。",
-          "reward": {
-            "type": "item",
-            "id": 1006,
-            "val": 1
-          },
-          "point_list": [],
-          "wave": 4
-        },
-        {
-          "title": "第2戰",
-          "strength": 2.5,
-          "bg": 144,
-          "bgm": 16,
-          "difficulty": 25,
-          "eneset_id": 3510032,
-          "icon": "cha_2d_icon_03002",
-          "bt_mana": 2,
-          "drop_target": {
-            "wave": 5,
-            "idx": 0
-          },
-          "enemy_info": "主要出場的是土妖精戰士與弓手",
-          "reward": {
-            "type": "item",
-            "id": 39,
-            "val": 2
-          },
-          "point_list": [],
           "wave": 5
         }
       ]
@@ -8860,6 +10580,60 @@
             ]
           },
           "wave": 8
+        }
+      ]
+    },
+    {
+      "floor_id": 27,
+      "floor_reward": {
+        "type": "item",
+        "id": 1031,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戰",
+          "strength": 3,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 30,
+          "eneset_id": 3510041,
+          "icon": "cha_2d_icon_04224",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要出場的是蜥蜴人騎士與弓手。打倒彩虹布偶可以獲得法珠。全敵人弱點是冰屬性攻擊。",
+          "reward": {
+            "type": "item",
+            "id": 1001,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 5,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 40,
+          "eneset_id": 3510042,
+          "icon": "cha_2d_icon_04001",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要出場的是哥布林戰士與魔法師。",
+          "reward": {
+            "type": "item",
+            "id": 39,
+            "val": 2
+          },
+          "point_list": [],
+          "wave": 5
         }
       ]
     },
@@ -13832,60 +15606,6 @@
       ]
     },
     {
-      "floor_id": 90,
-      "floor_reward": {
-        "type": "item",
-        "id": 1015,
-        "val": 1
-      },
-      "quest_list": [
-        {
-          "title": "第1戰",
-          "strength": 2,
-          "bg": 144,
-          "bgm": 16,
-          "difficulty": 20,
-          "eneset_id": 3510031,
-          "icon": "cha_2d_icon_02003",
-          "bt_mana": 2,
-          "drop_target": {
-            "wave": 4,
-            "idx": 0
-          },
-          "enemy_info": "主要出場的是布偶與鬼魂。要注意布偶的毒攻擊。打倒彩虹布偶可以獲得法珠。",
-          "reward": {
-            "type": "item",
-            "id": 1015,
-            "val": 1
-          },
-          "point_list": [],
-          "wave": 4
-        },
-        {
-          "title": "第2戰",
-          "strength": 2.5,
-          "bg": 144,
-          "bgm": 16,
-          "difficulty": 25,
-          "eneset_id": 3510032,
-          "icon": "cha_2d_icon_03002",
-          "bt_mana": 2,
-          "drop_target": {
-            "wave": 5,
-            "idx": 0
-          },
-          "enemy_info": "主要出場的是土妖精戰士與弓手",
-          "reward": {
-            "type": "item",
-            "id": 39,
-            "val": 2
-          },
-          "point_list": [],
-          "wave": 5
-        }
-      ]
-    },
-    {
       "floor_id": 81,
       "floor_reward": {
         "type": "item",
@@ -14798,6 +16518,60 @@
             ]
           },
           "wave": 7
+        }
+      ]
+    },
+    {
+      "floor_id": 90,
+      "floor_reward": {
+        "type": "item",
+        "id": 1015,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戰",
+          "strength": 2,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 20,
+          "eneset_id": 3510031,
+          "icon": "cha_2d_icon_02003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "主要出場的是布偶與鬼魂。要注意布偶的毒攻擊。打倒彩虹布偶可以獲得法珠。",
+          "reward": {
+            "type": "item",
+            "id": 1015,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 4
+        },
+        {
+          "title": "第2戰",
+          "strength": 2.5,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 25,
+          "eneset_id": 3510032,
+          "icon": "cha_2d_icon_03002",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "主要出場的是土妖精戰士與弓手",
+          "reward": {
+            "type": "item",
+            "id": 39,
+            "val": 2
+          },
+          "point_list": [],
+          "wave": 5
         }
       ]
     },
@@ -17179,7 +18953,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -17314,7 +19088,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -17791,7 +19565,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -17926,7 +19700,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -18403,7 +20177,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -18538,7 +20312,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -19015,7 +20789,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -19150,7 +20924,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -19627,7 +21401,7 @@
             "wave": 6,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,
@@ -19762,7 +21536,7 @@
             "wave": 7,
             "idx": 0
           },
-          "enemy_info": "黒の兵士が主に登場する。",
+          "enemy_info": "主要登場敵人為黑之兵士。",
           "reward": {
             "type": "stone",
             "id": 0,

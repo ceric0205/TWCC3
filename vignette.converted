@@ -1,5 +1,5 @@
 {
-  "deceive": 1596099498,
+  "deceive": 1597316108,
   "vignette": [
     {
       "cid": 7015,
@@ -18,6 +18,24 @@
       "v_category": "explorer"
     },
     {
+      "cid": 1283,
+      "v_motionid": 2,
+      "bg": 1,
+      "memo": "不管到哪裡都放暑假！",
+      "start": 1550124000,
+      "end": 1598508000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1036,
+        "place_id": 0
+      },
+      "priority": 100,
+      "min_rank": 1,
+      "max_rank": 270,
+      "v_category": "cover",
+      "event_area_name": null
+    },
+    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -34,39 +52,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4224,
+      "cid": 322,
       "v_motionid": 2,
-      "bg": 21,
-      "memo": "聽我唱歌吧！",
+      "bg": 2,
+      "memo": "感謝您的點餐～！！",
       "start": 1522918800,
-      "end": 1596693600,
+      "end": 1597903200,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
-        "gacha_id": 2
+        "gacha_id": 1
       },
-      "priority": 35,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "legend",
-      "event_area_name": null
-    },
-    {
-      "cid": 7654,
-      "v_motionid": 0,
-      "bg": 5100,
-      "memo": "是對是錯由我決定！",
-      "start": 1585724400,
-      "end": 1597284000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 20,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
       "event_area_name": null
     },
     {
