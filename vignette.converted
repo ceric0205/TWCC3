@@ -1,5 +1,5 @@
 {
-  "deceive": 1597316108,
+  "deceive": 1597913904,
   "vignette": [
     {
       "cid": 7015,
@@ -52,12 +52,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 322,
+      "cid": 4300,
       "v_motionid": 2,
       "bg": 2,
-      "memo": "感謝您的點餐～！！",
+      "memo": "今天也同樣要盡情享樂唷！！",
       "start": 1522918800,
-      "end": 1597903200,
+      "end": 1598508000,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
