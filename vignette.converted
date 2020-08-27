@@ -1,5 +1,5 @@
 {
-  "deceive": 1597913904,
+  "deceive": 1598520541,
   "vignette": [
     {
       "cid": 7015,
@@ -18,24 +18,6 @@
       "v_category": "explorer"
     },
     {
-      "cid": 1283,
-      "v_motionid": 2,
-      "bg": 1,
-      "memo": "不管到哪裡都放暑假！",
-      "start": 1550124000,
-      "end": 1598508000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1036,
-        "place_id": 0
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 270,
-      "v_category": "cover",
-      "event_area_name": null
-    },
-    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -52,21 +34,39 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4300,
+      "cid": 5227,
       "v_motionid": 2,
-      "bg": 2,
-      "memo": "今天也同樣要盡情享樂唷！！",
+      "bg": 31,
+      "memo": "作戰．突擊",
       "start": 1522918800,
-      "end": 1598508000,
+      "end": 1599112800,
       "link": "unity:GoGacha",
       "param": {
         "type": "legend",
-        "gacha_id": 1
+        "gacha_id": 2
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "legend",
+      "event_area_name": null
+    },
+    {
+      "cid": 7683,
+      "v_motionid": 2,
+      "bg": 61,
+      "memo": "夏天的我可是完全防水的♪",
+      "start": 1522918800,
+      "end": 1599717600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1037,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "mopup",
       "event_area_name": null
     },
     {

@@ -1,34 +1,27 @@
 {
-  "deceive": 1597913920,
+  "deceive": 1598520550,
   "cover_info": [
     {
-      "cover_id": 34,
+      "cover_id": 35,
+      "meta_quest_list": [],
       "sp_cards": [
         {
-          "cid": "265",
+          "cid": "5296",
           "skillid": 38000001
         },
         {
-          "cid": "295",
+          "cid": "6305",
           "skillid": 38000001
         },
         {
-          "cid": "1283",
-          "skillid": 38000002,
-          "pointid": 0
+          "cid": "7683",
+          "skillid": 38000001,
+          "pointid": 2
         },
         {
-          "cid": "2282",
-          "skillid": 38000001
-        },
-        {
-          "cid": "6275",
-          "skillid": 38000001
-        },
-        {
-          "cid": "13214",
-          "skillid": 38000002,
-          "pointid": 0
+          "cid": "12231",
+          "skillid": 38000001,
+          "pointid": 1
         }
       ]
     }
