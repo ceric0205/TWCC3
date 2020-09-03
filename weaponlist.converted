@@ -1,5 +1,5 @@
 {
-  "deceive": 1597316117,
+  "deceive": 1599126237,
   "weaponlist": [
     {
       "id": 1,
@@ -13868,7 +13868,7 @@
     },
     {
       "id": 85099,
-      "name": "凱撒大斧",
+      "name": "剪刀斧",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -33808,7 +33808,7 @@
     {
       "evol_dst": 85099,
       "id": 85099,
-      "name": "凱撒大斧",
+      "name": "剪刀斧",
       "profile": "Vitaからもらったハサミ",
       "rank_limit": 2,
       "rarity": 4,

@@ -1,5 +1,5 @@
 {
-  "deceive": 1598520541,
+  "deceive": 1599125201,
   "vignette": [
     {
       "cid": 7015,
@@ -34,21 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 5227,
+      "cid": 12231,
       "v_motionid": 2,
-      "bg": 31,
-      "memo": "作戰．突擊",
+      "bg": 61,
+      "memo": "別以為是水槍我就贏不了你",
       "start": 1522918800,
-      "end": 1599112800,
+      "end": 1599717600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
-        "gacha_id": 2
+        "type": "event",
+        "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "legend",
+      "v_category": "gacha",
       "event_area_name": null
     },
     {
