@@ -1,5 +1,5 @@
 {
-  "deceive": 1599125201,
+  "deceive": 1599731604,
   "vignette": [
     {
       "cid": 7015,
@@ -34,16 +34,16 @@
       "v_category": "favorite"
     },
     {
-      "cid": 12231,
-      "v_motionid": 2,
-      "bg": 61,
-      "memo": "別以為是水槍我就贏不了你",
+      "cid": 8327,
+      "v_motionid": 0,
+      "bg": 11,
+      "memo": "烈焰！",
       "start": 1522918800,
-      "end": 1599717600,
+      "end": 1600927200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
-        "gacha_id": 1
+        "gacha_id": 2
       },
       "priority": 50,
       "min_rank": 1,
@@ -52,22 +52,40 @@
       "event_area_name": null
     },
     {
-      "cid": 7683,
-      "v_motionid": 2,
-      "bg": 61,
-      "memo": "夏天的我可是完全防水的♪",
+      "cid": 8328,
+      "v_motionid": 0,
+      "bg": 11,
+      "memo": "火焰！。",
       "start": 1522918800,
-      "end": 1599717600,
+      "end": 1600927200,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 1037,
-        "place_id": 0
+        "area_id": 201,
+        "place_id": 1
+      },
+      "priority": 40,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "event_1",
+      "event_area_name": 108
+    },
+    {
+      "cid": 8329,
+      "v_motionid": 0,
+      "bg": 11,
+      "memo": "正弦！。",
+      "start": 1600326000,
+      "end": 1600927200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 201,
+        "place_id": 1
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "mopup",
-      "event_area_name": null
+      "v_category": "event_2",
+      "event_area_name": 109
     },
     {
       "cid": 3,

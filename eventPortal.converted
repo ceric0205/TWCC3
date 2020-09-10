@@ -1,5 +1,5 @@
 {
-  "deceive": 1599125196,
+  "deceive": 1599731589,
   "event_portal": [
     {
       "_id": 0,
@@ -8,44 +8,53 @@
           "banner": [
             {
               "start": 1535594400,
-              "end": 1535594399,
-              "priority": 0,
-              "name": "WeeklyQuest.jpg",
+              "end": 1600927199,
+              "priority": 1,
+              "name": "190919_PuyoQuest_01.jpg",
               "url": "",
               "type": "CollaboArea",
               "place_id": 1,
               "area_id": 201,
-              "tab_id": 103,
-              "info_url": "/web/event/180821_P3_package.html?v=6909514"
+              "tab_id": 108,
+              "info_url": ""
             },
             {
               "start": 1535594400,
-              "end": 1535594399,
-              "priority": 1,
-              "name": "180821_P3Fes_02.jpg",
+              "end": 1600927199,
+              "priority": 2,
+              "name": "190919_PuyoFes_01.jpg",
               "url": "",
               "type": "PremiumGacha",
-              "gacha_type": "story",
-              "gacha_id": 1,
-              "info_url": "/web/event/180821_P3_Fes.html?v=5464706"
+              "gacha_type": "event",
+              "gacha_id": 2,
+              "info_url": ""
+            },
+            {
+              "start": 1579744800,
+              "end": 1600927199,
+              "priority": 0,
+              "name": "190919_PuyoWeapon_01.jpg",
+              "url": "",
+              "type": "Alchemy",
+              "info_url": ""
             }
           ],
-          "icon": "Portal_Icon_Collabo_03",
+          "icon": "Portal_Icon_Collabo_09",
           "img": [
             {
               "start": 1535594400,
-              "end": 1535594399,
-              "chara": "cha_2d_whole_08257"
+              "end": 1600927199,
+              "chara": "cha_2d_whole_08326"
             }
           ],
           "url": "",
-          "end": 1535594399,
+          "end": 1600927199,
           "start": 1535594400,
           "priority": 20,
           "category": "collabo_1"
         }
       ],
-      "timestamp": "1545884315000"
+      "timestamp": "1599707533000"
     },
     {
       "_id": 1,
@@ -75,7 +84,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=7250161"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=8883478"
             },
             {
               "start": 1535162400,
@@ -86,7 +95,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=7708189"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=6862364"
             }
           ]
         }
@@ -219,13 +228,13 @@
           "icon": "Portal_Icon_Sortie_00",
           "img": [
             {
-              "start": 1597507200,
-              "end": 1598889599,
-              "chara": "cha_2d_whole_00237"
+              "start": 1600185600,
+              "end": 1640966399,
+              "chara": "cha_2d_whole_00285"
             },
             {
               "start": 1598889600,
-              "end": 1640966399,
+              "end": 1600185599,
               "chara": "cha_2d_whole_04238"
             }
           ],
@@ -236,7 +245,7 @@
           "category": "sortie"
         }
       ],
-      "timestamp": "1598431639000"
+      "timestamp": "1599720576000"
     },
     {
       "_id": 6,
@@ -542,16 +551,22 @@
               "end": 1599717599,
               "chara": "cha_2d_whole_04208",
               "bg_img": "TownBG_6009"
-            },
-            {
-              "start": 1536026400,
-              "end": 1591855199,
-              "chara": "cha_2d_whole_02302",
-              "bg_img": "TownBG_6009"
             }
           ],
           "icon": "Portal_Icon_Event_00",
           "banner": [
+            {
+              "start": 1542693600,
+              "end": -1,
+              "priority": 1,
+              "name": "CollaboCharaQuest.jpg",
+              "url": "",
+              "type": "EventArea",
+              "place_id": 1,
+              "area_id": 36,
+              "tab_id": 99,
+              "info_url": ""
+            },
             {
               "start": 1535421600,
               "end": 1597283999,
@@ -683,7 +698,7 @@
           ]
         }
       ],
-      "timestamp": "1599101678000"
+      "timestamp": "1599726772000"
     },
     {
       "_id": 7,

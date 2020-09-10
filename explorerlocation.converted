@@ -1,5 +1,5 @@
 {
-  "deceive": 1597316134,
+  "deceive": 1599731621,
   "explorer_location": [
     {
       "location": 0,
@@ -2097,13 +2097,13 @@
       "location": 116,
       "name": "洞窟",
       "start": 1568858400,
-      "end": 1570067999,
-      "timestamp": "1593413530134",
+      "end": 1600927200,
+      "timestamp": "1599641303000",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
       "tab": 4,
-      "text": "因為1部2章過關\\n而開放",
+      "text": "第1部第２章通關\\n而開放",
       "img_id": "search_area_icon_e09",
       "gold": [
         {
