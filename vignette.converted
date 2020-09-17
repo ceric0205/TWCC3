@@ -1,5 +1,5 @@
 {
-  "deceive": 1599731604,
+  "deceive": 1600333237,
   "vignette": [
     {
       "cid": 7015,
@@ -34,21 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 8327,
+      "cid": 9217,
       "v_motionid": 0,
-      "bg": 11,
-      "memo": "烈焰！",
+      "bg": 5271,
+      "memo": "有些東西……要保持距離才看得到！",
       "start": 1522918800,
       "end": 1600927200,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 2
+        "type": "legend",
+        "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "gacha",
+      "v_category": "legend",
       "event_area_name": null
     },
     {

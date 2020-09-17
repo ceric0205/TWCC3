@@ -1,5 +1,5 @@
 {
-  "deceive": 1599731589,
+  "deceive": 1600333217,
   "event_portal": [
     {
       "_id": 0,
@@ -84,7 +84,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=8883478"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=4947796"
             },
             {
               "start": 1535162400,
@@ -95,7 +95,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=6862364"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=6452305"
             }
           ]
         }
@@ -290,10 +290,10 @@
           "kind": "guild",
           "banner": [
             {
-              "start": 1598544000,
-              "end": 1599148799,
+              "start": 1600358400,
+              "end": 1600963199,
               "priority": 0,
-              "name": "BN_20200820_6.jpg",
+              "name": "190919_PuyoTotalwar_01.jpg",
               "url": "",
               "type": "TotalWar",
               "info_url": ""
@@ -311,14 +311,14 @@
           "icon": "Portal_Icon_Totalwar_00",
           "img": [
             {
-              "start": 1598544000,
-              "end": 1599148799,
-              "chara": "cha_2d_whole_07202"
+              "start": 1600358400,
+              "end": 1600963199,
+              "chara": "cha_2d_whole_08326"
             }
           ],
           "url": "",
-          "end": 1599148799,
-          "start": 1598544000,
+          "end": 1600963199,
+          "start": 1600358400,
           "priority": 0,
           "category": "game"
         },
@@ -534,7 +534,7 @@
           "category": "game"
         }
       ],
-      "timestamp": "1598430872000"
+      "timestamp": "1600323759000"
     },
     {
       "_id": 5,
