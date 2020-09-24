@@ -1,5 +1,5 @@
 {
-  "deceive": 1600333217,
+  "deceive": 1600941126,
   "event_portal": [
     {
       "_id": 0,
@@ -54,6 +54,7 @@
           "category": "collabo_1"
         }
       ],
+      "priority": 100,
       "timestamp": "1599707533000"
     },
     {
@@ -84,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=4947796"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=6739607"
             },
             {
               "start": 1535162400,
@@ -95,11 +96,12 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=6452305"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=7924016"
             }
           ]
         }
       ],
+      "priority": 90,
       "timestamp": "1545808811000"
     },
     {
@@ -109,9 +111,9 @@
           "banner": [
             {
               "start": 1535608800,
-              "end": 1598507999,
+              "end": 1601445599,
               "priority": 20,
-              "name": "BN_20200812_3.jpg",
+              "name": "BN_20200825_5.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -120,9 +122,9 @@
             },
             {
               "start": 1535608800,
-              "end": 1598507999,
+              "end": 1601445599,
               "priority": 10,
-              "name": "BN_20200812_4.jpg",
+              "name": "BN_20200825_6.jpg",
               "url": "",
               "type": "Legend1Area",
               "place_id": 1,
@@ -181,8 +183,8 @@
           "img": [
             {
               "start": 1535608800,
-              "end": 1599112799,
-              "chara": "cha_2d_whole_05227",
+              "end": 1601445599,
+              "chara": "cha_2d_whole_07671",
               "bg_img": "TownBG_6009"
             },
             {
@@ -193,13 +195,14 @@
             }
           ],
           "url": "",
-          "end": 1599112799,
+          "end": 1601445599,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
-      "timestamp": "1598430596000"
+      "priority": 80,
+      "timestamp": "1600921773000"
     },
     {
       "_id": 4,
@@ -245,6 +248,7 @@
           "category": "sortie"
         }
       ],
+      "priority": 60,
       "timestamp": "1599720576000"
     },
     {
@@ -281,7 +285,44 @@
           ]
         }
       ],
+      "priority": 40,
       "timestamp": "1594871732000"
+    },
+    {
+      "_id": 8,
+      "events": [
+        {
+          "banner": [
+            {
+              "start": 1577340000,
+              "end": -1,
+              "priority": 1,
+              "name": "BN_202009_3_1.jpg",
+              "url": "",
+              "type": "GrandSagaArea",
+              "place_id": 1,
+              "area_id": 207,
+              "tab_id": 601,
+              "info_url": ""
+            }
+          ],
+          "icon": "Portal_Icon_GrandSaga_00",
+          "img": [
+            {
+              "start": 1582250400,
+              "end": 1765951199,
+              "chara": "cha_2d_whole_07512"
+            }
+          ],
+          "url": "",
+          "end": 1765951199,
+          "start": 1577340000,
+          "priority": 0,
+          "category": "grand_saga"
+        }
+      ],
+      "priority": 30,
+      "timestamp": "1600848350000"
     },
     {
       "_id": 3,
@@ -397,9 +438,9 @@
           "banner": [
             {
               "start": 1536199200,
-              "end": 1597283999,
+              "end": 1602136799,
               "priority": 10,
-              "name": "BN_20200730_3.jpg",
+              "name": "BN_20200827_3.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "event",
@@ -418,31 +459,28 @@
               "info_url": ""
             },
             {
-              "start": 1548950400,
-              "end": 1548950399,
-              "priority": 8,
-              "name": "BN_201911_2.jpg",
-              "url": "",
-              "type": "EventArea",
-              "place_id": 1,
-              "area_id": 36,
-              "tab_id": 4,
-              "info_url": ""
-            },
-            {
               "start": 1536199200,
-              "end": 1597283999,
+              "end": 1602136799,
               "priority": 8,
-              "name": "BN_20200730_4.jpg",
+              "name": "BN_20200827_4.jpg",
               "url": "",
               "type": "RaidBoss",
               "info_url": ""
             },
             {
-              "start": 1596697200,
-              "end": 1597283999,
+              "start": 1601449200,
+              "end": 1602129599,
               "priority": 12,
-              "name": "20200730_2.jpg",
+              "name": "BN_20200827_2.jpg",
+              "url": "",
+              "type": "RaidBoss",
+              "info_url": ""
+            },
+            {
+              "start": 1602129600,
+              "end": 1602136799,
+              "priority": 12,
+              "name": "BN_20200827_2_end.jpg",
               "url": "",
               "type": "RaidBoss",
               "info_url": ""
@@ -452,12 +490,12 @@
           "img": [
             {
               "start": 1536199200,
-              "end": 1597283999,
-              "chara": "cha_2d_whole_07653"
+              "end": 1602136799,
+              "chara": "cha_2d_whole_07531"
             }
           ],
           "url": "",
-          "end": 1597283999,
+          "end": 1602136799,
           "start": 1536199200,
           "priority": 15,
           "category": "game"
@@ -528,13 +566,14 @@
             }
           ],
           "url": "",
-          "end": 1599717599,
+          "end": 1540259999,
           "start": 1540260000,
           "priority": 10,
           "category": "game"
         }
       ],
-      "timestamp": "1600323759000"
+      "priority": 70,
+      "timestamp": "1600921773000"
     },
     {
       "_id": 5,
@@ -698,6 +737,7 @@
           ]
         }
       ],
+      "priority": 50,
       "timestamp": "1599726772000"
     },
     {
@@ -838,6 +878,7 @@
           "category": "past"
         }
       ],
+      "priority": 20,
       "timestamp": "1594871732000"
     }
   ],

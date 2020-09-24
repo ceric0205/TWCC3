@@ -1,35 +1,17 @@
 {
-  "deceive": 1599731591,
+  "deceive": 1600941125,
   "event_badge": [
     {
-      "position": 2,
+      "position": 1,
       "start": 1580522400,
-      "end": 1600927200,
-      "text": "合作"
+      "end": 1601445600,
+      "text": "大成功UP"
     },
     {
-      "position": 203,
+      "position": 102,
       "start": 1580522400,
-      "end": 1600927200,
-      "text": "合作"
-    },
-    {
-      "position": 3,
-      "start": 1580522400,
-      "end": 1600927200,
-      "text": "合作"
-    },
-    {
-      "position": 4,
-      "start": 1580522400,
-      "end": 1600927200,
-      "text": "合作"
-    },
-    {
-      "position": 6,
-      "start": 1580522400,
-      "end": 1600927200,
-      "text": "合作"
+      "end": 1601445600,
+      "text": "大成功UP"
     }
   ],
   "res": 0

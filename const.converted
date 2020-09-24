@@ -143,11 +143,88 @@
           "tmp_interval": 600,
           "purchase": 1,
           "raid_item": -1,
+          "compose_up": 1,
           "review": 1
         },
         "cover": null,
-        "raid": null,
-        "totalwar": null,
+        "raid": {
+          "raid_id": 38,
+          "bg": 2000,
+          "event_start": 1573005600,
+          "event_end": 1602050400,
+          "close": 1602043200,
+          "name": "妮媞佳襲來",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "7532",
+              "skill_id": "30065",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 1,
+                "limit_break_2": 1.5,
+                "limit_break_3": 2,
+                "limit_break_4": 2.5
+              }
+            },
+            {
+              "cid": "5228",
+              "skill_id": "30065",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 1,
+                "limit_break_2": 1.5,
+                "limit_break_3": 2,
+                "limit_break_4": 2.5
+              }
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false,
+          "main_start": 1601449200,
+          "raid_area_quest": [
+            268601,
+            268602,
+            268603,
+            268604,
+            268605,
+            268606,
+            268607,
+            268608,
+            268609,
+            268610,
+            268611,
+            268612
+          ],
+          "reward_cid": 7531
+        },
+        "totalwar": {
+          "totalwar_id": 38,
+          "event_start": 1600358400,
+          "close": 1600963200,
+          "event_end": 1600963200,
+          "token_cnt_per_request": 100,
+          "banner_image": "200917_Totalwar_top",
+          "special_reward_icon": "200910_special_reward_icon",
+          "start_cnt": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "close_interval": 10,
+          "first_border_ap": 10,
+          "event_days": 8,
+          "rest_border_ap": 30,
+          "reward_cid": 8326
+        },
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -163,22 +240,22 @@
     }
   ],
   "mVer": {
-    "charainfo": 1600225004,
-    "weaponlist": 1600067654,
-    "skilllist": 1600067656,
+    "charainfo": 1600674890,
+    "weaponlist": 1600827009,
+    "skilllist": 1600674889,
     "worldinfo": 1597214379,
     "episodeinfo": 1593413538,
-    "questdigest": 1600324560,
+    "questdigest": 1600936109,
     "itemlist": 1593413532,
     "booklist": 1599709644,
     "motionlist": 1593413531,
-    "missionlist": 1599461247,
+    "missionlist": 1600740216,
     "repeatmissionlist": 1593413532,
-    "bossinfo": 1600067652,
+    "bossinfo": 1600674885,
     "battleinfo": 1593413531,
     "homelist": 1593413531,
     "runelist": 1,
-    "supporterskill": 1600067654,
+    "supporterskill": 1600674887,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1593413531,
     "explorerlocation": 1599641304,
@@ -187,7 +264,7 @@
     "weaponcomposeevent": 1599723133,
     "various": 1593413531,
     "eventplace": 1593413531,
-    "eventbadge": 1599723133,
+    "eventbadge": 1600932293,
     "denju": 1600067652,
     "questroute": 1598941865,
     "enemyinfo": 1593413531,
@@ -195,9 +272,9 @@
     "uzuinfo": 1593413531,
     "vignette": 1600323192,
     "spdrama": 1593413531,
-    "gachainfo": 1600161622,
+    "gachainfo": 1600844824,
     "questtree": 1599549575,
-    "eventareainfo": 1600161335,
+    "eventareainfo": 1600940610,
     "coverinfo": 1598508000,
     "towerinfo": 1598432035,
     "chropowerinfo": 1593413531,
@@ -207,11 +284,11 @@
     "heroicskilllist": 1599816709,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1600323760,
+    "eventPortal": 1600921774,
     "spquestinfo": 1593413531,
     "buffinfo": 1582597429,
     "totalfavor": 1593658801,
     "reload": 1500271199,
-    "servertime": 1600348022
+    "servertime": 1600945797
   }
 }

@@ -1,5 +1,5 @@
 {
-  "deceive": 1600333249,
+  "deceive": 1600941145,
   "weaponlist": [
     {
       "id": 1,
@@ -16763,7 +16763,7 @@
     },
     {
       "id": 85321,
-      "name": "果實禍銃",
+      "name": "果實的禍銃",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,
@@ -24863,7 +24863,7 @@
     },
     {
       "id": 85923,
-      "name": "看守制式剣",
+      "name": "看守制式劍",
       "type_atk": 12,
       "attackMax": 10,
       "type_cri": 21,
@@ -35907,7 +35907,7 @@
     {
       "evol_dst": 85321,
       "id": 85321,
-      "name": "果實禍銃",
+      "name": "果實的禍銃",
       "profile": "エイルニルス渦特効武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -41503,7 +41503,7 @@
     {
       "evol_dst": 85923,
       "id": 85923,
-      "name": "看守制式剣",
+      "name": "看守制式劍",
       "profile": "ユニークチャレクエ関連",
       "rank_limit": 2,
       "rarity": 4,
