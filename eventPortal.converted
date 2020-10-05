@@ -1,5 +1,5 @@
 {
-  "deceive": 1600941126,
+  "deceive": 1601459638,
   "event_portal": [
     {
       "_id": 0,
@@ -85,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=6739607"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=929292"
             },
             {
               "start": 1535162400,
@@ -96,7 +96,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=7924016"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=8637539"
             }
           ]
         }
@@ -232,13 +232,13 @@
           "img": [
             {
               "start": 1600185600,
-              "end": 1640966399,
+              "end": 1601481599,
               "chara": "cha_2d_whole_00285"
             },
             {
-              "start": 1598889600,
-              "end": 1600185599,
-              "chara": "cha_2d_whole_04238"
+              "start": 1601481600,
+              "end": 1640966399,
+              "chara": "cha_2d_whole_00237"
             }
           ],
           "url": "",
@@ -249,7 +249,7 @@
         }
       ],
       "priority": 60,
-      "timestamp": "1599720576000"
+      "timestamp": "1601434609000"
     },
     {
       "_id": 6,
@@ -587,8 +587,8 @@
           "img": [
             {
               "start": 1536199200,
-              "end": 1599717599,
-              "chara": "cha_2d_whole_04208",
+              "end": 1602136799,
+              "chara": "cha_2d_whole_05282",
               "bg_img": "TownBG_6009"
             }
           ],
@@ -654,9 +654,9 @@
             },
             {
               "start": 1535421600,
-              "end": 1599717599,
+              "end": 1602136799,
               "priority": 10,
-              "name": "BN_20200820_1.jpg",
+              "name": "BN_20200825_3.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "story",
@@ -665,9 +665,9 @@
             },
             {
               "start": 1536199200,
-              "end": 1599717599,
+              "end": 1602136799,
               "priority": 10,
-              "name": "BN_20200521_4.jpg",
+              "name": "BN_20200521_5.jpg",
               "url": "",
               "type": "EventArea",
               "place_id": 1,
@@ -738,7 +738,7 @@
         }
       ],
       "priority": 50,
-      "timestamp": "1599726772000"
+      "timestamp": "1601433497000"
     },
     {
       "_id": 7,

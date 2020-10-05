@@ -1,5 +1,5 @@
 {
-  "deceive": 1600941145,
+  "deceive": 1601459660,
   "weaponlist": [
     {
       "id": 1,
@@ -25058,7 +25058,7 @@
     },
     {
       "id": 85937,
-      "name": "深淵之珠杖",
+      "name": "深淵珠杖",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -41633,7 +41633,7 @@
     {
       "evol_dst": 85937,
       "id": 85937,
-      "name": "深淵之珠杖",
+      "name": "深淵珠杖",
       "profile": "ニティカの初期武器流用の渦武器",
       "rank_limit": 2,
       "rarity": 5,

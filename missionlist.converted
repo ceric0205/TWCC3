@@ -1,5 +1,5 @@
 {
-  "deceive": 1600941135,
+  "deceive": 1601459650,
   "missionlist": [
     {
       "id": 1,
@@ -6898,401 +6898,6 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 4251,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用合作活動角色24次！",
-      "sub_id": "Party 1/5",
-      "max_num": 24,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "24"
-      },
-      "help": "將「魔法氣泡」合作活動角色編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4252,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用合作活動角色50次！",
-      "sub_id": "Party 2/5",
-      "max_num": 50,
-      "reward": {
-        "type": "card",
-        "id": "8326",
-        "val": "1"
-      },
-      "help": "將「魔法氣泡」合作活動角色編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4253,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用合作活動角色120次！",
-      "sub_id": "Party 3/5",
-      "max_num": 120,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "120"
-      },
-      "help": "將「魔法氣泡」合作活動角色編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4254,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用合作活動角色240次！",
-      "sub_id": "Party 4/5",
-      "max_num": 240,
-      "reward": {
-        "type": "item",
-        "id": "37",
-        "val": "1"
-      },
-      "help": "將「魔法氣泡」合作活動角色編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4255,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用合作活動角色360次！",
-      "sub_id": "Party 5/5",
-      "max_num": 360,
-      "reward": {
-        "type": "card",
-        "id": "8326",
-        "val": "1"
-      },
-      "help": "將「魔法氣泡」合作活動角色編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4256,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "消除24個氣泡吧！",
-      "sub_id": "Puyo 1/5",
-      "max_num": 24,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "24"
-      },
-      "help": "消除被召喚到尤古度的氣泡吧！\\n要注意來自公會的委託關卡裡的氣泡不列入計算喔！"
-    },
-    {
-      "id": 4257,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "消除240個氣泡吧！",
-      "sub_id": "Puyo 2/5",
-      "max_num": 240,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85894",
-        "val": "1"
-      },
-      "help": "消除被召喚到尤古度的氣泡吧！\\n要注意來自公會的委託關卡裡的氣泡不列入計算喔！"
-    },
-    {
-      "id": 4258,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "消除800個氣泡吧！",
-      "sub_id": "Puyo 3/5",
-      "max_num": 800,
-      "reward": {
-        "type": "chara_lb",
-        "id": "99031",
-        "val": "1"
-      },
-      "help": "消除被召喚到尤古度的氣泡吧！\\n要注意來自公會的委託關卡裡的氣泡不列入計算喔！"
-    },
-    {
-      "id": 4259,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "消除1600個氣泡吧！",
-      "sub_id": "Puyo 4/5",
-      "max_num": 1600,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "120"
-      },
-      "help": "消除被召喚到尤古度的氣泡吧！\\n要注意來自公會的委託關卡裡的氣泡不列入計算喔！"
-    },
-    {
-      "id": 4260,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "消除2424個氣泡吧！",
-      "sub_id": "Puyo 5/5",
-      "max_num": 2424,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90904",
-        "val": "24"
-      },
-      "help": "消除被召喚到尤古度的氣泡吧！\\n要注意來自公會的委託關卡裡的氣泡不列入計算喔！"
-    },
-    {
-      "id": 4261,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "武器鍊金3次！",
-      "sub_id": "Weapon 1/3",
-      "max_num": 3,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "24"
-      },
-      "help": "試試武器鍊金吧！\\n不管用什麼組合鍊金都列入計算喔！"
-    },
-    {
-      "id": 4262,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "武器鍊金10次！",
-      "sub_id": "Weapon 2/3",
-      "max_num": 10,
-      "reward": {
-        "type": "item",
-        "id": "10",
-        "val": "242400"
-      },
-      "help": "試試武器鍊金吧！\\n不管用什麼組合鍊金都列入計算喔！"
-    },
-    {
-      "id": 4263,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "武器鍊金24次！",
-      "sub_id": "Weapon 3/3",
-      "max_num": 24,
-      "reward": {
-        "type": "item",
-        "id": "10",
-        "val": "2424000"
-      },
-      "help": "試試武器鍊金吧！\\n不管用什麼組合鍊金都列入計算喔！"
-    },
-    {
-      "id": 4264,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "探索3次！",
-      "sub_id": "Treasure 1/3",
-      "max_num": 3,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "24"
-      },
-      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
-    },
-    {
-      "id": 4265,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "探索24次！",
-      "sub_id": "Treasure 2/3",
-      "max_num": 24,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26274",
-        "val": "2"
-      },
-      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
-    },
-    {
-      "id": 4266,
-      "type": 1,
-      "start_time": 1568858400,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "探索50次！",
-      "sub_id": "Treasure 3/3",
-      "max_num": 50,
-      "reward": {
-        "type": "chara_lb",
-        "id": "99031",
-        "val": "1"
-      },
-      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
-    },
-    {
-      "id": 4267,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "打倒白之異形24隻！",
-      "sub_id": "Hunt 1/5",
-      "max_num": 24,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "24"
-      },
-      "help": "打倒白之異形吧！\\n主線故事第3部也會出現很多喔！"
-    },
-    {
-      "id": 4268,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "打倒白之異形100隻！",
-      "sub_id": "Hunt 2/5",
-      "max_num": 100,
-      "reward": {
-        "type": "item",
-        "id": "3",
-        "val": "3"
-      },
-      "help": "打倒白之異形吧！\\n主線故事第3部也會出現很多喔！"
-    },
-    {
-      "id": 4269,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "打倒白之異形240隻！",
-      "sub_id": "Hunt 3/5",
-      "max_num": 240,
-      "reward": {
-        "type": "card",
-        "id": "8326",
-        "val": "1"
-      },
-      "help": "打倒白之異形吧！\\n主線故事第3部也會出現很多喔！"
-    },
-    {
-      "id": 4270,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "打倒白之異形500隻！",
-      "sub_id": "Hunt 4/5",
-      "max_num": 500,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "120"
-      },
-      "help": "打倒白之異形吧！\\n主線故事第3部也會出現很多喔！"
-    },
-    {
-      "id": 4271,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "打倒白之異形1000隻！",
-      "sub_id": "Hunt 5/5",
-      "max_num": 1000,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90904",
-        "val": "24"
-      },
-      "help": "打倒白之異形吧！\\n主線故事第3部也會出現很多喔！"
-    },
-    {
-      "id": 4272,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [
-        267627
-      ],
-      "tab_id": 2,
-      "title": "達成全戰鬥獎勵3次！",
-      "sub_id": "Result 1/2",
-      "max_num": 3,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85900",
-        "val": "1"
-      },
-      "help": "同時達成所有戰鬥獎勵吧！\\n指定的聯名任務可別搞錯囉！"
-    },
-    {
-      "id": 4273,
-      "type": 1,
-      "start_time": 1569463200,
-      "end_time": 1600963199,
-      "quest_id": [
-        267612
-      ],
-      "tab_id": 2,
-      "title": "以無接關通過！",
-      "sub_id": "Result 2/2",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "240"
-      },
-      "help": "在「【辛辣】大家來氣泡對戰」關卡中\\n不接關通過關卡吧！請加油喔～～！"
-    },
-    {
       "id": 4329,
       "type": 1,
       "start_time": 1572415200,
@@ -7637,6 +7242,196 @@
         "val": "1"
       },
       "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4481,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334054
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第1章！",
+      "sub_id": "Main 01",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1034",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第1章5-4「離別與啟程」！"
+    },
+    {
+      "id": 4482,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334105
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第2章！",
+      "sub_id": "Main 02",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1006",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第2章5-5「仇恨的前方」！"
+    },
+    {
+      "id": 4483,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334144
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第3章！",
+      "sub_id": "Main 03",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第3章4-4「前往聖王國」！"
+    },
+    {
+      "id": 4484,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334193
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第4章！",
+      "sub_id": "Main 04",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1008",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第4章5-3「瑟蕾斯蒂破壞命令」！"
+    },
+    {
+      "id": 4485,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334234
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第5章！",
+      "sub_id": "Main 05",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第5章4-4「作為家人」！"
+    },
+    {
+      "id": 4486,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334276
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第6章！",
+      "sub_id": "Main 06",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1014",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第6章4-6「純粹的願望」！"
+    },
+    {
+      "id": 4487,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334314
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第8章！",
+      "sub_id": "Main 07",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第8章4-4「該離巢了，我的孩子」！"
+    },
+    {
+      "id": 4488,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334354
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第9章！",
+      "sub_id": "Main 08",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1008",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第9章4-4「終焉與開端」！"
+    },
+    {
+      "id": 4489,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334403
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第10章！",
+      "sub_id": "Main 09",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第10章5-3「重新開始」！"
+    },
+    {
+      "id": 4490,
+      "type": 1,
+      "start_time": 1580882400,
+      "end_time": 1602136800,
+      "quest_id": [
+        334535
+      ],
+      "tab_id": 1,
+      "title": "通過『瑟蕾斯蒂篇』第11章！",
+      "sub_id": "Main 10",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1034",
+        "val": "1"
+      },
+      "help": "通過『瑟蕾斯蒂篇』第11章4-5「前進、不斷前進」！"
     }
   ],
   "res": 0
