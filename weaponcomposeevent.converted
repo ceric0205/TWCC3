@@ -1,185 +1,59 @@
 {
-  "deceive": 1599731608,
+  "deceive": 1602752592,
   "weapon_compose_event": [
     {
-      "event_id": 24,
-      "start": 1568858400,
-      "end": 1600927200,
+      "event_id": 25,
+      "start": 1570672800,
+      "end": 1603346400,
       "event_type": 16,
       "collabo": {
-        "border_quest_check": true,
+        "border_quest_check": false,
         "date_show_flag": false,
-        "img_name": "cha_2d_wholeLong_82014",
-        "first_message": "來，要開始\n上課了喔。",
-        "hit_message": "辛苦了\n做得好啊",
+        "img_name": "",
+        "first_message": "",
+        "hit_message": "",
         "hit_voice": ""
       },
       "recipe": [
         {
           "target_id": 0,
           "data": {
-            "weapon_id": 26273,
-            "priority": 1024,
+            "weapon_id": 85925,
+            "priority": 30,
             "material": [
-              26272,
-              26272,
-              26272,
-              26272,
-              26272
+              26008,
+              85924,
+              85924,
+              85924,
+              85924
             ]
           }
         },
         {
           "target_id": 1,
           "data": {
-            "weapon_id": 26274,
-            "priority": 1023,
+            "weapon_id": 85927,
+            "priority": 20,
             "material": [
-              26273,
-              26273,
-              26273,
-              26273,
-              26273
+              26004,
+              85924,
+              85924,
+              85924,
+              85924
             ]
           }
         },
         {
           "target_id": 2,
           "data": {
-            "weapon_id": 85894,
-            "priority": 1022,
+            "weapon_id": 85926,
+            "priority": 10,
             "material": [
-              26267,
-              26268,
-              26269,
-              26270,
-              26271
-            ]
-          }
-        },
-        {
-          "target_id": 3,
-          "data": {
-            "weapon_id": 85900,
-            "priority": 1021,
-            "material": [
-              26273,
-              26273,
-              26274,
-              26274,
-              85894
-            ]
-          }
-        },
-        {
-          "target_id": 4,
-          "data": {
-            "weapon_id": 85895,
-            "priority": 1020,
-            "material": [
-              26267,
-              26267,
-              26269,
-              26269,
-              26273
-            ]
-          }
-        },
-        {
-          "target_id": 5,
-          "data": {
-            "weapon_id": 85901,
-            "priority": 1019,
-            "material": [
-              26273,
-              26273,
-              26274,
-              26274,
-              85895
-            ]
-          }
-        },
-        {
-          "target_id": 6,
-          "data": {
-            "weapon_id": 85896,
-            "priority": 1018,
-            "material": [
-              26268,
-              26268,
-              26269,
-              26269,
-              26273
-            ]
-          }
-        },
-        {
-          "target_id": 7,
-          "data": {
-            "weapon_id": 85902,
-            "priority": 1017,
-            "material": [
-              26273,
-              26273,
-              26274,
-              26274,
-              85896
-            ]
-          }
-        },
-        {
-          "target_id": 8,
-          "data": {
-            "weapon_id": 85897,
-            "priority": 1016,
-            "material": [
-              26267,
-              26267,
-              26268,
-              26268,
-              26273
-            ]
-          }
-        },
-        {
-          "target_id": 9,
-          "data": {
-            "weapon_id": 85903,
-            "priority": 1015,
-            "material": [
-              26273,
-              26273,
-              26274,
-              26274,
-              85897
-            ]
-          }
-        },
-        {
-          "target_id": 10,
-          "data": {
-            "weapon_id": 85904,
-            "priority": 1014,
-            "material": [
-              26271,
-              26271,
-              26271,
-              26271,
-              85898
-            ]
-          }
-        },
-        {
-          "target_id": 11,
-          "data": {
-            "weapon_id": 85905,
-            "priority": 1013,
-            "material": [
-              26270,
-              26270,
-              26270,
-              26270,
-              85899
+              26000,
+              85924,
+              85924,
+              85924,
+              85924
             ]
           }
         }
