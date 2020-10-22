@@ -1,5 +1,5 @@
 {
-  "deceive": 1602752594,
+  "deceive": 1603359571,
   "weaponlist": [
     {
       "id": 1,
@@ -29480,6 +29480,126 @@
       "skill": 0,
       "type": 6,
       "equip_type": 5
+    },
+    {
+      "id": 95897,
+      "name": "石虎爪爪",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon95897_body",
+      "rank": 3,
+      "skill": 30892614,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95898,
+      "name": "石虎（左）",
+      "type_atk": 1,
+      "attackMax": 2,
+      "type_cri": 2,
+      "criticalMax": 3,
+      "type_grd": 3,
+      "guardMax": 2,
+      "model": "weapon95898_body",
+      "rank": 1,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95899,
+      "name": "黑熊掌掌",
+      "type_atk": 1,
+      "attackMax": 10,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 13,
+      "model": "weapon95899_body",
+      "rank": 3,
+      "skill": 30892714,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95900,
+      "name": "熊掌（左）",
+      "type_atk": 1,
+      "attackMax": 2,
+      "type_cri": 2,
+      "criticalMax": 3,
+      "type_grd": 3,
+      "guardMax": 2,
+      "model": "weapon95900_body",
+      "rank": 1,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95901,
+      "name": "主唱麥克風",
+      "type_atk": 1,
+      "attackMax": 13,
+      "type_cri": 2,
+      "criticalMax": 13,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon95901_body",
+      "rank": 3,
+      "skill": 30892814,
+      "type": 4,
+      "equip_type": 5
+    },
+    {
+      "id": 95905,
+      "name": "石虎爪爪",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon95897_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95906,
+      "name": "黑熊掌掌",
+      "type_atk": 1,
+      "attackMax": 10,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 13,
+      "model": "weapon95899_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 8,
+      "equip_type": 5
+    },
+    {
+      "id": 95907,
+      "name": "主唱麥克風",
+      "type_atk": 1,
+      "attackMax": 13,
+      "type_cri": 2,
+      "criticalMax": 13,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon95901_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 4,
+      "equip_type": 5
     }
   ],
   "evolve": [
@@ -46989,6 +47109,45 @@
       "usable": [
         8045
       ]
+    },
+    {
+      "evol_dst": 95897,
+      "id": 95897,
+      "name": "石虎爪爪",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95899,
+      "id": 95899,
+      "name": "黑熊掌掌",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95901,
+      "id": 95901,
+      "name": "主唱麥克風",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
     }
   ],
   "reinforce": [

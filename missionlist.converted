@@ -1,5 +1,5 @@
 {
-  "deceive": 1602752586,
+  "deceive": 1603359562,
   "missionlist": [
     {
       "id": 1,
@@ -7192,6 +7192,465 @@
       "help": "將戰士編入隊伍戰鬥吧！協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都OK！"
     },
     {
+      "id": 4303,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268420,
+        268421
+      ],
+      "tab_id": 2,
+      "title": "以必殺技收場2次",
+      "sub_id": "Event 01",
+      "max_num": 2,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "在指定任務\\n用必殺技打倒最後的敵人2次！"
+    },
+    {
+      "id": 4304,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268420,
+        268421
+      ],
+      "tab_id": 2,
+      "title": "以必殺技收場5次",
+      "sub_id": "Event 02",
+      "max_num": 5,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90904",
+        "val": "1"
+      },
+      "help": "在指定任務\\n用必殺技打倒最後的敵人5次！"
+    },
+    {
+      "id": 4305,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268420,
+        268421
+      ],
+      "tab_id": 2,
+      "title": "以必殺技收場10次！",
+      "sub_id": "Event 03",
+      "max_num": 10,
+      "reward": {
+        "type": "card",
+        "id": "314",
+        "val": "1"
+      },
+      "help": "在指定任務\\n用必殺技打倒最後的敵人10次！"
+    },
+    {
+      "id": 4306,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268422
+      ],
+      "tab_id": 2,
+      "title": "使用萬聖節角色過關吧1",
+      "sub_id": "Event 04",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "100"
+      },
+      "help": "在指定任務使用「魚之魔女佩潔」通關1次吧！\\n使用SP幫手也OK喔！"
+    },
+    {
+      "id": 4307,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268422
+      ],
+      "tab_id": 2,
+      "title": "使用萬聖節角色過關吧2",
+      "sub_id": "Event 05",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "100"
+      },
+      "help": "在指定任務使用「身纏闇夜的魔王艾莉」通關1次吧！\\n使用SP幫手也OK喔！"
+    },
+    {
+      "id": 4308,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268422
+      ],
+      "tab_id": 2,
+      "title": "使用萬聖節角色過關吧3",
+      "sub_id": "Event 06",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "100"
+      },
+      "help": "在指定任務使用「飾演壞魔女角色的瑪莉娜」通關1次吧！\\n使用SP幫手也OK喔！"
+    },
+    {
+      "id": 4309,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [
+        268422
+      ],
+      "tab_id": 2,
+      "title": "使用萬聖節角色過關吧4",
+      "sub_id": "Event 07",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "100"
+      },
+      "help": "在指定任務使用「飾演乖乖狐的索依」通關1次吧！\\n使用SP幫手也OK喔！"
+    },
+    {
+      "id": 4310,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務5次吧",
+      "sub_id": "Event 08",
+      "max_num": 5,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4311,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務15次吧",
+      "sub_id": "Event 09",
+      "max_num": 15,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4312,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務5次吧",
+      "sub_id": "SEGA 14",
+      "max_num": 5,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85921",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4313,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務10次吧",
+      "sub_id": "SEGA 15",
+      "max_num": 10,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85479",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4314,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務20次吧",
+      "sub_id": "SEGA 16",
+      "max_num": 20,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85479",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4315,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務30次吧",
+      "sub_id": "SEGA 17",
+      "max_num": 30,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85479",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4316,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務40次吧",
+      "sub_id": "SEGA 18",
+      "max_num": 40,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85480",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4317,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務50次吧",
+      "sub_id": "SEGA 19",
+      "max_num": 50,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85480",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4318,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務60次吧",
+      "sub_id": "SEGA 20",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85480",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4319,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務70次吧",
+      "sub_id": "SEGA 21",
+      "max_num": 70,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85474",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4320,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務80次吧",
+      "sub_id": "SEGA 22",
+      "max_num": 80,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85474",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4321,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務90次吧",
+      "sub_id": "SEGA 23",
+      "max_num": 90,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85474",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4322,
+      "type": 1,
+      "start_time": 1571277600,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通過任務100次吧",
+      "sub_id": "SEGA 24",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85827",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4323,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務30次吧",
+      "sub_id": "Event 10",
+      "max_num": 30,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90904",
+        "val": "1"
+      },
+      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4324,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務45次吧",
+      "sub_id": "Event 11",
+      "max_num": 45,
+      "reward": {
+        "type": "card",
+        "id": "7085",
+        "val": "1"
+      },
+      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4325,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務60次吧",
+      "sub_id": "Event 12",
+      "max_num": 60,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4326,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務75次吧",
+      "sub_id": "Event 13",
+      "max_num": 75,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85081",
+        "val": "1"
+      },
+      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4327,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務90次吧",
+      "sub_id": "Event 14",
+      "max_num": 90,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90905",
+        "val": "1"
+      },
+      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4328,
+      "type": 1,
+      "start_time": 1571882400,
+      "end_time": 1603987199,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務100次吧",
+      "sub_id": "Event 15",
+      "max_num": 100,
+      "reward": {
+        "type": "card",
+        "id": "314",
+        "val": "1"
+      },
+      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
       "id": 4329,
       "type": 1,
       "start_time": 1572415200,
@@ -7538,240 +7997,174 @@
       "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
     },
     {
-      "id": 4349,
+      "id": 30892630,
       "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
       "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務20次吧！",
-      "sub_id": "Quest 01",
-      "max_num": 20,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "21"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4350,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務40次吧！",
-      "sub_id": "Quest 02",
-      "max_num": 40,
+      "tab_id": 1,
+      "title": "通關50次任務！",
+      "sub_id": "RESCUTE 001",
+      "max_num": 50,
       "reward": {
         "type": "item",
         "id": "3",
         "val": "1"
       },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+      "help": "通過50次任意關卡即可。"
     },
     {
-      "id": 4351,
+      "id": 30892631,
       "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
       "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務60次吧！",
-      "sub_id": "Quest 03",
-      "max_num": 60,
-      "reward": {
-        "type": "item",
-        "id": "16",
-        "val": "21"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4352,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務80次吧！",
-      "sub_id": "Quest 04",
-      "max_num": 80,
-      "reward": {
-        "type": "item",
-        "id": "3",
-        "val": "1"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4353,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務100次吧！",
-      "sub_id": "Quest 05",
+      "tab_id": 1,
+      "title": "通關100次任務！",
+      "sub_id": "RESCUTE 002",
       "max_num": 100,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96133",
+        "val": "1"
+      },
+      "help": "通過100次任意關卡即可。"
+    },
+    {
+      "id": 30892632,
+      "type": 1,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通關150次任務！",
+      "sub_id": "RESCUTE 003",
+      "max_num": 150,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "通過150次任意關卡即可。"
+    },
+    {
+      "id": 30892633,
+      "type": 1,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通關200次任務！",
+      "sub_id": "RESCUTE 004",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96160",
+        "val": "1"
+      },
+      "help": "通過200次任意關卡即可。"
+    },
+    {
+      "id": 30892634,
+      "type": 1,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通關250次任務！",
+      "sub_id": "RESCUTE 005",
+      "max_num": 250,
       "reward": {
         "type": "item",
         "id": "7",
         "val": "1"
       },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+      "help": "通過250次任意關卡即可。"
     },
     {
-      "id": 4354,
+      "id": 30892635,
       "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [
-        222701,
-        222702,
-        222703,
-        222704,
-        222705,
-        222706,
-        222707,
-        222708
-      ],
-      "tab_id": 2,
-      "title": "在指定任務使用戰士10次",
-      "sub_id": "Job 01",
-      "max_num": 10,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90015",
-        "val": "3"
-      },
-      "help": "將戰士編入隊伍通過『席爾瓦傳』吧！\\n幫手和替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4355,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [
-        222701,
-        222702,
-        222703,
-        222704,
-        222705,
-        222706,
-        222707,
-        222708
-      ],
-      "tab_id": 2,
-      "title": "在指定任務使用戰士25次",
-      "sub_id": "Job 02",
-      "max_num": 25,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90020",
-        "val": "2"
-      },
-      "help": "將戰士編入隊伍通過『席爾瓦傳』吧！\\n幫手和替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4356,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [
-        222301,
-        222302,
-        222303,
-        222304,
-        222305,
-        222327
-      ],
-      "tab_id": 2,
-      "title": "在指定任務使用魔法師10次",
-      "sub_id": "Job 03",
-      "max_num": 10,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90017",
-        "val": "3"
-      },
-      "help": "將魔法師編入隊伍通過『魔法兵團學生傳』吧！\\n幫手和替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4357,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
-      "quest_id": [
-        222301,
-        222302,
-        222303,
-        222304,
-        222305,
-        222327
-      ],
-      "tab_id": 2,
-      "title": "在指定任務使用魔法師25次",
-      "sub_id": "Job 04",
-      "max_num": 25,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90022",
-        "val": "2"
-      },
-      "help": "將魔法師編入隊伍通過『魔法兵團學生傳』吧！\\n幫手和替補隊伍也會列入計算喔！"
-    },
-    {
-      "id": 4358,
-      "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
       "quest_id": [],
-      "tab_id": 2,
-      "title": "探索3次！",
-      "sub_id": "Treasure 01",
-      "max_num": 3,
+      "tab_id": 1,
+      "title": "通關300次任務！",
+      "sub_id": "RESCUTE 006",
+      "max_num": 300,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96207",
+        "val": "1"
+      },
+      "help": "通過300次任意關卡即可。"
+    },
+    {
+      "id": 30892636,
+      "type": 1,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通關350次任務！",
+      "sub_id": "RESCUTE 007",
+      "max_num": 350,
       "reward": {
         "type": "item",
-        "id": "10",
-        "val": "2100000"
+        "id": "3",
+        "val": "2"
       },
-      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
+      "help": "通過350次任意關卡即可。"
     },
     {
-      "id": 4359,
+      "id": 30892637,
       "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
       "quest_id": [],
-      "tab_id": 2,
-      "title": "探索10次！",
-      "sub_id": "Treasure 02",
-      "max_num": 10,
+      "tab_id": 1,
+      "title": "通關400次任務！",
+      "sub_id": "RESCUTE 008",
+      "max_num": 400,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96239",
+        "val": "1"
+      },
+      "help": "通過400次任意關卡即可。"
+    },
+    {
+      "id": 30892638,
+      "type": 1,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "通關450次任務！",
+      "sub_id": "RESCUTE 009",
+      "max_num": 450,
       "reward": {
         "type": "item",
-        "id": "10",
-        "val": "2100000"
+        "id": "1",
+        "val": "2"
       },
-      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
+      "help": "通過450次任意關卡即可。"
     },
     {
-      "id": 4360,
+      "id": 30892639,
       "type": 1,
-      "start_time": 1573696800,
-      "end_time": 1602838800,
+      "start_time": 1603951200,
+      "end_time": 1605160800,
       "quest_id": [],
-      "tab_id": 2,
-      "title": "探索20次！",
-      "sub_id": "Treasure 03",
-      "max_num": 20,
+      "tab_id": 1,
+      "title": "通關500次任務！",
+      "sub_id": "RESCUTE 010",
+      "max_num": 500,
       "reward": {
-        "type": "weapon_rf",
-        "id": "93902",
-        "val": "21"
+        "type": "item",
+        "id": "7",
+        "val": "1"
       },
-      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
+      "help": "通過500次任意關卡即可。"
     }
   ],
   "res": 0
