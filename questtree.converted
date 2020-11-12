@@ -1,5 +1,5 @@
 {
-  "deceive": 1601459058,
+  "deceive": 1605171523,
   "quest_tree": [
     {
       "accompany_hero": "0",
@@ -6024,14 +6024,18 @@
       "hero_id": 1,
       "icon": 41,
       "pub": 0,
-      "quest_ary": -1,
+      "quest_ary": [
+        331851,
+        331852,
+        331853
+      ],
       "size": 0,
       "story": 11,
-      "summary": "義勇軍與赫利歐斯等人在沙漠湖都與救濟教團交戰後，<br>為了追蹤他們而前往炎之九領。而他們就在那裏碰上了被稱為大蛇的巨大怪物正大肆破壞的情景。",
-      "timestamp": "1594708341209",
+      "summary": "義勇軍與赫利歐斯等人在沙漠湖都與救濟教團交戰後，<br>為了追蹤他們而前往炎之九領。 而他們就在那裏碰上了被稱為大蛇的巨大怪物正大肆破壞的情景。",
+      "timestamp": "1604903021000",
       "title": "前往鬼族居住之地",
       "treasure": 0,
-      "update_time": 20190425,
+      "update_time": 20201112,
       "x_hero_ary": 0
     },
     {
@@ -6446,6 +6450,87 @@
       "x_hero_ary": 0
     },
     {
+      "accompany_hero": "1",
+      "area_id": 4,
+      "boss": 0,
+      "cell": 66,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 2,
+      "gathering": 0,
+      "hero_id": 1,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        331861,
+        331862,
+        331863
+      ],
+      "size": 0,
+      "story": 11,
+      "summary": "義勇軍一行人在第二領獲得了良次、義景兩兄弟提供協助。 接著便朝和大蛇一起消失的雙胞胎所在的第二領火山 『雙輪』前進。",
+      "timestamp": "1604903021000",
+      "title": "不可視的瑕疵",
+      "treasure": 0,
+      "update_time": 20201112,
+      "x_hero_ary": 0
+    },
+    {
+      "accompany_hero": "1",
+      "area_id": 4,
+      "boss": 0,
+      "cell": 67,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 3,
+      "gathering": 0,
+      "hero_id": 1,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        331871,
+        331872,
+        331873,
+        331874
+      ],
+      "size": 0,
+      "story": 11,
+      "summary": "在雙胞胎將力量灌注在大蛇身上這段期間，榭拉斯艾斯便阻擋在義勇軍等人面前。 面對它渴望世界再世強烈執著，特洛梅雅採取的行動是……",
+      "timestamp": "1604903021000",
+      "title": "葬別",
+      "treasure": 0,
+      "update_time": 20201112,
+      "x_hero_ary": 0
+    },
+    {
+      "accompany_hero": "1",
+      "area_id": 4,
+      "boss": 1,
+      "cell": 68,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 4,
+      "gathering": 0,
+      "hero_id": 1,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": [
+        331881,
+        331882,
+        331883,
+        331884,
+        331885
+      ],
+      "size": 0,
+      "story": 11,
+      "summary": "眾人終於得知了艾諾修和梅特謝拉真正的目的， 但那卻不是榭拉斯艾斯所期望的結果。 義勇軍再次面對獲得雙胞胎力量強化的大蛇。",
+      "timestamp": "1604903021000",
+      "title": "再世的盡頭",
+      "treasure": 1,
+      "update_time": 20201112,
+      "x_hero_ary": 0
+    },
+    {
       "accompany_hero": "0",
       "area_id": 4,
       "boss": 0,
@@ -6470,6 +6555,28 @@
       "title": "神祠",
       "treasure": 0,
       "update_time": 20200521,
+      "x_hero_ary": 0
+    },
+    {
+      "accompany_hero": "1",
+      "area_id": 4,
+      "boss": 0,
+      "cell": 69,
+      "destiny": 0,
+      "develop_only": 0,
+      "episode": 1,
+      "gathering": 0,
+      "hero_id": 1,
+      "icon": 41,
+      "pub": 0,
+      "quest_ary": -1,
+      "size": 0,
+      "story": 12,
+      "summary": "",
+      "timestamp": "1604903021000",
+      "title": "赫利歐斯12-1",
+      "treasure": 0,
+      "update_time": 20201112,
       "x_hero_ary": 0
     }
   ],

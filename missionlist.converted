@@ -1,5 +1,5 @@
 {
-  "deceive": 1603964541,
+  "deceive": 1605171520,
   "missionlist": [
     {
       "id": 1,
@@ -6898,809 +6898,403 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 4303,
+      "id": 4361,
       "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
       "quest_id": [
-        268420,
-        268421
+        331142
       ],
-      "tab_id": 2,
-      "title": "以必殺技收場2次",
-      "sub_id": "Event 01",
-      "max_num": 2,
+      "tab_id": 1,
+      "title": "通過赫利歐斯篇第3章！",
+      "sub_id": "Main 01",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85636",
+        "val": "2"
+      },
+      "help": "通過赫利歐斯篇第3章5-2「嚮往著的背影」！"
+    },
+    {
+      "id": 4362,
+      "type": 1,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        332144
+      ],
+      "tab_id": 1,
+      "title": "通過愛麗婕篇第3章！",
+      "sub_id": "Main 02",
+      "max_num": 1,
       "reward": {
         "type": "item",
         "id": "1",
-        "val": "1"
+        "val": "3"
       },
-      "help": "在指定任務\\n用必殺技打倒最後的敵人2次！"
+      "help": "通過愛麗婕篇第3章5-4「為了保護大家」！"
     },
     {
-      "id": 4304,
+      "id": 4363,
       "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
       "quest_id": [
-        268420,
-        268421
+        335144
       ],
-      "tab_id": 2,
-      "title": "以必殺技收場5次",
-      "sub_id": "Event 02",
-      "max_num": 5,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90904",
-        "val": "1"
-      },
-      "help": "在指定任務\\n用必殺技打倒最後的敵人5次！"
-    },
-    {
-      "id": 4305,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [
-        268420,
-        268421
-      ],
-      "tab_id": 2,
-      "title": "以必殺技收場10次！",
-      "sub_id": "Event 03",
-      "max_num": 10,
-      "reward": {
-        "type": "card",
-        "id": "314",
-        "val": "1"
-      },
-      "help": "在指定任務\\n用必殺技打倒最後的敵人10次！"
-    },
-    {
-      "id": 4306,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [
-        268422
-      ],
-      "tab_id": 2,
-      "title": "使用萬聖節角色過關吧1",
-      "sub_id": "Event 04",
+      "tab_id": 1,
+      "title": "通過天津篇第3章！",
+      "sub_id": "Main 03",
       "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "100"
-      },
-      "help": "在指定任務使用「魚之魔女佩潔」通關1次吧！\\n使用SP幫手也OK喔！"
-    },
-    {
-      "id": 4307,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [
-        268422
-      ],
-      "tab_id": 2,
-      "title": "使用萬聖節角色過關吧2",
-      "sub_id": "Event 05",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "100"
-      },
-      "help": "在指定任務使用「身纏闇夜的魔王艾莉」通關1次吧！\\n使用SP幫手也OK喔！"
-    },
-    {
-      "id": 4308,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [
-        268422
-      ],
-      "tab_id": 2,
-      "title": "使用萬聖節角色過關吧3",
-      "sub_id": "Event 06",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "100"
-      },
-      "help": "在指定任務使用「飾演壞魔女角色的瑪莉娜」通關1次吧！\\n使用SP幫手也OK喔！"
-    },
-    {
-      "id": 4309,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [
-        268422
-      ],
-      "tab_id": 2,
-      "title": "使用萬聖節角色過關吧4",
-      "sub_id": "Event 07",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "20",
-        "val": "100"
-      },
-      "help": "在指定任務使用「飾演乖乖狐的索依」通關1次吧！\\n使用SP幫手也OK喔！"
-    },
-    {
-      "id": 4310,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務5次吧",
-      "sub_id": "Event 08",
-      "max_num": 5,
-      "reward": {
-        "type": "item",
-        "id": "3",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4311,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務15次吧",
-      "sub_id": "Event 09",
-      "max_num": 15,
       "reward": {
         "type": "item",
         "id": "1",
-        "val": "1"
+        "val": "3"
       },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+      "help": "通過天津篇第3章4-4「炎獸」！"
     },
     {
-      "id": 4312,
+      "id": 4364,
       "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        333162
+      ],
       "tab_id": 1,
-      "title": "通過任務5次吧",
-      "sub_id": "SEGA 14",
-      "max_num": 5,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85921",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4313,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務10次吧",
-      "sub_id": "SEGA 15",
-      "max_num": 10,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85479",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4314,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務20次吧",
-      "sub_id": "SEGA 16",
-      "max_num": 20,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85479",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4315,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務30次吧",
-      "sub_id": "SEGA 17",
-      "max_num": 30,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85479",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4316,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務40次吧",
-      "sub_id": "SEGA 18",
-      "max_num": 40,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85480",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4317,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務50次吧",
-      "sub_id": "SEGA 19",
-      "max_num": 50,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85480",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4318,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務60次吧",
-      "sub_id": "SEGA 20",
-      "max_num": 60,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85480",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4319,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務70次吧",
-      "sub_id": "SEGA 21",
-      "max_num": 70,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85474",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4320,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務80次吧",
-      "sub_id": "SEGA 22",
-      "max_num": 80,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85474",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4321,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務90次吧",
-      "sub_id": "SEGA 23",
-      "max_num": 90,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85474",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4322,
-      "type": 1,
-      "start_time": 1571277600,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "通過任務100次吧",
-      "sub_id": "SEGA 24",
-      "max_num": 100,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85827",
-        "val": "1"
-      },
-      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4323,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務30次吧",
-      "sub_id": "Event 10",
-      "max_num": 30,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90904",
-        "val": "1"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4324,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務45次吧",
-      "sub_id": "Event 11",
-      "max_num": 45,
-      "reward": {
-        "type": "card",
-        "id": "7085",
-        "val": "1"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4325,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務60次吧",
-      "sub_id": "Event 12",
-      "max_num": 60,
+      "title": "通過艾夏露篇第3章！",
+      "sub_id": "Main 04",
+      "max_num": 1,
       "reward": {
         "type": "item",
         "id": "1",
-        "val": "1"
+        "val": "3"
       },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+      "help": "通過艾夏露篇第3章6-2「面具男」！"
     },
     {
-      "id": 4326,
+      "id": 4365,
       "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務75次吧",
-      "sub_id": "Event 13",
-      "max_num": 75,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        334144
+      ],
+      "tab_id": 1,
+      "title": "通過瑟蕾斯蒂篇第3章！",
+      "sub_id": "Main 05",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "3"
+      },
+      "help": "通過瑟蕾斯蒂篇第3章4-4「前往聖王國」！"
+    },
+    {
+      "id": 4366,
+      "type": 1,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        331223
+      ],
+      "tab_id": 1,
+      "title": "通過赫利歐斯篇第5章！",
+      "sub_id": "Main 06",
+      "max_num": 1,
       "reward": {
         "type": "weapon_ev",
-        "id": "85081",
-        "val": "1"
+        "id": "85781",
+        "val": "2"
       },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+      "help": "通過赫利歐斯篇第5章4-3「光明」！"
     },
     {
-      "id": 4327,
+      "id": 4367,
       "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務90次吧",
-      "sub_id": "Event 14",
-      "max_num": 90,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90905",
-        "val": "1"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4328,
-      "type": 1,
-      "start_time": 1571882400,
-      "end_time": 1603987199,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "通過任務100次吧",
-      "sub_id": "Event 15",
-      "max_num": 100,
-      "reward": {
-        "type": "card",
-        "id": "314",
-        "val": "1"
-      },
-      "help": "通過任務指定次數！\\n任何一個會消耗AP的任務都OK喔！"
-    },
-    {
-      "id": 4329,
-      "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
       "quest_id": [
-        224001
+        332225
       ],
       "tab_id": 1,
-      "title": "通過指定任務吧！",
-      "sub_id": "Event 01",
-      "max_num": 3,
+      "title": "通過愛麗婕篇第5章！",
+      "sub_id": "Main 07",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7512",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93010",
+        "val": "30"
       },
-      "help": "通過決戰篇章「魔神篇」的第1話吧！"
+      "help": "通過愛麗婕篇第5章4-5「艾斯緹菈」！"
     },
     {
-      "id": 4330,
+      "id": 4368,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
       "quest_id": [
-        224002
+        335225
       ],
       "tab_id": 1,
-      "title": "通過指定任務吧！",
-      "sub_id": "Event 02",
-      "max_num": 4,
+      "title": "通過天津篇第5章！",
+      "sub_id": "Main 08",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7512",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93006",
+        "val": "30"
       },
-      "help": "通過決戰篇章「魔神篇」的第2話吧！"
+      "help": "通過天津篇第5章4-5「明月」！"
     },
     {
-      "id": 4331,
+      "id": 4369,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
+      "start_time": 1574301600,
+      "end_time": 1607615999,
       "quest_id": [
-        224003
+        333283
       ],
       "tab_id": 1,
-      "title": "通過指定任務吧！",
-      "sub_id": "Event 03",
-      "max_num": 5,
+      "title": "通過艾夏露篇第5章！",
+      "sub_id": "Main 09",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7512",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93021",
+        "val": "30"
       },
-      "help": "通過決戰篇章「魔神篇」的第3話吧！"
+      "help": "通過艾夏露篇第5章6-3「祭典結束後」！"
     },
     {
-      "id": 4332,
+      "id": 4370,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        334234
+      ],
       "tab_id": 1,
-      "title": "使用指定角色5次！",
-      "sub_id": "Event 04",
-      "max_num": 5,
+      "title": "通過瑟蕾斯蒂篇第5章！",
+      "sub_id": "Main 10",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7503",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93009",
+        "val": "30"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過瑟蕾斯蒂篇第5章4-4「作為家人」！"
     },
     {
-      "id": 4333,
+      "id": 4371,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        331403
+      ],
       "tab_id": 1,
-      "title": "使用指定角色10次！",
-      "sub_id": "Event 05",
-      "max_num": 10,
+      "title": "通過赫利歐斯篇第8章！",
+      "sub_id": "Main 11",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7513",
-        "val": "1"
+        "type": "weapon_ev",
+        "id": "85930",
+        "val": "2"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過赫利歐斯篇第8章4-3「不可能的分水嶺」！"
     },
     {
-      "id": 4334,
+      "id": 4372,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        332325
+      ],
       "tab_id": 1,
-      "title": "使用指定角色15次！",
-      "sub_id": "Event 06",
-      "max_num": 15,
+      "title": "通過愛麗婕篇第8章！",
+      "sub_id": "Main 12",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7506",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93008",
+        "val": "30"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過愛麗婕篇第8章5-5「被奪走的刻印者」！"
     },
     {
-      "id": 4335,
+      "id": 4373,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        335304
+      ],
       "tab_id": 1,
-      "title": "使用指定角色20次！",
-      "sub_id": "Event 07",
-      "max_num": 20,
+      "title": "通過天津篇第8章！",
+      "sub_id": "Main 13",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7515",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93007",
+        "val": "30"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過天津篇第8章4-4「妖國」！"
     },
     {
-      "id": 4336,
+      "id": 4374,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        333394
+      ],
       "tab_id": 1,
-      "title": "使用指定角色25次！",
-      "sub_id": "Event 08",
-      "max_num": 25,
+      "title": "通過艾夏露篇第8章！",
+      "sub_id": "Main 14",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7505",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93022",
+        "val": "30"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過艾夏露篇第8章6-4「畢雅爾加」！"
     },
     {
-      "id": 4337,
+      "id": 4375,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        334314
+      ],
       "tab_id": 1,
-      "title": "使用指定角色30次！",
-      "sub_id": "Event 09",
-      "max_num": 30,
+      "title": "通過瑟蕾斯蒂篇第8章！",
+      "sub_id": "Main 15",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7510",
-        "val": "1"
+        "type": "weapon_rf",
+        "id": "93011",
+        "val": "30"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過瑟蕾斯蒂篇第8章4-4「該離巢了，我的孩子」！"
     },
     {
-      "id": 4338,
+      "id": 4376,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        331845
+      ],
       "tab_id": 1,
-      "title": "使用指定角色35次！",
-      "sub_id": "Event 10",
-      "max_num": 35,
+      "title": "通過赫利歐斯篇第10章！",
+      "sub_id": "Main 16",
+      "max_num": 1,
       "reward": {
         "type": "card",
-        "id": "7014",
+        "id": "201",
         "val": "1"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過赫利歐斯篇第10章4-5「化為一把劍」！"
     },
     {
-      "id": 4339,
+      "id": 4377,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        332404
+      ],
       "tab_id": 1,
-      "title": "使用指定角色40次！",
-      "sub_id": "Event 11",
-      "max_num": 40,
+      "title": "通過愛麗婕篇第10章！",
+      "sub_id": "Main 17",
+      "max_num": 1,
       "reward": {
         "type": "card",
-        "id": "7522",
+        "id": "2201",
         "val": "1"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過愛麗婕篇第10章4-4「薩爾達」！"
     },
     {
-      "id": 4340,
+      "id": 4378,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        335393
+      ],
       "tab_id": 1,
-      "title": "使用指定角色45次！",
-      "sub_id": "Event 12",
-      "max_num": 45,
+      "title": "通過天津篇第10章！",
+      "sub_id": "Main 18",
+      "max_num": 1,
       "reward": {
         "type": "card",
-        "id": "7553",
+        "id": "6201",
         "val": "1"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過天津篇第10章4-3「白銀」！"
     },
     {
-      "id": 4341,
+      "id": 4379,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        333505
+      ],
       "tab_id": 1,
-      "title": "使用指定角色50次！",
-      "sub_id": "Event 13",
-      "max_num": 50,
+      "title": "通過艾夏露篇第10章！",
+      "sub_id": "Main 19",
+      "max_num": 1,
       "reward": {
         "type": "card",
-        "id": "8083",
+        "id": "4201",
         "val": "1"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過艾夏露篇第10章6-5「邁向黎明」！"
     },
     {
-      "id": 4342,
+      "id": 4380,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        334403
+      ],
       "tab_id": 1,
-      "title": "使用指定角色55次！",
-      "sub_id": "Event 14",
-      "max_num": 55,
+      "title": "通過瑟蕾斯蒂篇第10章！",
+      "sub_id": "Main 20",
+      "max_num": 1,
       "reward": {
         "type": "card",
-        "id": "7535",
+        "id": "5201",
         "val": "1"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過瑟蕾斯蒂篇第10章5-3「重新開始」！"
     },
     {
-      "id": 4343,
+      "id": 4381,
       "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
+      "start_time": 1574301600,
+      "end_time": 1607615999,
+      "quest_id": [
+        331363
+      ],
       "tab_id": 1,
-      "title": "使用指定角色60次！",
-      "sub_id": "Event 15",
-      "max_num": 60,
+      "title": "通過第7章！",
+      "sub_id": "Main 21",
+      "max_num": 1,
       "reward": {
-        "type": "card",
-        "id": "7545",
+        "type": "weapon_ev",
+        "id": "29001",
         "val": "1"
       },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4344,
-      "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用指定角色65次！",
-      "sub_id": "Event 16",
-      "max_num": 65,
-      "reward": {
-        "type": "card",
-        "id": "7591",
-        "val": "1"
-      },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4345,
-      "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用指定角色70次！",
-      "sub_id": "Event 17",
-      "max_num": 70,
-      "reward": {
-        "type": "card",
-        "id": "7580",
-        "val": "1"
-      },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4346,
-      "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用指定角色75次！",
-      "sub_id": "Event 18",
-      "max_num": 75,
-      "reward": {
-        "type": "card",
-        "id": "7573",
-        "val": "1"
-      },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4347,
-      "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用指定角色80次！",
-      "sub_id": "Event 19",
-      "max_num": 80,
-      "reward": {
-        "type": "card",
-        "id": "7546",
-        "val": "1"
-      },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4348,
-      "type": 1,
-      "start_time": 1572415200,
-      "end_time": 1604815200,
-      "quest_id": [],
-      "tab_id": 1,
-      "title": "使用指定角色85次！",
-      "sub_id": "Event 20",
-      "max_num": 85,
-      "reward": {
-        "type": "card",
-        "id": "7542",
-        "val": "1"
-      },
-      "help": "將「可洛巴狄隆」「塔莉畢可」編入隊伍戰鬥吧！\\n幫手及替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過赫利歐斯篇第7章9-3「新的旅程（後）」！"
     },
     {
       "id": 30892630,

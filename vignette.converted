@@ -1,5 +1,5 @@
 {
-  "deceive": 1603964539,
+  "deceive": 1605171521,
   "vignette": [
     {
       "cid": 7015,
@@ -34,12 +34,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 8926,
+      "cid": 4304,
       "v_motionid": 2,
-      "bg": 71,
-      "memo": "討厭的東西？車子跟馬路。",
+      "bg": 21,
+      "memo": "舞動吧！緋色太陽！",
       "start": 1522918800,
-      "end": 1605160800,
+      "end": 1605765600,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -52,22 +52,22 @@
       "event_area_name": null
     },
     {
-      "cid": 8927,
+      "cid": 4304,
       "v_motionid": 2,
-      "bg": 71,
-      "memo": "不、不准對我的夥伴出手！",
+      "bg": 21,
+      "memo": "舞動吧！緋色太陽！",
       "start": 1522918800,
-      "end": 1605160800,
+      "end": 1605765600,
       "link": "unity:GoSpecifiedArea",
       "param": {
-        "area_id": 201,
+        "area_id": 36,
         "place_id": 1
       },
       "priority": 30,
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "event_1",
-      "event_area_name": 108
+      "event_area_name": 13
     },
     {
       "cid": 3,
