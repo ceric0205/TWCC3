@@ -1,5 +1,5 @@
 {
-  "deceive": 1605171521,
+  "deceive": 1605779478,
   "vignette": [
     {
       "cid": 7015,
@@ -34,40 +34,22 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4304,
+      "cid": 11226,
       "v_motionid": 2,
-      "bg": 21,
-      "memo": "舞動吧！緋色太陽！",
+      "bg": 81,
+      "memo": "這不是『遊戲』……！",
       "start": 1522918800,
-      "end": 1605765600,
+      "end": 1606370400,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
+        "type": "legend",
         "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "gacha",
+      "v_category": "legend",
       "event_area_name": null
-    },
-    {
-      "cid": 4304,
-      "v_motionid": 2,
-      "bg": 21,
-      "memo": "舞動吧！緋色太陽！",
-      "start": 1522918800,
-      "end": 1605765600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "event_1",
-      "event_area_name": 13
     },
     {
       "cid": 3,

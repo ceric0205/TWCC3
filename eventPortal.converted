@@ -1,5 +1,5 @@
 {
-  "deceive": 1605171501,
+  "deceive": 1605779464,
   "event_portal": [
     {
       "_id": 0,
@@ -85,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=1587267"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=2101253"
             },
             {
               "start": 1535162400,
@@ -96,7 +96,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=5235702"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=2896455"
             }
           ]
         }
@@ -111,9 +111,9 @@
           "banner": [
             {
               "start": 1535608800,
-              "end": 1605160799,
+              "end": 1606370399,
               "priority": 20,
-              "name": "20201014_3.jpg",
+              "name": "20201014_5.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -122,9 +122,9 @@
             },
             {
               "start": 1535608800,
-              "end": 1605160799,
+              "end": 1606370399,
               "priority": 10,
-              "name": "20201014_4.jpg",
+              "name": "20201014_6.jpg",
               "url": "",
               "type": "Legend1Area",
               "place_id": 1,
@@ -183,8 +183,8 @@
           "img": [
             {
               "start": 1535608800,
-              "end": 1605160799,
-              "chara": "cha_2d_whole_02275",
+              "end": 1606370399,
+              "chara": "cha_2d_whole_11226",
               "bg_img": "TownBG_6009"
             },
             {
@@ -195,14 +195,14 @@
             }
           ],
           "url": "",
-          "end": 1605160799,
+          "end": 1606370399,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
       "priority": 80,
-      "timestamp": "1604559382000"
+      "timestamp": "1605599116000"
     },
     {
       "_id": 4,
