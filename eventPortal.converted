@@ -1,5 +1,5 @@
 {
-  "deceive": 1605779464,
+  "deceive": 1606387165,
   "event_portal": [
     {
       "_id": 0,
@@ -85,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=2101253"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=1058981"
             },
             {
               "start": 1535162400,
@@ -96,7 +96,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=2896455"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=7146505"
             }
           ]
         }
@@ -134,9 +134,9 @@
             },
             {
               "start": 1549519200,
-              "end": 1603951199,
+              "end": 1606975199,
               "priority": 19,
-              "name": "BN_20190929_4.jpg",
+              "name": "20201110_1.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -189,20 +189,20 @@
             },
             {
               "start": 1549519200,
-              "end": 1578549599,
-              "chara": "cha_2d_whole_05256",
+              "end": 1606975199,
+              "chara": "cha_2d_whole_03222",
               "bg_img": "TownBG_6009"
             }
           ],
           "url": "",
-          "end": 1606370399,
+          "end": 1606975199,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
       "priority": 80,
-      "timestamp": "1605599116000"
+      "timestamp": "1606356479000"
     },
     {
       "_id": 4,
@@ -231,13 +231,13 @@
           "icon": "Portal_Icon_Sortie_00",
           "img": [
             {
-              "start": 1604160000,
-              "end": 1605455999,
-              "chara": "cha_2d_whole_04238"
+              "start": 1606752000,
+              "end": 1640966399,
+              "chara": "cha_2d_whole_00237"
             },
             {
               "start": 1605456000,
-              "end": 1640966399,
+              "end": 1606751999,
               "chara": "cha_2d_whole_00285"
             }
           ],
@@ -249,7 +249,7 @@
         }
       ],
       "priority": 60,
-      "timestamp": "1605165185000"
+      "timestamp": "1606356479000"
     },
     {
       "_id": 6,
@@ -588,7 +588,7 @@
             {
               "start": 1536199200,
               "end": 1640966399,
-              "chara": "cha_2d_whole_05292",
+              "chara": "cha_2d_whole_06320",
               "bg_img": "TownBG_6009"
             }
           ],
@@ -608,9 +608,9 @@
             },
             {
               "start": 1535421600,
-              "end": 1605765599,
+              "end": 1606975199,
               "priority": 15,
-              "name": "BN_20200923_4.jpg",
+              "name": "20201028_3.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "event",
@@ -619,14 +619,14 @@
             },
             {
               "start": 1549000800,
-              "end": 1605765599,
+              "end": 1606975199,
               "priority": 14,
-              "name": "BN_20200923_5.jpg",
+              "name": "20201104_1.jpg",
               "url": "",
               "type": "EventArea",
               "place_id": 1,
               "area_id": 36,
-              "tab_id": 13,
+              "tab_id": 29,
               "info_url": ""
             },
             {
@@ -738,7 +738,7 @@
         }
       ],
       "priority": 50,
-      "timestamp": "1604994416000"
+      "timestamp": "1606277705000"
     },
     {
       "_id": 7,
