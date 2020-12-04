@@ -1,5 +1,5 @@
 {
-  "deceive": 1606387174,
+  "deceive": 1606991789,
   "vignette": [
     {
       "cid": 7015,
@@ -34,21 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 322,
-      "v_motionid": 2,
-      "bg": 2,
-      "memo": "感謝您的點餐～！！",
+      "cid": 6329,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "真令人熱血沸騰！",
       "start": 1522918800,
-      "end": 1606975200,
+      "end": 1607580000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "legend",
+      "v_category": "gacha",
       "event_area_name": null
     },
     {

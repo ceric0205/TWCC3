@@ -1,5 +1,5 @@
 {
-  "deceive": 1606387165,
+  "deceive": 1606991484,
   "event_portal": [
     {
       "_id": 0,
@@ -85,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=1058981"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=8038190"
             },
             {
               "start": 1535162400,
@@ -96,7 +96,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=7146505"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=8886863"
             }
           ]
         }
@@ -286,7 +286,7 @@
         }
       ],
       "priority": 40,
-      "timestamp": "1594871732000"
+      "timestamp": "1606886553000"
     },
     {
       "_id": 8,
@@ -304,6 +304,18 @@
               "area_id": 207,
               "tab_id": 601,
               "info_url": ""
+            },
+            {
+              "start": 1577584800,
+              "end": -1,
+              "priority": 2,
+              "name": "BN_202009_2_1.jpg",
+              "url": "",
+              "type": "GrandSagaArea",
+              "place_id": 1,
+              "area_id": 207,
+              "tab_id": 601,
+              "info_url": ""
             }
           ],
           "icon": "Portal_Icon_GrandSaga_00",
@@ -311,7 +323,7 @@
             {
               "start": 1582250400,
               "end": 1765951199,
-              "chara": "cha_2d_whole_07512"
+              "chara": "cha_2d_whole_06329"
             }
           ],
           "url": "",
@@ -322,7 +334,7 @@
         }
       ],
       "priority": 30,
-      "timestamp": "1600848350000"
+      "timestamp": "1606789308000"
     },
     {
       "_id": 3,
@@ -588,7 +600,7 @@
             {
               "start": 1536199200,
               "end": 1640966399,
-              "chara": "cha_2d_whole_06320",
+              "chara": "cha_2d_whole_06329",
               "bg_img": "TownBG_6009"
             }
           ],
@@ -608,9 +620,9 @@
             },
             {
               "start": 1535421600,
-              "end": 1606975199,
+              "end": 1607579999,
               "priority": 15,
-              "name": "20201028_3.jpg",
+              "name": "20201028_2.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "event",
@@ -631,9 +643,9 @@
             },
             {
               "start": 1535421600,
-              "end": 1605765599,
+              "end": 1607579999,
               "priority": 13,
-              "name": "20201014_1.jpg",
+              "name": "20201028_1.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "event",
@@ -738,7 +750,7 @@
         }
       ],
       "priority": 50,
-      "timestamp": "1606277705000"
+      "timestamp": "1606970310000"
     },
     {
       "_id": 7,

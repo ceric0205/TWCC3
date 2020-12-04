@@ -164,11 +164,11 @@
   ],
   "mVer": {
     "charainfo": 1606386726,
-    "weaponlist": 1602752725,
-    "skilllist": 1606120171,
+    "weaponlist": 1606456799,
+    "skilllist": 1606704335,
     "worldinfo": 1603088685,
     "episodeinfo": 1603865012,
-    "questdigest": 1606381058,
+    "questdigest": 1606966887,
     "itemlist": 1593413532,
     "booklist": 1604995841,
     "motionlist": 1593413531,
@@ -193,11 +193,11 @@
     "enemyinfo": 1593413531,
     "casinoinfo": 1593413531,
     "uzuinfo": 1593413531,
-    "vignette": 1606371540,
+    "vignette": 1606970478,
     "spdrama": 1593413531,
-    "gachainfo": 1606356483,
+    "gachainfo": 1606886557,
     "questtree": 1606111075,
-    "eventareainfo": 1606277894,
+    "eventareainfo": 1606886554,
     "coverinfo": 1602141058,
     "towerinfo": 1606358172,
     "chropowerinfo": 1593413531,
@@ -207,11 +207,11 @@
     "heroicskilllist": 1599816709,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1606356480,
+    "eventPortal": 1606970311,
     "spquestinfo": 1606110643,
     "buffinfo": 1582597429,
     "totalfavor": 1593658801,
     "reload": 1500271199,
-    "servertime": 1606407193
+    "servertime": 1607087976
   }
 }

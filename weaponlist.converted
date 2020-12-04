@@ -1,5 +1,5 @@
 {
-  "deceive": 1603359571,
+  "deceive": 1606991509,
   "weaponlist": [
     {
       "id": 1,
@@ -25628,7 +25628,7 @@
     },
     {
       "id": 85975,
-      "name": "快速拳",
+      "name": "阿爾斯維",
       "type_atk": 1,
       "attackMax": 14,
       "type_cri": 2,
@@ -25643,7 +25643,7 @@
     },
     {
       "id": 85976,
-      "name": "早起之槍",
+      "name": "阿爾瓦克",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -25793,7 +25793,7 @@
     },
     {
       "id": 85987,
-      "name": "空色結晶槍",
+      "name": "天空色的結晶槍",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -25808,7 +25808,7 @@
     },
     {
       "id": 85988,
-      "name": "一型汎用攻撃槍",
+      "name": "一型泛用型攻撃槍",
       "type_atk": 1,
       "attackMax": 5,
       "type_cri": 2,
@@ -25838,7 +25838,7 @@
     },
     {
       "id": 85990,
-      "name": "五型近接流体剣",
+      "name": "五型接近戰用流體劍",
       "type_atk": 1,
       "attackMax": 6,
       "type_cri": 2,
@@ -42172,7 +42172,7 @@
     {
       "evol_dst": 85975,
       "id": 85975,
-      "name": "快速拳",
+      "name": "阿爾斯維",
       "profile": "レイド武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -42185,7 +42185,7 @@
     {
       "evol_dst": 85976,
       "id": 85976,
-      "name": "早起之槍",
+      "name": "阿爾瓦克",
       "profile": "レイド武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -42276,7 +42276,7 @@
     {
       "evol_dst": 85987,
       "id": 85987,
-      "name": "空色結晶槍",
+      "name": "天空色的結晶槍",
       "profile": "セレステ篇12章追加",
       "rank_limit": 2,
       "rarity": 5,
@@ -42289,7 +42289,7 @@
     {
       "evol_dst": 85988,
       "id": 85988,
-      "name": "一型汎用攻撃槍",
+      "name": "一型泛用型攻撃槍",
       "profile": "セレステ篇12章追加",
       "rank_limit": 1,
       "rarity": 3,
@@ -42302,7 +42302,7 @@
     {
       "evol_dst": 85990,
       "id": 85990,
-      "name": "五型近接流体剣",
+      "name": "五型接近戰用流體劍",
       "profile": "セレステ篇12章追加",
       "rank_limit": 1,
       "rarity": 3,

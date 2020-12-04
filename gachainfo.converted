@@ -1,5 +1,5 @@
 {
-  "deceive": 1606387193,
+  "deceive": 1606991510,
   "gacha_info": {
     "fes": {
       "ring": [
@@ -55,15 +55,15 @@
         {
           "gacha_id": 1,
           "start": 1522918800,
-          "end": 1606975200,
-          "icon": "FesBtn_6320",
+          "end": 1607580000,
+          "icon": "FesBtn_6329",
           "priority": 1
         },
         {
           "gacha_id": 2,
           "start": 1522918800,
-          "end": 1605765600,
-          "icon": "FesBtn_05292",
+          "end": 1607580000,
+          "icon": "FesBtn_0325",
           "priority": 1
         }
       ],
