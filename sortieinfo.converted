@@ -1,5 +1,5 @@
 {
-  "device": 1606991517,
+  "device": 1607592003,
   "sortie_info": [
     {
       "sortie_id": 3,
@@ -1259,7 +1259,7 @@
     {
       "sortie_id": 26,
       "start_time": 1606752000,
-      "end_time": 1608048000,
+      "end_time": 1607961600,
       "reward_cid": 237,
       "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
       "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
@@ -1287,10 +1287,10 @@
       ]
     },
     {
-      "sortie_id": 27,
-      "start_time": 1608048000,
+      "sortie_id": 28,
+      "start_time": 1607961600,
       "end_time": 1609430400,
-      "reward_cid": 5271,
+      "reward_cid": 6003,
       "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
       "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
       "serif_normal": "對敵軍造成這種程度的損害應該足夠了！好了，一同慶祝勝利吧！！",
@@ -1298,18 +1298,18 @@
       "stamina": 0,
       "theme_list": [
         {
-          "enemy_texture": 302001,
+          "enemy_texture": 302005,
           "bg": 135,
-          "serif": "賢者之塔與罪之大陸的同伴們一定會很活躍喔。 \\n這次的戰鬥也要靠他們的力量、 \\n取得勝利阿",
+          "serif": "九領與薄命大陸的同伴們一定會很活躍喔。 \\n這次的戰鬥也要靠他們的力量、 \\n取得勝利阿",
           "sp_list": [
             {
               "sp_type": 3,
-              "sp_id": 6,
+              "sp_id": 10,
               "sp_rate": 160
             },
             {
               "sp_type": 3,
-              "sp_id": 15,
+              "sp_id": 16,
               "sp_rate": 160
             }
           ]
@@ -1317,10 +1317,10 @@
       ]
     },
     {
-      "sortie_id": 29,
+      "sortie_id": 28,
       "start_time": 1609430400,
-      "end_time": 1610726400,
-      "reward_cid": 4238,
+      "end_time": 1610640000,
+      "reward_cid": 6003,
       "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
       "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
       "serif_normal": "對敵軍造成這種程度的損害應該足夠了！好了，一同慶祝勝利吧！！",
@@ -1328,48 +1328,18 @@
       "stamina": 0,
       "theme_list": [
         {
-          "enemy_texture": 302001,
-          "bg": 137,
-          "serif": "魔神與旅人非常重要哦。 \\n這次的戰鬥也要靠他們的力量、\\n取得勝利阿",
+          "enemy_texture": 302005,
+          "bg": 135,
+          "serif": "九領與薄命大陸的同伴們一定會很活躍喔。 \\n這次的戰鬥也要靠他們的力量、 \\n取得勝利阿",
           "sp_list": [
             {
               "sp_type": 3,
-              "sp_id": 2,
+              "sp_id": 10,
               "sp_rate": 160
             },
             {
               "sp_type": 3,
-              "sp_id": 3,
-              "sp_rate": 160
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sortie_id": 30,
-      "start_time": 1610726400,
-      "end_time": 1612108800,
-      "reward_cid": 285,
-      "serif_high": "敵人陷入毀壞狀態了呢！好了，凱旋而歸吧！！",
-      "serif_low": "深入敵境是禁忌！各位，準備撤退囉！！",
-      "serif_normal": "對敵軍造成這種程度的損害應該足夠了！好了，一同慶祝勝利吧！！",
-      "serif_entry": "好了各位，準備上吧！讓我等取得勝利吧！",
-      "stamina": 0,
-      "theme_list": [
-        {
-          "enemy_texture": 302002,
-          "bg": 137,
-          "serif": "湖都與魔神的同伴們一定會很活躍喔。 \\n這次的戰鬥也要靠他們的力量、\\n取得勝利阿",
-          "sp_list": [
-            {
-              "sp_type": 3,
-              "sp_id": 8,
-              "sp_rate": 160
-            },
-            {
-              "sp_type": 3,
-              "sp_id": 2,
+              "sp_id": 16,
               "sp_rate": 160
             }
           ]

@@ -1,5 +1,5 @@
 {
-  "deceive": 1606991789,
+  "deceive": 1607591981,
   "vignette": [
     {
       "cid": 7015,
@@ -18,6 +18,24 @@
       "v_category": "explorer"
     },
     {
+      "cid": 1273,
+      "v_motionid": 2,
+      "bg": 1,
+      "memo": "讓我們一起祈禱吧……",
+      "start": 1550124000,
+      "end": 1608789600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1039,
+        "place_id": 0
+      },
+      "priority": 100,
+      "min_rank": 1,
+      "max_rank": 270,
+      "v_category": "cover",
+      "event_area_name": null
+    },
+    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -34,12 +52,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 6329,
-      "v_motionid": 0,
-      "bg": 41,
-      "memo": "真令人熱血沸騰！",
+      "cid": 2316,
+      "v_motionid": 2,
+      "bg": 1,
+      "memo": "化為星辰吧……！",
       "start": 1522918800,
-      "end": 1607580000,
+      "end": 1608789600,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",

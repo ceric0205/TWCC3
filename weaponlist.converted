@@ -1,5 +1,5 @@
 {
-  "deceive": 1606991509,
+  "deceive": 1607592004,
   "weaponlist": [
     {
       "id": 1,
@@ -25568,7 +25568,7 @@
     },
     {
       "id": 85971,
-      "name": "雪花球・莊嚴",
+      "name": "莊嚴雪花球",
       "type_atk": 1,
       "attackMax": 13,
       "type_cri": 2,

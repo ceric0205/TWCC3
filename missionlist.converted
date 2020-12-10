@@ -1,5 +1,5 @@
 {
-  "deceive": 1606387174,
+  "deceive": 1607591985,
   "missionlist": [
     {
       "id": 1,
@@ -7297,289 +7297,258 @@
       "help": "通過赫利歐斯篇第7章9-3「新的旅程（後）」！"
     },
     {
-      "id": 4396,
+      "id": 4382,
       "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
       "quest_id": [
-        331804
+        302931
       ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第9章！",
-      "sub_id": "Main 01",
+      "tab_id": 2,
+      "title": "抵達「研究據點的村子」！",
+      "sub_id": "Event 01",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90904",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4383,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [
+        302932
+      ],
+      "tab_id": 2,
+      "title": "抵達「副都」！",
+      "sub_id": "Event 02",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90905",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4384,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [
+        302933
+      ],
+      "tab_id": 2,
+      "title": "抵達「發生疾病的村子」！",
+      "sub_id": "Event 03",
       "max_num": 1,
       "reward": {
         "type": "weapon_ev",
-        "id": "85287",
+        "id": "85972",
         "val": "1"
       },
-      "help": "通過赫利歐斯篇第9章4-4「『心的強度』」！"
+      "help": "讓劇情進行抵達新據點吧！"
     },
     {
-      "id": 4397,
+      "id": 4385,
       "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
       "quest_id": [
-        332363
+        302935
       ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第9章！",
-      "sub_id": "Main 02",
+      "tab_id": 2,
+      "title": "抵達「聖都近郊」！",
+      "sub_id": "Event 04",
       "max_num": 1,
       "reward": {
         "type": "weapon_ev",
-        "id": "85286",
+        "id": "85973",
         "val": "1"
       },
-      "help": "通過愛麗婕篇第9章4-3「閃現的記憶」！"
+      "help": "讓劇情進行抵達新據點吧！"
     },
     {
-      "id": 4398,
+      "id": 4386,
       "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
       "quest_id": [
-        335353
+        302936
       ],
-      "tab_id": 1,
-      "title": "通過天津篇第9章！",
-      "sub_id": "Main 03",
+      "tab_id": 2,
+      "title": "抵達「聖夜一族的村子」！",
+      "sub_id": "Event 05",
+      "max_num": 1,
+      "reward": {
+        "type": "card",
+        "id": "5258",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4387,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用騎士30次！",
+      "sub_id": "Event 06",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "將騎士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4388,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用騎士60次！",
+      "sub_id": "Event 07",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85117",
+        "val": "1"
+      },
+      "help": "將騎士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4389,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用騎士100次",
+      "sub_id": "Event 08",
+      "max_num": 100,
+      "reward": {
+        "type": "card",
+        "id": "1051",
+        "val": "1"
+      },
+      "help": "將騎士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4390,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用魔法師30次！",
+      "sub_id": "Event 09",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4391,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用魔法師60次！",
+      "sub_id": "Event 10",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85421",
+        "val": "1"
+      },
+      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4392,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用魔法師100次！",
+      "sub_id": "Event 11",
+      "max_num": 100,
+      "reward": {
+        "type": "card",
+        "id": "1065",
+        "val": "1"
+      },
+      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4393,
+      "type": 1,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
+      "quest_id": [
+        302951
+      ],
+      "tab_id": 2,
+      "title": "【EX】以＜突＞類型武器給予最後一擊！",
+      "sub_id": "Extra 01",
       "max_num": 1,
       "reward": {
         "type": "weapon_ev",
-        "id": "26011",
+        "id": "85420",
         "val": "1"
       },
-      "help": "通過天津篇第9章5-3「劇情（後）」！"
+      "help": "使用＜刺＞類型武器打倒「【EX】黏糊糊布偶派對」\\n最後的敵人吧！"
     },
     {
-      "id": 4399,
+      "id": 4394,
       "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
       "quest_id": [
-        333445
+        302951
       ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第9章！",
-      "sub_id": "Main 04",
+      "tab_id": 2,
+      "title": "【EX】達成全戰鬥獎勵吧！",
+      "sub_id": "Extra 02",
       "max_num": 1,
       "reward": {
         "type": "weapon_ev",
-        "id": "85288",
+        "id": "85430",
         "val": "1"
       },
-      "help": "通過艾夏露篇第9章5-5「戀」！"
+      "help": "在「【EX】黏糊糊布偶派對」中\\n同時達成所有戰鬥獎勵吧！"
     },
     {
-      "id": 4400,
+      "id": 4395,
       "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
+      "start_time": 1608184800,
+      "end_time": 1608825599,
       "quest_id": [
-        334354
+        302952
       ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第9章！",
-      "sub_id": "Main 05",
+      "tab_id": 2,
+      "title": "【EX】不接關通過關卡！",
+      "sub_id": "Extra 03",
       "max_num": 1,
       "reward": {
-        "type": "weapon_ev",
-        "id": "85285",
+        "type": "item",
+        "id": "7",
         "val": "1"
       },
-      "help": "通過瑟蕾斯蒂篇第9章4-4「終焉與開端」！"
-    },
-    {
-      "id": 4401,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        331845
-      ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第10章！",
-      "sub_id": "Main 06",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "1"
-      },
-      "help": "通過赫利歐斯篇第10章4-5「化為一把劍」！"
-    },
-    {
-      "id": 4402,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        332404
-      ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第10章！",
-      "sub_id": "Main 07",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "1"
-      },
-      "help": "通過愛麗婕篇第10章4-4「薩爾達」！"
-    },
-    {
-      "id": 4403,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        335393
-      ],
-      "tab_id": 1,
-      "title": "通過天津篇第10章！",
-      "sub_id": "Main 08",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "1"
-      },
-      "help": "通過天津篇第10章4-3「白銀」！"
-    },
-    {
-      "id": 4404,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        333505
-      ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第10章！",
-      "sub_id": "Main 09",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "1"
-      },
-      "help": "通過艾夏露篇第10章6-5「邁向黎明」！"
-    },
-    {
-      "id": 4405,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        334403
-      ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第10章！",
-      "sub_id": "Main 10",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "1"
-      },
-      "help": "通過瑟蕾斯蒂篇第10章5-3「重新開始」！"
-    },
-    {
-      "id": 4406,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        331885
-      ],
-      "tab_id": 1,
-      "title": "通過赫利歐斯篇第11章！",
-      "sub_id": "Main 11",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "2"
-      },
-      "help": "通過赫利歐斯篇第11章4-5「再世的終焉」！"
-    },
-    {
-      "id": 4407,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        332454
-      ],
-      "tab_id": 1,
-      "title": "通過愛麗婕篇第11章！",
-      "sub_id": "Main 12",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "2"
-      },
-      "help": "通過愛麗婕篇第11章5-4「白薩爾達」！"
-    },
-    {
-      "id": 4408,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        335434
-      ],
-      "tab_id": 1,
-      "title": "通過天津篇第11章！",
-      "sub_id": "Main 13",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "2"
-      },
-      "help": "通過天津篇第11章4-4「火盗」！"
-    },
-    {
-      "id": 4409,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        333543
-      ],
-      "tab_id": 1,
-      "title": "通過艾夏露篇第11章！",
-      "sub_id": "Main 14",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "2"
-      },
-      "help": "通過艾夏露篇第11章4-3「從太陽到月亮」！"
-    },
-    {
-      "id": 4410,
-      "type": 1,
-      "start_time": 1577340000,
-      "end_time": 1607011199,
-      "quest_id": [
-        334535
-      ],
-      "tab_id": 1,
-      "title": "通過瑟蕾斯蒂篇第11章！",
-      "sub_id": "Main 15",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "44",
-        "val": "2"
-      },
-      "help": "通過瑟蕾斯蒂篇第11章4-5「前進、不斷前進」！"
+      "help": "不接關通過任務\\n「【EX】聖夜的魔物嘉年華」吧！"
     }
   ],
   "res": 0
