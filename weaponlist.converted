@@ -1,5 +1,5 @@
 {
-  "deceive": 1607592004,
+  "deceive": 1608195583,
   "weaponlist": [
     {
       "id": 1,
@@ -29599,6 +29599,51 @@
       "rank": 3,
       "skill": 0,
       "type": 4,
+      "equip_type": 5
+    },
+    {
+      "id": 95902,
+      "name": "平平子的手",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 11,
+      "model": "weapon85173_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 9,
+      "equip_type": 5
+    },
+    {
+      "id": 95903,
+      "name": "平平子 暴走模式的手",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 11,
+      "model": "weapon85173_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 9,
+      "equip_type": 5
+    },
+    {
+      "id": 95904,
+      "name": "電腦螢幕",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 11,
+      "model": "weapon95904_body",
+      "rank": 3,
+      "skill": 0,
+      "type": 1,
       "equip_type": 5
     }
   ],

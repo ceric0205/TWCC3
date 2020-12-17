@@ -1,5 +1,5 @@
 {
-  "deceive": 1607591969,
+  "deceive": 1608195556,
   "event_portal": [
     {
       "_id": 0,
@@ -85,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=7341664"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=202216"
             },
             {
               "start": 1535162400,
@@ -96,7 +96,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=5000709"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=7485884"
             }
           ]
         }
@@ -286,7 +286,7 @@
         }
       ],
       "priority": 40,
-      "timestamp": "1606886553000"
+      "timestamp": "1608087970000"
     },
     {
       "_id": 8,
@@ -412,7 +412,7 @@
             },
             {
               "start": 1608188400,
-              "end": 1603346399,
+              "end": 1608789599,
               "priority": 8,
               "name": "banner_20201125_1.jpg",
               "url": "",
@@ -585,7 +585,7 @@
         }
       ],
       "priority": 70,
-      "timestamp": "1607569956000"
+      "timestamp": "1608190171000"
     },
     {
       "_id": 5,
@@ -643,9 +643,9 @@
             },
             {
               "start": 1535421600,
-              "end": 1607579999,
+              "end": 1608789599,
               "priority": 13,
-              "name": "20201028_1.jpg",
+              "name": "BN_202012_1.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "event",

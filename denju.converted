@@ -1,5 +1,5 @@
 {
-  "deceive": 1607592000,
+  "deceive": 1608195588,
   "denju": [
     {
       "denju_id": 2,
@@ -15190,6 +15190,54 @@
       "sname": "純水美聲",
       "stext": "以一定間隔給予直線範圍上的所有敵人傷害並擊退。發動中無法移動和一般攻擊。",
       "timestamp": "1602752722000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8929,
+      "develop_only": 0,
+      "patternid0": 30892901,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "多工處理機能",
+      "stext": "對前方範圍內的所有敵人造成輕度傷害，並使其陷入中毒/緩速/黑暗狀態。同時在一定時間內提升我方全體的攻擊力。",
+      "timestamp": "1608173659000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8930,
+      "develop_only": 0,
+      "patternid0": 30893002,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 2,
+      "sname": "多工處理機能",
+      "stext": "對前方範圍內的所有敵人造成中度傷害並擊退，並使受到傷害的敵人的防禦力在一定時間內下降。",
+      "timestamp": "1608173659000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8931,
+      "develop_only": 0,
+      "patternid0": 30893102,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 3,
+      "sname": "我舊我驕傲",
+      "stext": "【連擊/無敵/蓄力】（透過點擊/滑動來發動，蓄力中無法行動）在一定時間內自身變成無敵狀態。之後，對前方範圍內的所有敵人造成中度傷害，並使其跌倒且陷入暈眩/緩速/黑暗狀態。同時在一定時間內提升我方全體的攻擊力。此必殺技視蓄力時間決定威力，當蓄力達到最大時，追加擊退效果。此必殺技對人類造成的傷害增加。",
+      "timestamp": "1608173659000",
       "weaponChange": 1
     }
   ],
