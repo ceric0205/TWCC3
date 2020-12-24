@@ -1,5 +1,5 @@
 {
-  "deceive": 1608195583,
+  "deceive": 1608804132,
   "weaponlist": [
     {
       "id": 1,
@@ -29612,7 +29612,7 @@
       "guardMax": 11,
       "model": "weapon85173_body",
       "rank": 3,
-      "skill": 0,
+      "skill": 30892913,
       "type": 9,
       "equip_type": 5
     },
@@ -29627,7 +29627,7 @@
       "guardMax": 11,
       "model": "weapon85173_body",
       "rank": 3,
-      "skill": 0,
+      "skill": 30893012,
       "type": 9,
       "equip_type": 5
     },
@@ -29642,7 +29642,7 @@
       "guardMax": 11,
       "model": "weapon95904_body",
       "rank": 3,
-      "skill": 0,
+      "skill": 30893117,
       "type": 1,
       "equip_type": 5
     }
@@ -47185,6 +47185,19 @@
       "evol_dst": 95901,
       "id": 95901,
       "name": "主唱麥克風",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95904,
+      "id": 95904,
+      "name": "電腦螢幕",
       "profile": "",
       "rank_limit": 2,
       "rarity": 4,

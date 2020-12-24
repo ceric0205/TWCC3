@@ -1,5 +1,5 @@
 {
-  "deceive": 1607591981,
+  "deceive": 1608804126,
   "vignette": [
     {
       "cid": 7015,
@@ -18,24 +18,6 @@
       "v_category": "explorer"
     },
     {
-      "cid": 1273,
-      "v_motionid": 2,
-      "bg": 1,
-      "memo": "讓我們一起祈禱吧……",
-      "start": 1550124000,
-      "end": 1608789600,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1039,
-        "place_id": 0
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 270,
-      "v_category": "cover",
-      "event_area_name": null
-    },
-    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -52,20 +34,56 @@
       "v_category": "favorite"
     },
     {
-      "cid": 2316,
+      "cid": 8929,
       "v_motionid": 2,
-      "bg": 1,
-      "memo": "化為星辰吧……！",
+      "bg": 5100,
+      "memo": "解除待機",
+      "start": 1535608800,
+      "end": 1609999200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 8930,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "暴走模式？",
+      "start": 1609394400,
+      "end": 1609999200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 20,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": 108
+    },
+    {
+      "cid": 8931,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "電腦開機",
       "start": 1522918800,
-      "end": 1608789600,
+      "end": 1609999200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 50,
+      "priority": 10,
       "min_rank": 1,
-      "max_rank": 260,
+      "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": null
     },
