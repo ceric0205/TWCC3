@@ -1,5 +1,5 @@
 {
-  "deceive": 1608195588,
+  "deceive": 1609318687,
   "denju": [
     {
       "denju_id": 2,
@@ -15211,7 +15211,7 @@
     {
       "denju_id": 8930,
       "develop_only": 0,
-      "patternid0": 30893002,
+      "patternid0": 30893003,
       "patternid1": 0,
       "patternid2": 0,
       "patternid3": 0,
@@ -15219,9 +15219,9 @@
       "patternid5": 0,
       "patternid6": 0,
       "scost": 2,
-      "sname": "多工處理機能",
+      "sname": "電能爆破",
       "stext": "對前方範圍內的所有敵人造成中度傷害並擊退，並使受到傷害的敵人的防禦力在一定時間內下降。",
-      "timestamp": "1608173659000",
+      "timestamp": "1608887290000",
       "weaponChange": 1
     },
     {

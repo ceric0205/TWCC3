@@ -1,5 +1,5 @@
 {
-  "deceive": 1608195567,
+  "deceive": 1609318676,
   "missionlist": [
     {
       "id": 1,
@@ -6898,258 +6898,482 @@
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
     },
     {
-      "id": 4382,
+      "id": 4411,
       "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
       "quest_id": [
-        302931
+        269610,
+        269611,
+        269612,
+        269613
       ],
       "tab_id": 2,
-      "title": "抵達「研究據點的村子」！",
-      "sub_id": "Event 01",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90904",
-        "val": "1"
-      },
-      "help": "讓劇情進行抵達新據點吧！"
-    },
-    {
-      "id": 4383,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [
-        302932
-      ],
-      "tab_id": 2,
-      "title": "抵達「副都」！",
-      "sub_id": "Event 02",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90905",
-        "val": "1"
-      },
-      "help": "讓劇情進行抵達新據點吧！"
-    },
-    {
-      "id": 4384,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [
-        302933
-      ],
-      "tab_id": 2,
-      "title": "抵達「發生疾病的村子」！",
-      "sub_id": "Event 03",
-      "max_num": 1,
+      "title": "討伐30隻老鼠",
+      "sub_id": "New01",
+      "max_num": 30,
       "reward": {
         "type": "weapon_ev",
-        "id": "85972",
+        "id": "96155",
         "val": "1"
       },
-      "help": "讓劇情進行抵達新據點吧！"
+      "help": "在指定任務中\\n討伐汙穢鼠！"
     },
     {
-      "id": 4385,
+      "id": 4412,
       "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
       "quest_id": [
-        302935
+        269610,
+        269611,
+        269612,
+        269613
       ],
       "tab_id": 2,
-      "title": "抵達「聖都近郊」！",
-      "sub_id": "Event 04",
-      "max_num": 1,
+      "title": "討伐50隻老鼠",
+      "sub_id": "New02",
+      "max_num": 50,
       "reward": {
         "type": "weapon_ev",
-        "id": "85973",
+        "id": "96154",
         "val": "1"
       },
-      "help": "讓劇情進行抵達新據點吧！"
+      "help": "在指定任務中\\n討伐汙穢鼠！"
     },
     {
-      "id": 4386,
+      "id": 4413,
       "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
       "quest_id": [
-        302936
+        269610,
+        269611,
+        269612,
+        269613
       ],
       "tab_id": 2,
-      "title": "抵達「聖夜一族的村子」！",
-      "sub_id": "Event 05",
-      "max_num": 1,
+      "title": "討伐100隻老鼠",
+      "sub_id": "New03",
+      "max_num": 100,
       "reward": {
-        "type": "card",
-        "id": "5258",
+        "type": "weapon_ev",
+        "id": "96153",
         "val": "1"
       },
-      "help": "讓劇情進行抵達新據點吧！"
+      "help": "在指定任務中\\n討伐汙穢鼠！"
     },
     {
-      "id": 4387,
+      "id": 4414,
       "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐200隻老鼠",
+      "sub_id": "New04",
+      "max_num": 200,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85786",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4415,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐350隻老鼠",
+      "sub_id": "New05",
+      "max_num": 350,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85787",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4416,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐500隻老鼠",
+      "sub_id": "New06",
+      "max_num": 500,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85788",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4417,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐650隻老鼠",
+      "sub_id": "New07",
+      "max_num": 650,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85436",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4418,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐800隻老鼠",
+      "sub_id": "New08",
+      "max_num": 800,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85974",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4419,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐1000隻老鼠",
+      "sub_id": "New09",
+      "max_num": 1000,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85786",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4420,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐1250隻老鼠",
+      "sub_id": "New10",
+      "max_num": 1250,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85787",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4421,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐1500隻老鼠",
+      "sub_id": "New11",
+      "max_num": 1500,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85788",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4422,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐1750隻老鼠",
+      "sub_id": "New12",
+      "max_num": 1750,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85436",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4423,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐2000隻老鼠",
+      "sub_id": "New13",
+      "max_num": 2000,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85974",
+        "val": "1"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4424,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [
+        269610,
+        269611,
+        269612,
+        269613
+      ],
+      "tab_id": 2,
+      "title": "討伐2020隻老鼠",
+      "sub_id": "New14",
+      "max_num": 2020,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "4"
+      },
+      "help": "在指定任務中\\n討伐汙穢鼠！"
+    },
+    {
+      "id": 4457,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
       "quest_id": [],
       "tab_id": 2,
-      "title": "使用騎士30次！",
-      "sub_id": "Event 06",
+      "title": "通過任務5次吧！",
+      "sub_id": "Medal 01",
+      "max_num": 5,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90015",
+        "val": "3"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4458,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務10次吧！",
+      "sub_id": "Medal 02",
+      "max_num": 10,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90019",
+        "val": "3"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4459,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務15次吧！",
+      "sub_id": "Medal 03",
+      "max_num": 15,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90016",
+        "val": "3"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4460,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務20次吧！",
+      "sub_id": "Medal 04",
+      "max_num": 20,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90017",
+        "val": "3"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4461,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務25次吧！",
+      "sub_id": "Medal 05",
+      "max_num": 25,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90018",
+        "val": "3"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4462,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務30次吧！",
+      "sub_id": "Medal 06",
       "max_num": 30,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93902",
+        "val": "30"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4463,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務40次吧！",
+      "sub_id": "Medal 07",
+      "max_num": 40,
       "reward": {
         "type": "item",
         "id": "1",
-        "val": "1"
+        "val": "3"
       },
-      "help": "將騎士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
     },
     {
-      "id": 4388,
+      "id": 4464,
       "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
       "quest_id": [],
       "tab_id": 2,
-      "title": "使用騎士60次！",
-      "sub_id": "Event 07",
+      "title": "通過任務60次吧！",
+      "sub_id": "Medal 08",
       "max_num": 60,
       "reward": {
         "type": "weapon_ev",
-        "id": "85117",
+        "id": "26258",
         "val": "1"
       },
-      "help": "將騎士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
     },
     {
-      "id": 4389,
+      "id": 4465,
       "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
       "quest_id": [],
       "tab_id": 2,
-      "title": "使用騎士100次",
-      "sub_id": "Event 08",
+      "title": "通過任務80次吧！",
+      "sub_id": "Medal 09",
+      "max_num": 80,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
+    },
+    {
+      "id": 4466,
+      "type": 1,
+      "start_time": 1578448800,
+      "end_time": 1610604000,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通過任務100次吧！",
+      "sub_id": "Medal 10",
       "max_num": 100,
       "reward": {
-        "type": "card",
-        "id": "1051",
-        "val": "1"
-      },
-      "help": "將騎士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4390,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用魔法師30次！",
-      "sub_id": "Event 09",
-      "max_num": 30,
-      "reward": {
-        "type": "item",
-        "id": "1",
-        "val": "1"
-      },
-      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4391,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用魔法師60次！",
-      "sub_id": "Event 10",
-      "max_num": 60,
-      "reward": {
         "type": "weapon_ev",
-        "id": "85421",
-        "val": "1"
+        "id": "26258",
+        "val": "2"
       },
-      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4392,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [],
-      "tab_id": 2,
-      "title": "使用魔法師100次！",
-      "sub_id": "Event 11",
-      "max_num": 100,
-      "reward": {
-        "type": "card",
-        "id": "1065",
-        "val": "1"
-      },
-      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
-    },
-    {
-      "id": 4393,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [
-        302951
-      ],
-      "tab_id": 2,
-      "title": "【EX】以＜突＞類型武器給予最後一擊！",
-      "sub_id": "Extra 01",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85420",
-        "val": "1"
-      },
-      "help": "使用＜突＞類型武器打倒「【EX】黏糊糊布偶派對」\\n最後的敵人吧！"
-    },
-    {
-      "id": 4394,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [
-        302951
-      ],
-      "tab_id": 2,
-      "title": "【EX】達成全戰鬥獎勵吧！",
-      "sub_id": "Extra 02",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "85430",
-        "val": "1"
-      },
-      "help": "在「【EX】黏糊糊布偶派對」中\\n同時達成所有戰鬥獎勵吧！"
-    },
-    {
-      "id": 4395,
-      "type": 1,
-      "start_time": 1608184800,
-      "end_time": 1608825599,
-      "quest_id": [
-        302952
-      ],
-      "tab_id": 2,
-      "title": "【EX】不接關通過關卡！",
-      "sub_id": "Extra 03",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "7",
-        "val": "1"
-      },
-      "help": "不接關通過任務\\n「【EX】聖夜的魔物嘉年華」吧！"
+      "help": "通過任務達指定次數！\\n任何一個會消耗AP的任務都OK喔！"
     }
   ],
   "res": 0
