@@ -1,5 +1,5 @@
 {
-  "deceive": 1609318658,
+  "deceive": 1610013254,
   "event_portal": [
     {
       "_id": 0,
@@ -85,7 +85,7 @@
               "place_id": 1,
               "area_id": 201,
               "tab_id": 102,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=7131156"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=3367246"
             },
             {
               "start": 1535162400,
@@ -96,7 +96,7 @@
               "type": "PremiumGacha",
               "gacha_type": "event",
               "gacha_id": 1,
-              "info_url": "/web/event/180825_P5_ReFes.html?v=5157115"
+              "info_url": "/web/event/180825_P5_ReFes.html?v=9022566"
             }
           ]
         }
@@ -111,9 +111,9 @@
           "banner": [
             {
               "start": 1535608800,
-              "end": 1535608799,
+              "end": 1610603999,
               "priority": 20,
-              "name": "20201014_5.jpg",
+              "name": "BN_20201223_3.jpg",
               "url": "",
               "type": "PremiumGacha",
               "gacha_type": "legend",
@@ -122,9 +122,9 @@
             },
             {
               "start": 1535608800,
-              "end": 1606370399,
+              "end": 1610603999,
               "priority": 10,
-              "name": "20201014_6.jpg",
+              "name": "BN_20201223_4.jpg",
               "url": "",
               "type": "Legend1Area",
               "place_id": 1,
@@ -183,8 +183,8 @@
           "img": [
             {
               "start": 1535608800,
-              "end": 1609999199,
-              "chara": "cha_2d_whole_09217",
+              "end": 1610603999,
+              "chara": "cha_2d_whole_07672",
               "bg_img": "TownBG_6009"
             },
             {
@@ -195,14 +195,14 @@
             }
           ],
           "url": "",
-          "end": 1609999199,
+          "end": 1610603999,
           "start": 1535608800,
           "priority": 15,
           "category": "legend"
         }
       ],
       "priority": 80,
-      "timestamp": "1609316466000"
+      "timestamp": "1609832024000"
     },
     {
       "_id": 4,
@@ -249,7 +249,7 @@
         }
       ],
       "priority": 60,
-      "timestamp": "1607570821000"
+      "timestamp": "1609991612000"
     },
     {
       "_id": 6,
@@ -343,10 +343,10 @@
           "kind": "guild",
           "banner": [
             {
-              "start": 1607616000,
-              "end": 1608220799,
+              "start": 1610035200,
+              "end": 1610603999,
               "priority": 0,
-              "name": "BN_20201202_05.jpg",
+              "name": "BN_20201223_5.jpg",
               "url": "",
               "type": "TotalWar",
               "info_url": ""
@@ -364,14 +364,14 @@
           "icon": "Portal_Icon_Totalwar_00",
           "img": [
             {
-              "start": 1607616000,
-              "end": 1608220799,
-              "chara": "cha_2d_whole_07240"
+              "start": 1610035200,
+              "end": 1610603999,
+              "chara": "cha_2d_whole_11221"
             }
           ],
           "url": "",
-          "end": 1608220799,
-          "start": 1607616000,
+          "end": 1610603999,
+          "start": 1610035200,
           "priority": 0,
           "category": "game"
         },

@@ -1,5 +1,5 @@
 {
-  "deceive": 1608804132,
+  "deceive": 1610013277,
   "weaponlist": [
     {
       "id": 1,
@@ -25733,7 +25733,7 @@
     },
     {
       "id": 85982,
-      "name": "黃金的羽子板",
+      "name": "黃金羽子板",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -42282,7 +42282,7 @@
     {
       "evol_dst": 85982,
       "id": 85982,
-      "name": "黃金的羽子板",
+      "name": "黃金羽子板",
       "profile": "お正月メダルハント",
       "rank_limit": 2,
       "rarity": 5,
