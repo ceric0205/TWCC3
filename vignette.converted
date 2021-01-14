@@ -1,5 +1,5 @@
 {
-  "deceive": 1610014846,
+  "deceive": 1610616177,
   "vignette": [
     {
       "cid": 7015,
@@ -18,6 +18,24 @@
       "v_category": "explorer"
     },
     {
+      "cid": 9234,
+      "v_motionid": 2,
+      "bg": 41,
+      "memo": "為了慶祝新年，嗷嗚～！",
+      "start": 1550124000,
+      "end": 1611813600,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 36,
+        "place_id": 1
+      },
+      "priority": 100,
+      "min_rank": 1,
+      "max_rank": 270,
+      "v_category": "event_1",
+      "event_area_name": 39
+    },
+    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -34,40 +52,22 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7672,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "你看，很舒服對吧……？",
+      "cid": 9233,
+      "v_motionid": 0,
+      "bg": 41,
+      "memo": "這就是所謂的風流吧？",
       "start": 1522918800,
-      "end": 1610604000,
+      "end": 1611813600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "event",
         "gacha_id": 1
       },
       "priority": 50,
       "min_rank": 1,
       "max_rank": 260,
-      "v_category": "legend",
+      "v_category": "gacha",
       "event_area_name": null
-    },
-    {
-      "cid": 11225,
-      "v_motionid": 2,
-      "bg": 81,
-      "memo": "麻煩事給我滾開！",
-      "start": 1522918800,
-      "end": 1610604000,
-      "link": "unity:GoLegendArea",
-      "param": {
-        "area_id": 202,
-        "place_id": 1
-      },
-      "priority": 40,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "legend",
-      "event_area_name": 201
     },
     {
       "cid": 3,
