@@ -1,5 +1,5 @@
 {
-  "deceive": 1610615720,
+  "deceive": 1611219609,
   "weaponlist": [
     {
       "id": 1,
@@ -29644,6 +29644,51 @@
       "rank": 3,
       "skill": 30893117,
       "type": 1,
+      "equip_type": 5
+    },
+    {
+      "id": 95908,
+      "name": "西瓜氣球",
+      "type_atk": 1,
+      "attackMax": 15,
+      "type_cri": 2,
+      "criticalMax": 11,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon95908_body",
+      "rank": 3,
+      "skill": 30893316,
+      "type": 2,
+      "equip_type": 5
+    },
+    {
+      "id": 95909,
+      "name": "泳圈",
+      "type_atk": 1,
+      "attackMax": 10,
+      "type_cri": 2,
+      "criticalMax": 10,
+      "type_grd": 3,
+      "guardMax": 13,
+      "model": "weapon95909_body",
+      "rank": 3,
+      "skill": 30893413,
+      "type": 2,
+      "equip_type": 5
+    },
+    {
+      "id": 95910,
+      "name": "衝浪板",
+      "type_atk": 1,
+      "attackMax": 13,
+      "type_cri": 2,
+      "criticalMax": 13,
+      "type_grd": 3,
+      "guardMax": 7,
+      "model": "weapon95910_body",
+      "rank": 3,
+      "skill": 30893513,
+      "type": 2,
       "equip_type": 5
     }
   ],
