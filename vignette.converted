@@ -1,5 +1,5 @@
 {
-  "deceive": 1610616177,
+  "deceive": 1611824691,
   "vignette": [
     {
       "cid": 7015,
@@ -18,12 +18,12 @@
       "v_category": "explorer"
     },
     {
-      "cid": 9234,
+      "cid": 5208,
       "v_motionid": 2,
       "bg": 41,
-      "memo": "為了慶祝新年，嗷嗚～！",
+      "memo": "技能模仿……執行",
       "start": 1550124000,
-      "end": 1611813600,
+      "end": 1612332000,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 36,
@@ -33,7 +33,7 @@
       "min_rank": 1,
       "max_rank": 270,
       "v_category": "event_1",
-      "event_area_name": 39
+      "event_area_name": 29
     },
     {
       "cid": 7015,
@@ -52,12 +52,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 9233,
-      "v_motionid": 0,
+      "cid": 5205,
+      "v_motionid": 2,
       "bg": 41,
-      "memo": "這就是所謂的風流吧？",
+      "memo": "熾熱斬……點火！！",
       "start": 1522918800,
-      "end": 1611813600,
+      "end": 1612332000,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",

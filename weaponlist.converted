@@ -1,5 +1,5 @@
 {
-  "deceive": 1611219609,
+  "deceive": 1611824695,
   "weaponlist": [
     {
       "id": 1,
@@ -29658,7 +29658,7 @@
       "model": "weapon95908_body",
       "rank": 3,
       "skill": 30893316,
-      "type": 2,
+      "type": 1,
       "equip_type": 5
     },
     {
@@ -29673,7 +29673,7 @@
       "model": "weapon95909_body",
       "rank": 3,
       "skill": 30893413,
-      "type": 2,
+      "type": 1,
       "equip_type": 5
     },
     {
@@ -29688,7 +29688,7 @@
       "model": "weapon95910_body",
       "rank": 3,
       "skill": 30893513,
-      "type": 2,
+      "type": 1,
       "equip_type": 5
     }
   ],
@@ -47243,6 +47243,45 @@
       "evol_dst": 95904,
       "id": 95904,
       "name": "電腦螢幕",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95908,
+      "id": 95908,
+      "name": "西瓜氣球",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95909,
+      "id": 95909,
+      "name": "泳圈",
+      "profile": "",
+      "rank_limit": 2,
+      "rarity": 4,
+      "usable0": -1,
+      "usable1": -1,
+      "usable2": -1,
+      "ring": -1,
+      "material": 0
+    },
+    {
+      "evol_dst": 95910,
+      "id": 95910,
+      "name": "衝浪板",
       "profile": "",
       "rank_limit": 2,
       "rarity": 4,

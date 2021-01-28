@@ -1,5 +1,5 @@
 {
-  "deceive": 1609318687,
+  "deceive": 1611824708,
   "denju": [
     {
       "denju_id": 2,
@@ -15238,6 +15238,54 @@
       "sname": "我舊我驕傲",
       "stext": "【連擊/無敵/蓄力】（透過點擊/滑動來發動，蓄力中無法行動）在一定時間內自身變成無敵狀態。之後，對前方範圍內的所有敵人造成中度傷害，並使其跌倒且陷入暈眩/緩速/黑暗狀態。同時在一定時間內提升我方全體的攻擊力。此必殺技視蓄力時間決定威力，當蓄力達到最大時，追加擊退效果。此必殺技對人類造成的傷害增加。",
       "timestamp": "1608173659000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8933,
+      "develop_only": 0,
+      "patternid0": 30893300,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "貓科的平衡感",
+      "stext": "【地形變化】在一定時間內將地形變更為森林。之後，在一定時間內提升我方全體攻擊力、防禦力和移動速度。",
+      "timestamp": "1611656118000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8934,
+      "develop_only": 0,
+      "patternid0": 0,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 3,
+      "sname": "泳圈的安心感",
+      "stext": "在一定時間內提升我方全體攻擊力和防禦力。同時對我方全體進行可以超過HP上限的中幅恢復。",
+      "timestamp": "1611656118000",
+      "weaponChange": 1
+    },
+    {
+      "denju_id": 8935,
+      "develop_only": 0,
+      "patternid0": 30893500,
+      "patternid1": 0,
+      "patternid2": 0,
+      "patternid3": 0,
+      "patternid4": 0,
+      "patternid5": 0,
+      "patternid6": 0,
+      "scost": 1,
+      "sname": "水獺的個人空間",
+      "stext": "【歌】（效果中、自身無法移動）自身以外的我方夥伴攻擊力、防禦力和暴擊威力在一定時間內上升。",
+      "timestamp": "1611656118000",
       "weaponChange": 1
     }
   ],
