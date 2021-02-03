@@ -1,5 +1,5 @@
 {
-  "deceive": 1611824695,
+  "deceive": 1612348954,
   "weaponlist": [
     {
       "id": 1,
@@ -16778,7 +16778,7 @@
     },
     {
       "id": 85322,
-      "name": "卡・洛茲突刺",
+      "name": "卡・洛茲",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -24758,7 +24758,7 @@
     },
     {
       "id": 85916,
-      "name": "精選胡蘿蔔之槍",
+      "name": "嚴選卡・洛茲",
       "type_atk": 1,
       "attackMax": 20,
       "type_cri": 2,
@@ -36130,7 +36130,7 @@
     {
       "evol_dst": 85322,
       "id": 85322,
-      "name": "卡・洛茲突刺",
+      "name": "卡・洛茲",
       "profile": "サナオーリア初期武器",
       "rank_limit": 2,
       "rarity": 4,
@@ -41648,7 +41648,7 @@
     {
       "evol_dst": 85916,
       "id": 85916,
-      "name": "精選胡蘿蔔之槍",
+      "name": "嚴選卡・洛茲",
       "profile": "サナオーリア復刻記念",
       "rank_limit": 2,
       "rarity": 5,

@@ -143,11 +143,94 @@
           "tmp_interval": 600,
           "purchase": 1,
           "raid_item": -1,
+          "compose_up": 1,
           "review": 1
         },
         "cover": null,
-        "raid": null,
-        "totalwar": null,
+        "raid": {
+          "raid_id": 126,
+          "bg": 2000,
+          "event_start": 1612238400,
+          "event_end": 1613628000,
+          "close": 1613620800,
+          "name": "︽輝日的沁涼甜美歐貝爾襲來︾",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "8935",
+              "skill_id": "30893414",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 1,
+                "limit_break_2": 1.5,
+                "limit_break_3": 2,
+                "limit_break_4": 2.5
+              }
+            },
+            {
+              "cid": "8933",
+              "skill_id": "30893414",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 1,
+                "limit_break_2": 1.5,
+                "limit_break_3": 2,
+                "limit_break_4": 2.5
+              }
+            }
+          ],
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false,
+          "main_start": 1612767600,
+          "raid_area_quest": [
+            1000272,
+            1000273,
+            1000274,
+            1000275,
+            1000276,
+            1000277,
+            1000278,
+            1000279,
+            1000280,
+            1000281,
+            1000282,
+            1000283,
+            1000284,
+            1000285,
+            1000286,
+            1000287,
+            1000288,
+            1000289
+          ],
+          "reward_cid": 8934
+        },
+        "totalwar": {
+          "totalwar_id": 502,
+          "event_start": 1611849600,
+          "close": 1612454100,
+          "event_end": 1612454400,
+          "token_cnt_per_request": 100,
+          "banner_image": "210128_Totalwar_top",
+          "special_reward_icon": "special_reward_icon11221",
+          "start_cnt": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "close_interval": 10,
+          "first_border_ap": 10,
+          "event_days": 7,
+          "rest_border_ap": 30,
+          "reward_cid": 11221
+        },
         "subjugation": [],
         "expup": null,
         "weaponcompose": {
@@ -163,12 +246,12 @@
     }
   ],
   "mVer": {
-    "charainfo": 1611816396,
-    "weaponlist": 1611822827,
-    "skilllist": 1611645177,
+    "charainfo": 1612332430,
+    "weaponlist": 1612232621,
+    "skilllist": 1612246268,
     "worldinfo": 1607926632,
-    "episodeinfo": 1608790423,
-    "questdigest": 1611822834,
+    "episodeinfo": 1612332432,
+    "questdigest": 1612343295,
     "itemlist": 1593413532,
     "booklist": 1609989858,
     "motionlist": 1593413531,
@@ -193,25 +276,25 @@
     "enemyinfo": 1593413531,
     "casinoinfo": 1593413531,
     "uzuinfo": 1593413531,
-    "vignette": 1611819407,
+    "vignette": 1612338767,
     "spdrama": 1593413531,
-    "gachainfo": 1611641583,
+    "gachainfo": 1612240118,
     "questtree": 1611304670,
-    "eventareainfo": 1611642927,
+    "eventareainfo": 1612247966,
     "coverinfo": 1608257819,
     "towerinfo": 1606358172,
     "chropowerinfo": 1593413531,
     "sortieinfo": 1611306047,
-    "openseainfo": 1603873416,
+    "openseainfo": 1612332425,
     "speedruninfo": 1593413531,
     "heroicskilllist": 1611304670,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1611646913,
+    "eventPortal": 1612240115,
     "spquestinfo": 1606110643,
     "buffinfo": 1582597429,
     "totalfavor": 1593658801,
     "reload": 1500271199,
-    "servertime": 1611842536
+    "servertime": 1612349366
   }
 }

@@ -1,5 +1,5 @@
 {
-  "deceive": 1611824691,
+  "deceive": 1612348950,
   "vignette": [
     {
       "cid": 7015,
@@ -18,24 +18,6 @@
       "v_category": "explorer"
     },
     {
-      "cid": 5208,
-      "v_motionid": 2,
-      "bg": 41,
-      "memo": "技能模仿……執行",
-      "start": 1550124000,
-      "end": 1612332000,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 36,
-        "place_id": 1
-      },
-      "priority": 100,
-      "min_rank": 1,
-      "max_rank": 270,
-      "v_category": "event_1",
-      "event_area_name": 29
-    },
-    {
       "cid": 7015,
       "v_motionid": 0,
       "bg": 2002,
@@ -52,20 +34,38 @@
       "v_category": "favorite"
     },
     {
-      "cid": 5205,
+      "cid": 8935,
       "v_motionid": 2,
-      "bg": 41,
-      "memo": "熾熱斬……點火！！",
+      "bg": 5100,
+      "memo": "防曬可是不能少的",
+      "start": 1535608800,
+      "end": 1613628000,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 200,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 260,
+      "v_category": "raid",
+      "event_area_name": null
+    },
+    {
+      "cid": 8933,
+      "v_motionid": 2,
+      "bg": 5100,
+      "memo": "還是小事一樁啦",
       "start": 1522918800,
-      "end": 1612332000,
+      "end": 1613628000,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 50,
+      "priority": 10,
       "min_rank": 1,
-      "max_rank": 260,
+      "max_rank": 250,
       "v_category": "gacha",
       "event_area_name": null
     },
