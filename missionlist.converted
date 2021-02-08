@@ -1,5 +1,5 @@
 {
-  "deceive": 1611824690,
+  "deceive": 1612778490,
   "missionlist": [
     {
       "id": 1,
@@ -7086,6 +7086,176 @@
         "val": "1"
       },
       "help": "通過『瑟蕾斯蒂篇』第11章4-5「前進、不斷前進」！"
+    },
+    {
+      "id": 30893431,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關30次任務！",
+      "sub_id": "NewYear 001",
+      "max_num": 30,
+      "reward": {
+        "type": "card",
+        "id": "2254",
+        "val": "1"
+      },
+      "help": "通過30次任意關卡即可。"
+    },
+    {
+      "id": 30893432,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關60次任務！",
+      "sub_id": "NewYear 002",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85396",
+        "val": "1"
+      },
+      "help": "通過60次任意關卡即可。"
+    },
+    {
+      "id": 30893433,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關90次任務！",
+      "sub_id": "NewYear 003",
+      "max_num": 90,
+      "reward": {
+        "type": "item",
+        "id": "2",
+        "val": "1"
+      },
+      "help": "通過90次任意關卡即可。"
+    },
+    {
+      "id": 30893434,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關120次任務！",
+      "sub_id": "NewYear 004",
+      "max_num": 120,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "通過120次任意關卡即可。"
+    },
+    {
+      "id": 30893435,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關150次任務！",
+      "sub_id": "NewYear 005",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26217",
+        "val": "1"
+      },
+      "help": "通過150次任意關卡即可。"
+    },
+    {
+      "id": 30893436,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關180次任務！",
+      "sub_id": "NewYear 006",
+      "max_num": 180,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85916",
+        "val": "1"
+      },
+      "help": "通過180次任意關卡即可。"
+    },
+    {
+      "id": 30893437,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關210次任務！",
+      "sub_id": "NewYear 007",
+      "max_num": 210,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "通過210次任意關卡即可。"
+    },
+    {
+      "id": 30893438,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關240次任務！",
+      "sub_id": "NewYear 008",
+      "max_num": 240,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "1000"
+      },
+      "help": "通過240次任意關卡即可。"
+    },
+    {
+      "id": 30893439,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關270次任務！",
+      "sub_id": "NewYear 009",
+      "max_num": 270,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "29001",
+        "val": "1"
+      },
+      "help": "通過270次任意關卡即可。"
+    },
+    {
+      "id": 30893440,
+      "type": 1,
+      "start_time": 1612406866,
+      "end_time": 1613750399,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關300次任務！",
+      "sub_id": "NewYear 010",
+      "max_num": 300,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26216",
+        "val": "1"
+      },
+      "help": "通過300次任意關卡即可。"
     }
   ],
   "res": 0

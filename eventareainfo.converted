@@ -1,5 +1,5 @@
 {
-  "deceive": 1612348950,
+  "deceive": 1612779846,
   "event_area_info": [
     {
       "id": 2,
@@ -452,6 +452,19 @@
       ],
       "bgm": [
         "BGM_FIELD_NEWYEAR_01"
+      ]
+    },
+    {
+      "id": 18,
+      "bg": 201,
+      "priority": 5,
+      "area_id": 36,
+      "start": 1541469600,
+      "end": 1613628000,
+      "title": "牛年紀念獎勵任務",
+      "quest_list": [
+        1000297,
+        1000298
       ]
     }
   ],
@@ -2413,6 +2426,22 @@
         269705,
         269706,
         269707
+      ]
+    },
+    {
+      "event_area_id": 18,
+      "priority": 4,
+      "title": "年初運勢大挑戰",
+      "quest_list": [
+        1000297
+      ]
+    },
+    {
+      "event_area_id": 18,
+      "priority": 4,
+      "title": "天天拿好禮",
+      "quest_list": [
+        1000298
       ]
     }
   ],

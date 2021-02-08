@@ -1,5 +1,5 @@
 {
-  "deceive": 1611824708,
+  "deceive": 1612779879,
   "denju": [
     {
       "denju_id": 2,
@@ -15275,7 +15275,7 @@
     {
       "denju_id": 8935,
       "develop_only": 0,
-      "patternid0": 30893500,
+      "patternid0": 30893502,
       "patternid1": 0,
       "patternid2": 0,
       "patternid3": 0,
@@ -15285,7 +15285,7 @@
       "scost": 1,
       "sname": "水獺的個人空間",
       "stext": "【歌】（效果中、自身無法移動）自身以外的我方夥伴攻擊力、防禦力和暴擊威力在一定時間內上升。",
-      "timestamp": "1611656118000",
+      "timestamp": "1612517538000",
       "weaponChange": 1
     }
   ],
