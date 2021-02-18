@@ -1,5 +1,5 @@
 {
-  "deceive": 1612348950,
+  "deceive": 1613637186,
   "vignette": [
     {
       "cid": 7015,
@@ -34,12 +34,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 8935,
+      "cid": 7637,
       "v_motionid": 2,
       "bg": 5100,
-      "memo": "防曬可是不能少的",
+      "memo": "我可是相當靈活的喔～",
       "start": 1535608800,
-      "end": 1613628000,
+      "end": 1614823200,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 200,
@@ -52,12 +52,12 @@
       "event_area_name": null
     },
     {
-      "cid": 8933,
+      "cid": 7636,
       "v_motionid": 2,
       "bg": 5100,
-      "memo": "還是小事一樁啦",
+      "memo": "這也是修行的一環吧！",
       "start": 1522918800,
-      "end": 1613628000,
+      "end": 1614823200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
