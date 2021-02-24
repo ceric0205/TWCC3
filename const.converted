@@ -187,7 +187,7 @@
           "anger_atk_up": 2,
           "anger_battle_time": 30,
           "invalid_chropower": false,
-          "main_start": 1614157200,
+          "main_start": 1614063122,
           "raid_area_quest": [
             269901,
             269902,
@@ -221,7 +221,7 @@
     }
   ],
   "mVer": {
-    "charainfo": 1612766806,
+    "charainfo": 1614062118,
     "weaponlist": 1612232621,
     "skilllist": 1612770742,
     "worldinfo": 1607926632,
@@ -253,11 +253,11 @@
     "uzuinfo": 1593413531,
     "vignette": 1613629405,
     "spdrama": 1593413531,
-    "gachainfo": 1613617199,
+    "gachainfo": 1614063796,
     "questtree": 1611304670,
     "eventareainfo": 1612501401,
     "coverinfo": 1608257819,
-    "towerinfo": 1606358172,
+    "towerinfo": 1614069121,
     "chropowerinfo": 1593413531,
     "sortieinfo": 1611306047,
     "openseainfo": 1612332425,
@@ -265,11 +265,11 @@
     "heroicskilllist": 1611304670,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1613628964,
+    "eventPortal": 1614136853,
     "spquestinfo": 1606110643,
     "buffinfo": 1582597429,
     "totalfavor": 1593658801,
     "reload": 1500271199,
-    "servertime": 1613659285
+    "servertime": 1614174805
   }
 }
