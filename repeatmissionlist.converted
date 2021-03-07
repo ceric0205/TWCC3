@@ -1,6 +1,45 @@
 {
-  "deceive": 1597316101,
+  "deceive": 1614849456,
   "repeatmissionlist": [
+    {
+      "id": 201,
+      "type": 0,
+      "title": "派遣探索吧！",
+      "sub_id": "Explorer",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "3000"
+      },
+      "help": ""
+    },
+    {
+      "id": 202,
+      "type": 0,
+      "title": "扭轉蛋吧！",
+      "sub_id": "Gacha",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "11",
+        "val": "200"
+      },
+      "help": ""
+    },
+    {
+      "id": 203,
+      "type": 0,
+      "title": "過關任務吧！",
+      "sub_id": "Battle",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90903",
+        "val": "1"
+      },
+      "help": ""
+    },
     {
       "id": 0,
       "type": 0,
@@ -210,19 +249,6 @@
       "help": "將最後的敵人以僧侶打倒吧！"
     },
     {
-      "id": 101,
-      "type": 0,
-      "title": "通關3次任務！",
-      "sub_id": "Battle",
-      "max_num": 3,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90903",
-        "val": "1"
-      },
-      "help": ""
-    },
-    {
       "id": 15,
       "type": 0,
       "title": "裝備起魔類型的武器攻擊吧！",
@@ -338,6 +364,19 @@
         "val": "1000"
       },
       "help": "5回、收集戰鬥中的法珠3顆吧"
+    },
+    {
+      "id": 101,
+      "type": 0,
+      "title": "通關3次任務！",
+      "sub_id": "Battle",
+      "max_num": 3,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90903",
+        "val": "1"
+      },
+      "help": ""
     },
     {
       "id": 12,

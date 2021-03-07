@@ -1,5 +1,21 @@
 {
-  "deceive": 1608804147,
-  "cover_info": [],
+  "deceive": 1614849498,
+  "cover_info": [
+    {
+      "cover_id": 38,
+      "sp_cards": [
+        {
+          "cid": "6317",
+          "skillid": 38000002,
+          "pointid": 0
+        },
+        {
+          "cid": "6318",
+          "skillid": 38000002,
+          "pointid": 0
+        }
+      ]
+    }
+  ],
   "res": 0
 }

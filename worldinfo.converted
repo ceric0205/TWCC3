@@ -1,5 +1,5 @@
 {
-  "deceive": 1608195572,
+  "deceive": 1614849456,
   "area": [
     {
       "areaId": 1,
@@ -208,8 +208,8 @@
       "tex": "AreaMap0001",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 32,
@@ -223,8 +223,8 @@
       "tex": "AreaMap0011",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 33,
@@ -238,8 +238,8 @@
       "tex": "AreaMap0021",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 34,
@@ -253,8 +253,8 @@
       "tex": "AreaMap0031",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 35,
@@ -268,8 +268,8 @@
       "tex": "AreaMap0041",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 36,
@@ -283,8 +283,8 @@
       "tex": "AreaMap0051",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 38,
@@ -298,8 +298,8 @@
       "tex": "AreaMap0051",
       "timestamp": "1593413530134",
       "worldId": 5,
-      "xpos": -1,
-      "ypos": -1
+      "xpos": -10000,
+      "ypos": -10000
     },
     {
       "areaId": 101,
@@ -1032,6 +1032,51 @@
       "sy": 1300,
       "tex": "main_gui_AreaMap_01",
       "timestamp": "1593413530134",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1041,
+      "chara": 2,
+      "icon": "-1",
+      "name": "薄命大狩獵戰2",
+      "open": 0,
+      "rank": 0,
+      "sx": 2000,
+      "sy": 1000,
+      "tex": "main_gui_AreaMap_13",
+      "timestamp": "1598492995006",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1042,
+      "chara": 2,
+      "icon": "-1",
+      "name": "浴衣大狩獵",
+      "open": 0,
+      "rank": 0,
+      "sx": 1800,
+      "sy": 1300,
+      "tex": "main_gui_AreaMap_1042",
+      "timestamp": "1598492995006",
+      "worldId": -1,
+      "xpos": -1,
+      "ypos": -1
+    },
+    {
+      "areaId": 1043,
+      "chara": 2,
+      "icon": "-1",
+      "name": "副都大狩獵",
+      "open": 0,
+      "rank": 0,
+      "sx": 2560,
+      "sy": 2000,
+      "tex": "main_gui_AreaMap_1020",
+      "timestamp": "1598492995006",
       "worldId": -1,
       "xpos": -1,
       "ypos": -1
@@ -7923,6 +7968,258 @@
       "y": 120
     },
     {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "長老的聚落",
+      "placeId": 0,
+      "ver3_flag": 0,
+      "x": 60,
+      "y": 125
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 222,
+      "gacha": 0,
+      "icon": 24,
+      "name": "終焉的荒野",
+      "placeId": 1,
+      "ver3_flag": 0,
+      "x": 350,
+      "y": 240
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 220,
+      "gacha": 0,
+      "icon": 24,
+      "name": "偏僻之地",
+      "placeId": 2,
+      "ver3_flag": 0,
+      "x": 620,
+      "y": 230
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 222,
+      "gacha": 0,
+      "icon": 24,
+      "name": "鳥群的高地",
+      "placeId": 3,
+      "ver3_flag": 0,
+      "x": 840,
+      "y": 260
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 222,
+      "gacha": 0,
+      "icon": 24,
+      "name": "烏龜潛伏的高地",
+      "placeId": 4,
+      "ver3_flag": 0,
+      "x": -150,
+      "y": 25
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 219,
+      "gacha": 0,
+      "icon": 24,
+      "name": "透明沼澤",
+      "placeId": 5,
+      "ver3_flag": 0,
+      "x": -370,
+      "y": -30
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 113,
+      "bg": 219,
+      "gacha": 0,
+      "icon": 24,
+      "name": "深層沼澤",
+      "placeId": 6,
+      "ver3_flag": 0,
+      "x": -550,
+      "y": -100
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 35,
+      "gacha": 0,
+      "icon": 2003,
+      "name": "港口的祭典會場",
+      "placeId": 0,
+      "ver3_flag": 1,
+      "x": -140,
+      "y": 130
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 35,
+      "gacha": 0,
+      "icon": 2,
+      "name": "副都的祭典會場",
+      "placeId": 1,
+      "ver3_flag": 1,
+      "x": 130,
+      "y": 0
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 35,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "不屈的祭典會場",
+      "placeId": 2,
+      "ver3_flag": 1,
+      "x": 305,
+      "y": -295
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 58,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "傳來祭典聲的廢墟",
+      "placeId": 3,
+      "ver3_flag": 1,
+      "x": 685,
+      "y": -96
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 562,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "偏僻的祭典會場",
+      "placeId": 4,
+      "ver3_flag": 1,
+      "x": -350,
+      "y": 25
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 35,
+      "gacha": 0,
+      "icon": 2002,
+      "name": "有風的祭典會場",
+      "placeId": 5,
+      "ver3_flag": 1,
+      "x": -250,
+      "y": -310
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "bg": 519,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "城下的祭典會場",
+      "placeId": 6,
+      "ver3_flag": 1,
+      "x": -620,
+      "y": -90
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 42,
+      "gacha": 0,
+      "icon": 2,
+      "name": "副都",
+      "placeId": 0,
+      "ver3_flag": 1,
+      "x": -800,
+      "y": 300
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 61,
+      "gacha": 0,
+      "icon": 5004,
+      "name": "東城壁前",
+      "placeId": 1,
+      "ver3_flag": 1,
+      "x": -500,
+      "y": 300
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 3001,
+      "name": "異形潛藏的森林",
+      "placeId": 2,
+      "ver3_flag": 1,
+      "x": -370,
+      "y": -30
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 58,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "異形的盤據地",
+      "placeId": 3,
+      "ver3_flag": 1,
+      "x": 100,
+      "y": 270
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 61,
+      "gacha": 0,
+      "icon": 5004,
+      "name": "西南城壁前",
+      "placeId": 4,
+      "ver3_flag": 1,
+      "x": -970,
+      "y": 120
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "軍團的盤據地",
+      "placeId": 5,
+      "ver3_flag": 1,
+      "x": -350,
+      "y": -350
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "bg": 53,
+      "gacha": 0,
+      "icon": 2001,
+      "name": "軍團的藏匿處",
+      "placeId": 6,
+      "ver3_flag": 1,
+      "x": 400,
+      "y": -350
+    },
+    {
       "areaId": 9999,
       "battleBg": 1,
       "bg": 50,
@@ -10756,6 +11053,132 @@
       "from": 8,
       "timestamp": "1593413530134",
       "to": 9
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1598493361301",
+      "to": 1
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1598493361301",
+      "to": 2
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1598493361301",
+      "to": 3
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1598493361301",
+      "to": 4
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1598493361301",
+      "to": 5
+    },
+    {
+      "areaId": 1041,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1598493361301",
+      "to": 6
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1598493361301",
+      "to": 1
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1598493361301",
+      "to": 2
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1598493361301",
+      "to": 3
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1598493361301",
+      "to": 4
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1598493361301",
+      "to": 5
+    },
+    {
+      "areaId": 1042,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1598493361301",
+      "to": 6
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1598493361301",
+      "to": 1
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "from": 1,
+      "timestamp": "1598493361301",
+      "to": 2
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "from": 2,
+      "timestamp": "1598493361301",
+      "to": 3
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "from": 0,
+      "timestamp": "1598493361301",
+      "to": 4
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "from": 4,
+      "timestamp": "1598493361301",
+      "to": 5
+    },
+    {
+      "areaId": 1043,
+      "battleBg": 1,
+      "from": 5,
+      "timestamp": "1598493361301",
+      "to": 6
     }
   ],
   "place_bg": [
@@ -11766,6 +12189,30 @@
       "timestamp": "1603088645000",
       "x": 512,
       "y": 512
+    },
+    {
+      "id": 35,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1593574343649",
+      "x": 1217,
+      "y": 468
+    },
+    {
+      "id": 519,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1593574343649",
+      "x": 1217,
+      "y": 468
+    },
+    {
+      "id": 562,
+      "ofs_x": 0,
+      "ofs_y": 0,
+      "timestamp": "1593574343649",
+      "x": 1217,
+      "y": 468
     }
   ],
   "world": [

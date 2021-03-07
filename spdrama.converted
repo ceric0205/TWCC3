@@ -1,5 +1,5 @@
 {
-  "deceive": 1597316108,
+  "deceive": 1614849472,
   "sp_drama_list": [
     {
       "drama_id": 2,
@@ -857,6 +857,102 @@
       "hero": 0,
       "start": 1582250400,
       "title": "決戰篇章『精靈島篇』&決戰Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 112,
+      "end": 1584410399,
+      "hero": 0,
+      "start": 1583805600,
+      "title": "決戰篇章『沙漠湖都篇』&決戰Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 113,
+      "end": 1585533599,
+      "hero": 0,
+      "start": 1584410400,
+      "title": "『受讚頌者 二人的白皇』合作活動正式開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 114,
+      "end": 1586829599,
+      "hero": 5,
+      "start": 1586224800,
+      "title": "絕佳拍檔祭開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 115,
+      "end": 1591235999,
+      "hero": 2,
+      "start": 1590559200,
+      "title": "賢者之塔12章&BRAVE慶祝活動",
+      "trigger": 3
+    },
+    {
+      "drama_id": 117,
+      "end": 1592445599,
+      "hero": 2,
+      "start": 1591236000,
+      "title": "決戰篇章『賢者之塔篇』&決戰Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 116,
+      "end": 1593395999,
+      "hero": 0,
+      "start": 1592445600,
+      "title": "『新櫻花大戰 the Animation』合作活動開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 118,
+      "end": 1594691999,
+      "hero": 0,
+      "start": 1593410400,
+      "title": "決戰篇章『聖都篇』&決戰Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 119,
+      "end": 1594346399,
+      "hero": 1,
+      "start": 1594000800,
+      "title": "『赫利歐斯篇』第12章公開＆「BRAVE Fes.」開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 120,
+      "end": 1595987999,
+      "hero": 0,
+      "start": 1594951200,
+      "title": "決戰篇章『副都篇』&決戰Fes.開始！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 121,
+      "end": 1597802399,
+      "hero": 0,
+      "start": 1595397600,
+      "title": "祝！鎖鏈戰記7周年！",
+      "trigger": 3
+    },
+    {
+      "drama_id": 122,
+      "end": 1596679199,
+      "hero": 0,
+      "start": 1595988000,
+      "title": "7周年的誠摯感謝",
+      "trigger": 3
+    },
+    {
+      "drama_id": 123,
+      "end": 1600307999,
+      "hero": 1,
+      "start": 1598925600,
+      "title": "『最終章・上』公開！＆「英傑Fes.」開始！",
       "trigger": 3
     }
   ],

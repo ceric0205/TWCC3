@@ -1,5 +1,5 @@
 {
-  "deceive": 1613637186,
+  "deceive": 1614849469,
   "vignette": [
     {
       "cid": 7015,
@@ -34,39 +34,39 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7637,
+      "cid": 6318,
       "v_motionid": 2,
-      "bg": 5100,
-      "memo": "我可是相當靈活的喔～",
-      "start": 1535608800,
-      "end": 1614823200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 260,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 7636,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "這也是修行的一環吧！",
+      "bg": 41,
+      "memo": "我的侍奉可是與眾不同的！",
       "start": 1522918800,
-      "end": 1614823200,
+      "end": 1616047200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 10,
+      "priority": 50,
       "min_rank": 1,
-      "max_rank": 250,
+      "max_rank": 260,
       "v_category": "gacha",
+      "event_area_name": null
+    },
+    {
+      "cid": 6317,
+      "v_motionid": 2,
+      "bg": 41,
+      "memo": "因為我也是大人了是也……",
+      "start": 1550124000,
+      "end": 1616047200,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1040,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 270,
+      "v_category": "cover",
       "event_area_name": null
     },
     {

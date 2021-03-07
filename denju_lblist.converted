@@ -1,0 +1,156 @@
+{
+  "deceive": 1614849456,
+  "denju_limit_break_info": [
+    {
+      "cid": 9229,
+      "denju_limit_break": [
+        {
+          "lv": "",
+          "patternid0": 30922902,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・稱讚美妙",
+          "stext": "【連擊】給予衝刺範圍上的所有敵人8次傷害並追加彈飛效果後，返回原位置。之後，於一定時間內增加我方全體成員的攻擊力和防禦力。若我方為戰士，暴擊發生率也於一定時間內上升。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30922902,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・稱讚美妙",
+          "stext": "【連擊】給予衝刺範圍上的所有敵人8次傷害並追加彈飛效果後，返回原位置。之後，於一定時間內增加我方全體成員的攻擊力和防禦力。若我方為戰士，暴擊發生率也於一定時間內上升。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30922902,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・稱讚美妙",
+          "stext": "【連擊】給予衝刺範圍上的所有敵人8次傷害並追加彈飛效果後，返回原位置。之後，於一定時間內增加我方全體成員的攻擊力和防禦力。若我方為戰士，暴擊發生率也於一定時間內上升。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30922902,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・稱讚美妙",
+          "stext": "【連擊】給予衝刺範圍上的所有敵人8次傷害並追加彈飛效果後，返回原位置。之後，於一定時間內增加我方全體成員的攻擊力和防禦力。若我方為戰士，暴擊發生率也於一定時間內上升。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30922903,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "稱讚美妙",
+          "stext": "【連擊】給予衝刺範圍上的所有敵人8次傷害並追加彈飛效果後，返回原位置。之後，於一定時間內增加我方全體成員的攻擊力和防禦力。我方的戰士也會於一定時間內，增加暴擊發生率和暴擊威力。",
+          "weaponChange": 1
+        }
+      ]
+    },
+    {
+      "cid": 12223,
+      "denju_limit_break": [
+        {
+          "lv": "",
+          "patternid0": 31222304,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・飛燕翔破陣",
+          "stext": "【連擊】朝天空發射5發砲彈，每隔一段時間隨機給予1名敵人及其周圍少量傷害。之後，給予前方範圍內的所有敵人少量傷害，並造成暈眩效果。且於一定時間內，增加我方全體成員的攻擊力和防禦力。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31222304,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・飛燕翔破陣",
+          "stext": "【連擊】朝天空發射5發砲彈，每隔一段時間隨機給予1名敵人及其周圍少量傷害。之後，給予前方範圍內的所有敵人少量傷害，並造成暈眩效果。且於一定時間內，增加我方全體成員的攻擊力和防禦力。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31222304,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・飛燕翔破陣",
+          "stext": "【連擊】朝天空發射5發砲彈，每隔一段時間隨機給予1名敵人及其周圍少量傷害。之後，給予前方範圍內的所有敵人少量傷害，並造成暈眩效果。且於一定時間內，增加我方全體成員的攻擊力和防禦力。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31222304,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "複製・飛燕翔破陣",
+          "stext": "【連擊】朝天空發射5發砲彈，每隔一段時間隨機給予1名敵人及其周圍少量傷害。之後，給予前方範圍內的所有敵人少量傷害，並造成暈眩效果。且於一定時間內，增加我方全體成員的攻擊力和防禦力。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31222305,
+          "patternid1": 31222306,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "飛燕翔破陣",
+          "stext": "【連擊】朝天空發射5發砲彈，每隔一段時間隨機給予1名敵人及其周圍少量傷害。之後，給予前方範圍內的所有敵人中等傷害，並造成暈眩效果。且於一定時間內，增加我方全體成員的攻擊力和防禦力。持有碎片時，賦予我方全體的效果上升。",
+          "weaponChange": 1
+        }
+      ]
+    }
+  ],
+  "res": 0
+}
