@@ -1,5 +1,5 @@
 {
-  "deceive": 1614849470,
+  "deceive": 1615451369,
   "missionlist": [
     {
       "id": 1,
@@ -6896,6 +6896,260 @@
         "val": "10"
       },
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
+    },
+    {
+      "id": 4467,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303031
+      ],
+      "tab_id": 2,
+      "title": "抵達「第三領」！",
+      "sub_id": "Event 01",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90904",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4468,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303033
+      ],
+      "tab_id": 2,
+      "title": "抵達「第四領」！",
+      "sub_id": "Event 02",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85992",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4469,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303035
+      ],
+      "tab_id": 2,
+      "title": "抵達「第五領」！",
+      "sub_id": "Event 03",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90905",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4470,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303037
+      ],
+      "tab_id": 2,
+      "title": "抵達「第六領」！",
+      "sub_id": "Event 04",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85993",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4471,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303039
+      ],
+      "tab_id": 2,
+      "title": "抵達「第一領」！",
+      "sub_id": "Event 05",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85994",
+        "val": "1"
+      },
+      "help": "讓劇情進行抵達新據點吧！"
+    },
+    {
+      "id": 4472,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用戰士50次",
+      "sub_id": "Event 06",
+      "max_num": 50,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "將戰士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4473,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用戰士80次",
+      "sub_id": "Event 07",
+      "max_num": 80,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96264",
+        "val": "1"
+      },
+      "help": "將戰士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4474,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用戰士150次",
+      "sub_id": "Event 08",
+      "max_num": 150,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85999",
+        "val": "1"
+      },
+      "help": "將戰士角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4475,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用魔法師30次！",
+      "sub_id": "Event 09",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4476,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用魔法師60次！",
+      "sub_id": "Event 10",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96266",
+        "val": "1"
+      },
+      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4477,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "使用魔法師100次！",
+      "sub_id": "Event 11",
+      "max_num": 100,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "96265",
+        "val": "1"
+      },
+      "help": "將魔法師角色編入隊伍戰鬥吧！\\n幫手和替補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4478,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303071
+      ],
+      "tab_id": 2,
+      "title": "【EX】以＜斬＞類型武器給予最後一擊！",
+      "sub_id": "Extra 01",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85999",
+        "val": "1"
+      },
+      "help": "使用＜斬＞類型武器打倒\\n「【EX】操控戰爭」最後的敵人吧！"
+    },
+    {
+      "id": 4479,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303072
+      ],
+      "tab_id": 2,
+      "title": "【EX】達成全戰鬥獎勵吧！",
+      "sub_id": "Extra 02",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85993",
+        "val": "1"
+      },
+      "help": "在「【EX】操控戰爭」中\\n同時達成所有戰鬥獎勵吧！"
+    },
+    {
+      "id": 4480,
+      "type": 1,
+      "start_time": 1581645600,
+      "end_time": 1616133600,
+      "quest_id": [
+        303072
+      ],
+      "tab_id": 2,
+      "title": "【EX】不接關通過關卡！",
+      "sub_id": "Extra 03",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "不接關通過任務\\n「【EX】操控戰爭」吧！"
     }
   ],
   "res": 0
