@@ -1,5 +1,5 @@
 {
-  "deceive": 1614849469,
+  "deceive": 1616064716,
   "vignette": [
     {
       "cid": 7015,
@@ -34,12 +34,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 6318,
+      "cid": 5299,
       "v_motionid": 2,
-      "bg": 41,
-      "memo": "我的侍奉可是與眾不同的！",
+      "bg": 31,
+      "memo": "為了所有未來！",
       "start": 1522918800,
-      "end": 1616047200,
+      "end": 1616652000,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -49,24 +49,6 @@
       "min_rank": 1,
       "max_rank": 260,
       "v_category": "gacha",
-      "event_area_name": null
-    },
-    {
-      "cid": 6317,
-      "v_motionid": 2,
-      "bg": 41,
-      "memo": "因為我也是大人了是也……",
-      "start": 1550124000,
-      "end": 1616047200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1040,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 270,
-      "v_category": "cover",
       "event_area_name": null
     },
     {
