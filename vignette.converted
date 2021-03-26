@@ -1,5 +1,5 @@
 {
-  "deceive": 1616064716,
+  "deceive": 1616741241,
   "vignette": [
     {
       "cid": 7015,
@@ -34,20 +34,20 @@
       "v_category": "favorite"
     },
     {
-      "cid": 5299,
+      "cid": 4207,
       "v_motionid": 2,
-      "bg": 31,
-      "memo": "為了所有未來！",
+      "bg": 21,
+      "memo": "反覆練習到成為自己的血肉為止",
       "start": 1522918800,
-      "end": 1616652000,
+      "end": 1617256800,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 50,
+      "priority": 20,
       "min_rank": 1,
-      "max_rank": 260,
+      "max_rank": 300,
       "v_category": "gacha",
       "event_area_name": null
     },
