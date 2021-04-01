@@ -1,5 +1,18 @@
 {
-  "deceive": 1614849457,
-  "event_badge": [],
+  "deceive": 1617275657,
+  "event_badge": [
+    {
+      "position": 2,
+      "start": 1580522400,
+      "end": 1617465600,
+      "text": "期間限定"
+    },
+    {
+      "position": 203,
+      "start": 1580522400,
+      "end": 1617465600,
+      "text": "期間限定"
+    }
+  ],
   "res": 0
 }

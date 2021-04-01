@@ -1,5 +1,51 @@
 {
-  "deceive": 1614849477,
-  "weapon_compose_event": [],
+  "deceive": 1617275441,
+  "weapon_compose_event": [
+    {
+      "event_id": 27,
+      "start": 1585666800,
+      "end": 1617465600,
+      "event_type": 16,
+      "text": "",
+      "collabo": {
+        "border_quest_check": true,
+        "date_show_flag": true,
+        "img_name": "",
+        "first_message": "",
+        "hit_message": "",
+        "hit_voice": ""
+      },
+      "recipe": [
+        {
+          "target_id": 0,
+          "data": {
+            "weapon_id": 86020,
+            "priority": 100,
+            "material": [
+              86021,
+              86021,
+              86021,
+              86021,
+              86021
+            ]
+          }
+        },
+        {
+          "target_id": 1,
+          "data": {
+            "weapon_id": 86019,
+            "priority": 90,
+            "material": [
+              86020,
+              86020,
+              86020,
+              86020,
+              86020
+            ]
+          }
+        }
+      ]
+    }
+  ],
   "res": 0
 }

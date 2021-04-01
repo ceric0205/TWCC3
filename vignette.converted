@@ -1,5 +1,5 @@
 {
-  "deceive": 1616741241,
+  "deceive": 1617275438,
   "vignette": [
     {
       "cid": 7015,
@@ -34,15 +34,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4207,
+      "cid": 4307,
       "v_motionid": 2,
       "bg": 21,
-      "memo": "反覆練習到成為自己的血肉為止",
+      "memo": "一起演奏最棒的曲子~來，開始吧！",
       "start": 1522918800,
-      "end": 1617256800,
+      "end": 1617861600,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
+        "type": "story",
         "gacha_id": 1
       },
       "priority": 20,
