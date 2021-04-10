@@ -1,5 +1,5 @@
 {
-  "deceive": 1617275438,
+  "deceive": 1617963310,
   "vignette": [
     {
       "cid": 7015,
@@ -34,15 +34,15 @@
       "v_category": "favorite"
     },
     {
-      "cid": 4307,
-      "v_motionid": 2,
-      "bg": 21,
-      "memo": "一起演奏最棒的曲子~來，開始吧！",
+      "cid": 327,
+      "v_motionid": 0,
+      "bg": 2,
+      "memo": "讓我教你暗殺的守則吧",
       "start": 1522918800,
-      "end": 1617861600,
+      "end": 1618470000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "story",
+        "type": "legend",
         "gacha_id": 1
       },
       "priority": 20,

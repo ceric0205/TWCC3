@@ -1,17 +1,17 @@
 {
-  "deceive": 1617275657,
+  "deceive": 1617963299,
   "event_badge": [
     {
-      "position": 2,
+      "position": 1,
       "start": 1580522400,
-      "end": 1617465600,
-      "text": "期間限定"
+      "end": 1619676000,
+      "text": "大成功UP"
     },
     {
-      "position": 203,
+      "position": 102,
       "start": 1580522400,
-      "end": 1617465600,
-      "text": "期間限定"
+      "end": 1619676000,
+      "text": "大成功UP"
     }
   ],
   "res": 0
