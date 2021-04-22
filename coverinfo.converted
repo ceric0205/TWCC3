@@ -1,5 +1,22 @@
 {
-  "deceive": 1616064738,
-  "cover_info": [],
+  "deceive": 1619081846,
+  "cover_info": [
+    {
+      "cover_id": 39,
+      "meta_quest_list": [],
+      "sp_cards": [
+        {
+          "cid": "10204",
+          "skillid": 38000001,
+          "pointid": 1
+        },
+        {
+          "cid": "10207",
+          "skillid": 38000001,
+          "pointid": 2
+        }
+      ]
+    }
+  ],
   "res": 0
 }

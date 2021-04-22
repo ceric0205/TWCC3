@@ -1,5 +1,5 @@
 {
-  "deceive": 1618480444,
+  "deceive": 1619081817,
   "vignette": [
     {
       "cid": 7015,
@@ -34,21 +34,39 @@
       "v_category": "favorite"
     },
     {
-      "cid": 7680,
+      "cid": 10204,
       "v_motionid": 0,
-      "bg": 2,
-      "memo": "先來準備食材！",
+      "bg": 91,
+      "memo": "這是我們的生存之道",
       "start": 1522918800,
-      "end": 1619074800,
+      "end": 1620280800,
       "link": "unity:GoGacha",
       "param": {
-        "type": "legend",
+        "type": "event",
         "gacha_id": 1
       },
-      "priority": 20,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 300,
-      "v_category": "gacha",
+      "v_category": "legend",
+      "event_area_name": null
+    },
+    {
+      "cid": 10207,
+      "v_motionid": 2,
+      "bg": 91,
+      "memo": "夢想要夠～大",
+      "start": 1522918800,
+      "end": 1620280800,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1041,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 300,
+      "v_category": "mopup",
       "event_area_name": null
     },
     {
