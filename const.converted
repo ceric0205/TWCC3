@@ -144,7 +144,6 @@
           "tmp_interval": 600,
           "purchase": 1,
           "raid_item": -1,
-          "compose_up": 1,
           "review": 1
         },
         "cover": {
@@ -154,9 +153,9 @@
           "area_id": 1041,
           "dist_start": 1586829600,
           "event_start": 1586829600,
-          "main_start": 1619679600,
-          "event_end": 1620280800,
-          "dist_end": 1620280800,
+          "main_start": 1619594786,
+          "event_end": 1620878400,
+          "dist_end": 1620885600,
           "bgm": "BGM_FIELD_MOPUP_01",
           "point_list": {
             "point1": {
@@ -208,11 +207,11 @@
   ],
   "mVer": {
     "charainfo": 1618459547,
-    "weaponlist": 1616048781,
-    "skilllist": 1619075701,
+    "weaponlist": 1619598892,
+    "skilllist": 1619598894,
     "worldinfo": 1607926632,
     "episodeinfo": 1612332433,
-    "questdigest": 1619075274,
+    "questdigest": 1619597901,
     "itemlist": 1593413532,
     "booklist": 1615877821,
     "motionlist": 1599615956,
@@ -236,14 +235,14 @@
     "questroute": 1616482949,
     "enemyinfo": 1593413531,
     "casinoinfo": 1593413531,
-    "uzuinfo": 1618479456,
-    "vignette": 1619072636,
+    "uzuinfo": 1619689219,
+    "vignette": 1619671218,
     "spdrama": 1598848644,
-    "gachainfo": 1618988018,
+    "gachainfo": 1619671337,
     "questtree": 1616482949,
-    "eventareainfo": 1618368797,
-    "coverinfo": 1619072636,
-    "towerinfo": 1616571246,
+    "eventareainfo": 1619594787,
+    "coverinfo": 1619671334,
+    "towerinfo": 1619678226,
     "chropowerinfo": 1593413531,
     "sortieinfo": 1616557239,
     "openseainfo": 1615175151,
@@ -251,7 +250,7 @@
     "heroicskilllist": 1611304670,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1619072331,
+    "eventPortal": 1619671334,
     "spquestinfo": 1606110643,
     "buffinfo": 1592796196,
     "totalfavor": 1593658801,
@@ -259,6 +258,6 @@
     "extra_ability": 1596071259,
     "denju_limit_break": 1596113771,
     "reload": 1500271199,
-    "servertime": 1619100018
+    "servertime": 1619965137
   }
 }

@@ -1,5 +1,5 @@
 {
-  "deceive": 1619081817,
+  "deceive": 1619691033,
   "vignette": [
     {
       "cid": 7015,
@@ -39,7 +39,7 @@
       "bg": 91,
       "memo": "這是我們的生存之道",
       "start": 1522918800,
-      "end": 1620280800,
+      "end": 1620885600,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -57,7 +57,7 @@
       "bg": 91,
       "memo": "夢想要夠～大",
       "start": 1522918800,
-      "end": 1620280800,
+      "end": 1620885600,
       "link": "unity:GoSpecifiedArea",
       "param": {
         "area_id": 1041,
