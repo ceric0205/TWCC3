@@ -146,50 +146,65 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 39,
-          "is_mop_up": true,
-          "name": "宿命與未來",
-          "area_id": 1041,
-          "dist_start": 1586829600,
-          "event_start": 1586829600,
-          "main_start": 1619594786,
-          "event_end": 1620878400,
-          "dist_end": 1620885600,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "鳥的羽毛",
-              "icon": "Item_MopUp_09_A",
-              "target_enemy_id": "335453",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335454",
-              "rare_target_point_val": "80"
+        "cover": null,
+        "raid": {
+          "raid_id": 41,
+          "bg": 2000,
+          "event_start": 1591840800,
+          "event_end": 1622088000,
+          "close": 1622095200,
+          "name": "莉布菈碧絲襲來",
+          "full_time": 130,
+          "part_time": 90,
+          "sp_cards": [
+            {
+              "cid": "2272",
+              "skill_id": "30068",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 1,
+                "limit_break_2": 1.5,
+                "limit_break_3": 2,
+                "limit_break_4": 2.5
+              }
             },
-            "point2": {
-              "name": "龜殼碎片",
-              "icon": "Item_MopUp_09_B",
-              "target_enemy_id": "335453",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "335454",
-              "rare_target_point_val": "80"
+            {
+              "cid": "2317",
+              "skill_id": "30068",
+              "lb_coin_rate_map": {
+                "limit_break_0": 0.5,
+                "limit_break_1": 1,
+                "limit_break_2": 1.5,
+                "limit_break_3": 2,
+                "limit_break_4": 2.5
+              }
             }
-          },
-          "info_list": [
-            "Tutorial_MopUp_09_01",
-            "Tutorial_MopUp_09_02",
-            "Tutorial_MopUp_09_03",
-            "Tutorial_MopUp_09_04"
           ],
-          "rush": {
-            "rate": 0.15,
-            "validcnt": 1,
-            "text": "目標怪物大量發生！",
-            "bgm": 13
-          },
-          "reward_cid": 10205
+          "full_pirica_time": 13,
+          "part_pirica_time": 22,
+          "hp_up": 3,
+          "atk_up": 3,
+          "anger_hp_up": 2,
+          "anger_atk_up": 2,
+          "anger_battle_time": 30,
+          "invalid_chropower": false,
+          "main_start": 1621494000,
+          "raid_area_quest": [
+            271401,
+            271402,
+            271403,
+            271404,
+            271405,
+            271407,
+            271408,
+            271409,
+            271410,
+            271411,
+            271412,
+            271406
+          ],
+          "reward_cid": 7555
         },
-        "raid": null,
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -206,22 +221,22 @@
     }
   ],
   "mVer": {
-    "charainfo": 1620182403,
+    "charainfo": 1620889684,
     "weaponlist": 1619598892,
-    "skilllist": 1619598894,
+    "skilllist": 1620889683,
     "worldinfo": 1607926632,
     "episodeinfo": 1612332433,
-    "questdigest": 1620267779,
+    "questdigest": 1620889688,
     "itemlist": 1593413532,
     "booklist": 1615877821,
     "motionlist": 1599615956,
     "missionlist": 1617760263,
     "repeatmissionlist": 1593413532,
-    "bossinfo": 1620267770,
+    "bossinfo": 1620357806,
     "battleinfo": 1593413531,
     "homelist": 1593413531,
     "runelist": 1596788885,
-    "supporterskill": 1618214396,
+    "supporterskill": 1620357808,
     "subjugationexpeditioninfo": 1,
     "explorerinfo": 1593413531,
     "explorerlocation": 1608791617,
@@ -231,14 +246,14 @@
     "various": 1594866447,
     "eventplace": 1593413531,
     "eventbadge": 1617781298,
-    "denju": 1618214394,
+    "denju": 1620357806,
     "questroute": 1616482949,
     "enemyinfo": 1593413531,
     "casinoinfo": 1593413531,
-    "uzuinfo": 1619689219,
-    "vignette": 1619671218,
+    "uzuinfo": 1620874215,
+    "vignette": 1620874215,
     "spdrama": 1598848644,
-    "gachainfo": 1620207150,
+    "gachainfo": 1620874292,
     "questtree": 1616482949,
     "eventareainfo": 1620207147,
     "coverinfo": 1619671334,
@@ -250,7 +265,7 @@
     "heroicskilllist": 1620267770,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1620274229,
+    "eventPortal": 1620888996,
     "spquestinfo": 1606110643,
     "buffinfo": 1592796196,
     "totalfavor": 1593658801,
@@ -258,6 +273,6 @@
     "extra_ability": 1596071259,
     "denju_limit_break": 1596113771,
     "reload": 1500271199,
-    "servertime": 1620305573
+    "servertime": 1621006892
   }
 }
