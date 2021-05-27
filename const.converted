@@ -147,64 +147,7 @@
           "review": 1
         },
         "cover": null,
-        "raid": {
-          "raid_id": 41,
-          "bg": 2000,
-          "event_start": 1591840800,
-          "event_end": 1622095200,
-          "close": 1622088000,
-          "name": "莉布菈碧絲襲來",
-          "full_time": 130,
-          "part_time": 90,
-          "sp_cards": [
-            {
-              "cid": "2272",
-              "skill_id": "30068",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0.5,
-                "limit_break_1": 1,
-                "limit_break_2": 1.5,
-                "limit_break_3": 2,
-                "limit_break_4": 2.5
-              }
-            },
-            {
-              "cid": "2317",
-              "skill_id": "30068",
-              "lb_coin_rate_map": {
-                "limit_break_0": 0.5,
-                "limit_break_1": 1,
-                "limit_break_2": 1.5,
-                "limit_break_3": 2,
-                "limit_break_4": 2.5
-              }
-            }
-          ],
-          "full_pirica_time": 13,
-          "part_pirica_time": 22,
-          "hp_up": 3,
-          "atk_up": 3,
-          "anger_hp_up": 2,
-          "anger_atk_up": 2,
-          "anger_battle_time": 30,
-          "invalid_chropower": false,
-          "main_start": 1621310400,
-          "raid_area_quest": [
-            271401,
-            271402,
-            271403,
-            271404,
-            271405,
-            271407,
-            271408,
-            271409,
-            271410,
-            271411,
-            271412,
-            271406
-          ],
-          "reward_cid": 7555
-        },
+        "raid": null,
         "totalwar": null,
         "subjugation": [],
         "expup": null,
@@ -221,16 +164,16 @@
     }
   ],
   "mVer": {
-    "charainfo": 1621328530,
+    "charainfo": 1622014264,
     "weaponlist": 1619598892,
     "skilllist": 1621322114,
     "worldinfo": 1607926632,
     "episodeinfo": 1612332433,
-    "questdigest": 1621393955,
+    "questdigest": 1622080308,
     "itemlist": 1593413532,
     "booklist": 1615877821,
     "motionlist": 1599615956,
-    "missionlist": 1617760263,
+    "missionlist": 1621907226,
     "repeatmissionlist": 1593413532,
     "bossinfo": 1620357806,
     "battleinfo": 1593413531,
@@ -247,25 +190,25 @@
     "eventplace": 1593413531,
     "eventbadge": 1621401680,
     "denju": 1620357806,
-    "questroute": 1616482949,
+    "questroute": 1622014259,
     "enemyinfo": 1593413531,
     "casinoinfo": 1593413531,
-    "uzuinfo": 1620874215,
-    "vignette": 1620874215,
+    "uzuinfo": 1622082151,
+    "vignette": 1622087244,
     "spdrama": 1598848644,
-    "gachainfo": 1621403919,
-    "questtree": 1616482949,
-    "eventareainfo": 1621332476,
+    "gachainfo": 1622024626,
+    "questtree": 1622014259,
+    "eventareainfo": 1622014259,
     "coverinfo": 1619671334,
-    "towerinfo": 1619678226,
+    "towerinfo": 1622081831,
     "chropowerinfo": 1593413531,
-    "sortieinfo": 1616557239,
+    "sortieinfo": 1622081831,
     "openseainfo": 1615175151,
     "speedruninfo": 1593413531,
     "heroicskilllist": 1620267770,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1621401680,
+    "eventPortal": 1622106070,
     "spquestinfo": 1606110643,
     "buffinfo": 1592796196,
     "totalfavor": 1593658801,
@@ -273,6 +216,6 @@
     "extra_ability": 1596071259,
     "denju_limit_break": 1596113771,
     "reload": 1500271199,
-    "servertime": 1621518428
+    "servertime": 1622122678
   }
 }

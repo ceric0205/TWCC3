@@ -1,5 +1,5 @@
 {
-  "deceive": 1620895784,
+  "deceive": 1622106780,
   "vignette": [
     {
       "cid": 7015,
@@ -14,7 +14,7 @@
       },
       "priority": 1000,
       "min_rank": 1,
-      "max_rank": 250,
+      "max_rank": 300,
       "v_category": "explorer"
     },
     {
@@ -34,39 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 2317,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "我的研究沒有弱點",
-      "start": 1535608800,
-      "end": 1622095200,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 300,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 2272,
+      "cid": 9217,
       "v_motionid": 0,
-      "bg": 5100,
-      "memo": "讓我當成研究材料吧",
+      "bg": 5271,
+      "memo": "要保持距離才看得到！",
       "start": 1522918800,
-      "end": 1622095200,
+      "end": 1622700000,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 10,
+      "priority": 50,
       "min_rank": 1,
       "max_rank": 300,
-      "v_category": "gacha",
+      "v_category": "legend",
       "event_area_name": null
     },
     {
@@ -83,7 +65,7 @@
       },
       "priority": 0,
       "min_rank": 1,
-      "max_rank": 250,
+      "max_rank": 300,
       "v_category": "event_1",
       "event_area_name": 2
     }
