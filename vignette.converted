@@ -1,5 +1,5 @@
 {
-  "deceive": 1622106780,
+  "deceive": 1623315401,
   "vignette": [
     {
       "cid": 7015,
@@ -34,12 +34,12 @@
       "v_category": "favorite"
     },
     {
-      "cid": 9217,
-      "v_motionid": 0,
-      "bg": 5271,
-      "memo": "要保持距離才看得到！",
+      "cid": 1287,
+      "v_motionid": 2,
+      "bg": 3,
+      "memo": "讓夏日清風搖曳袖子吧",
       "start": 1522918800,
-      "end": 1622700000,
+      "end": 1624514400,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
@@ -49,6 +49,24 @@
       "min_rank": 1,
       "max_rank": 300,
       "v_category": "legend",
+      "event_area_name": null
+    },
+    {
+      "cid": 1271,
+      "v_motionid": 2,
+      "bg": 3,
+      "memo": "像是煙火般華麗地綻放吧",
+      "start": 1522918800,
+      "end": 1624514400,
+      "link": "unity:GoSpecifiedArea",
+      "param": {
+        "area_id": 1042,
+        "place_id": 0
+      },
+      "priority": 30,
+      "min_rank": 1,
+      "max_rank": 300,
+      "v_category": "mopup",
       "event_area_name": null
     },
     {
