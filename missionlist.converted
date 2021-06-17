@@ -1,214 +1,197 @@
 {
-  "deceive": 1622106777,
+  "deceive": 1623920132,
   "missionlist": [
     {
-      "id": 4605,
+      "id": 4642,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
       "quest_id": [
-        332044
+        224501
       ],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第1章！",
-      "sub_id": "Main 01",
-      "max_num": 1,
+      "title": "閱讀決戰篇章聖都篇！1",
+      "sub_id": "Story 01",
+      "max_num": 2,
       "reward": {
         "type": "item",
-        "id": "1003",
-        "val": "1"
+        "id": "20",
+        "val": "100"
       },
-      "help": "通過『愛麗婕篇』第1章4-4\\n「乙型刻印者」！"
+      "help": "通過決戰篇章聖都\\n第一話「聖王國繼承」！"
     },
     {
-      "id": 4606,
+      "id": 4643,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
       "quest_id": [
-        332094
+        224502
       ],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第2章！",
-      "sub_id": "Main 02",
-      "max_num": 1,
+      "title": "閱讀決戰篇章聖都篇！2",
+      "sub_id": "Story 02",
+      "max_num": 2,
       "reward": {
         "type": "item",
-        "id": "1003",
-        "val": "1"
+        "id": "20",
+        "val": "100"
       },
-      "help": "通過『愛麗婕篇』第2章5-4\\n「歡迎來到弗羅思！」！"
+      "help": "通過決戰篇章聖都\\n第二話「父親的背影」！"
     },
     {
-      "id": 4607,
+      "id": 4644,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
       "quest_id": [
-        332144
+        224503
       ],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第3章！",
-      "sub_id": "Main 03",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "1"
-      },
-      "help": "通過『愛麗婕篇』第3章5-4\\n「為了保護大家」！"
-    },
-    {
-      "id": 4608,
-      "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
-      "quest_id": [
-        332185
-      ],
-      "tab_id": 1,
-      "title": "通過『愛麗婕篇』第4章！",
-      "sub_id": "Main 04",
-      "max_num": 1,
+      "title": "閱讀決戰篇章聖都篇！3",
+      "sub_id": "Story 03",
+      "max_num": 3,
       "reward": {
         "type": "item",
-        "id": "1003",
-        "val": "1"
+        "id": "20",
+        "val": "100"
       },
-      "help": "通過『愛麗婕篇』第4章4-5\\n「湖都的守護龍」！"
+      "help": "通過決戰篇章聖都\\n第三話「戴冠式之日」！"
     },
     {
-      "id": 4609,
+      "id": 4645,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
       "quest_id": [
-        332225
+        272405,
+        272406,
+        272407,
+        272408,
+        272409,
+        272410,
+        272411,
+        272412,
+        272413,
+        272414
       ],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第5章！",
-      "sub_id": "Main 05",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "1"
-      },
-      "help": "通過『愛麗婕篇』第5章4-5\\n「艾斯緹菈」！"
-    },
-    {
-      "id": 4610,
-      "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
-      "quest_id": [
-        332275
-      ],
-      "tab_id": 1,
-      "title": "通過『愛麗婕篇』第6章！",
-      "sub_id": "Main 06",
-      "max_num": 1,
+      "title": "通過聖都限定戰10次吧！",
+      "sub_id": "Battle 01",
+      "max_num": 10,
       "reward": {
         "type": "item",
-        "id": "1032",
-        "val": "1"
+        "id": "1",
+        "val": "2"
       },
-      "help": "通過『愛麗婕篇』第6章5-5\\n「再會，然後再會。」！"
+      "help": "通過指定的「聖都限定戰」！ \\n無論任何難度都列入計算對象！"
     },
     {
-      "id": 4611,
+      "id": 4646,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
       "quest_id": [
-        332325
+        272405,
+        272406,
+        272407,
+        272408,
+        272409,
+        272410,
+        272411,
+        272412,
+        272413,
+        272414
       ],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第8章！",
-      "sub_id": "Main 07",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "1"
-      },
-      "help": "通過『愛麗婕篇』第8章5-5\\n「被奪走的刻印者」！"
-    },
-    {
-      "id": 4612,
-      "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
-      "quest_id": [
-        332363
-      ],
-      "tab_id": 1,
-      "title": "通過『愛麗婕篇』第9章！",
-      "sub_id": "Main 08",
-      "max_num": 1,
+      "title": "通過聖都限定戰20次吧！",
+      "sub_id": "Battle 02",
+      "max_num": 20,
       "reward": {
         "type": "item",
-        "id": "1032",
-        "val": "1"
+        "id": "20",
+        "val": "50"
       },
-      "help": "通過『愛麗婕篇』第9章4-3\\n「爆發的記憶」！"
+      "help": "通過指定的「聖都限定戰」！ \\n無論任何難度都列入計算對象！"
     },
     {
-      "id": 4613,
+      "id": 4647,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
       "quest_id": [
-        332404
+        272405,
+        272406,
+        272407,
+        272408,
+        272409,
+        272410,
+        272411,
+        272412,
+        272413,
+        272414
       ],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第10章！",
-      "sub_id": "Main 09",
-      "max_num": 1,
-      "reward": {
-        "type": "weapon_ev",
-        "id": "26258",
-        "val": "1"
-      },
-      "help": "通過『愛麗婕篇』第10章4-4\\n「薩爾達」！"
-    },
-    {
-      "id": 4614,
-      "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
-      "quest_id": [
-        332454
-      ],
-      "tab_id": 1,
-      "title": "通過『愛麗婕篇』第11章！",
-      "sub_id": "Main 10",
-      "max_num": 1,
+      "title": "通過聖都限定戰30次吧！",
+      "sub_id": "Battle 03",
+      "max_num": 30,
       "reward": {
         "type": "item",
-        "id": "1032",
-        "val": "1"
+        "id": "20",
+        "val": "100"
       },
-      "help": "通過『愛麗婕篇』第11章5-4\\n「白薩爾達」！"
+      "help": "通過指定的「聖都限定戰」！ \\n無論任何難度都列入計算對象！"
     },
     {
-      "id": 4615,
+      "id": 4648,
       "type": 1,
-      "start_time": 1590559200,
-      "end_time": 1622786400,
-      "quest_id": [
-        332524
-      ],
+      "start_time": 1593410400,
+      "end_time": 1625119200,
+      "quest_id": [],
       "tab_id": 1,
-      "title": "通過『愛麗婕篇』第12章！",
-      "sub_id": "Main 11",
-      "max_num": 1,
+      "title": "使用尤莉安娜10次！",
+      "sub_id": "Party 01",
+      "max_num": 10,
       "reward": {
-        "type": "weapon_ev",
-        "id": "86042",
-        "val": "1"
+        "type": "item",
+        "id": "1",
+        "val": "2"
       },
-      "help": "通過『愛麗婕篇』第12章7-4\\n「我的魔法」！"
+      "help": "將「尤莉安娜」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4649,
+      "type": 1,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用尤莉安娜20次！",
+      "sub_id": "Party 02",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "將「尤莉安娜」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4650,
+      "type": 1,
+      "start_time": 1593410400,
+      "end_time": 1625119200,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用尤莉安娜40次！",
+      "sub_id": "Party 03",
+      "max_num": 40,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "100"
+      },
+      "help": "將「尤莉安娜」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
     },
     {
       "id": 1,
@@ -7105,6 +7088,227 @@
         "val": "10"
       },
       "help": "帶去戰鬥\\n 提高親愛度ＬＶ吧！"
+    },
+    {
+      "id": 30893441,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "探索1次！",
+      "sub_id": "Event 001",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "16",
+        "val": "1"
+      },
+      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
+    },
+    {
+      "id": 30893442,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "探索10次！",
+      "sub_id": "Event 002",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "16",
+        "val": "10"
+      },
+      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
+    },
+    {
+      "id": 30893443,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "探索20次！",
+      "sub_id": "Event 003",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "16",
+        "val": "20"
+      },
+      "help": "派出角色去進行探索！\\n無論是3小時或8小時都以1次計算喔！"
+    },
+    {
+      "id": 30893444,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關30次任務！",
+      "sub_id": "Event 004",
+      "max_num": 30,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "1"
+      },
+      "help": "通過30次任意關卡即可。"
+    },
+    {
+      "id": 30893445,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關60次任務！",
+      "sub_id": "Event 005",
+      "max_num": 60,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85658",
+        "val": "1"
+      },
+      "help": "通過60次任意關卡即可。"
+    },
+    {
+      "id": 30893446,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關90次任務！",
+      "sub_id": "Event 006",
+      "max_num": 90,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "通過90次任意關卡即可。"
+    },
+    {
+      "id": 30893447,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關120次任務！",
+      "sub_id": "Event 007",
+      "max_num": 120,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85684",
+        "val": "1"
+      },
+      "help": "通過120次任意關卡即可。"
+    },
+    {
+      "id": 30893448,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關150次任務！",
+      "sub_id": "Event 008",
+      "max_num": 150,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "通過150次任意關卡即可。"
+    },
+    {
+      "id": 30893449,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關180次任務！",
+      "sub_id": "Event 009",
+      "max_num": 180,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85685",
+        "val": "1"
+      },
+      "help": "通過180次任意關卡即可。"
+    },
+    {
+      "id": 30893450,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關210次任務！",
+      "sub_id": "Event 010",
+      "max_num": 210,
+      "reward": {
+        "type": "item",
+        "id": "1",
+        "val": "1"
+      },
+      "help": "通過210次任意關卡即可。"
+    },
+    {
+      "id": 30893451,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關240次任務！",
+      "sub_id": "Event 011",
+      "max_num": 240,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85756",
+        "val": "1"
+      },
+      "help": "通過240次任意關卡即可。"
+    },
+    {
+      "id": 30893452,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關270次任務！",
+      "sub_id": "Event 012",
+      "max_num": 270,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "通過270次任意關卡即可。"
+    },
+    {
+      "id": 30893453,
+      "type": 1,
+      "start_time": 1620964205,
+      "end_time": 1624514400,
+      "quest_id": [],
+      "tab_id": 2,
+      "title": "通關300次任務！",
+      "sub_id": "Event 013",
+      "max_num": 300,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "85892",
+        "val": "1"
+      },
+      "help": "通過300次任意關卡即可。"
     }
   ],
   "res": 0
