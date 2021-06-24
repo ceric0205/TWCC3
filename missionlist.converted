@@ -1,5 +1,5 @@
 {
-  "deceive": 1623920132,
+  "deceive": 1624530799,
   "missionlist": [
     {
       "id": 4642,
@@ -192,6 +192,302 @@
         "val": "100"
       },
       "help": "將「尤莉安娜」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4651,
+      "type": 1,
+      "start_time": 1593410400,
+      "end_time": 1625724000,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用芙蘿麗亞10次！",
+      "sub_id": "Party 04",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "1"
+      },
+      "help": "將「芙蘿麗亞」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4652,
+      "type": 1,
+      "start_time": 1593410400,
+      "end_time": 1625724000,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用芙蘿麗亞20次！",
+      "sub_id": "Party 05",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "將「芙蘿麗亞」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4653,
+      "type": 1,
+      "start_time": 1593410400,
+      "end_time": 1625724000,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用奧魯多蘭多、辛弗妮雅10次！",
+      "sub_id": "Party 06",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "1"
+      },
+      "help": "將「奧魯多蘭多」、「辛弗妮雅」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4654,
+      "type": 1,
+      "start_time": 1593410400,
+      "end_time": 1625724000,
+      "quest_id": [],
+      "tab_id": 1,
+      "title": "使用奧魯多蘭多、辛弗妮雅20次！",
+      "sub_id": "Party 07",
+      "max_num": 20,
+      "reward": {
+        "type": "item",
+        "id": "20",
+        "val": "50"
+      },
+      "help": "將「奧魯多蘭多」、「辛弗妮雅」編入隊伍戰鬥吧！\\n協助者及候補隊伍也會列入計算喔！\\n任何一個會消耗AP的任務都可以！"
+    },
+    {
+      "id": 4665,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331043
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第1章！",
+      "sub_id": "Main 01",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1001",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第1章4-3\\n「啟程之時」！"
+    },
+    {
+      "id": 4666,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331093
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第2章！",
+      "sub_id": "Main 02",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1002",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第2章5-3\\n「昔日的聖人們」！"
+    },
+    {
+      "id": 4667,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331142
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第3章！",
+      "sub_id": "Main 03",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第3章5-2\\n「嚮往著的背影」！"
+    },
+    {
+      "id": 4668,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331184
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第4章！",
+      "sub_id": "Main 04",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1001",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第4章4-4\\n「使用力量的方法」！"
+    },
+    {
+      "id": 4669,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331223
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第5章！",
+      "sub_id": "Main 05",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第5章4-3\\n「光明」！"
+    },
+    {
+      "id": 4670,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331276
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第6章！",
+      "sub_id": "Main 06",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1002",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第6章5-6\\n「聚集的斷片」！"
+    },
+    {
+      "id": 4671,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331363
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第7章！",
+      "sub_id": "Main 07",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第7章9-3\\n「新的旅途（後）」！"
+    },
+    {
+      "id": 4672,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331403
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第8章！",
+      "sub_id": "Main 08",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1031",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第8章4-3\\n「不可能的分水嶺」！"
+    },
+    {
+      "id": 4673,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331804
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第9章！",
+      "sub_id": "Main 09",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1031",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第9章4-4\\n「『心的強度』」！"
+    },
+    {
+      "id": 4674,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331845
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第10章！",
+      "sub_id": "Main 10",
+      "max_num": 1,
+      "reward": {
+        "type": "weapon_ev",
+        "id": "26258",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第10章4-5\\n「不可能的分水嶺」！"
+    },
+    {
+      "id": 4675,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331885
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第11章！",
+      "sub_id": "Main 11",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "1031",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第11章4-5\\n「再世的終焉」！"
+    },
+    {
+      "id": 4676,
+      "type": 1,
+      "start_time": 1594000800,
+      "end_time": 1625724000,
+      "quest_id": [
+        331934
+      ],
+      "tab_id": 2,
+      "title": "通過『赫利歐斯篇』第12章！",
+      "sub_id": "Main 12",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "7",
+        "val": "1"
+      },
+      "help": "通過『赫利歐斯篇』第12章5-4\\n「白和白」！"
     },
     {
       "id": 1,

@@ -1,5 +1,5 @@
 {
-  "deceive": 1619691036,
+  "deceive": 1624530350,
   "weaponlist": [
     {
       "id": 1,
@@ -30503,7 +30503,7 @@
     },
     {
       "id": 86041,
-      "name": "聖樂指揮槍\t\t\t",
+      "name": "神聖道標",
       "type_atk": 1,
       "attackMax": 10,
       "type_cri": 2,
@@ -30638,7 +30638,7 @@
     },
     {
       "id": 86082,
-      "name": "潮流大杖",
+      "name": "潮流大魔杖",
       "type_atk": 1,
       "attackMax": 15,
       "type_cri": 2,
@@ -30668,7 +30668,7 @@
     },
     {
       "id": 86085,
-      "name": "矛型陽傘",
+      "name": "陽傘槍",
       "type_atk": 1,
       "attackMax": 12,
       "type_cri": 2,
@@ -30698,7 +30698,7 @@
     },
     {
       "id": 86087,
-      "name": "霜淇淋魔杖複製品",
+      "name": "霜淇淋複製品",
       "type_atk": 1,
       "attackMax": 5,
       "type_cri": 2,
@@ -49239,7 +49239,7 @@
     {
       "evol_dst": 86041,
       "id": 86041,
-      "name": "聖樂指揮槍",
+      "name": "神聖道標",
       "profile": "フローリアV1専用武器",
       "rank_limit": 2,
       "rarity": 5,
@@ -49320,7 +49320,7 @@
     {
       "evol_dst": 86085,
       "id": 86085,
-      "name": "矛型陽傘",
+      "name": "陽傘槍",
       "profile": "2020水着レイド",
       "rank_limit": 2,
       "rarity": 5,
@@ -49346,7 +49346,7 @@
     {
       "evol_dst": 86087,
       "id": 86087,
-      "name": "霜淇淋魔杖複製品",
+      "name": "霜淇淋複製品",
       "profile": "2020水着レイド",
       "rank_limit": 1,
       "rarity": 3,

@@ -1,5 +1,5 @@
 {
-  "deceive": 1623315401,
+  "deceive": 1624530344,
   "vignette": [
     {
       "cid": 7015,
@@ -34,39 +34,21 @@
       "v_category": "favorite"
     },
     {
-      "cid": 1287,
-      "v_motionid": 2,
+      "cid": 1269,
+      "v_motionid": 0,
       "bg": 3,
-      "memo": "讓夏日清風搖曳袖子吧",
+      "memo": "我會讓你的靈魂顫抖",
       "start": 1522918800,
-      "end": 1624514400,
+      "end": 1625119200,
       "link": "unity:GoGacha",
       "param": {
         "type": "event",
         "gacha_id": 1
       },
-      "priority": 50,
+      "priority": 10,
       "min_rank": 1,
       "max_rank": 300,
-      "v_category": "legend",
-      "event_area_name": null
-    },
-    {
-      "cid": 1271,
-      "v_motionid": 2,
-      "bg": 3,
-      "memo": "像是煙火般華麗地綻放吧",
-      "start": 1522918800,
-      "end": 1624514400,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 1042,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 300,
-      "v_category": "mopup",
+      "v_category": "gacha",
       "event_area_name": null
     },
     {

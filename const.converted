@@ -146,49 +146,7 @@
           "raid_item": -1,
           "review": 1
         },
-        "cover": {
-          "cover_id": 40,
-          "is_mop_up": true,
-          "name": "納涼、改變世界、夏日浴衣",
-          "area_id": 1042,
-          "dist_start": 1623203162,
-          "event_start": 1623203162,
-          "main_start": 1623316884,
-          "event_end": 1624507200,
-          "dist_end": 1624514400,
-          "bgm": "BGM_FIELD_MOPUP_01",
-          "point_list": {
-            "point1": {
-              "name": "白光珠",
-              "icon": "Item_MopUp_10_A",
-              "target_enemy_id": "336162",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "336163",
-              "rare_target_point_val": "80"
-            },
-            "point2": {
-              "name": "黑光珠",
-              "icon": "Item_MopUp_10_B",
-              "target_enemy_id": "336162",
-              "target_point_val": "20",
-              "rare_target_enemy_id": "336163",
-              "rare_target_point_val": "80"
-            }
-          },
-          "info_list": [
-            "Tutorial_MopUp_10_01",
-            "Tutorial_MopUp_10_02",
-            "Tutorial_MopUp_10_03",
-            "Tutorial_MopUp_10_04"
-          ],
-          "rush": {
-            "rate": 0.15,
-            "validcnt": 1,
-            "text": "目標怪物大量發生！",
-            "bgm": 13
-          },
-          "reward_cid": 5285
-        },
+        "cover": null,
         "raid": null,
         "totalwar": null,
         "subjugation": [],
@@ -206,16 +164,16 @@
     }
   ],
   "mVer": {
-    "charainfo": 1622772566,
-    "weaponlist": 1622448476,
+    "charainfo": 1624416944,
+    "weaponlist": 1624527190,
     "skilllist": 1622772565,
     "worldinfo": 1607926632,
     "episodeinfo": 1612332433,
-    "questdigest": 1623904453,
+    "questdigest": 1624522872,
     "itemlist": 1593413532,
     "booklist": 1615877821,
     "motionlist": 1599615956,
-    "missionlist": 1623725822,
+    "missionlist": 1624246472,
     "repeatmissionlist": 1593413532,
     "bossinfo": 1623032213,
     "battleinfo": 1593413531,
@@ -232,17 +190,17 @@
     "eventplace": 1593413531,
     "eventbadge": 1621401680,
     "denju": 1622772561,
-    "questroute": 1622014259,
+    "questroute": 1624414758,
     "enemyinfo": 1593413531,
     "casinoinfo": 1593413531,
-    "uzuinfo": 1623291977,
-    "vignette": 1623292243,
+    "uzuinfo": 1624416939,
+    "vignette": 1624515835,
     "spdrama": 1598848644,
-    "gachainfo": 1623917318,
-    "questtree": 1622014259,
-    "eventareainfo": 1623739126,
+    "gachainfo": 1624436592,
+    "questtree": 1624414758,
+    "eventareainfo": 1624414758,
     "coverinfo": 1623316885,
-    "towerinfo": 1622081831,
+    "towerinfo": 1624529007,
     "chropowerinfo": 1593413531,
     "sortieinfo": 1622081831,
     "openseainfo": 1615175151,
@@ -250,7 +208,7 @@
     "heroicskilllist": 1620267770,
     "soundExData": 1593413531,
     "medalinfo": 1,
-    "eventPortal": 1623917315,
+    "eventPortal": 1624499092,
     "spquestinfo": 1606110643,
     "buffinfo": 1592796196,
     "totalfavor": 1593658801,
@@ -258,6 +216,6 @@
     "extra_ability": 1623116527,
     "denju_limit_break": 1596113771,
     "reload": 1500271199,
-    "servertime": 1623932650
+    "servertime": 1624538798
   }
 }
