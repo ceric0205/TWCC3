@@ -1,45 +1,6 @@
 {
-  "deceive": 1619692488,
+  "deceive": 1631179631,
   "repeatmissionlist": [
-    {
-      "id": 201,
-      "type": 0,
-      "title": "派遣探索吧！",
-      "sub_id": "Explorer",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "10",
-        "val": "3000"
-      },
-      "help": ""
-    },
-    {
-      "id": 202,
-      "type": 0,
-      "title": "扭轉蛋吧！",
-      "sub_id": "Gacha",
-      "max_num": 1,
-      "reward": {
-        "type": "item",
-        "id": "11",
-        "val": "200"
-      },
-      "help": ""
-    },
-    {
-      "id": 203,
-      "type": 0,
-      "title": "過關任務吧！",
-      "sub_id": "Battle",
-      "max_num": 1,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90903",
-        "val": "1"
-      },
-      "help": ""
-    },
     {
       "id": 0,
       "type": 0,
@@ -249,6 +210,19 @@
       "help": "將最後的敵人以僧侶打倒吧！"
     },
     {
+      "id": 101,
+      "type": 0,
+      "title": "通關3次任務！",
+      "sub_id": "Battle",
+      "max_num": 3,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90903",
+        "val": "1"
+      },
+      "help": ""
+    },
+    {
       "id": 15,
       "type": 0,
       "title": "裝備起魔類型的武器攻擊吧！",
@@ -366,19 +340,6 @@
       "help": "5回、收集戰鬥中的法珠3顆吧"
     },
     {
-      "id": 101,
-      "type": 0,
-      "title": "通關3次任務！",
-      "sub_id": "Battle",
-      "max_num": 3,
-      "reward": {
-        "type": "chara_rf",
-        "id": "90903",
-        "val": "1"
-      },
-      "help": ""
-    },
-    {
       "id": 12,
       "type": 0,
       "title": "執行１次合成！",
@@ -403,6 +364,110 @@
         "val": "3000"
       },
       "help": ""
+    },
+    {
+      "id": 201,
+      "type": 0,
+      "title": "派遣探索吧！",
+      "sub_id": "Explorer",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "10",
+        "val": "3000"
+      },
+      "help": ""
+    },
+    {
+      "id": 202,
+      "type": 0,
+      "title": "扭轉蛋吧！",
+      "sub_id": "Gacha",
+      "max_num": 1,
+      "reward": {
+        "type": "item",
+        "id": "11",
+        "val": "200"
+      },
+      "help": ""
+    },
+    {
+      "id": 203,
+      "type": 0,
+      "title": "過關任務吧！",
+      "sub_id": "Battle",
+      "max_num": 1,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90903",
+        "val": "1"
+      },
+      "help": ""
+    },
+    {
+      "id": 401,
+      "type": 1,
+      "title": "探索に10回派遣しよう！",
+      "sub_id": "Weekly01",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "3",
+        "val": "3"
+      },
+      "help": ""
+    },
+    {
+      "id": 402,
+      "type": 1,
+      "title": "クエストを30回プレイしよう！",
+      "sub_id": "Weekly02",
+      "max_num": 30,
+      "reward": {
+        "type": "chara_rf",
+        "id": "90905",
+        "val": "3"
+      },
+      "help": ""
+    },
+    {
+      "id": 403,
+      "type": 1,
+      "title": "本部でハートを6回タップしよう！",
+      "sub_id": "Weekly03",
+      "max_num": 6,
+      "reward": {
+        "type": "item",
+        "id": "16",
+        "val": "5"
+      },
+      "help": "クエストクリア後に義勇軍本部へ行ってみよう！"
+    },
+    {
+      "id": 404,
+      "type": 1,
+      "title": "本部でプレゼントを10回あげよう！",
+      "sub_id": "Weekly04",
+      "max_num": 10,
+      "reward": {
+        "type": "item",
+        "id": "2001",
+        "val": "3"
+      },
+      "help": "第4部ユグド大陸のフリークエストで\\nプレゼントアイテムが手に入るよ！"
+    },
+    {
+      "id": 405,
+      "type": 1,
+      "title": "絆の大出撃を2回プレイしよう！",
+      "sub_id": "Weekly05",
+      "max_num": 2,
+      "reward": {
+        "type": "weapon_rf",
+        "id": "93902",
+        "val": "3"
+      },
+      "help": "ホーム画面のイベントから選ぼう！"
     }
   ],
   "res": 0

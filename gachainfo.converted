@@ -1,5 +1,5 @@
 {
-  "deceive": 1625735430,
+  "deceive": 1631200638,
   "gacha_info": {
     "fes": {
       "ring": [
@@ -23,22 +23,22 @@
         {
           "gacha_id": 1,
           "start": 1518674400,
-          "end": 1613750400
+          "end": 1628143200
         }
       ],
       "legend_fes": [
         {
           "gacha_id": 1,
           "start": 1549519200,
-          "end": 1622095200,
-          "icon": "FesBtn_07238",
+          "end": 1629352800,
+          "icon": "FesBtn_12223",
           "priority": 1
         },
         {
           "gacha_id": 2,
           "start": 1623988800,
-          "end": 1624514400,
-          "icon": "FesBtn_01216",
+          "end": 1631772000,
+          "icon": "raidFesBtn_00327",
           "priority": 1
         }
       ],
@@ -46,8 +46,8 @@
         {
           "gacha_id": 1,
           "start": 1522918800,
-          "end": 1626328800,
-          "icon": "FesBtn_00284",
+          "end": 1522918800,
+          "icon": "FesBtn_leg",
           "priority": 3
         }
       ],
@@ -55,15 +55,15 @@
         {
           "gacha_id": 1,
           "start": 1522918800,
-          "end": 1626328800,
-          "icon": "FesBtn_011229",
+          "end": 1630548000,
+          "icon": "raidFesBtn_00321",
           "priority": 1
         },
         {
           "gacha_id": 2,
           "start": 1522918800,
-          "end": 1522918800,
-          "icon": "FesBtn_07230",
+          "end": 1631772000,
+          "icon": "raidFesBtn_00205",
           "priority": 1
         }
       ],
@@ -102,6 +102,24 @@
       {
         "gacha_id": 35,
         "quest_id": 335043
+      }
+    ],
+    "v4_rare_gacha": [
+      {
+        "gacha_id": 4003,
+        "quest_id": 210101
+      },
+      {
+        "gacha_id": 4004,
+        "quest_id": 999999
+      },
+      {
+        "gacha_id": 4005,
+        "quest_id": 999999
+      },
+      {
+        "gacha_id": 4006,
+        "quest_id": 999999
       }
     ]
   },

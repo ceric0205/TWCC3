@@ -1,12 +1,12 @@
 {
-  "deceive": 1619691056,
+  "deceive": 1631179656,
   "explorer_location": [
     {
       "location": 100,
       "name": "ケ者の大陸",
       "start": 1473141600,
       "end": 1473901199,
-      "timestamp": "1573622374694",
+      "timestamp": "1614742006693",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -86,7 +86,7 @@
     {
       "location": 0,
       "name": "城砦",
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -173,10 +173,10 @@
     {
       "location": 1,
       "name": "迷宮山脈",
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
-      "quest_id": 210206,
-      "v3_quest_id": 332014,
+      "quest_id": 210101,
+      "v3_quest_id": null,
       "tab": 1,
       "text": "達成下列條件其一即開放。\\n\\n・達成第3部主線故事\\n愛麗婕篇:第1章第1話\\n\\n・達成第1部主線故事2章",
       "img_id": "search_area_icon_001",
@@ -260,10 +260,10 @@
     {
       "location": 2,
       "name": "古代遺跡",
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
-      "quest_id": 210310,
-      "v3_quest_id": 333012,
+      "quest_id": 210101,
+      "v3_quest_id": null,
       "tab": 1,
       "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n艾夏露篇:第1章第1話\\n\\n・達成第1部主線故事3章",
       "img_id": "search_area_icon_002",
@@ -340,10 +340,10 @@
     {
       "location": 3,
       "name": "世界樹",
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
-      "quest_id": 210407,
-      "v3_quest_id": 334014,
+      "quest_id": 210101,
+      "v3_quest_id": null,
       "tab": 1,
       "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n瑟蕾斯蒂篇:第1章第1話\\n\\n・達成第1部主線故事4章",
       "img_id": "search_area_icon_003",
@@ -422,9 +422,9 @@
       "name": "湖都",
       "start": 1460440800,
       "end": 1461200399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
-      "quest_id": 210310,
+      "quest_id": 210101,
       "v3_quest_id": null,
       "tab": 1,
       "text": "因為1部3章過關\\n而開放",
@@ -495,10 +495,10 @@
     {
       "location": 5,
       "name": "火山",
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
-      "quest_id": 210607,
-      "v3_quest_id": 335013,
+      "quest_id": 210101,
+      "v3_quest_id": null,
       "tab": 1,
       "text": "達成下列條件其一即開放。。\\n\\n・達成第3部主線故事\\n天津篇:第1章第1話\\n\\n・達成第1部主線故事6章",
       "img_id": "search_area_icon_008",
@@ -577,7 +577,7 @@
       "name": "合作活動",
       "start": 1454392800,
       "end": 1455515999,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -720,7 +720,7 @@
       "name": "神殿",
       "start": 1489989600,
       "end": 1490075999,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -809,7 +809,7 @@
       "name": "迷宮",
       "start": 1466488800,
       "end": 1467698399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -886,7 +886,7 @@
       "name": "銀座",
       "start": 1475215200,
       "end": 1475733599,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -968,7 +968,7 @@
       "name": "九領（祭典）",
       "start": 1475733600,
       "end": 1479016799,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1083,7 +1083,7 @@
       "name": "祠",
       "start": 1479103200,
       "end": 1479949199,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1181,7 +1181,7 @@
       "name": "印象空間",
       "start": 1484805600,
       "end": 1485824399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1293,7 +1293,7 @@
       "name": "神殿",
       "start": 1490680800,
       "end": 1491458399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210206,
       "v3_quest_id": null,
@@ -1382,7 +1382,7 @@
       "name": "灰暗的坑道",
       "start": 1487224800,
       "end": 1488243599,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -1494,7 +1494,7 @@
       "name": "審判之門",
       "start": 1498111200,
       "end": 1498802399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -1587,7 +1587,7 @@
       "name": "裝置開發室",
       "start": 1502172000,
       "end": 1502949599,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -1722,7 +1722,7 @@
       "name": "迷宮",
       "start": 1507615200,
       "end": 1508392799,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -1829,7 +1829,7 @@
       "name": "迷宮",
       "start": 1518660000,
       "end": 1519783199,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -1921,7 +1921,7 @@
       "name": "HL",
       "start": 1521511200,
       "end": 1522375199,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -2036,7 +2036,7 @@
       "name": "次元洞窟",
       "start": 1560996000,
       "end": 1561600799,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -2180,7 +2180,7 @@
       "name": "洞窟",
       "start": 1568858400,
       "end": 1570067999,
-      "timestamp": "1599641303000",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -2335,7 +2335,7 @@
       "name": "銀座",
       "start": 1570068000,
       "end": 1570586399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 0,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -2433,7 +2433,7 @@
       "name": "演習場",
       "start": 1571277600,
       "end": 1571882399,
-      "timestamp": "1593413530134",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -2541,7 +2541,7 @@
       "name": "深淵之渦",
       "start": 1573696800,
       "end": 1574301599,
-      "timestamp": "1608791616000",
+      "timestamp": "1627620333401",
       "quest_type": 2,
       "quest_id": 210101,
       "v3_quest_id": null,
@@ -2566,6 +2566,319 @@
           "val": 25,
           "category_id": 1,
           "priority": 1
+        }
+      ]
+    },
+    {
+      "location": 120,
+      "name": "洞窟",
+      "start": 1603346400,
+      "end": 1604541599,
+      "timestamp": "1627620333401",
+      "quest_type": 2,
+      "quest_id": 210101,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "１部２章クリアで\\n開放されます",
+      "img_id": "search_area_icon_000",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 31,
+      "get_item": [
+        {
+          "type": "card",
+          "id": 8351,
+          "val": 1,
+          "category_id": 101,
+          "priority": 1,
+          "limit": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86093,
+          "val": 2,
+          "category_id": 102,
+          "priority": 8
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86095,
+          "val": 2,
+          "category_id": 103,
+          "priority": 9
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86101,
+          "val": 2,
+          "category_id": 104,
+          "priority": 10
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86099,
+          "val": 2,
+          "category_id": 105,
+          "priority": 11
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86097,
+          "val": 2,
+          "category_id": 106,
+          "priority": 12
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85238,
+          "val": 3,
+          "category_id": 107,
+          "priority": 15
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85254,
+          "val": 3,
+          "category_id": 107,
+          "priority": 16
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85244,
+          "val": 3,
+          "category_id": 107,
+          "priority": 17
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85249,
+          "val": 3,
+          "category_id": 107,
+          "priority": 18
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85252,
+          "val": 3,
+          "category_id": 107,
+          "priority": 19
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85242,
+          "val": 3,
+          "category_id": 108,
+          "priority": 20
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85241,
+          "val": 3,
+          "category_id": 108,
+          "priority": 21
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85253,
+          "val": 3,
+          "category_id": 108,
+          "priority": 22
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85245,
+          "val": 3,
+          "category_id": 108,
+          "priority": 23
+        },
+        {
+          "type": "weapon_ev",
+          "id": 85248,
+          "val": 3,
+          "category_id": 108,
+          "priority": 24
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 109,
+          "priority": 2,
+          "limit": 1
+        },
+        {
+          "type": "item",
+          "id": 1031,
+          "val": 1,
+          "category_id": 110,
+          "priority": 3,
+          "limit": 1
+        },
+        {
+          "type": "item",
+          "id": 1032,
+          "val": 1,
+          "category_id": 111,
+          "priority": 4,
+          "limit": 1
+        },
+        {
+          "type": "item",
+          "id": 1033,
+          "val": 1,
+          "category_id": 112,
+          "priority": 5,
+          "limit": 1
+        },
+        {
+          "type": "item",
+          "id": 1034,
+          "val": 1,
+          "category_id": 113,
+          "priority": 6,
+          "limit": 1
+        },
+        {
+          "type": "item",
+          "id": 1035,
+          "val": 1,
+          "category_id": 114,
+          "priority": 7,
+          "limit": 1
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26275,
+          "val": 6,
+          "category_id": 115,
+          "priority": 14
+        },
+        {
+          "type": "weapon_ev",
+          "id": 26276,
+          "val": 3,
+          "category_id": 116,
+          "priority": 13
+        }
+      ]
+    },
+    {
+      "location": 121,
+      "name": "ダンジョン",
+      "start": 1614823200,
+      "end": 1615859999,
+      "timestamp": "1627620333401",
+      "quest_type": 2,
+      "quest_id": 210101,
+      "v3_quest_id": null,
+      "tab": 4,
+      "text": "１部２章クリアで\\n開放されます",
+      "img_id": "search_area_icon_e12",
+      "gold": [
+        {
+          "interval_id": 1,
+          "val": 1000
+        },
+        {
+          "interval_id": 2,
+          "val": 3000
+        }
+      ],
+      "event_bg": 31,
+      "get_item": [
+        {
+          "type": "card",
+          "id": 8361,
+          "val": 1,
+          "category_id": 101,
+          "priority": 12,
+          "limit": 2
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "category_id": 102,
+          "priority": 11,
+          "limit": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86177,
+          "val": 3,
+          "category_id": 103,
+          "priority": 10
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86180,
+          "val": 3,
+          "category_id": 104,
+          "priority": 9
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86178,
+          "val": 3,
+          "category_id": 105,
+          "priority": 7
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86182,
+          "val": 3,
+          "category_id": 106,
+          "priority": 6
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86181,
+          "val": 3,
+          "category_id": 107,
+          "priority": 5
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86183,
+          "val": 3,
+          "category_id": 108,
+          "priority": 4
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86184,
+          "val": 3,
+          "category_id": 109,
+          "priority": 3
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86185,
+          "val": 3,
+          "category_id": 110,
+          "priority": 2
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86186,
+          "val": 3,
+          "category_id": 111,
+          "priority": 1
+        },
+        {
+          "type": "weapon_ev",
+          "id": 86179,
+          "val": 3,
+          "category_id": 112,
+          "priority": 8
         }
       ]
     }

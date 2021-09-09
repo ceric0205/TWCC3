@@ -1,5 +1,5 @@
 {
-  "deceive": 1624530375,
+  "deceive": 1631200636,
   "tower": [
     {
       "tower_id": 1,
@@ -8696,6 +8696,548 @@
                 "home": [
                   2,
                   10
+                ],
+                "compare": "over",
+                "border": 6
+              }
+            }
+          ]
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 300
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 500
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 3500
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 4500
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 5000
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 5500
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 6000
+        }
+      ]
+    },
+    {
+      "tower_id": 40,
+      "start": 1627790400,
+      "end": 1630468800,
+      "free": 1627790400,
+      "close": 1628395200,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 140
+        },
+        {
+          "floor": "2",
+          "floor_id": 141
+        },
+        {
+          "floor": "3",
+          "floor_id": 142
+        },
+        {
+          "floor": "4",
+          "floor_id": 143
+        },
+        {
+          "floor": "5",
+          "floor_id": 144
+        },
+        {
+          "floor": "6",
+          "floor_id": 145
+        },
+        {
+          "floor": "7",
+          "floor_id": 146
+        },
+        {
+          "floor": "8",
+          "floor_id": 147
+        },
+        {
+          "floor": "9",
+          "floor_id": 148
+        },
+        {
+          "floor": "10",
+          "floor_id": 149
+        }
+      ],
+      "ex_floor_list": [
+        {
+          "floor": "1",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "2",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "3",
+          "floor_id": 150,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 1
+              }
+            }
+          ]
+        },
+        {
+          "floor": "4",
+          "floor_id": 151,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 2
+              }
+            }
+          ]
+        },
+        {
+          "floor": "5",
+          "floor_id": 152,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 3
+              }
+            }
+          ]
+        },
+        {
+          "floor": "6",
+          "floor_id": 153,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 4
+              }
+            }
+          ]
+        },
+        {
+          "floor": "7",
+          "floor_id": 154,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 5
+              }
+            }
+          ]
+        },
+        {
+          "floor": "8",
+          "floor_id": 155,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 5
+              }
+            }
+          ]
+        },
+        {
+          "floor": "9",
+          "floor_id": 156,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 6
+              }
+            }
+          ]
+        },
+        {
+          "floor": "10",
+          "floor_id": 157,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  5
+                ],
+                "compare": "over",
+                "border": 6
+              }
+            }
+          ]
+        }
+      ],
+      "reward_list": [
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 100
+        },
+        {
+          "type": "chara_rf",
+          "id": 90903,
+          "val": 1,
+          "border": 300
+        },
+        {
+          "type": "item",
+          "id": 16,
+          "val": 5,
+          "border": 500
+        },
+        {
+          "type": "chara_rf",
+          "id": 90904,
+          "val": 1,
+          "border": 1000
+        },
+        {
+          "type": "item",
+          "id": 1,
+          "val": 1,
+          "border": 2000
+        },
+        {
+          "type": "item",
+          "id": 7,
+          "val": 1,
+          "border": 3000
+        },
+        {
+          "type": "chara_rf",
+          "id": 90905,
+          "val": 1,
+          "border": 3500
+        },
+        {
+          "type": "item",
+          "id": 35,
+          "val": 1,
+          "border": 4000
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 4500
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 5000
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 5500
+        },
+        {
+          "type": "stone",
+          "id": 0,
+          "val": 1,
+          "border": 6000
+        }
+      ]
+    },
+    {
+      "tower_id": 41,
+      "start": 1630468800,
+      "end": 1633060800,
+      "free": 1630468800,
+      "close": 1631073600,
+      "floor_list": [
+        {
+          "floor": "1",
+          "floor_id": 140
+        },
+        {
+          "floor": "2",
+          "floor_id": 141
+        },
+        {
+          "floor": "3",
+          "floor_id": 142
+        },
+        {
+          "floor": "4",
+          "floor_id": 143
+        },
+        {
+          "floor": "5",
+          "floor_id": 144
+        },
+        {
+          "floor": "6",
+          "floor_id": 145
+        },
+        {
+          "floor": "7",
+          "floor_id": 146
+        },
+        {
+          "floor": "8",
+          "floor_id": 147
+        },
+        {
+          "floor": "9",
+          "floor_id": 148
+        },
+        {
+          "floor": "10",
+          "floor_id": 149
+        }
+      ],
+      "ex_floor_list": [
+        {
+          "floor": "1",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "2",
+          "floor_id": -1,
+          "rules": []
+        },
+        {
+          "floor": "3",
+          "floor_id": 150,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 1
+              }
+            }
+          ]
+        },
+        {
+          "floor": "4",
+          "floor_id": 151,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 2
+              }
+            }
+          ]
+        },
+        {
+          "floor": "5",
+          "floor_id": 152,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 3
+              }
+            }
+          ]
+        },
+        {
+          "floor": "6",
+          "floor_id": 153,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 4
+              }
+            }
+          ]
+        },
+        {
+          "floor": "7",
+          "floor_id": 154,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 5
+              }
+            }
+          ]
+        },
+        {
+          "floor": "8",
+          "floor_id": 155,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 5
+              }
+            }
+          ]
+        },
+        {
+          "floor": "9",
+          "floor_id": 156,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
+                ],
+                "compare": "over",
+                "border": 6
+              }
+            }
+          ]
+        },
+        {
+          "floor": "10",
+          "floor_id": 157,
+          "rules": [
+            {
+              "category": "home",
+              "param": {
+                "home": [
+                  4,
+                  18
                 ],
                 "compare": "over",
                 "border": 6
@@ -24566,6 +25108,1535 @@
               1
             ]
           },
+          "wave": 7
+        }
+      ]
+    },
+    {
+      "floor_id": 158,
+      "floor_reward": {
+        "type": "item",
+        "id": 2001,
+        "val": 10
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 2,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 15,
+          "eneset_id": 3320011,
+          "icon": "cha_2d_icon_00003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "骸骨兵戰士和魔法師為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 100,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "シルヴァ,3,シルヴァ\r",
+              "セリーヌ,2,セリーヌ\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "席爾瓦,3,你們……還是一樣很強啊。<br>本大爺們也不會一次次被打敗的……,R,0,\r",
+                "塞莉蓮,2,太精采了。那場戰鬥……<br>累積了許多經驗吧,L,0,\r",
+                "席爾瓦,3,不過……下次絕對不會輸了！<br>會讓你看看戰士弓會的骨氣啊,R,0,\r",
+                "塞莉蓮,2,要再麻煩你們做對手了。<br>我也是，想和你們認真打一場,L,0,\r",
+                "塞莉蓮,2,忘掉所有立場，只單單做為戰士<br>來戰鬥……很令人開心,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 3
+        }
+      ]
+    },
+    {
+      "floor_id": 159,
+      "floor_reward": {
+        "type": "item",
+        "id": 2007,
+        "val": 3
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 3,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 30,
+          "eneset_id": 3320021,
+          "icon": "cha_2d_icon_00224",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "人類的戰士和騎士為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 100,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "リリス,1213,リリスｖ２\r",
+              "テレサ,224,テレサｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "莉莉絲,1213,……太棒了呢。<br>擁有這麼強大的力量,R,0,\r",
+                "莉莉絲,1213,還有致力行善的高尚靈魂，<br>保持美麗的同時也在你體內燃燒著,R,0,\r",
+                "泰蕾莎,224,是啊……、<br>要試試看成為劍聖候補的候選人嗎？,L,0,\r",
+                "泰蕾莎,224,shake_v,L,0,\r",
+                "泰蕾莎,224,愛因斯羅特，如果有你這樣<br>的對手在的話就會認真點了吧♪,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 3
+        }
+      ]
+    },
+    {
+      "floor_id": 160,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 7,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 50,
+          "eneset_id": 3320031,
+          "icon": "cha_2d_icon_02003",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "人偶為主登場。人偶的物理攻撃很強。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第2戦",
+          "strength": 10,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 65,
+          "eneset_id": 3320032,
+          "icon": "cha_2d_icon_03222",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "土妖精の戦士と弓使いが主に登場する。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 200,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "メルティオール,2002,メルティオール\r",
+              "ディルマ,2001,ディルマ\r",
+              "ファティマ,2003,ファティマ\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "梅魯提歐魯,2002,我們會持續，<br>和迷宮山脈的族長們一同抵抗！,R,0,\r",
+                "梅魯提歐魯,2002,shake_v,R,0,\r",
+                "梅魯提歐魯,2002,這到底有什麼秘密？<br>好。就從頭到尾徹底調查你們的身體――,R,0,\r",
+                "蒂爾瑪,2001,住手,L,0,\r",
+                "法帝瑪,2003,別說話,L,0,\r",
+                "se,0,SE_MAGIC_SHOT_01,C,0,\r",
+                "atk,0,magic1,R,0,\r",
+                "wait,0,0.5,R,0,\r",
+                "se,0,SE_MAGIC_HIT_01,R,0,\r",
+                "atk,0,strike,R,0,\r",
+                "wait,0,0.1,L,0,\r",
+                "梅魯提歐魯,2002,fast_slide_r,R,0,\r",
+                "梅魯提歐魯,2002,out,R,0,\r",
+                "wait,0,0.3,L,0,\r",
+                "梅魯提歐魯,2002,hide,C,0,\r",
+                "梅魯提歐魯,2002,……………！！,C,0,\r",
+                "蒂爾瑪,2001,你們的生命光輝，<br>必會成為掃去這世界黑暗的光明,R,0,\r",
+                "法帝瑪,2003,請磨練那道光，<br>至少讓一切不再混濁,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 4
+        }
+      ]
+    },
+    {
+      "floor_id": 161,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 12,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 75,
+          "eneset_id": 3320041,
+          "icon": "cha_2d_icon_04224",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 2
+          },
+          "enemy_info": "蜥蜴人戰士和攻守為主登場。蜥蜴人的弱點是冰屬性攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 3
+        },
+        {
+          "title": "第2戦",
+          "strength": 14,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 85,
+          "eneset_id": 3320042,
+          "icon": "cha_2d_icon_04294",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 4
+          },
+          "enemy_info": "火精靈和布偶為主登場。注意布偶的降速攻撃。火精靈和布偶的弱點是冰屬性攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 200,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "アシュリナ,4294,アシュリナｖ２\r",
+              "ファラ,4296,ファラｖ２\r",
+              "ムジカ,4224,ムジカｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "亞瑟莉娜,4294,原來如此。這些人不只力量很強。<br>戰術也很突出嗎――,R,0,\r",
+                "法菈,4296,作為管理湖都軍隊的人，<br>從頭到尾都是讓人想得到的人才……,L,0,\r",
+                "亞瑟莉娜,4294,但是，不是作為一個國家可以留下的<br>人類吧,R,0,\r",
+                "穆西卡,4224,……這樣的話，這裡就由我，<br>歌唱歌頌勇者們的勝利之歌吧,C,0,\r",
+                "穆西卡,4224,希望前往邊疆之人，<br>拿出自信前進吧――,C,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 5
+        }
+      ]
+    },
+    {
+      "floor_id": 162,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 20,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 95,
+          "eneset_id": 3320051,
+          "icon": "cha_2d_icon_05276",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "樹妖為主登場。樹妖弱點是炎屬性攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第2戦",
+          "strength": 25,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 100,
+          "eneset_id": 3320052,
+          "icon": "cha_2d_icon_05275",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "樹妖為主登場。注意地形變化。樹妖弱點是炎屬性攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 200,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "ビエンタ,5227,ビエンタｖ３\r",
+              "バリエナ,5211,バリエナｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "琵恩塔,5227,和父親一起被撂倒了嗎。<br>沒有錯。你的實力是真的,R,0,\r",
+                "芭里安娜,5211,在短暫的人類生涯中、<br>已經累積了如此的實力,L,0,\r",
+                "芭里安娜,5211,對自己進行過非常嚴格的修練吧,L,0,\r",
+                "芭里安娜,5211,如果是你的話應該可以<br>和前方的猛獸們戰鬥吧,L,0,\r",
+                "琵恩塔,5227,加油唷！<br>我們會一邊躲起來一邊替你加油的！,R,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 5
+        }
+      ]
+    },
+    {
+      "floor_id": 163,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 30,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 105,
+          "eneset_id": 3320061,
+          "icon": "cha_2d_icon_06251",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "鬼為主登場。鬼的弱點是炎屬性攻擊。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第2戦",
+          "strength": 30,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 105,
+          "eneset_id": 3320062,
+          "icon": "cha_2d_icon_06280",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "鬼為主登場。鬼的弱點是冰屬性攻擊。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第3戦",
+          "strength": 35,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 110,
+          "eneset_id": 3320063,
+          "icon": "cha_2d_icon_06222",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "鬼為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 300,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "ズイハ,6290,ズイハｖ２\r",
+              "ミシマ,6251,ミシマｖ２\r",
+              "ツル姫,6280,ツル姫ｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "鶴姬,6280,沒想到可以把修札和良次<br>都打倒了！,R,0,\r",
+                "鶴姬,6280,shake_h,R,0,\r",
+                "鶴姬,6280,呵呵，這如果是大宰御前比試，<br>有你在的領地就出頭天了呢！,R,0,\r",
+                "瑞羽,6290,真想要，那份力量。不管用上怎樣的手段……,L,0,\r",
+                "三島,6251,哈哈哈！<br>在被毒蜘蛛纏上之前，先走比較好唷,R,0,\r",
+                "三島,6251,精彩的戰鬥！<br>照那狀態，實現自己的野望給我看吧！,R,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 6
+        }
+      ]
+    },
+    {
+      "floor_id": 164,
+      "floor_reward": {
+        "type": "item",
+        "id": 41,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 35,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 110,
+          "eneset_id": 3320071,
+          "icon": "cha_2d_icon_07507",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "黑之士兵為主登場。黑之士兵的弱點是冰屬性攻擊。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 35,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 110,
+          "eneset_id": 3320072,
+          "icon": "cha_2d_icon_07508",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 0
+          },
+          "enemy_info": "黑之士兵為主登場。黑之士兵的弱點是炎屬性攻擊。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第3戦",
+          "strength": 40,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 120,
+          "eneset_id": 3320073,
+          "icon": "cha_2d_icon_07108",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "黑之士兵為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 300,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "エイレヌス,7507,エイレヌス\r",
+              "黒騎士,7508,黒騎士\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "艾雷努斯,7507,啊～啊。大家狀態都很好的說。<br>即使這樣，你還是打贏我們了呢,L,0,\r",
+                "黒騎士,7508,……去吧,R,0,\r",
+                "艾雷努斯,7507,是啊。至少去被上面的傢伙，<br>折磨一下也好,L,0,\r",
+                "艾雷努斯,7507,然後，感到絕望就回來吧。<br>作為墜入黑暗者，會讓你舒服的♪,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 6
+        }
+      ]
+    },
+    {
+      "floor_id": 165,
+      "floor_reward": {
+        "type": "item",
+        "id": 13,
+        "val": 100
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 40,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 120,
+          "eneset_id": 3320081,
+          "icon": "cha_2d_icon_07212",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 4
+          },
+          "enemy_info": "螃蟹和克莉歐聶為主登場。螃蟹不易受物理攻撃，克莉歐聶不易受魔法攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 40,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 120,
+          "eneset_id": 3320082,
+          "icon": "cha_2d_icon_09223",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "獸人和野豬為主登場。野豬有複數的結界，連續攻擊較有效。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 3
+        },
+        {
+          "title": "第3戦",
+          "strength": 45,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 130,
+          "eneset_id": 3320083,
+          "icon": "cha_2d_icon_11216",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "人類和監獄蜘蛛為主登場。要注意監獄蜘蛛的衰弱攻撃。監獄蜘蛛的弱點是打/拳的武器攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 300,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "リーア,11216,リーアｖ２\r",
+              "バルトロ,7211,バルトロｖ２\r",
+              "ミラ,7212,ミラｖ２\r",
+              "キララネ,9223,キララネｖ２\r",
+              "ホルスト,11220,ホルストｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "莉亞,11216,蜜拉，巴爾托羅，奇拉拉涅還有霍爾斯特，<br>明明大家都很強的,R,0,\r",
+                "莉亞,11216,你更強對吧？,R,0,\r",
+                "巴爾托羅,7211,真是的。鑽入小可愛的槍擊和蜜拉的快速攻擊<br>，把我們打敗了,L,0,\r",
+                "蜜拉,7212,真是……厲害的傢伙啊,R,0,\r",
+                "奇拉拉涅,9223,只有真正的強者才可以到達頂點的塔，<br>如果是汝，或許可以抵達也不一定,L,0,\r",
+                "霍爾斯特,11220,不，是一定要到達給我們看。<br>用你那堅韌的心，還有力量,R,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 4
+        }
+      ]
+    },
+    {
+      "floor_id": 166,
+      "floor_reward": {
+        "type": "item",
+        "id": 39,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 48,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 140,
+          "eneset_id": 3320091,
+          "icon": "cha_2d_icon_10032",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "薄命之民和刀頭鳥為主登場。刀頭鳥的弱點是突武器攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 48,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 140,
+          "eneset_id": 3320092,
+          "icon": "cha_2d_icon_12213",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 4,
+            "idx": 1
+          },
+          "enemy_info": "人類和機械為主登場。機械的弱點是弓/槍/狙武器攻撃。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 4
+        },
+        {
+          "title": "第3戦",
+          "strength": 50,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 150,
+          "eneset_id": 3320093,
+          "icon": "cha_2d_icon_13201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "黑之士兵為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 2
+          },
+          "point_list": [
+            {
+              "point": 300,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "リヴェラ,13201,リヴェラｖ２\r",
+              "リン,10032,リン\r",
+              "フェーベ,12224,フェーベｖ２\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "莉貝菈,13201,――輸了嗎,R,0,\r",
+                "琳,10032,是場獨一無二的戰鬥……<br>這位，怎麼可以辦到那樣的戰鬥方式？,L,0,\r",
+                "莉貝菈,13201,累積經驗，磨練感覺，<br>每一瞬都賭上全部而戰……,R,0,\r",
+                "莉貝菈,13201,是將你的生存方式傳達給我們知道的一戰。<br>馬上就要到塔頂了呢――,R,0,\r",
+                "菲貝,12224,如果是你們的話一定可以傳達到。<br>無論在哪裡都可以抵達！,L,0,\r",
+                "菲貝,12224,shake_v,L,0,\r",
+                "菲貝,12224,所以，加油唷！　我們會替你加油的！,L,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 7
+        }
+      ]
+    },
+    {
+      "floor_id": 167,
+      "floor_reward": {
+        "type": "weapon_ev",
+        "id": 85910,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 50,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 150,
+          "eneset_id": 3320101,
+          "icon": "cha_2d_icon_07526",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "黑之士兵為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 50,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 150,
+          "eneset_id": 3320102,
+          "icon": "cha_2d_icon_00201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "白色異形為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 6
+        },
+        {
+          "title": "第3戦",
+          "strength": 52,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 155,
+          "eneset_id": 3320103,
+          "icon": "cha_2d_icon_00211",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "人類為主登場。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 7
+        },
+        {
+          "title": "第4戦",
+          "strength": 55,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 160,
+          "eneset_id": 3320104,
+          "icon": "cha_2d_icon_07206_tower",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 8,
+            "idx": 0
+          },
+          "enemy_info": "盡全力挑戰獲得勝利吧。",
+          "reward": {
+            "type": "stone",
+            "id": 0,
+            "val": 3
+          },
+          "point_list": [
+            {
+              "point": 400,
+              "rate": 100
+            }
+          ],
+          "drama": {
+            "chara_data_list": [
+              "ヘリオス,80908,ヘリオス（剣なし、ノーマル）\r",
+              "ヘリオス,80910,ヘリオス（剣なし、悲しみ）_80908\r",
+              "アリーチェ,80921,アリーチェ（悲しい）\r",
+              "エシャル,4201,エシャル\r",
+              "セレステ,81012,セレステ（武器なし）\r",
+              "アマツ,6201,アマツ\r",
+              "フィーナ,80592,フィーナｖ３（笑顔２）\r",
+              "ピリカ,59014,ピリカｖ２\r",
+              "ユグド（謎の占い師）,80011,ユグド（謎の占い師）\r"
+            ],
+            "chapter_data_list": {
+              "1": [
+                "empty,0,,L,0,\r"
+              ],
+              "1E": [
+                "bg,0,542,C,0,\r",
+                "bgm,0,BGM_DRAMA_SERIOUS,C,0,\r",
+                "赫利歐斯,80910,連凱，凱恩先生他們也都被打倒了……！？,R,0,\r",
+                "愛麗婕,80921,明明我們～為了不要輸<br>進行了好多特訓的說～,L,0,\r",
+                "瑟蕾斯蒂,81012,好多特訓呢～,L,0,\r",
+                "艾夏露,4201,欸嘿嘿，大家一起的特訓，真的很開心呢！,R,0,\r",
+                "天津,6201,但那樣的事、<br>對你們來說沒有用嗎……,L,0,\r",
+                "赫利歐斯,80908,有一天我們也會，<br>去看看你所看見的景色,R,0,\r",
+                "赫利歐斯,80908,shake_v,R,0,\r",
+                "赫利歐斯,80908,再多多加油唷！,R,0,\r",
+                "MulCharaOut,0,,R,0,\r",
+                "wait,0,0.5,R,0,\r",
+                "菲娜,80592,好了――請前進吧。<br>這之後是只有你才可以看見的特別的景色,R,0,\r",
+                "比利卡,59014,有什麼再前面等著呢，<br>令人期待呢！,L,0,\r",
+                "MulCharaOut,0,,R,0,\r",
+                "wait,0,0.5,R,0,\r",
+                "尤古度（謎之占卜師）,80011,in,C,0,\r",
+                "尤古度（謎之占卜師）,80011,chara_color:Color[255:255:255:255],C,0,\r",
+                "null,0,１０層制霸，恭喜你。<br>現在在此刻劃下新的歷史了,C,0,\r",
+                "null,0,然後在此之上，是未知樓層。<br>只有求道者才可以前進的領域,C,0,\r",
+                "null,0,你能爬升到什麼地方，<br>就交由你的意願了……,C,0,\r"
+              ]
+            },
+            "chapter_list": [
+              1
+            ]
+          },
+          "wave": 8
+        }
+      ]
+    },
+    {
+      "floor_id": 169,
+      "floor_reward": {
+        "type": "weapon_ev",
+        "id": 85911,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 50,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 150,
+          "eneset_id": 3320101,
+          "icon": "cha_2d_icon_07526",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "黑之士兵為主登場。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 50,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 150,
+          "eneset_id": 3320102,
+          "icon": "cha_2d_icon_00201",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "白色異形為主登場。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 6
+        },
+        {
+          "title": "第3戦",
+          "strength": 52,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 155,
+          "eneset_id": 3320103,
+          "icon": "cha_2d_icon_00211",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "人類為主登場。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 7
+        },
+        {
+          "title": "第4戦",
+          "strength": 55,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 160,
+          "eneset_id": 3320104,
+          "icon": "cha_2d_icon_07206_tower",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 8,
+            "idx": 0
+          },
+          "enemy_info": "盡全力挑戰獲得勝利吧。",
+          "reward": {
+            "type": "item",
+            "id": 13,
+            "val": 100
+          },
+          "point_list": [],
+          "wave": 8
+        }
+      ]
+    },
+    {
+      "floor_id": 168,
+      "floor_reward": {
+        "type": "weapon_ev",
+        "id": 86137,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 70,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 180,
+          "eneset_id": 4500111,
+          "icon": "cha_2d_icon_99991",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "11層HP吸收不易有效。\n精靈島的BOSS登場。\n請注意倒下攻撃。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93014,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 70,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 180,
+          "eneset_id": 4500112,
+          "icon": "cha_2d_icon_99991",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "湖都的BOSS登場。\n要注意，打倒黃金的飛翔體\n會全體回復。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93015,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 6
+        },
+        {
+          "title": "第3戦",
+          "strength": 70,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 180,
+          "eneset_id": 4500113,
+          "icon": "cha_2d_icon_99991",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 3,
+            "idx": 0
+          },
+          "enemy_info": "賢者之塔的BOSS登場。\n注意BOSS的領域。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93016,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 3
+        },
+        {
+          "title": "第4戦",
+          "strength": 75,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 190,
+          "eneset_id": 4500114,
+          "icon": "cha_2d_icon_99991",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "九領的BOSS登場。\n注意封印和凍結攻撃。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93012,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 50,
+              "rate": 75
+            },
+            {
+              "point": 100,
+              "rate": 20
+            },
+            {
+              "point": 1000,
+              "rate": 5
+            }
+          ],
+          "wave": 7
+        },
+        {
+          "title": "第5戦",
+          "strength": 80,
+          "bg": 134,
+          "bgm": 14,
+          "difficulty": 200,
+          "eneset_id": 4500115,
+          "icon": "cha_2d_icon_99991",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "聖王國的BOSS登場。\n請盡全力挑戰拿下勝利吧。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93013,
+            "val": 1
+          },
+          "point_list": [
+            {
+              "point": 500,
+              "rate": 100
+            }
+          ],
+          "wave": 7
+        }
+      ]
+    },
+    {
+      "floor_id": 170,
+      "floor_reward": {
+        "type": "weapon_ev",
+        "id": 86138,
+        "val": 1
+      },
+      "quest_list": [
+        {
+          "title": "第1戦",
+          "strength": 70,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 180,
+          "eneset_id": 4500111,
+          "icon": "cha_2d_icon_99992",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 5,
+            "idx": 0
+          },
+          "enemy_info": "11層HP吸收不易有效。\n精靈島的BOSS登場。\n請注意倒下攻撃。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93017,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 5
+        },
+        {
+          "title": "第2戦",
+          "strength": 70,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 180,
+          "eneset_id": 4500112,
+          "icon": "cha_2d_icon_99992",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 6,
+            "idx": 0
+          },
+          "enemy_info": "湖都的BOSS登場。\n要注意，打倒黃金的飛翔體\n會全體回復。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93024,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 6
+        },
+        {
+          "title": "第3戦",
+          "strength": 70,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 180,
+          "eneset_id": 4500113,
+          "icon": "cha_2d_icon_99992",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "賢者之塔的BOSS登場。\n注意BOSS的領域。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93025,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 3
+        },
+        {
+          "title": "第4戦",
+          "strength": 75,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 190,
+          "eneset_id": 4500114,
+          "icon": "cha_2d_icon_99992",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "九領的BOSS登場。\n注意封印和凍結攻撃。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93026,
+            "val": 1
+          },
+          "point_list": [],
+          "wave": 7
+        },
+        {
+          "title": "第5戦",
+          "strength": 80,
+          "bg": 144,
+          "bgm": 16,
+          "difficulty": 200,
+          "eneset_id": 4500115,
+          "icon": "cha_2d_icon_99992",
+          "bt_mana": 2,
+          "drop_target": {
+            "wave": 7,
+            "idx": 0
+          },
+          "enemy_info": "聖王國的BOSS登場。\n請盡全力挑戰拿下勝利吧。",
+          "reward": {
+            "type": "weapon_rf",
+            "id": 93903,
+            "val": 1
+          },
+          "point_list": [],
           "wave": 7
         }
       ]

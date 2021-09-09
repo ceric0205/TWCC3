@@ -1,0 +1,2660 @@
+{
+  "deceive": 1631200634,
+  "destiny_shop": [
+    {
+      "hide": 0,
+      "shop_data": [
+        {
+          "type": "card",
+          "id": 6318,
+          "val": 1,
+          "price": 25,
+          "priority": 1000,
+          "pid": 1,
+          "flag": 0,
+          "hadskill": [
+            30631800,
+            30631805,
+            30631810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6317,
+          "val": 1,
+          "price": 25,
+          "priority": 990,
+          "pid": 2,
+          "hadskill": [
+            30631700,
+            30631704,
+            30631710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1276,
+          "val": 1,
+          "price": 25,
+          "priority": 980,
+          "pid": 3,
+          "flag": 0,
+          "hadskill": [
+            30127600,
+            30127603,
+            30127610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7226,
+          "val": 1,
+          "price": 25,
+          "priority": 970,
+          "pid": 4,
+          "hadskill": [
+            30722600,
+            30722602,
+            30722610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2286,
+          "val": 1,
+          "price": 25,
+          "priority": 960,
+          "pid": 5,
+          "hadskill": [
+            30228600,
+            30228602,
+            30228610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2263,
+          "val": 1,
+          "price": 25,
+          "priority": 950,
+          "pid": 6,
+          "hadskill": [
+            30226300,
+            30226301,
+            30226310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1251,
+          "val": 1,
+          "price": 25,
+          "priority": 940,
+          "pid": 7,
+          "hadskill": [
+            30125100,
+            30125102,
+            30125110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2316,
+          "val": 1,
+          "price": 25,
+          "priority": 930,
+          "pid": 8,
+          "hadskill": [
+            30231600,
+            30231605,
+            30231610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1273,
+          "val": 1,
+          "price": 25,
+          "priority": 920,
+          "pid": 9,
+          "hadskill": [
+            30127300,
+            30127305,
+            30127310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2298,
+          "val": 1,
+          "price": 25,
+          "priority": 910,
+          "pid": 10,
+          "hadskill": [
+            30229800,
+            30229805,
+            30229810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 325,
+          "val": 1,
+          "price": 25,
+          "priority": 900,
+          "pid": 11,
+          "hadskill": [
+            30032500,
+            30032503,
+            30032510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4278,
+          "val": 1,
+          "price": 25,
+          "priority": 890,
+          "pid": 12,
+          "hadskill": [
+            30427800,
+            30427803,
+            30427810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4276,
+          "val": 1,
+          "price": 25,
+          "priority": 880,
+          "pid": 13,
+          "hadskill": [
+            30427600,
+            30427603,
+            30427610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1266,
+          "val": 1,
+          "price": 25,
+          "priority": 870,
+          "pid": 14,
+          "hadskill": [
+            30126600,
+            30126602,
+            30126610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 296,
+          "val": 1,
+          "price": 25,
+          "priority": 860,
+          "pid": 15,
+          "hadskill": [
+            30029600,
+            30029602,
+            30029610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1271,
+          "val": 1,
+          "price": 25,
+          "priority": 850,
+          "pid": 16,
+          "hadskill": [
+            30127100,
+            30127105,
+            30127110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1287,
+          "val": 1,
+          "price": 25,
+          "priority": 840,
+          "pid": 17,
+          "hadskill": [
+            30128700,
+            30128705,
+            30128710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11229,
+          "val": 1,
+          "price": 25,
+          "priority": 830,
+          "pid": 18,
+          "hadskill": [
+            31122900,
+            31122904,
+            31122910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 13214,
+          "val": 1,
+          "price": 25,
+          "priority": 820,
+          "pid": 19,
+          "hadskill": [
+            31321400,
+            31321403,
+            31321410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1283,
+          "val": 1,
+          "price": 25,
+          "priority": 810,
+          "pid": 20,
+          "hadskill": [
+            30128300,
+            30128305,
+            30128310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2282,
+          "val": 1,
+          "price": 25,
+          "priority": 800,
+          "pid": 21,
+          "hadskill": [
+            30228200,
+            30228204,
+            30228210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 295,
+          "val": 1,
+          "price": 25,
+          "priority": 790,
+          "pid": 22,
+          "hadskill": [
+            30029500,
+            30029503,
+            30029510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6275,
+          "val": 1,
+          "price": 25,
+          "priority": 780,
+          "pid": 23,
+          "hadskill": [
+            30627500,
+            30627503,
+            30627510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 265,
+          "val": 1,
+          "price": 25,
+          "priority": 770,
+          "pid": 24,
+          "hadskill": [
+            30026500,
+            30026502,
+            30026510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6326,
+          "val": 1,
+          "price": 25,
+          "priority": 760,
+          "pid": 25,
+          "hadskill": [
+            30632600,
+            30632605,
+            30632610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5297,
+          "val": 1,
+          "price": 25,
+          "priority": 750,
+          "pid": 26,
+          "hadskill": [
+            30529700,
+            30529705,
+            30529710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11224,
+          "val": 1,
+          "price": 25,
+          "priority": 740,
+          "pid": 27,
+          "hadskill": [
+            31122400,
+            31122403,
+            31122410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 318,
+          "val": 1,
+          "price": 25,
+          "priority": 730,
+          "pid": 28,
+          "hadskill": [
+            30031800,
+            30031803,
+            30031810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12226,
+          "val": 1,
+          "price": 25,
+          "priority": 720,
+          "pid": 29,
+          "hadskill": [
+            31222600,
+            31222604,
+            31222610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1270,
+          "val": 1,
+          "price": 25,
+          "priority": 710,
+          "pid": 30,
+          "hadskill": [
+            30127000,
+            30127003,
+            30127010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2315,
+          "val": 1,
+          "price": 25,
+          "priority": 700,
+          "pid": 31,
+          "hadskill": [
+            30231500,
+            30231503,
+            30231510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2294,
+          "val": 1,
+          "price": 25,
+          "priority": 690,
+          "pid": 32,
+          "hadskill": [
+            30229400,
+            30229403,
+            30229410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2293,
+          "val": 1,
+          "price": 25,
+          "priority": 680,
+          "pid": 33,
+          "hadskill": [
+            30229300,
+            30229304,
+            30229310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2292,
+          "val": 1,
+          "price": 25,
+          "priority": 670,
+          "pid": 34,
+          "hadskill": [
+            30229200,
+            30229203,
+            30229210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6308,
+          "val": 1,
+          "price": 25,
+          "priority": 660,
+          "pid": 35,
+          "hadskill": [
+            30630800,
+            30630802,
+            30630810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 304,
+          "val": 1,
+          "price": 25,
+          "priority": 650,
+          "pid": 36,
+          "hadskill": [
+            30030400,
+            30030403,
+            30030410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12225,
+          "val": 1,
+          "price": 25,
+          "priority": 640,
+          "pid": 37,
+          "hadskill": [
+            31222500,
+            31222503,
+            31222510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 303,
+          "val": 1,
+          "price": 25,
+          "priority": 630,
+          "pid": 38,
+          "hadskill": [
+            30030300,
+            30030302,
+            30030310
+          ]
+        }
+      ],
+      "shop_setting": {
+        "name": "特別な衣装",
+        "tab_priority": "200"
+      },
+      "tab_id": 2,
+      "timestamp": "1615884234179"
+    },
+    {
+      "hide": 0,
+      "shop_data": [
+        {
+          "type": "card",
+          "id": 292,
+          "val": 1,
+          "price": 90,
+          "priority": 2000,
+          "pid": 39,
+          "hadskill": [
+            30029200,
+            30029205,
+            30029210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11222,
+          "val": 1,
+          "price": 90,
+          "priority": 1990,
+          "pid": 38,
+          "hadskill": [
+            31122200,
+            31122205,
+            31122210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12223,
+          "val": 1,
+          "price": 90,
+          "priority": 1980,
+          "pid": 37,
+          "hadskill": [
+            31222300,
+            31222305,
+            31222310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9229,
+          "val": 1,
+          "price": 90,
+          "priority": 1970,
+          "pid": 36,
+          "hadskill": [
+            30922900,
+            30922905,
+            30922910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7238,
+          "val": 1,
+          "price": 90,
+          "priority": 1960,
+          "pid": 35,
+          "hadskill": [
+            30723800,
+            30723805,
+            30723810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 10209,
+          "val": 1,
+          "price": 90,
+          "priority": 1950,
+          "pid": 34,
+          "hadskill": [
+            31020900,
+            31020905,
+            31020910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7680,
+          "val": 1,
+          "price": 90,
+          "priority": 1940,
+          "pid": 33,
+          "hadskill": [
+            30768000,
+            30768005,
+            30768010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 327,
+          "val": 1,
+          "price": 90,
+          "priority": 1930,
+          "pid": 32,
+          "hadskill": [
+            30032700,
+            30032705,
+            30032710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5295,
+          "val": 1,
+          "price": 90,
+          "priority": 1920,
+          "pid": 31,
+          "hadskill": [
+            30529500,
+            30529505,
+            30529510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7672,
+          "val": 1,
+          "price": 90,
+          "priority": 1910,
+          "pid": 30,
+          "hadskill": [
+            30767200,
+            30767205,
+            30767210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11226,
+          "val": 1,
+          "price": 90,
+          "priority": 1900,
+          "pid": 29,
+          "hadskill": [
+            31122600,
+            31122605,
+            31122610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2275,
+          "val": 1,
+          "price": 90,
+          "priority": 1890,
+          "pid": 28,
+          "hadskill": [
+            30227500,
+            30227505,
+            30227510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7671,
+          "val": 1,
+          "price": 90,
+          "priority": 1880,
+          "pid": 27,
+          "hadskill": [
+            30767100,
+            30767105,
+            30767110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9217,
+          "val": 1,
+          "price": 90,
+          "priority": 1870,
+          "pid": 26,
+          "hadskill": [
+            30921700,
+            30921705,
+            30921710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4300,
+          "val": 1,
+          "price": 90,
+          "priority": 1860,
+          "pid": 25,
+          "hadskill": [
+            30430000,
+            30430005,
+            30430010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 322,
+          "val": 1,
+          "price": 90,
+          "priority": 1850,
+          "pid": 24,
+          "hadskill": [
+            30032200,
+            30032205,
+            30032210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2276,
+          "val": 1,
+          "price": 90,
+          "priority": 1840,
+          "pid": 23,
+          "hadskill": [
+            30227600,
+            30227605,
+            30227610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1259,
+          "val": 1,
+          "price": 90,
+          "priority": 1830,
+          "pid": 22,
+          "hadskill": [
+            30125900,
+            30125904,
+            30125910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4296,
+          "val": 1,
+          "price": 90,
+          "priority": 1820,
+          "pid": 21,
+          "hadskill": [
+            30429600,
+            30429605,
+            30429610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5291,
+          "val": 1,
+          "price": 90,
+          "priority": 1810,
+          "pid": 20,
+          "hadskill": [
+            30529100,
+            30529105,
+            30529110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 3222,
+          "val": 1,
+          "price": 90,
+          "priority": 1800,
+          "pid": 19,
+          "hadskill": [
+            30322200,
+            30322203,
+            30322210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2277,
+          "val": 1,
+          "price": 90,
+          "priority": 1790,
+          "pid": 18,
+          "hadskill": [
+            30227700,
+            30227705,
+            30227710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 278,
+          "val": 1,
+          "price": 90,
+          "priority": 1780,
+          "pid": 17,
+          "hadskill": [
+            30027800,
+            30027805,
+            30027810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12227,
+          "val": 1,
+          "price": 90,
+          "priority": 1770,
+          "pid": 16,
+          "hadskill": [
+            31222700,
+            31222704,
+            31222710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5224,
+          "val": 1,
+          "price": 90,
+          "priority": 1760,
+          "pid": 15,
+          "hadskill": [
+            30522400,
+            30522405,
+            30522410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 13201,
+          "val": 1,
+          "price": 90,
+          "priority": 1750,
+          "pid": 14,
+          "hadskill": [
+            31320100,
+            31320104,
+            31320110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4294,
+          "val": 1,
+          "price": 90,
+          "priority": 1740,
+          "pid": 13,
+          "hadskill": [
+            30429400,
+            30429405,
+            30429410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 279,
+          "val": 1,
+          "price": 90,
+          "priority": 1730,
+          "pid": 12,
+          "hadskill": [
+            30027900,
+            30027904,
+            30027910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6298,
+          "val": 1,
+          "price": 90,
+          "priority": 1720,
+          "pid": 11,
+          "hadskill": [
+            30629800,
+            30629805,
+            30629810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9223,
+          "val": 1,
+          "price": 90,
+          "priority": 1710,
+          "pid": 10,
+          "hadskill": [
+            30922300,
+            30922305,
+            30922310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7660,
+          "val": 1,
+          "price": 90,
+          "priority": 1700,
+          "pid": 9,
+          "hadskill": [
+            30766000,
+            30766004,
+            30766010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6222,
+          "val": 1,
+          "price": 90,
+          "priority": 1690,
+          "pid": 8,
+          "hadskill": [
+            30622200,
+            30622204,
+            30622210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12213,
+          "val": 1,
+          "price": 90,
+          "priority": 1680,
+          "pid": 7,
+          "hadskill": [
+            31221300,
+            31221305,
+            31221310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5276,
+          "val": 1,
+          "price": 90,
+          "priority": 1670,
+          "pid": 6,
+          "hadskill": [
+            30527600,
+            30527605,
+            30527610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2229,
+          "val": 1,
+          "price": 90,
+          "priority": 1660,
+          "pid": 5,
+          "hadskill": [
+            30222900,
+            30222904,
+            30222910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 282,
+          "val": 1,
+          "price": 90,
+          "priority": 1650,
+          "pid": 4,
+          "hadskill": [
+            30028200,
+            30028204,
+            30028210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1268,
+          "val": 1,
+          "price": 90,
+          "priority": 1640,
+          "pid": 3,
+          "hadskill": [
+            30126800,
+            30126804,
+            30126810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5275,
+          "val": 1,
+          "price": 90,
+          "priority": 1630,
+          "pid": 2,
+          "hadskill": [
+            30527500,
+            30527504,
+            30527510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11216,
+          "val": 1,
+          "price": 90,
+          "priority": 1620,
+          "pid": 1,
+          "hadskill": [
+            31121600,
+            31121604,
+            31121610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9230,
+          "val": 1,
+          "price": 45,
+          "priority": 1000,
+          "pid": 40,
+          "hadskill": [
+            30923000,
+            30923003,
+            30923010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 13203,
+          "val": 1,
+          "price": 45,
+          "priority": 990,
+          "pid": 41,
+          "hadskill": [
+            31320300,
+            31320305,
+            31320310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 294,
+          "val": 1,
+          "price": 45,
+          "priority": 980,
+          "pid": 42,
+          "hadskill": [
+            30029400,
+            30029405,
+            30029410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 331,
+          "val": 1,
+          "price": 45,
+          "priority": 970,
+          "pid": 43,
+          "hadskill": [
+            30033100,
+            30033105,
+            30033110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1274,
+          "val": 1,
+          "price": 45,
+          "priority": 960,
+          "pid": 44,
+          "hadskill": [
+            30127400,
+            30127405,
+            30127410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 13205,
+          "val": 1,
+          "price": 45,
+          "priority": 950,
+          "pid": 45,
+          "hadskill": [
+            31320500,
+            31320504,
+            31320510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 13204,
+          "val": 1,
+          "price": 45,
+          "priority": 940,
+          "pid": 46,
+          "hadskill": [
+            31320400,
+            31320405,
+            31320410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12222,
+          "val": 1,
+          "price": 45,
+          "priority": 930,
+          "pid": 47,
+          "hadskill": [
+            31222200,
+            31222203,
+            31222210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 12214,
+          "val": 1,
+          "price": 45,
+          "priority": 920,
+          "pid": 70,
+          "hadskill": [
+            31221400,
+            31221402,
+            31221410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11227,
+          "val": 1,
+          "price": 45,
+          "priority": 910,
+          "pid": 48,
+          "hadskill": [
+            31122700,
+            31122704,
+            31122710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11225,
+          "val": 1,
+          "price": 45,
+          "priority": 900,
+          "pid": 49,
+          "hadskill": [
+            31122500,
+            31122504,
+            31122510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11220,
+          "val": 1,
+          "price": 45,
+          "priority": 890,
+          "pid": 50,
+          "hadskill": [
+            31122000,
+            31122002,
+            31122010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11219,
+          "val": 1,
+          "price": 45,
+          "priority": 880,
+          "pid": 51,
+          "hadskill": [
+            31121900,
+            31121903,
+            31121910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11217,
+          "val": 1,
+          "price": 45,
+          "priority": 870,
+          "pid": 52,
+          "hadskill": [
+            31121700,
+            31121703,
+            31121710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11212,
+          "val": 1,
+          "price": 45,
+          "priority": 860,
+          "pid": 53,
+          "hadskill": [
+            31121200,
+            31121203,
+            31121210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 10200,
+          "val": 1,
+          "price": 45,
+          "priority": 850,
+          "pid": 54,
+          "hadskill": [
+            31020000,
+            31020003,
+            31020010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9218,
+          "val": 1,
+          "price": 45,
+          "priority": 840,
+          "pid": 55,
+          "hadskill": [
+            30921800,
+            30921804,
+            30921810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9216,
+          "val": 1,
+          "price": 45,
+          "priority": 830,
+          "pid": 56,
+          "hadskill": [
+            30921600,
+            30921605,
+            30921610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9215,
+          "val": 1,
+          "price": 45,
+          "priority": 820,
+          "pid": 57,
+          "hadskill": [
+            30921500,
+            30921503,
+            30921510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9214,
+          "val": 1,
+          "price": 45,
+          "priority": 810,
+          "pid": 58,
+          "hadskill": [
+            30921400,
+            30921402,
+            30921410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7677,
+          "val": 1,
+          "price": 45,
+          "priority": 800,
+          "pid": 59,
+          "hadskill": [
+            30767700,
+            30767705,
+            30767710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7673,
+          "val": 1,
+          "price": 45,
+          "priority": 790,
+          "pid": 60,
+          "hadskill": [
+            30767300,
+            30767303,
+            30767310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7661,
+          "val": 1,
+          "price": 45,
+          "priority": 780,
+          "pid": 61,
+          "hadskill": [
+            30766100,
+            30766103,
+            30766110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7638,
+          "val": 1,
+          "price": 45,
+          "priority": 770,
+          "pid": 62,
+          "hadskill": [
+            30763800,
+            30763802,
+            30763810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7215,
+          "val": 1,
+          "price": 45,
+          "priority": 760,
+          "pid": 63,
+          "hadskill": [
+            30721500,
+            30721503,
+            30721510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7212,
+          "val": 1,
+          "price": 45,
+          "priority": 750,
+          "pid": 64,
+          "hadskill": [
+            30721200,
+            30721205,
+            30721210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7211,
+          "val": 1,
+          "price": 45,
+          "priority": 740,
+          "pid": 65,
+          "hadskill": [
+            30721100,
+            30721103,
+            30721110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6324,
+          "val": 1,
+          "price": 45,
+          "priority": 730,
+          "pid": 66,
+          "hadskill": [
+            30632400,
+            30632405,
+            30632410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6323,
+          "val": 1,
+          "price": 45,
+          "priority": 720,
+          "pid": 67,
+          "hadskill": [
+            30632300,
+            30632305,
+            30632310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6290,
+          "val": 1,
+          "price": 45,
+          "priority": 710,
+          "pid": 68,
+          "hadskill": [
+            30629000,
+            30629004,
+            30629010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6272,
+          "val": 1,
+          "price": 45,
+          "priority": 700,
+          "pid": 69,
+          "hadskill": [
+            30627200,
+            30627202,
+            30627210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6264,
+          "val": 1,
+          "price": 45,
+          "priority": 690,
+          "pid": 71,
+          "hadskill": [
+            30626400,
+            30626402,
+            30626410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6251,
+          "val": 1,
+          "price": 45,
+          "priority": 680,
+          "pid": 72,
+          "hadskill": [
+            30625100,
+            30625102,
+            30625110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6244,
+          "val": 1,
+          "price": 45,
+          "priority": 670,
+          "pid": 73,
+          "hadskill": [
+            30624400,
+            30624404,
+            30624410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6226,
+          "val": 1,
+          "price": 45,
+          "priority": 660,
+          "pid": 74,
+          "hadskill": [
+            30622600,
+            30622602,
+            30622610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6225,
+          "val": 1,
+          "price": 45,
+          "priority": 650,
+          "pid": 75,
+          "hadskill": [
+            30622500,
+            30622502,
+            30622510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6211,
+          "val": 1,
+          "price": 45,
+          "priority": 640,
+          "pid": 76,
+          "hadskill": [
+            30621100,
+            30621102,
+            30621110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5293,
+          "val": 1,
+          "price": 45,
+          "priority": 630,
+          "pid": 77,
+          "hadskill": [
+            30529300,
+            30529304,
+            30529310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5263,
+          "val": 1,
+          "price": 45,
+          "priority": 620,
+          "pid": 78,
+          "hadskill": [
+            30526300,
+            30526305,
+            30526310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5256,
+          "val": 1,
+          "price": 45,
+          "priority": 610,
+          "pid": 79,
+          "hadskill": [
+            30525600,
+            30525602,
+            30525610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5240,
+          "val": 1,
+          "price": 45,
+          "priority": 600,
+          "pid": 80,
+          "hadskill": [
+            30524000,
+            30524001,
+            30524010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5229,
+          "val": 1,
+          "price": 45,
+          "priority": 590,
+          "pid": 81,
+          "hadskill": [
+            30522900,
+            30522902,
+            30522910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4285,
+          "val": 1,
+          "price": 45,
+          "priority": 580,
+          "pid": 82,
+          "hadskill": [
+            30428500,
+            30428502,
+            30428510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4246,
+          "val": 1,
+          "price": 45,
+          "priority": 570,
+          "pid": 83,
+          "hadskill": [
+            30424600,
+            30424603,
+            30424610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4225,
+          "val": 1,
+          "price": 45,
+          "priority": 560,
+          "pid": 84,
+          "hadskill": [
+            30422500,
+            30422504,
+            30422510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 4223,
+          "val": 1,
+          "price": 45,
+          "priority": 550,
+          "pid": 85,
+          "hadskill": [
+            30422300,
+            30422302,
+            30422310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 3226,
+          "val": 1,
+          "price": 45,
+          "priority": 540,
+          "pid": 86,
+          "hadskill": [
+            30322600,
+            30322602,
+            30322610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 3217,
+          "val": 1,
+          "price": 45,
+          "priority": 530,
+          "pid": 87,
+          "hadskill": [
+            30321700,
+            30321702,
+            30321710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 3214,
+          "val": 1,
+          "price": 45,
+          "priority": 520,
+          "pid": 88,
+          "hadskill": [
+            30321400,
+            30321404,
+            30321410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2290,
+          "val": 1,
+          "price": 45,
+          "priority": 510,
+          "pid": 89,
+          "hadskill": [
+            30229000,
+            30229005,
+            30229010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2285,
+          "val": 1,
+          "price": 45,
+          "priority": 500,
+          "pid": 90,
+          "hadskill": [
+            30228500,
+            30228505,
+            30228510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2266,
+          "val": 1,
+          "price": 45,
+          "priority": 490,
+          "pid": 91,
+          "hadskill": [
+            30226600,
+            30226605,
+            30226610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2262,
+          "val": 1,
+          "price": 45,
+          "priority": 480,
+          "pid": 92,
+          "hadskill": [
+            30226200,
+            30226203,
+            30226210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2258,
+          "val": 1,
+          "price": 45,
+          "priority": 470,
+          "pid": 93,
+          "hadskill": [
+            30225800,
+            30225803,
+            30225805
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2257,
+          "val": 1,
+          "price": 45,
+          "priority": 460,
+          "pid": 94,
+          "hadskill": [
+            30225700,
+            30225702,
+            30225710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2248,
+          "val": 1,
+          "price": 45,
+          "priority": 450,
+          "pid": 95,
+          "hadskill": [
+            30224800,
+            30224803,
+            30224810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2222,
+          "val": 1,
+          "price": 45,
+          "priority": 440,
+          "pid": 96,
+          "hadskill": [
+            30222200,
+            30222204,
+            30222210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2221,
+          "val": 1,
+          "price": 45,
+          "priority": 430,
+          "pid": 97,
+          "hadskill": [
+            30222100,
+            30222103,
+            30222110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2212,
+          "val": 1,
+          "price": 45,
+          "priority": 420,
+          "pid": 98,
+          "hadskill": [
+            30221200,
+            30221202,
+            30221210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1272,
+          "val": 1,
+          "price": 45,
+          "priority": 410,
+          "pid": 99,
+          "hadskill": [
+            30127200,
+            30127205,
+            30127210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1265,
+          "val": 1,
+          "price": 45,
+          "priority": 400,
+          "pid": 100,
+          "hadskill": [
+            30126500,
+            30126505,
+            30126510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1263,
+          "val": 1,
+          "price": 45,
+          "priority": 390,
+          "pid": 101,
+          "hadskill": [
+            30126300,
+            30126304,
+            30126310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1261,
+          "val": 1,
+          "price": 45,
+          "priority": 380,
+          "pid": 102,
+          "hadskill": [
+            30126100,
+            30126103,
+            30126110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1258,
+          "val": 1,
+          "price": 45,
+          "priority": 370,
+          "pid": 103,
+          "hadskill": [
+            30125800,
+            30125802,
+            30125810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1247,
+          "val": 1,
+          "price": 45,
+          "priority": 360,
+          "pid": 104,
+          "hadskill": [
+            30124700,
+            30124703,
+            30124710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1245,
+          "val": 1,
+          "price": 45,
+          "priority": 350,
+          "pid": 105,
+          "hadskill": [
+            30124500,
+            30124502,
+            30124510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1239,
+          "val": 1,
+          "price": 45,
+          "priority": 340,
+          "pid": 106,
+          "hadskill": [
+            30123900,
+            30123903,
+            30123910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1238,
+          "val": 1,
+          "price": 45,
+          "priority": 330,
+          "pid": 107,
+          "hadskill": [
+            30123800,
+            30123802,
+            30123810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1215,
+          "val": 1,
+          "price": 45,
+          "priority": 320,
+          "pid": 108,
+          "hadskill": [
+            30121500,
+            30121502,
+            30121510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 293,
+          "val": 1,
+          "price": 45,
+          "priority": 310,
+          "pid": 109,
+          "hadskill": [
+            30029300,
+            30029302,
+            30029310
+          ]
+        },
+        {
+          "type": "card",
+          "id": 266,
+          "val": 1,
+          "price": 45,
+          "priority": 300,
+          "pid": 110,
+          "hadskill": [
+            30026600,
+            30026603,
+            30026610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 249,
+          "val": 1,
+          "price": 45,
+          "priority": 290,
+          "pid": 111,
+          "hadskill": [
+            30024900,
+            30024902,
+            30024910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 248,
+          "val": 1,
+          "price": 45,
+          "priority": 280,
+          "pid": 112,
+          "hadskill": [
+            30024800,
+            30024803,
+            30024810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 247,
+          "val": 1,
+          "price": 45,
+          "priority": 270,
+          "pid": 113,
+          "hadskill": [
+            30024700,
+            30024702,
+            30024704
+          ]
+        },
+        {
+          "type": "card",
+          "id": 221,
+          "val": 1,
+          "price": 45,
+          "priority": 260,
+          "pid": 114,
+          "hadskill": [
+            30022100,
+            30022103,
+            30022110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 219,
+          "val": 1,
+          "price": 45,
+          "priority": 250,
+          "pid": 115,
+          "hadskill": [
+            30021900,
+            30021902,
+            30021910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 218,
+          "val": 1,
+          "price": 45,
+          "priority": 240,
+          "pid": 116,
+          "hadskill": [
+            30021800,
+            30021803,
+            30021810
+          ]
+        }
+      ],
+      "shop_setting": {
+        "name": "レジェンド",
+        "tab_priority": "300"
+      },
+      "tab_id": 1,
+      "timestamp": "1615884226946"
+    },
+    {
+      "hide": 0,
+      "shop_data": [
+        {
+          "type": "card",
+          "id": 7642,
+          "val": 1,
+          "price": 20,
+          "priority": 6000,
+          "pid": 1,
+          "hadskill": [
+            30764200,
+            30764204,
+            30764210
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7601,
+          "val": 1,
+          "price": 20,
+          "priority": 5990,
+          "pid": 2,
+          "hadskill": [
+            30760100,
+            30760103,
+            30760110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7600,
+          "val": 1,
+          "price": 20,
+          "priority": 5980,
+          "pid": 3,
+          "hadskill": [
+            30760000,
+            30760003,
+            30760010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7585,
+          "val": 1,
+          "price": 20,
+          "priority": 5970,
+          "pid": 4,
+          "hadskill": [
+            30758500,
+            30758502,
+            30758510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7584,
+          "val": 1,
+          "price": 20,
+          "priority": 5960,
+          "pid": 5,
+          "hadskill": [
+            30758400,
+            30758404,
+            30758410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7595,
+          "val": 1,
+          "price": 20,
+          "priority": 5950,
+          "pid": 6,
+          "hadskill": [
+            30759500,
+            30759502,
+            30759510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7594,
+          "val": 1,
+          "price": 20,
+          "priority": 5940,
+          "pid": 7,
+          "hadskill": [
+            30759400,
+            30759402,
+            30759410
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7618,
+          "val": 1,
+          "price": 20,
+          "priority": 5930,
+          "pid": 8,
+          "hadskill": [
+            30761800,
+            30761802,
+            30761810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7617,
+          "val": 1,
+          "price": 20,
+          "priority": 5920,
+          "pid": 9,
+          "hadskill": [
+            30761700,
+            30761702,
+            30761710
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7649,
+          "val": 1,
+          "price": 20,
+          "priority": 5910,
+          "pid": 10,
+          "hadskill": [
+            30764900,
+            30764902,
+            30764910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7579,
+          "val": 1,
+          "price": 20,
+          "priority": 5900,
+          "pid": 11,
+          "hadskill": [
+            30757900,
+            30757902,
+            30757910
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7578,
+          "val": 1,
+          "price": 20,
+          "priority": 5890,
+          "pid": 12,
+          "hadskill": [
+            30757800,
+            30757802,
+            30757810
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5270,
+          "val": 1,
+          "price": 20,
+          "priority": 5880,
+          "pid": 13,
+          "hadskill": [
+            30527000,
+            30527002,
+            30527010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7606,
+          "val": 1,
+          "price": 20,
+          "priority": 5870,
+          "pid": 14,
+          "hadskill": [
+            30760600,
+            30760602,
+            30760610
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7605,
+          "val": 1,
+          "price": 20,
+          "priority": 5860,
+          "pid": 15,
+          "hadskill": [
+            30760500,
+            30760502,
+            30760510
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7561,
+          "val": 1,
+          "price": 20,
+          "priority": 5850,
+          "pid": 16,
+          "hadskill": [
+            30756100,
+            30756102,
+            30756110
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7554,
+          "val": 1,
+          "price": 15,
+          "priority": 3000,
+          "pid": 17,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 7575,
+          "val": 1,
+          "price": 15,
+          "priority": 2990,
+          "pid": 18,
+          "hadskill": [
+            3176
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7574,
+          "val": 1,
+          "price": 15,
+          "priority": 2980,
+          "pid": 19,
+          "hadskill": [
+            2444
+          ]
+        },
+        {
+          "type": "card",
+          "id": 7592,
+          "val": 1,
+          "price": 15,
+          "priority": 2970,
+          "pid": 20,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 7581,
+          "val": 1,
+          "price": 15,
+          "priority": 2960,
+          "pid": 21,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 7582,
+          "val": 1,
+          "price": 15,
+          "priority": 2950,
+          "pid": 22,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 7536,
+          "val": 1,
+          "price": 15,
+          "priority": 2940,
+          "pid": 23,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 7520,
+          "val": 1,
+          "price": 15,
+          "priority": 2930,
+          "pid": 24,
+          "hadskill": [
+            16554,
+            19015
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1044,
+          "val": 1,
+          "price": 15,
+          "priority": 2920,
+          "pid": 25,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 1041,
+          "val": 1,
+          "price": 15,
+          "priority": 2910,
+          "pid": 26,
+          "hadskill": [
+            3282
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1074,
+          "val": 1,
+          "price": 15,
+          "priority": 2900,
+          "pid": 27,
+          "hadskill": [
+            32010
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2054,
+          "val": 1,
+          "price": 15,
+          "priority": 2890,
+          "pid": 28,
+          "hadskill": [
+            21506
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2053,
+          "val": 1,
+          "price": 15,
+          "priority": 2880,
+          "pid": 29,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 2052,
+          "val": 1,
+          "price": 15,
+          "priority": 2870,
+          "pid": 30,
+          "hadskill": [
+            558
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2049,
+          "val": 1,
+          "price": 15,
+          "priority": 2860,
+          "pid": 31,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 71,
+          "val": 1,
+          "price": 15,
+          "priority": 2850,
+          "pid": 32,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 5047,
+          "val": 1,
+          "price": 15,
+          "priority": 2840,
+          "pid": 33,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 5097,
+          "val": 1,
+          "price": 15,
+          "priority": 2830,
+          "pid": 34,
+          "hadskill": [
+            652,
+            2647
+          ]
+        },
+        {
+          "type": "card",
+          "id": 5098,
+          "val": 1,
+          "price": 15,
+          "priority": 2820,
+          "pid": 35,
+          "hadskill": [
+            19023,
+            2140
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6043,
+          "val": 1,
+          "price": 15,
+          "priority": 2810,
+          "pid": 36,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 6042,
+          "val": 1,
+          "price": 15,
+          "priority": 2800,
+          "pid": 37,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 5056,
+          "val": 1,
+          "price": 15,
+          "priority": 2790,
+          "pid": 38,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 75,
+          "val": 1,
+          "price": 15,
+          "priority": 2780,
+          "pid": 39,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 70,
+          "val": 1,
+          "price": 15,
+          "priority": 2770,
+          "pid": 40,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 3014,
+          "val": 1,
+          "price": 15,
+          "priority": 2760,
+          "pid": 41,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 5001,
+          "val": 1,
+          "price": 15,
+          "priority": 2750,
+          "pid": 42,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 3026,
+          "val": 1,
+          "price": 15,
+          "priority": 2740,
+          "pid": 43,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 4002,
+          "val": 1,
+          "price": 15,
+          "priority": 2730,
+          "pid": 44,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 1063,
+          "val": 1,
+          "price": 15,
+          "priority": 2720,
+          "pid": 45,
+          "hadskill": [
+            424,
+            5527
+          ]
+        },
+        {
+          "type": "card",
+          "id": 1002,
+          "val": 1,
+          "price": 15,
+          "priority": 2710,
+          "pid": 46,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 2003,
+          "val": 1,
+          "price": 15,
+          "priority": 2700,
+          "pid": 47,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 2002,
+          "val": 1,
+          "price": 15,
+          "priority": 2690,
+          "pid": 48,
+          "hadskill": [
+            40504,
+            24504
+          ]
+        },
+        {
+          "type": "card",
+          "id": 2001,
+          "val": 1,
+          "price": 15,
+          "priority": 2680,
+          "pid": 49,
+          "hadskill": [
+            32007,
+            13572
+          ]
+        },
+        {
+          "type": "card",
+          "id": 11030,
+          "val": 1,
+          "price": 15,
+          "priority": 2670,
+          "pid": 50,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 11044,
+          "val": 1,
+          "price": 15,
+          "priority": 2660,
+          "pid": 51,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 73,
+          "val": 1,
+          "price": 15,
+          "priority": 2650,
+          "pid": 52,
+          "hadskill": [
+            4326
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9035,
+          "val": 1,
+          "price": 15,
+          "priority": 2640,
+          "pid": 53,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 9016,
+          "val": 1,
+          "price": 15,
+          "priority": 2630,
+          "pid": 54,
+          "hadskill": [
+            15524,
+            16570
+          ]
+        },
+        {
+          "type": "card",
+          "id": 9012,
+          "val": 1,
+          "price": 15,
+          "priority": 2620,
+          "pid": 55,
+          "hadskill": [
+            19020,
+            3188
+          ]
+        },
+        {
+          "type": "card",
+          "id": 6002,
+          "val": 1,
+          "price": 15,
+          "priority": 2610,
+          "pid": 56,
+          "hadskill": []
+        },
+        {
+          "type": "card",
+          "id": 6001,
+          "val": 1,
+          "price": 15,
+          "priority": 2600,
+          "pid": 57,
+          "hadskill": [
+            2573
+          ]
+        }
+      ],
+      "shop_setting": {
+        "name": "復刻",
+        "tab_priority": "100"
+      },
+      "tab_id": 3,
+      "timestamp": "1615884242237"
+    }
+  ],
+  "res": 0
+}

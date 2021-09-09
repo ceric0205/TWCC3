@@ -1,5 +1,5 @@
 {
-  "deceive": 1625735389,
+  "deceive": 1631200594,
   "denju_limit_break_info": [
     {
       "cid": 9229,
@@ -147,6 +147,231 @@
           "scost": 1,
           "sname": "飛燕翔破陣",
           "stext": "【連擊】朝天空發射5發砲彈，每隔一段時間隨機給予1名敵人及其周圍少量傷害。之後，給予前方範圍內的所有敵人中等傷害，並造成暈眩效果。且於一定時間內，增加我方全體成員的攻擊力和防禦力。持有碎片時，賦予我方全體的效果上升。",
+          "weaponChange": 1
+        }
+      ]
+    },
+    {
+      "cid": 11222,
+      "denju_limit_break": [
+        {
+          "lv": "",
+          "patternid0": 31122202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・エクリプス",
+          "stext": "【連撃/領域】前方範囲内の全ての敵に中ダメージを与え、転倒させ、暗闇/スロウにする。その後、前方範囲内の全ての敵に大ダメージを与え、弾き飛ばし、ダウンにする。さらに範囲内の全ての敵に小ダメージを一定間隔ごとに与え、暗闇/スロウにする。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31122202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・エクリプス",
+          "stext": "【連撃/領域】前方範囲内の全ての敵に中ダメージを与え、転倒させ、暗闇/スロウにする。その後、前方範囲内の全ての敵に大ダメージを与え、弾き飛ばし、ダウンにする。さらに範囲内の全ての敵に小ダメージを一定間隔ごとに与え、暗闇/スロウにする。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31122202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・エクリプス",
+          "stext": "【連撃/領域】前方範囲内の全ての敵に中ダメージを与え、転倒させ、暗闇/スロウにする。その後、前方範囲内の全ての敵に大ダメージを与え、弾き飛ばし、ダウンにする。さらに範囲内の全ての敵に小ダメージを一定間隔ごとに与え、暗闇/スロウにする。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31122202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・エクリプス",
+          "stext": "【連撃/領域】前方範囲内の全ての敵に中ダメージを与え、転倒させ、暗闇/スロウにする。その後、前方範囲内の全ての敵に大ダメージを与え、弾き飛ばし、ダウンにする。さらに範囲内の全ての敵に小ダメージを一定間隔ごとに与え、暗闇/スロウにする。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 31122203,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "バインド・ザ・エクリプス",
+          "stext": "【連撃/領域】前方範囲内の全ての敵に大ダメージを与え、転倒させ、暗闇/スロウにする。その後、前方範囲内の全ての敵に大ダメージを与え、弾き飛ばし、ダウンにする。さらに範囲内の全ての敵に小ダメージを一定間隔ごとに与え、暗闇/スロウにする。",
+          "weaponChange": 1
+        }
+      ]
+    },
+    {
+      "cid": 292,
+      "denju_limit_break": [
+        {
+          "lv": "",
+          "patternid0": 30029202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・シンギングクリスタル",
+          "stext": "【連撃】直線範囲上にいる全ての敵に一定間隔でダメージを与える。発動中は移動と通常攻撃ができない。その後、味方全体の攻撃力と移動速度が一定時間上がる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30029202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・シンギングクリスタル",
+          "stext": "【連撃】直線範囲上にいる全ての敵に一定間隔でダメージを与える。発動中は移動と通常攻撃ができない。その後、味方全体の攻撃力と移動速度が一定時間上がる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30029202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・シンギングクリスタル",
+          "stext": "【連撃】直線範囲上にいる全ての敵に一定間隔でダメージを与える。発動中は移動と通常攻撃ができない。その後、味方全体の攻撃力と移動速度が一定時間上がる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30029202,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "イミテイト・シンギングクリスタル",
+          "stext": "【連撃】直線範囲上にいる全ての敵に一定間隔でダメージを与える。発動中は移動と通常攻撃ができない。その後、味方全体の攻撃力と移動速度が一定時間上がる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 30029203,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 3,
+          "sname": "シンギングクリスタル",
+          "stext": "【連撃】直線範囲上にいる全ての敵に一定間隔でダメージを与え、弾き飛ばす。発動中は移動と通常攻撃ができない。その後、味方全体の攻撃力と防御力と移動速度が一定時間上がる。",
+          "weaponChange": 1
+        }
+      ]
+    },
+    {
+      "cid": 11004,
+      "denju_limit_break": [
+        {
+          "lv": "",
+          "patternid0": 41100402,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "イミテイト・デザイア",
+          "stext": "【連撃】前方範囲内の全ての敵に15回ダメージを与え、弾き飛ばし、暗闇/スロウ/ダウンにする。その後、味方全体の攻撃力と防御力が一定時間上がる。弓使いの味方の場合、クリティカル発生率も一定時間上げる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 41100402,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "イミテイト・デザイア",
+          "stext": "【連撃】前方範囲内の全ての敵に15回ダメージを与え、弾き飛ばし、暗闇/スロウ/ダウンにする。その後、味方全体の攻撃力と防御力が一定時間上がる。弓使いの味方の場合、クリティカル発生率も一定時間上げる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 41100402,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "イミテイト・デザイア",
+          "stext": "【連撃】前方範囲内の全ての敵に15回ダメージを与え、弾き飛ばし、暗闇/スロウ/ダウンにする。その後、味方全体の攻撃力と防御力が一定時間上がる。弓使いの味方の場合、クリティカル発生率も一定時間上げる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 41100402,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "イミテイト・デザイア",
+          "stext": "【連撃】前方範囲内の全ての敵に15回ダメージを与え、弾き飛ばし、暗闇/スロウ/ダウンにする。その後、味方全体の攻撃力と防御力が一定時間上がる。弓使いの味方の場合、クリティカル発生率も一定時間上げる。",
+          "weaponChange": 1
+        },
+        {
+          "lv": "",
+          "patternid0": 41100403,
+          "patternid1": 0,
+          "patternid2": 0,
+          "patternid3": 0,
+          "patternid4": 0,
+          "patternid5": 0,
+          "patternid6": 0,
+          "scost": 1,
+          "sname": "イクシード・デザイア",
+          "stext": "【連撃】前方範囲内の全ての敵に15回ダメージを与え、弾き飛ばし、暗闇/スロウ/ダウンにする。その後、味方全体の攻撃力と防御力が一定時間上がる。弓使いの味方の場合、クリティカル発生率とクリティカル威力も一定時間上げる。",
           "weaponChange": 1
         }
       ]

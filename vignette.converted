@@ -1,5 +1,5 @@
 {
-  "deceive": 1625129333,
+  "deceive": 1631200604,
   "vignette": [
     {
       "cid": 7015,
@@ -14,7 +14,7 @@
       },
       "priority": 1000,
       "min_rank": 1,
-      "max_rank": 300,
+      "max_rank": 400,
       "v_category": "explorer"
     },
     {
@@ -34,38 +34,20 @@
       "v_category": "favorite"
     },
     {
-      "cid": 11229,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "景色究竟衍伸到哪裡呢？",
-      "start": 1535608800,
-      "end": 1626328800,
-      "link": "unity:GoSpecifiedArea",
-      "param": {
-        "area_id": 200,
-        "place_id": 0
-      },
-      "priority": 30,
-      "min_rank": 1,
-      "max_rank": 300,
-      "v_category": "raid",
-      "event_area_name": null
-    },
-    {
-      "cid": 7243,
-      "v_motionid": 2,
-      "bg": 5100,
-      "memo": "我可不會讓你為所欲為唷！",
+      "cid": 327,
+      "v_motionid": 0,
+      "bg": 2,
+      "memo": "讓我教你暗殺的守則吧",
       "start": 1522918800,
-      "end": 1626328800,
+      "end": 1631772000,
       "link": "unity:GoGacha",
       "param": {
-        "type": "event",
-        "gacha_id": 1
+        "type": "legend",
+        "gacha_id": 2
       },
-      "priority": 10,
+      "priority": 20,
       "min_rank": 1,
-      "max_rank": 300,
+      "max_rank": 400,
       "v_category": "gacha",
       "event_area_name": null
     },
@@ -83,7 +65,7 @@
       },
       "priority": 0,
       "min_rank": 1,
-      "max_rank": 300,
+      "max_rank": 400,
       "v_category": "event_1",
       "event_area_name": 2
     }
@@ -234,6 +216,25 @@
       "tansaku_end": "home_joy01_limuru",
       "tansaku_walk": "tansaku_walk01_limuru",
       "v_motionid": 8,
+      "voice_01": "",
+      "voice_02": "",
+      "voice_03": "",
+      "voice_04": "C",
+      "voice_05": "S",
+      "voice_06": "H"
+    },
+    {
+      "home_01": "home_joy01",
+      "home_02": "home_talk01",
+      "home_03": "home_angry01",
+      "home_04": "home_call01",
+      "home_05": "home_sad01",
+      "home_06": "home_happy01",
+      "home_idle": "home_idle01",
+      "memo": "進撃エレン用",
+      "tansaku_end": "home_joy01",
+      "tansaku_walk": "tansaku_walk01",
+      "v_motionid": 9,
       "voice_01": "",
       "voice_02": "",
       "voice_03": "",

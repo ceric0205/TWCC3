@@ -1,5 +1,5 @@
 {
-  "deceive": 1619692488,
+  "deceive": 1631179231,
   "battle_bg": [
     {
       "id": 1,
@@ -477,6 +477,54 @@
       "id": 146,
       "flag": 266240,
       "bg_name": "城中",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 147,
+      "flag": 0,
+      "bg_name": "荒野",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 148,
+      "flag": 0,
+      "bg_name": "平原",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 149,
+      "flag": 0,
+      "bg_name": "？？？",
+      "effect_s": "BG_TheChronicle_a",
+      "effect_l": "BG_TheChronicle_a",
+      "change_flag": 1
+    },
+    {
+      "id": 150,
+      "flag": 64,
+      "bg_name": "洞窟",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 151,
+      "flag": 512,
+      "bg_name": "街中",
+      "effect_s": "",
+      "effect_l": "",
+      "change_flag": 0
+    },
+    {
+      "id": 152,
+      "flag": 512,
+      "bg_name": "街中",
       "effect_s": "",
       "effect_l": "",
       "change_flag": 0

@@ -1,0 +1,36 @@
+{
+  "deceive": 1631200596,
+  "v4_event_badge": [
+    {
+      "texture": "Home_BannerV4_MainStory01",
+      "start": 1604196000,
+      "end": 1608861599,
+      "area_id": 4003
+    },
+    {
+      "texture": "Home_BannerV4_MainStory01",
+      "start": 1608861600,
+      "end": 1611885599,
+      "area_id": 4003
+    },
+    {
+      "texture": "Home_BannerV4_MainStory01",
+      "start": 1611900000,
+      "end": 1614218399,
+      "area_id": 4003
+    },
+    {
+      "texture": "Home_BannerV4_MainStory01",
+      "start": 1614218400,
+      "end": 1617084000,
+      "area_id": 4003
+    },
+    {
+      "texture": "Home_BannerV4_MainStory02",
+      "start": 1617084000,
+      "end": 1619575200,
+      "area_id": 4004
+    }
+  ],
+  "res": 0
+}

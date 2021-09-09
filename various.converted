@@ -1,5 +1,5 @@
 {
-  "deceive": 1619691034,
+  "deceive": 1631179239,
   "quest_event": [
     {
       "start": 1410242400,
@@ -12512,6 +12512,229 @@
         {
           "type": 6,
           "quest_id": 303072
+        }
+      ]
+    },
+    {
+      "start": 1585202400,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "大量GET RANK經驗值！"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 270702
+        },
+        {
+          "type": 3,
+          "quest_id": 270715
+        }
+      ]
+    },
+    {
+      "start": 1585202400,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "大量獲得金幣！"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 270701
+        },
+        {
+          "type": 3,
+          "quest_id": 270714
+        }
+      ]
+    },
+    {
+      "start": 1585202400,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "WAVE數短比較方便提升親密度！"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 270703
+        }
+      ]
+    },
+    {
+      "start": 1585634400,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "掉落法珠的敵人較多比較方便提升親密度！"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 270716
+        }
+      ]
+    },
+    {
+      "start": 1586397600,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "2019年8月編年史之塔10-1"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 271208
+        }
+      ]
+    },
+    {
+      "start": 1586397600,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "2019年8月編年史之塔10-2"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 271209
+        }
+      ]
+    },
+    {
+      "start": 1586397600,
+      "end": 1589248799,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "2019年8月編年史之塔10-3"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 271210
+        }
+      ]
+    },
+    {
+      "start": 1594951200,
+      "end": 1595987999,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "可以獲得寶箱的可能性變得非常低！"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 272614
+        }
+      ]
+    },
+    {
+      "start": 1607997600,
+      "end": 1609207199,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "コラボキャラATK/HP2倍"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 274711
+        },
+        {
+          "type": 3,
+          "quest_id": 274712
+        },
+        {
+          "type": 3,
+          "quest_id": 274713
+        },
+        {
+          "type": 3,
+          "quest_id": 274714
+        }
+      ]
+    },
+    {
+      "start": 1614823200,
+      "end": 1615859999,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "新コラボキャラATK/HP2倍"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 275617
+        },
+        {
+          "type": 3,
+          "quest_id": 275618
+        },
+        {
+          "type": 3,
+          "quest_id": 275619
+        },
+        {
+          "type": 3,
+          "quest_id": 275620
+        },
+        {
+          "type": 3,
+          "quest_id": 275621
+        }
+      ]
+    },
+    {
+      "start": 1614823200,
+      "end": 1615859999,
+      "param": {
+        "ap": 1,
+        "exp": 1,
+        "chara_exp": 1,
+        "gold": 1,
+        "ap_text": "4箱目に復刻アカツキ！"
+      },
+      "quest_list": [
+        {
+          "type": 3,
+          "quest_id": 275626
         }
       ]
     },
